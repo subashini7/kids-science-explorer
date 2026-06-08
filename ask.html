@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ask Dr. Science 🧑‍🔬 | Science Explorer</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <div class="header-inner">
+      <a href="index.html" class="logo">🔭 Science Explorer</a>
+      <nav>
+        <a href="index.html" class="nav-link">🏠 Home</a>
+        <a href="ask.html" class="nav-link active">🤔 Ask Dr. Science</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- API Key Setup Banner -->
+  <div id="api-setup-banner" class="api-banner" style="display:none">
+    <div class="api-banner-inner">
+      <div class="api-banner-text">
+        <strong>🔑 One-time setup:</strong> Dr. Science needs a free AI key to answer questions.
+        <a href="https://console.groq.com/keys" target="_blank" rel="noopener">Get your free key at console.groq.com →</a>
+      </div>
+      <div class="api-key-form">
+        <input type="password" id="api-key-input" placeholder="Paste your Groq API key here..." autocomplete="off">
+        <button id="save-key-btn" class="save-key-btn">Save Key 🔐</button>
+      </div>
+      <p class="api-key-note">🔒 Your key stays in your browser only — never sent to us.</p>
+    </div>
+  </div>
+
+  <main class="ask-main">
+    <div class="ask-header">
+      <div class="dr-science-avatar">🧑‍🔬</div>
+      <div>
+        <h1>Hi, I'm Dr. Science!</h1>
+        <p>Ask me anything about space, animals, weather, technology, chemistry... you name it!</p>
+      </div>
+    </div>
+
+    <div class="suggestions-label">💡 Try asking:</div>
+    <div class="suggestions">
+      <button class="suggestion-btn" data-q="Why is the sky blue?">🌤️ Why is the sky blue?</button>
+      <button class="suggestion-btn" data-q="How do volcanoes erupt?">🌋 How do volcanoes erupt?</button>
+      <button class="suggestion-btn" data-q="Why do stars twinkle at night?">⭐ Why do stars twinkle?</button>
+      <button class="suggestion-btn" data-q="How do butterflies change from caterpillars?">🦋 How do butterflies change?</button>
+      <button class="suggestion-btn" data-q="What is a black hole?">🕳️ What is a black hole?</button>
+      <button class="suggestion-btn" data-q="Why does ice float on water?">🧊 Why does ice float?</button>
+      <button class="suggestion-btn" data-q="How do animals hibernate?">🐻 How do animals hibernate?</button>
+      <button class="suggestion-btn" data-q="What makes rainbows appear?">🌈 What makes rainbows?</button>
+    </div>
+
+    <div id="chat-area" class="chat-area">
+      <div class="chat-welcome">
+        <p>👋 Ask me a science question and I'll explain it in a fun way!</p>
+      </div>
+    </div>
+
+    <form id="ask-form" class="ask-form">
+      <input
+        type="text"
+        id="question-input"
+        placeholder="Type your science question here..."
+        maxlength="300"
+        autocomplete="off"
+      >
+      <button type="submit" id="ask-btn" class="ask-submit-btn">Ask! 🚀</button>
+    </form>
+
+    <div class="key-controls">
+      <button id="change-key-btn" class="change-key-btn" style="display:none">🔑 Change API Key</button>
+    </div>
+  </main>
+
+  <footer>
+    <div class="footer-inner">
+      <p>🔬 Science Explorer — Made for curious young scientists!</p>
+      <p>Powered by Llama 3 (Groq) · <a href="index.html">← Back to news</a></p>
+    </div>
+  </footer>
+
+  <script src="ask.js"></script>
+</body>
+</html>

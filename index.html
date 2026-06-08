@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Science Explorer 🔭 | Amazing Science for Kids!</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <div class="header-inner">
+      <a href="index.html" class="logo">🔭 Science Explorer</a>
+      <nav>
+        <a href="index.html" class="nav-link active">🏠 Home</a>
+        <a href="ask.html" class="nav-link">🤔 Ask Dr. Science</a>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="hero-inner">
+      <h1>Discover Amazing Science! 🚀</h1>
+      <p>The latest discoveries from space, nature, technology and more — made just for curious minds like yours!</p>
+    </div>
+    <div class="stars" aria-hidden="true">
+      <span>⭐</span><span>✨</span><span>🌟</span><span>💫</span><span>⭐</span>
+      <span>✨</span><span>🌟</span><span>💫</span><span>⭐</span><span>✨</span>
+    </div>
+  </section>
+
+  <main class="main-content">
+    <div id="loading" class="loading-state">
+      <div class="spinner"></div>
+      <p>Loading the latest science news... 🔬</p>
+    </div>
+    <div id="error-state" class="error-state" style="display:none">
+      <p>😕 Couldn't load news right now. Check back soon!</p>
+    </div>
+    <div id="topics-grid" class="topics-grid" style="display:none"></div>
+
+    <div class="last-updated" id="last-updated"></div>
+  </main>
+
+  <footer>
+    <div class="footer-inner">
+      <p>🔬 Science Explorer — Made for curious young scientists!</p>
+      <p>News from NASA, National Geographic, New Scientist &amp; more · Updated daily</p>
+      <a href="ask.html" class="footer-ask-btn">Ask Dr. Science a question! 🧑‍🔬</a>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
