@@ -1,43 +1,43 @@
 {
-  "updated": "2026-06-08T06:00:00Z",
+  "updated": "2026-06-09T09:28:45Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "Scientists Create Material Stronger Than Diamond",
-          "summary": "A team of chemists made a new form of carbon called 'amorphous diamond' that is harder than regular diamonds. It could be used to make ultra-tough coatings for tools and electronics.",
-          "source": "Science Daily",
-          "url": "https://www.sciencedaily.com/news/matter_energy/chemistry/",
-          "date": "2026-06-07"
-        },
-        {
-          "title": "New 'Living Plastic' Breaks Itself Down After Use",
-          "summary": "Chemists embedded bacteria spores inside a new type of plastic that wake up and eat the plastic when it ends up in the environment — potentially solving the plastic pollution crisis.",
-          "source": "New Scientist",
-          "url": "https://www.newscientist.com/subject/chemistry/",
-          "date": "2026-06-06"
-        },
-        {
-          "title": "Scientists Turn Seawater Into Drinking Water With Just Sunlight",
-          "summary": "A new chemical filter made from tiny salt-capturing molecules can desalinate seawater using only the sun's heat, with no electricity required — a breakthrough for water-scarce regions.",
+          "title": "MLB swing-tracking data helps researchers examine baseball's long-debated two-strike approach",
+          "summary": "When baseball fans watch a batter strike out with runners in scoring position, the reaction is often immediate: Shorten the swing. Put the ball in play. Stop swinging for the fences, they lament.",
+          "url": "https://phys.org/news/2026-06-mlb-tracking-baseball-debated-approach.html",
           "source": "Phys.org",
-          "url": "https://phys.org/chemistry-news/",
-          "date": "2026-06-05"
+          "date": "2026-06-09"
         },
         {
-          "title": "Glowing Molecule Found That Can Kill Cancer Cells With Light",
-          "summary": "Researchers developed a molecule that enters cancer cells and, when activated by light, produces a burst of energy that destroys the cell from the inside without harming healthy tissue.",
-          "source": "Scientific American",
-          "url": "https://www.scientificamerican.com/health/",
-          "date": "2026-06-04"
+          "title": "How plants survive constant DNA damage: Newly identified repair protein protects growth-critical stem cells",
+          "summary": "Similar to the way DNA damage can contribute to human diseases such as cancer, it can also disrupt growth, development and survival in plants. Every day, plants endure environmental stresses such as sunlight, radiation…",
+          "url": "https://phys.org/news/2026-06-survive-constant-dna-newly-protein.html",
+          "source": "Phys.org",
+          "date": "2026-06-08"
         },
         {
-          "title": "Chemistry Students Win Prize for Turning Banana Peels Into Fuel",
-          "summary": "A group of high-school students discovered a chemical process to convert banana peel waste into clean-burning hydrogen gas — which could one day help power cars and homes.",
+          "title": "Scientists found a new Alzheimer’s trigger and a drug that stops it",
+          "summary": "Researchers have identified a new Alzheimer’s target and created an experimental compound that blocks a damaging process inside brain cells. In mice, the treatment slowed nerve cell loss, reduced Alzheimer’s-related…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260608035959.htm",
           "source": "Science Daily",
-          "url": "https://www.sciencedaily.com/news/matter_energy/",
-          "date": "2026-06-03"
+          "date": "2026-06-08"
+        },
+        {
+          "title": "Doctors thought this kidney drug helped some patients. It may help millions more.",
+          "summary": "A trio of major studies found that finerenone may protect the kidneys and heart in far more people than previously thought. The drug significantly slowed kidney disease progression and reduced the risks of kidney…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260606075513.htm",
+          "source": "Science Daily",
+          "date": "2026-06-08"
+        },
+        {
+          "title": "Heat breaks the rules at the nanoscale and scientists used it to their advantage",
+          "summary": "Scientists used nanoscale gold metamaterials to supercharge heat transfer across tiny gaps, achieving up to four times more energy flow than similar conventional systems. The breakthrough could lead to better chip…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260606075511.htm",
+          "source": "Science Daily",
+          "date": "2026-06-08"
         }
       ]
     },
@@ -45,39 +45,39 @@
       "emoji": "🚀",
       "articles": [
         {
-          "title": "James Webb Space Telescope Spots Ancient Galaxies From the Dawn of Time",
-          "summary": "NASA's James Webb Space Telescope has captured images of galaxies that formed just 300 million years after the Big Bang, helping scientists understand how the early universe looked.",
-          "source": "NASA",
-          "url": "https://www.nasa.gov/missions/webb/",
-          "date": "2026-06-07"
-        },
-        {
-          "title": "Astronauts Complete Spacewalk to Upgrade Space Station Solar Panels",
-          "summary": "Two astronauts spent over six hours outside the International Space Station installing new solar panels that will boost its power supply for future missions.",
-          "source": "NASA",
-          "url": "https://www.nasa.gov/international-space-station/",
+          "title": "NASA just proved spacecraft can switch between multiple satellite networks",
+          "summary": "NASA’s PExT terminal has shown that spacecraft can seamlessly communicate through multiple government and commercial networks, a major step beyond traditional single-network systems. The mission is now expanding to test…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260605023405.htm",
+          "source": "Science Daily",
           "date": "2026-06-06"
         },
         {
-          "title": "Scientists Find Evidence of Ancient Water on Mars",
-          "summary": "New data from NASA's Perseverance rover suggests that a large lake once filled Jezero Crater on Mars billions of years ago, raising hopes for finding signs of ancient life.",
+          "title": "Upcoming telescopes could shed light on dark matter",
+          "summary": "NASA's plans to return astronauts to the moon through the Artemis program and ultimately send humans to Mars highlight just how far space exploration has come. Yet while the moon and Mars remain compelling destinations…",
+          "url": "https://phys.org/news/2026-06-upcoming-telescopes-dark.html",
+          "source": "Phys.org",
+          "date": "2026-06-08"
+        },
+        {
+          "title": "NASA’s INCUS Satellites Progress Toward Launch",
+          "summary": "Description One of the three satellites that make up NASA’s INCUS (Investigation of Convective Updrafts) mission sits on a fixture at the facilities of Blue Canyon Technologies in Lafayette, Colorado. The satellite…",
+          "url": "https://science.nasa.gov/photojournal/nasas-incus-satellites-progress-toward-launch/",
+          "source": "NASA",
+          "date": "2026-06-08"
+        },
+        {
+          "title": "NASA's INCUS mission on road to launch, study storms from space",
+          "summary": "Teams working on NASA's INCUS (Investigation of Convective Updrafts) mission, the first space-based survey of the dynamics of tropical convective storms, have completed assembly and tested two of the mission's small…",
+          "url": "https://phys.org/news/2026-06-nasa-incus-mission-road-storms.html",
+          "source": "Phys.org",
+          "date": "2026-06-09"
+        },
+        {
+          "title": "Watch SpaceX set new rocket reuse record with 35th launch — and landing — of a Falcon 9 booster (video)",
+          "summary": "A SpaceX Falcon 9 rocket carrying 29 Starlink satellites lifted off from the Cape Canaveral Space Force Station in Florida on Monday, June 8, 2026. The first stage booster flew for a record 35th time.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-35-b1067-ccsfs-asog",
           "source": "Space.com",
-          "url": "https://www.space.com/mars",
-          "date": "2026-06-05"
-        },
-        {
-          "title": "Massive Solar Storm Creates Spectacular Auroras Around the World",
-          "summary": "A powerful burst of energy from the Sun sent particles streaming to Earth, creating dazzling northern lights visible as far south as Texas and southern Europe.",
-          "source": "EarthSky",
-          "url": "https://earthsky.org/space/",
-          "date": "2026-06-04"
-        },
-        {
-          "title": "New Exoplanet Found in the 'Goldilocks Zone' of a Nearby Star",
-          "summary": "Astronomers have discovered a planet orbiting a star just 40 light-years away that sits in the habitable zone — not too hot, not too cold — where liquid water could exist.",
-          "source": "Scientific American",
-          "url": "https://www.scientificamerican.com/space/",
-          "date": "2026-06-03"
+          "date": "2026-06-08"
         }
       ]
     },
@@ -85,39 +85,39 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "Scientists Discover a New Species of Glowing Sea Turtle",
-          "summary": "Researchers filming the ocean floor at night were astonished to find a previously unknown sea turtle that glows red and green — making it the first known biofluorescent reptile.",
-          "source": "National Geographic",
-          "url": "https://www.nationalgeographic.com/animals/",
-          "date": "2026-06-07"
-        },
-        {
-          "title": "Elephants Use Names to Call Each Other, Study Finds",
-          "summary": "Scientists recorded elephant calls in Kenya and discovered that elephants address each other with unique sounds that act like names — a rare ability found mainly in humans and dolphins.",
-          "source": "Science Daily",
-          "url": "https://www.sciencedaily.com/news/plants_animals/",
-          "date": "2026-06-06"
-        },
-        {
-          "title": "Record Number of Sea Turtles Nest on Florida Beaches",
-          "summary": "Conservation efforts have paid off: Florida beaches recorded the highest number of loggerhead sea turtle nests in 40 years, a hopeful sign that the endangered species is recovering.",
-          "source": "Live Science",
-          "url": "https://www.livescience.com/animals",
-          "date": "2026-06-05"
-        },
-        {
-          "title": "Honeybees Learned to Open Bottles by Watching Other Bees",
-          "summary": "In a remarkable experiment, honeybees watched other bees unscrew bottle caps to get to sugar water inside — and then did it themselves, showing bees can learn by observation.",
+          "title": "Wildlife thrives in solar farm built on restored peatland",
+          "summary": "A diverse range of bird species has been recorded at a solar park on rewetted peatland in Germany, suggesting that combining energy generation with habitat restoration could benefit biodiversity, the climate and the…",
+          "url": "https://www.newscientist.com/article/2529590-wildlife-thrives-in-solar-farm-built-on-restored-peatland/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
           "source": "New Scientist",
-          "url": "https://www.newscientist.com/subject/life/",
-          "date": "2026-06-04"
+          "date": "2026-06-08"
         },
         {
-          "title": "Rare Pink Manta Ray Spotted for Only the Second Time Ever",
-          "summary": "A pink manta ray nicknamed 'Inspector Clouseau' was photographed off Australia's Great Barrier Reef. Scientists believe a genetic condition changes its pigment from white to bright pink.",
+          "title": "A lack of sex held back life's diversity for millions of years, fossil study finds",
+          "summary": "The way that Earth's first animals reproduced held back life's diversity for millions of years, until stress and competition led to the development of sexual reproduction, which in turn accelerated the pace of evolution.",
+          "url": "https://phys.org/news/2026-06-lack-sex-held-life-diversity.html",
           "source": "Phys.org",
-          "url": "https://phys.org/biology-news/",
-          "date": "2026-06-03"
+          "date": "2026-06-09"
+        },
+        {
+          "title": "River wildlife moves freely once dams are removed, but so too can invasive species",
+          "summary": "Almost a quarter of all freshwater species are threatened with extinction. The removal of human-made barriers from rivers, such as dams and weirs, is a popular way to restore water flow and sediment transport to its…",
+          "url": "https://phys.org/news/2026-06-river-wildlife-freely-invasive-species.html",
+          "source": "Phys.org",
+          "date": "2026-06-08"
+        },
+        {
+          "title": "South Australia’s koala boom could end in mass starvation",
+          "summary": "South Australia’s koala population has grown so large that it may be heading toward a self-made disaster, with forests struggling to support the animals. Researchers say targeted fertility control could prevent…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260606075846.htm",
+          "source": "Science Daily",
+          "date": "2026-06-08"
+        },
+        {
+          "title": "50 years of data reveals true extent of climate change impacts on kelp forests",
+          "summary": "New research from the University of Victoria (UVic) has found that some kelp forests around Vancouver Island were disappearing far earlier than scientists previously thought, highlighting that climate change has been…",
+          "url": "https://phys.org/news/2026-06-years-reveals-true-extent-climate.html",
+          "source": "Phys.org",
+          "date": "2026-06-09"
         }
       ]
     },
@@ -125,39 +125,39 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Ocean Temperatures Hit Record High for Third Year in a Row",
-          "summary": "Scientists report that the world's oceans are warmer than ever recorded, which is causing more intense storms, bleaching coral reefs, and disrupting sea creatures' habitats.",
-          "source": "Science Daily",
-          "url": "https://www.sciencedaily.com/news/earth_climate/",
+          "title": "Aerosols may warm or cool the climate depending on timing, new study finds",
+          "summary": "A new study from the Hebrew University of Jerusalem challenges a long-held assumption in climate science by showing that aerosols—tiny particles suspended in the atmosphere—can either warm or cool the climate, depending…",
+          "url": "https://phys.org/news/2026-06-aerosols-cool-climate.html",
+          "source": "Phys.org",
+          "date": "2026-06-08"
+        },
+        {
+          "title": "Incoming CME could spark impressive northern lights over the northern US tonight",
+          "summary": "A coronal mass ejection is currently racing toward Earth and could trigger G2 to G3 geomagnetic storm conditions on June 8, potentially boosting aurora displays across northern latitudes.",
+          "url": "https://www.space.com/stargazing/auroras/incoming-cme-could-spark-impressive-northern-lights-over-the-northern-us-june-8",
+          "source": "Space.com",
+          "date": "2026-06-08"
+        },
+        {
+          "title": "Celebrate World Oceans Day today, June 8, 2026",
+          "summary": "World Oceans Day is a day to honor our connection to Earth’s oceans and to learn what we can do to protect ocean habitats. Celebrate World Oceans Day on June 8. The post Celebrate World Oceans Day today, June 8, 2026…",
+          "url": "https://earthsky.org/earth/happy-world-oceans-day/",
+          "source": "EarthSky",
           "date": "2026-06-07"
         },
         {
-          "title": "New Volcano Discovered Hiding Under a Mile of Antarctic Ice",
-          "summary": "Scientists using radar discovered a huge volcano buried deep beneath Antarctica's ice sheet. They say it has been erupting slowly for thousands of years, melting ice from underneath.",
-          "source": "Live Science",
-          "url": "https://www.livescience.com/earth",
-          "date": "2026-06-06"
-        },
-        {
-          "title": "World's Largest Reef System Shows Signs of Recovery",
-          "summary": "Sections of Australia's Great Barrier Reef recorded their highest coral cover in decades after cooler ocean temperatures gave corals a chance to regrow from recent bleaching events.",
+          "title": "What is The Hum? Scientists provide an update",
+          "summary": "For decades, people around the world have reported hearing The Hum. What is it? A new study helps narrow down possible answers. The post What is The Hum? Scientists provide an update first appeared on EarthSky .",
+          "url": "https://earthsky.org/human-world/the-hum-scientific-update-unsolved-mysteries/",
           "source": "EarthSky",
-          "url": "https://earthsky.org/earth/",
-          "date": "2026-06-05"
+          "date": "2026-06-07"
         },
         {
-          "title": "Mysterious Methane Clouds Spotted Above Arctic Tundra",
-          "summary": "Satellite images show unusually large methane clouds rising from melting permafrost in Siberia — a sign that frozen ground is thawing faster than expected as temperatures rise.",
-          "source": "Phys.org",
-          "url": "https://phys.org/earth-news/",
-          "date": "2026-06-04"
-        },
-        {
-          "title": "Scientists Plant Trees Using Drone Seed Bombs in Deforested Areas",
-          "summary": "A team of engineers has developed drones that shoot seed pods into the ground at speeds of 120 miles per hour, planting up to 40,000 trees per day in hard-to-reach areas.",
-          "source": "Scientific American",
-          "url": "https://www.scientificamerican.com/environment/",
-          "date": "2026-06-03"
+          "title": "Best deep-sky photos of May 2026 from the EarthSky community",
+          "summary": "Enjoy this gallery of deep-sky photos from May 2026 by our EarthSky community. If you have a great photo to share, we'd love to see it! The post Best deep-sky photos of May 2026 from the EarthSky community first…",
+          "url": "https://earthsky.org/todays-image/best-deep-sky-photos-of-may-2026-from-the-earthsky-community/",
+          "source": "EarthSky",
+          "date": "2026-06-07"
         }
       ]
     },
@@ -165,39 +165,11 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "Robot Dog Learns to Walk on Its Own Just Like a Puppy",
-          "summary": "Researchers taught a four-legged robot to walk by trial and error in just a few hours — the same way real animals learn — without any human programming of each movement.",
-          "source": "Science Daily",
-          "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
-          "date": "2026-06-07"
-        },
-        {
-          "title": "New Battery Charges a Phone Completely in Under Two Minutes",
-          "summary": "Scientists announced a new battery technology using tiny carbon tubes that stores electricity much faster than today's lithium batteries and lasts thousands more charge cycles.",
-          "source": "Phys.org",
-          "url": "https://phys.org/technology-news/",
-          "date": "2026-06-06"
-        },
-        {
-          "title": "Scientists Build Contact Lens That Can Zoom In With a Blink",
-          "summary": "Engineers created a soft electronic contact lens that lets the wearer zoom in on distant objects simply by blinking twice — it tracks tiny eye movements to control the zoom.",
+          "title": "You don't need to worry about recursive-self-improving AI – yet",
+          "summary": "Anthropic has warned that recursive-self-improving AI could be on the horizon, but the truth is the company is more immediately concerned with marketing itself for a blockbuster initial public offering on the stock…",
+          "url": "https://www.newscientist.com/article/2529553-you-dont-need-to-worry-about-recursive-self-improving-ai-yet/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
           "source": "New Scientist",
-          "url": "https://www.newscientist.com/subject/technology/",
-          "date": "2026-06-05"
-        },
-        {
-          "title": "Solar-Powered Plane Completes Longest Unmanned Flight Ever",
-          "summary": "A solar-powered drone stayed airborne for 64 days straight, powered only by sunlight, breaking the world record and paving the way for permanent high-altitude communications platforms.",
-          "source": "Scientific American",
-          "url": "https://www.scientificamerican.com/technology/",
-          "date": "2026-06-04"
-        },
-        {
-          "title": "3D Printers Can Now Build Entire Concrete Houses in 24 Hours",
-          "summary": "Construction robots using giant 3D printers can now build the concrete walls of a full-sized house in one day, which could help provide affordable homes much faster than traditional building.",
-          "source": "Live Science",
-          "url": "https://www.livescience.com/technology",
-          "date": "2026-06-03"
+          "date": "2026-06-08"
         }
       ]
     },
@@ -205,39 +177,32 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "Scientists Achieve Nuclear Fusion With More Energy Out Than In",
-          "summary": "For the first time, a fusion experiment produced more energy than the lasers used to trigger it — a milestone in the quest to harness the same power that makes stars shine as a clean energy source.",
-          "source": "Scientific American",
-          "url": "https://www.scientificamerican.com/physics/",
-          "date": "2026-06-07"
-        },
-        {
-          "title": "New Superconductor Works at Room Temperature, Scientists Claim",
-          "summary": "Physicists announced a material that conducts electricity with zero resistance at room temperature, which could one day make power lines perfectly efficient and levitating trains possible.",
-          "source": "Phys.org",
-          "url": "https://phys.org/physics-news/",
+          "title": "Scientists found a surprisingly simple way to create powerful quantum states",
+          "summary": "A team at the University of Chicago has discovered a surprisingly simple way to create powerful quantum states that are normally difficult to produce. By making small adjustments to the energy levels of atoms inside an…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260606075510.htm",
+          "source": "Science Daily",
           "date": "2026-06-06"
         },
         {
-          "title": "CERN Detects a Brand-New Subatomic Particle",
-          "summary": "Scientists at the world's biggest particle accelerator have spotted a new particle that lasts for less than a billionth of a second — giving physicists fresh clues about what matter is made of.",
-          "source": "New Scientist",
-          "url": "https://www.newscientist.com/subject/physics/",
-          "date": "2026-06-05"
+          "title": "Cloud-tested quantum noise model predicts superconducting qubit errors with sevenfold better accuracy",
+          "summary": "Researchers from the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, and Johns Hopkins University in Baltimore have developed a practical, comprehensive noise-modeling framework for a popular class…",
+          "url": "https://phys.org/news/2026-06-cloud-quantum-noise-superconducting-qubit.html",
+          "source": "Phys.org",
+          "date": "2026-06-08"
         },
         {
-          "title": "Physicists Build a Clock So Precise It Won't Lose a Second in 300 Billion Years",
-          "summary": "A new atomic clock using ytterbium atoms is so accurate it could detect tiny differences in the flow of time caused by gravity — confirming Einstein's theory in real time.",
+          "title": "Hundreds evacuated as waves batter New Zealand capital",
+          "summary": "Authorities evacuated hundreds of people from their seaside homes in New Zealand's capital Tuesday as 11-meter (36-foot) waves lashed the coast.",
+          "url": "https://phys.org/news/2026-06-hundreds-evacuated-batter-zealand-capital.html",
+          "source": "Phys.org",
+          "date": "2026-06-09"
+        },
+        {
+          "title": "Scientists discover a hidden quantum world inside cobalt",
+          "summary": "Scientists have uncovered unexpected quantum complexity inside cobalt, a metal long thought to be fully understood. Advanced measurements revealed a dense network of topological electronic states that remain robust at…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260604044255.htm",
           "source": "Science Daily",
-          "url": "https://www.sciencedaily.com/news/matter_energy/physics/",
-          "date": "2026-06-04"
-        },
-        {
-          "title": "Scientists Slow Light Down to the Speed of a Bicycle",
-          "summary": "Researchers fired laser light through an ultra-cold gas and slowed it from 300 million metres per second to just 17 metres per second — slower than a car on a motorway.",
-          "source": "Live Science",
-          "url": "https://www.livescience.com/physics",
-          "date": "2026-06-03"
+          "date": "2026-06-05"
         }
       ]
     }
