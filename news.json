@@ -1,43 +1,43 @@
 {
-  "updated": "2026-06-09T09:28:45Z",
+  "updated": "2026-06-10T03:03:11Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "MLB swing-tracking data helps researchers examine baseball's long-debated two-strike approach",
-          "summary": "When baseball fans watch a batter strike out with runners in scoring position, the reaction is often immediate: Shorten the swing. Put the ball in play. Stop swinging for the fences, they lament.",
-          "url": "https://phys.org/news/2026-06-mlb-tracking-baseball-debated-approach.html",
+          "title": "Physicists observe synchronized quantum dance of excitons and phonons",
+          "summary": "An international team of researchers has reported a major advance in understanding quantum dynamics in semiconductor materials. They directly observed how excitons and phonons evolve together in perovskite nanocrystals…",
+          "url": "https://phys.org/news/2026-06-physicists-synchronized-quantum-excitons-phonons.html",
           "source": "Phys.org",
           "date": "2026-06-09"
         },
         {
-          "title": "How plants survive constant DNA damage: Newly identified repair protein protects growth-critical stem cells",
-          "summary": "Similar to the way DNA damage can contribute to human diseases such as cancer, it can also disrupt growth, development and survival in plants. Every day, plants endure environmental stresses such as sunlight, radiation…",
-          "url": "https://phys.org/news/2026-06-survive-constant-dna-newly-protein.html",
-          "source": "Phys.org",
-          "date": "2026-06-08"
+          "title": "An invisible forever chemical rain is falling across the planet",
+          "summary": "A surprising study suggests that chemicals introduced to protect the ozone layer may have unintentionally created a growing global pollution problem. Researchers found that refrigerants and certain anesthetic gases have…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260609025509.htm",
+          "source": "Science Daily",
+          "date": "2026-06-09"
         },
         {
-          "title": "Scientists found a new Alzheimer’s trigger and a drug that stops it",
-          "summary": "Researchers have identified a new Alzheimer’s target and created an experimental compound that blocks a damaging process inside brain cells. In mice, the treatment slowed nerve cell loss, reduced Alzheimer’s-related…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260608035959.htm",
+          "title": "World's largest opioid review finds they often don't work",
+          "summary": "The largest review ever conducted on opioids for acute pain found that these widely prescribed drugs often deliver only small, short-lived benefits. For many common conditions, including some surgeries and kidney stone…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260608040023.htm",
           "source": "Science Daily",
-          "date": "2026-06-08"
+          "date": "2026-06-09"
         },
         {
-          "title": "Doctors thought this kidney drug helped some patients. It may help millions more.",
-          "summary": "A trio of major studies found that finerenone may protect the kidneys and heart in far more people than previously thought. The drug significantly slowed kidney disease progression and reduced the risks of kidney…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260606075513.htm",
+          "title": "Cancer patients found a simple way to stay mentally sharp during chemotherapy",
+          "summary": "“Chemo brain” affects up to 80% of people receiving chemotherapy, making everyday tasks harder. In a new trial, cancer patients who followed a home-based exercise program showed better attention and fewer noticeable…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260608040019.htm",
           "source": "Science Daily",
-          "date": "2026-06-08"
+          "date": "2026-06-10"
         },
         {
-          "title": "Heat breaks the rules at the nanoscale and scientists used it to their advantage",
-          "summary": "Scientists used nanoscale gold metamaterials to supercharge heat transfer across tiny gaps, achieving up to four times more energy flow than similar conventional systems. The breakthrough could lead to better chip…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260606075511.htm",
+          "title": "Sleep apnea’s hidden heart disease trigger found in the gut",
+          "summary": "A surprising gut-heart connection may help explain why sleep apnea increases the risk of cardiovascular disease. In mice, disabling a bile acid receptor called FXR sharply reduced plaque buildup, opening the door to…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260608040002.htm",
           "source": "Science Daily",
-          "date": "2026-06-08"
+          "date": "2026-06-09"
         }
       ]
     },
@@ -45,38 +45,38 @@
       "emoji": "🚀",
       "articles": [
         {
-          "title": "NASA just proved spacecraft can switch between multiple satellite networks",
-          "summary": "NASA’s PExT terminal has shown that spacecraft can seamlessly communicate through multiple government and commercial networks, a major step beyond traditional single-network systems. The mission is now expanding to test…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260605023405.htm",
-          "source": "Science Daily",
-          "date": "2026-06-06"
+          "title": "NASA reveals Artemis 3 astronaut crew",
+          "summary": "NASA named the astronauts who will launch on its Artemis 3 mission next year to test docking procedures in Earth orbit ahead of a planned moon landing in 2028.",
+          "url": "https://www.space.com/space-exploration/artemis/nasa-reveals-artemis-3-astronaut-crew",
+          "source": "Space.com",
+          "date": "2026-06-09"
         },
         {
-          "title": "Upcoming telescopes could shed light on dark matter",
-          "summary": "NASA's plans to return astronauts to the moon through the Artemis program and ultimately send humans to Mars highlight just how far space exploration has come. Yet while the moon and Mars remain compelling destinations…",
-          "url": "https://phys.org/news/2026-06-upcoming-telescopes-dark.html",
+          "title": "NASA unveils Artemis III astronauts to test technology for a future moon landing",
+          "summary": "NASA on Tuesday revealed the crew for its Artemis III mission, the next step in the space agency's plan to eventually land astronauts on the moon.",
+          "url": "https://phys.org/news/2026-06-nasa-unveils-artemis-iii-astronauts.html",
           "source": "Phys.org",
-          "date": "2026-06-08"
+          "date": "2026-06-09"
+        },
+        {
+          "title": "Astronaut captures snake-like auroras from a SpaceX Dragon | Space photo of the day for June 9, 2026",
+          "summary": "NASA astronaut Jessica Meir captured a breathtaking view of auroras on Earth from orbit while sheltering with her fellow astronauts in a SpaceX Dragon spacecraft.",
+          "url": "https://www.space.com/space-exploration/human-spaceflight/astronaut-captures-snake-like-auroras-from-a-spacex-dragon-space-photo-of-the-day-for-june-9-2026",
+          "source": "Space.com",
+          "date": "2026-06-09"
+        },
+        {
+          "title": "NASA Knows: What Is Mass Distribution?",
+          "summary": "This article is for students grades 5-8. Mass distribution affects everything from galaxy shapes to aircraft design to planetary rotation. It’s used to map stars in our universe, figure out what planets are made of, and…",
+          "url": "https://www.nasa.gov/learning-resources/nasa-knows-what-is-mass-distribution/",
+          "source": "NASA",
+          "date": "2026-06-09"
         },
         {
           "title": "NASA’s INCUS Satellites Progress Toward Launch",
           "summary": "Description One of the three satellites that make up NASA’s INCUS (Investigation of Convective Updrafts) mission sits on a fixture at the facilities of Blue Canyon Technologies in Lafayette, Colorado. The satellite…",
           "url": "https://science.nasa.gov/photojournal/nasas-incus-satellites-progress-toward-launch/",
           "source": "NASA",
-          "date": "2026-06-08"
-        },
-        {
-          "title": "NASA's INCUS mission on road to launch, study storms from space",
-          "summary": "Teams working on NASA's INCUS (Investigation of Convective Updrafts) mission, the first space-based survey of the dynamics of tropical convective storms, have completed assembly and tested two of the mission's small…",
-          "url": "https://phys.org/news/2026-06-nasa-incus-mission-road-storms.html",
-          "source": "Phys.org",
-          "date": "2026-06-09"
-        },
-        {
-          "title": "Watch SpaceX set new rocket reuse record with 35th launch — and landing — of a Falcon 9 booster (video)",
-          "summary": "A SpaceX Falcon 9 rocket carrying 29 Starlink satellites lifted off from the Cape Canaveral Space Force Station in Florida on Monday, June 8, 2026. The first stage booster flew for a record 35th time.",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-35-b1067-ccsfs-asog",
-          "source": "Space.com",
           "date": "2026-06-08"
         }
       ]
@@ -92,18 +92,18 @@
           "date": "2026-06-08"
         },
         {
-          "title": "A lack of sex held back life's diversity for millions of years, fossil study finds",
-          "summary": "The way that Earth's first animals reproduced held back life's diversity for millions of years, until stress and competition led to the development of sexual reproduction, which in turn accelerated the pace of evolution.",
-          "url": "https://phys.org/news/2026-06-lack-sex-held-life-diversity.html",
+          "title": "Adélie penguins use colony cues to switch foraging sites if their previous trip was unsuccessful",
+          "summary": "Many animals live in groups. Among seabirds in particular, most species form colonies during the breeding season. Although coloniality entails costs, such as increased competition for food and disease transmission, its…",
+          "url": "https://phys.org/news/2026-06-adlie-penguins-colony-cues-foraging.html",
           "source": "Phys.org",
           "date": "2026-06-09"
         },
         {
-          "title": "River wildlife moves freely once dams are removed, but so too can invasive species",
-          "summary": "Almost a quarter of all freshwater species are threatened with extinction. The removal of human-made barriers from rivers, such as dams and weirs, is a popular way to restore water flow and sediment transport to its…",
-          "url": "https://phys.org/news/2026-06-river-wildlife-freely-invasive-species.html",
-          "source": "Phys.org",
-          "date": "2026-06-08"
+          "title": "Frozen squirrel scat preserves ancient DNA from hundreds of species",
+          "summary": "A complex ecosystem of woolly mammoths, bison, horses and big cats has been elucidated by studying the faeces of small rodents that probably ate the bigger animals",
+          "url": "https://www.newscientist.com/article/2529635-frozen-squirrel-scat-preserves-ancient-dna-from-hundreds-of-species/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "source": "New Scientist",
+          "date": "2026-06-09"
         },
         {
           "title": "South Australia’s koala boom could end in mass starvation",
@@ -113,11 +113,11 @@
           "date": "2026-06-08"
         },
         {
-          "title": "50 years of data reveals true extent of climate change impacts on kelp forests",
-          "summary": "New research from the University of Victoria (UVic) has found that some kelp forests around Vancouver Island were disappearing far earlier than scientists previously thought, highlighting that climate change has been…",
-          "url": "https://phys.org/news/2026-06-years-reveals-true-extent-climate.html",
+          "title": "Survival of five million amphibians and reptiles displaced by construction in British Columbia may not be tracked",
+          "summary": "UBC researchers have found that more than five million amphibians and reptiles were displaced by development in British Columbia in just four years—and that there is no requirement to monitor survival rates. The paper…",
+          "url": "https://phys.org/news/2026-06-survival-million-amphibians-reptiles-displaced.html",
           "source": "Phys.org",
-          "date": "2026-06-09"
+          "date": "2026-06-10"
         }
       ]
     },
@@ -125,11 +125,25 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Aerosols may warm or cool the climate depending on timing, new study finds",
-          "summary": "A new study from the Hebrew University of Jerusalem challenges a long-held assumption in climate science by showing that aerosols—tiny particles suspended in the atmosphere—can either warm or cool the climate, depending…",
-          "url": "https://phys.org/news/2026-06-aerosols-cool-climate.html",
+          "title": "How 'undone science' shaped Chile's glacier protection battle",
+          "summary": "What is \"undone science,\" and how does it affect environmental policy and regulation around the world? In a recent study published in Tapuya: Latin American Science, Technology and Society, Javiera Barandiarán, an…",
+          "url": "https://phys.org/news/2026-06-undone-science-chile-glacier.html",
           "source": "Phys.org",
-          "date": "2026-06-08"
+          "date": "2026-06-10"
+        },
+        {
+          "title": "Freshwater boundary breach deepens as climate and land use amplify extremes",
+          "summary": "Human activities have significantly altered the freshwater cycle, threatening its ability to support vital climatic and ecological Earth system processes. A new study led by researchers at the University of Eastern…",
+          "url": "https://phys.org/news/2026-06-freshwater-boundary-breach-deepens-climate.html",
+          "source": "Phys.org",
+          "date": "2026-06-09"
+        },
+        {
+          "title": "These record-breaking black hole winds could create a category 79 hurricane on Earth",
+          "summary": "Astronomers have discovered a distant quasar powered by a feeding supermassive black hole blasting out winds at record-breaking speeds for such an outflow seen in ultraviolet light, traveling at 30% the speed of light.",
+          "url": "https://www.space.com/astronomy/black-holes/these-record-breaking-black-hole-winds-could-create-a-category-79-hurricane-on-earth",
+          "source": "Space.com",
+          "date": "2026-06-09"
         },
         {
           "title": "Incoming CME could spark impressive northern lights over the northern US tonight",
@@ -139,31 +153,45 @@
           "date": "2026-06-08"
         },
         {
-          "title": "Celebrate World Oceans Day today, June 8, 2026",
-          "summary": "World Oceans Day is a day to honor our connection to Earth’s oceans and to learn what we can do to protect ocean habitats. Celebrate World Oceans Day on June 8. The post Celebrate World Oceans Day today, June 8, 2026…",
-          "url": "https://earthsky.org/earth/happy-world-oceans-day/",
+          "title": "California faults under record stress, study finds",
+          "summary": "A new model of 1,000 years of earthquake history along 2 California faults has revealed that these faults are under record levels of stress. The post California faults under record stress, study finds first appeared on…",
+          "url": "https://earthsky.org/earth/california-faults-record-levels-of-stress-earthquake-risk/",
           "source": "EarthSky",
-          "date": "2026-06-07"
-        },
-        {
-          "title": "What is The Hum? Scientists provide an update",
-          "summary": "For decades, people around the world have reported hearing The Hum. What is it? A new study helps narrow down possible answers. The post What is The Hum? Scientists provide an update first appeared on EarthSky .",
-          "url": "https://earthsky.org/human-world/the-hum-scientific-update-unsolved-mysteries/",
-          "source": "EarthSky",
-          "date": "2026-06-07"
-        },
-        {
-          "title": "Best deep-sky photos of May 2026 from the EarthSky community",
-          "summary": "Enjoy this gallery of deep-sky photos from May 2026 by our EarthSky community. If you have a great photo to share, we'd love to see it! The post Best deep-sky photos of May 2026 from the EarthSky community first…",
-          "url": "https://earthsky.org/todays-image/best-deep-sky-photos-of-may-2026-from-the-earthsky-community/",
-          "source": "EarthSky",
-          "date": "2026-06-07"
+          "date": "2026-06-09"
         }
       ]
     },
     "Technology & Inventions": {
       "emoji": "🤖",
       "articles": [
+        {
+          "title": "Q&A: Combating antibiotic resistance with nanotechnology, robotics and AI",
+          "summary": "Aeron Tynes Hammack, a physicist by training and currently interim facility director of the Nanofabrication Facility at the Molecular Foundry, likes to work with nanoscale objects to better understand the world and…",
+          "url": "https://phys.org/news/2026-06-qa-combating-antibiotic-resistance-nanotechnology.html",
+          "source": "Phys.org",
+          "date": "2026-06-09"
+        },
+        {
+          "title": "Strong leadership will be key as AI reshapes the workforce, argues research",
+          "summary": "As artificial intelligence changes how work gets done, experts say strong leadership will play a critical role in helping employees adapt to shifting responsibilities, evolving technologies and changing workplace…",
+          "url": "https://phys.org/news/2026-06-strong-leadership-key-ai-reshapes.html",
+          "source": "Phys.org",
+          "date": "2026-06-10"
+        },
+        {
+          "title": "Examining doctoral students' attitudes toward AI chatbots and ChatGPT use in higher education",
+          "summary": "Researchers from the University of Phoenix College of Doctoral Studies have published research examining graduate students' attitudes toward artificial intelligence (AI) chatbots and their reported use of ChatGPT in…",
+          "url": "https://phys.org/news/2026-06-doctoral-students-attitudes-ai-chatbots.html",
+          "source": "Phys.org",
+          "date": "2026-06-10"
+        },
+        {
+          "title": "To achieve 'AI for all' in agriculture, Canada's farmers need regional, systems‑level change",
+          "summary": "Artificial intelligence (AI) is fundamentally reshaping the contours of life as we know it. In agriculture, the world market for AI is expected to reach almost US$47 billion by 2034. AI enables higher farm yields with…",
+          "url": "https://phys.org/news/2026-06-ai-agriculture-canada-farmers-regional.html",
+          "source": "Phys.org",
+          "date": "2026-06-09"
+        },
         {
           "title": "You don't need to worry about recursive-self-improving AI – yet",
           "summary": "Anthropic has warned that recursive-self-improving AI could be on the horizon, but the truth is the company is more immediately concerned with marketing itself for a blockbuster initial public offering on the stock…",
@@ -177,32 +205,25 @@
       "emoji": "⚡",
       "articles": [
         {
+          "title": "Scientists think they solved the mystery of the Amaterasu particle",
+          "summary": "The mysterious Amaterasu particle may not be a proton at all. New research suggests that some of the most extreme cosmic rays could be ultraheavy atomic nuclei, heavier than iron, which are better able to retain their…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260608040015.htm",
+          "source": "Science Daily",
+          "date": "2026-06-09"
+        },
+        {
+          "title": "Why we should all take quantum physics extremely personally",
+          "summary": "Physics is considered a cold, hard science – but it will transform your life if you view it with a bit more subjectivity, says Karmela Padavic-Callaghan",
+          "url": "https://www.newscientist.com/article/2529183-why-we-should-all-take-quantum-physics-extremely-personally/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "source": "New Scientist",
+          "date": "2026-06-09"
+        },
+        {
           "title": "Scientists found a surprisingly simple way to create powerful quantum states",
           "summary": "A team at the University of Chicago has discovered a surprisingly simple way to create powerful quantum states that are normally difficult to produce. By making small adjustments to the energy levels of atoms inside an…",
           "url": "https://www.sciencedaily.com/releases/2026/06/260606075510.htm",
           "source": "Science Daily",
           "date": "2026-06-06"
-        },
-        {
-          "title": "Cloud-tested quantum noise model predicts superconducting qubit errors with sevenfold better accuracy",
-          "summary": "Researchers from the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, and Johns Hopkins University in Baltimore have developed a practical, comprehensive noise-modeling framework for a popular class…",
-          "url": "https://phys.org/news/2026-06-cloud-quantum-noise-superconducting-qubit.html",
-          "source": "Phys.org",
-          "date": "2026-06-08"
-        },
-        {
-          "title": "Hundreds evacuated as waves batter New Zealand capital",
-          "summary": "Authorities evacuated hundreds of people from their seaside homes in New Zealand's capital Tuesday as 11-meter (36-foot) waves lashed the coast.",
-          "url": "https://phys.org/news/2026-06-hundreds-evacuated-batter-zealand-capital.html",
-          "source": "Phys.org",
-          "date": "2026-06-09"
-        },
-        {
-          "title": "Scientists discover a hidden quantum world inside cobalt",
-          "summary": "Scientists have uncovered unexpected quantum complexity inside cobalt, a metal long thought to be fully understood. Advanced measurements revealed a dense network of topological electronic states that remain robust at…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260604044255.htm",
-          "source": "Science Daily",
-          "date": "2026-06-05"
         }
       ]
     }
