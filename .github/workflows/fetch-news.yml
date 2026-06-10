@@ -2,7 +2,7 @@ name: Refresh Science News
 
 on:
   schedule:
-    - cron: '0 6 * * *'   # every day at 6 AM UTC
+    - cron: '0 13 * * *'  # every day at 6 AM PT (UTC-7 PDT)
   workflow_dispatch:        # allow manual "Run workflow" button in GitHub UI
 
 permissions:
