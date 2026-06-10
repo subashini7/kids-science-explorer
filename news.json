@@ -1,15 +1,22 @@
 {
-  "updated": "2026-06-10T03:03:11Z",
+  "updated": "2026-06-10T16:36:24Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "Physicists observe synchronized quantum dance of excitons and phonons",
-          "summary": "An international team of researchers has reported a major advance in understanding quantum dynamics in semiconductor materials. They directly observed how excitons and phonons evolve together in perovskite nanocrystals…",
-          "url": "https://phys.org/news/2026-06-physicists-synchronized-quantum-excitons-phonons.html",
+          "title": "Acidic nanoparticles target Parkinson's at cellular source",
+          "summary": "Inside every human cell, a tiny structure called a lysosome acts like a recycling center, breaking down toxic waste, clearing damaged proteins and helping keep the cell functioning properly. When that recycling center…",
+          "url": "https://phys.org/news/2026-06-acidic-nanoparticles-parkinson-cellular-source.html",
           "source": "Phys.org",
-          "date": "2026-06-09"
+          "date": "2026-06-10"
+        },
+        {
+          "title": "How Argonaute, a key protein for RNA therapeutics, becomes activated",
+          "summary": "RNA therapeutics have emerged as one of the most promising new classes of medicines. Eight small interfering RNA (siRNA) drugs have already been approved worldwide for the treatment of genetic diseases, yet scientists…",
+          "url": "https://phys.org/news/2026-06-argonaute-key-protein-rna-therapeutics.html",
+          "source": "Phys.org",
+          "date": "2026-06-10"
         },
         {
           "title": "An invisible forever chemical rain is falling across the planet",
@@ -31,13 +38,6 @@
           "url": "https://www.sciencedaily.com/releases/2026/06/260608040019.htm",
           "source": "Science Daily",
           "date": "2026-06-10"
-        },
-        {
-          "title": "Sleep apnea’s hidden heart disease trigger found in the gut",
-          "summary": "A surprising gut-heart connection may help explain why sleep apnea increases the risk of cardiovascular disease. In mice, disabling a bile acid receptor called FXR sharply reduced plaque buildup, opening the door to…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260608040002.htm",
-          "source": "Science Daily",
-          "date": "2026-06-09"
         }
       ]
     },
@@ -45,18 +45,18 @@
       "emoji": "🚀",
       "articles": [
         {
-          "title": "NASA reveals Artemis 3 astronaut crew",
+          "title": "NASA reveals Artemis 3 astronauts for critical moon lander test flight",
           "summary": "NASA named the astronauts who will launch on its Artemis 3 mission next year to test docking procedures in Earth orbit ahead of a planned moon landing in 2028.",
           "url": "https://www.space.com/space-exploration/artemis/nasa-reveals-artemis-3-astronaut-crew",
           "source": "Space.com",
           "date": "2026-06-09"
         },
         {
-          "title": "NASA unveils Artemis III astronauts to test technology for a future moon landing",
-          "summary": "NASA on Tuesday revealed the crew for its Artemis III mission, the next step in the space agency's plan to eventually land astronauts on the moon.",
-          "url": "https://phys.org/news/2026-06-nasa-unveils-artemis-iii-astronauts.html",
-          "source": "Phys.org",
-          "date": "2026-06-09"
+          "title": "NASA Webb Finds Strongest Evidence Yet for ‘Black Hole Stars’",
+          "summary": "The complex puzzle known as little red dots has become more complete since their initial discovery by NASA’s James Webb Space Telescope in 2022. Now a particular little red dot’s spectrum is helping connect many of the…",
+          "url": "https://science.nasa.gov/missions/webb/nasa-webb-finds-strongest-evidence-yet-for-black-hole-stars/",
+          "source": "NASA",
+          "date": "2026-06-10"
         },
         {
           "title": "Astronaut captures snake-like auroras from a SpaceX Dragon | Space photo of the day for June 9, 2026",
@@ -66,17 +66,17 @@
           "date": "2026-06-09"
         },
         {
-          "title": "NASA Knows: What Is Mass Distribution?",
-          "summary": "This article is for students grades 5-8. Mass distribution affects everything from galaxy shapes to aircraft design to planetary rotation. It’s used to map stars in our universe, figure out what planets are made of, and…",
-          "url": "https://www.nasa.gov/learning-resources/nasa-knows-what-is-mass-distribution/",
+          "title": "Train Ride to NASA Kennedy for Artemis III Booster Segments",
+          "summary": "The final booster motor segments for NASA’s SLS (Space Launch System) rocket that will help propel Artemis III astronauts on their journey to space shipped from Northrop Grumman’s Railyard Shipping Facility in Corinne…",
+          "url": "https://www.nasa.gov/image-article/train-ride-to-nasa-kennedy-for-artemis-iii-booster-segments/",
           "source": "NASA",
-          "date": "2026-06-09"
+          "date": "2026-06-10"
         },
         {
-          "title": "NASA’s INCUS Satellites Progress Toward Launch",
-          "summary": "Description One of the three satellites that make up NASA’s INCUS (Investigation of Convective Updrafts) mission sits on a fixture at the facilities of Blue Canyon Technologies in Lafayette, Colorado. The satellite…",
-          "url": "https://science.nasa.gov/photojournal/nasas-incus-satellites-progress-toward-launch/",
-          "source": "NASA",
+          "title": "SpaceX just launched — and landed — a Falcon 9 rocket booster for the 35th time. That's a new record. (video)",
+          "summary": "A SpaceX Falcon 9 rocket carrying 29 Starlink satellites lifted off from the Cape Canaveral Space Force Station in Florida on Monday, June 8, 2026. The first stage booster flew for a record 35th time.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-35-b1067-ccsfs-asog",
+          "source": "Space.com",
           "date": "2026-06-08"
         }
       ]
@@ -85,6 +85,13 @@
       "emoji": "🐾",
       "articles": [
         {
+          "title": "Fossil discovery shows the interaction between giant marine reptiles",
+          "summary": "Approximately 160 million years ago, during the Age of Dinosaurs, giant marine reptiles ruled the seas. One such creature, an ichthyosaur, swam in a sea near present-day Peterborough, England. This huge animal, shaped…",
+          "url": "https://phys.org/news/2026-06-fossil-discovery-interaction-giant-marine.html",
+          "source": "Phys.org",
+          "date": "2026-06-10"
+        },
+        {
           "title": "Wildlife thrives in solar farm built on restored peatland",
           "summary": "A diverse range of bird species has been recorded at a solar park on rewetted peatland in Germany, suggesting that combining energy generation with habitat restoration could benefit biodiversity, the climate and the…",
           "url": "https://www.newscientist.com/article/2529590-wildlife-thrives-in-solar-farm-built-on-restored-peatland/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
@@ -92,11 +99,18 @@
           "date": "2026-06-08"
         },
         {
-          "title": "Adélie penguins use colony cues to switch foraging sites if their previous trip was unsuccessful",
-          "summary": "Many animals live in groups. Among seabirds in particular, most species form colonies during the breeding season. Although coloniality entails costs, such as increased competition for food and disease transmission, its…",
-          "url": "https://phys.org/news/2026-06-adlie-penguins-colony-cues-foraging.html",
+          "title": "Acoustic environment may explain why some bird songs outlast others",
+          "summary": "From melodic morning choruses to territorial songs that echo through forests and grasslands, birds rely on vocalizations to communicate, attract mates and defend valuable habitat. For songbirds, these vocal displays are…",
+          "url": "https://phys.org/news/2026-06-acoustic-environment-bird-songs-outlast.html",
           "source": "Phys.org",
-          "date": "2026-06-09"
+          "date": "2026-06-10"
+        },
+        {
+          "title": "Newfound 'whale necropolis' reveals 5.3 million years of seafloor life",
+          "summary": "Whale falls form when whale carcasses sink to the seafloor, creating localized concentrations of biodiversity in the deep ocean. Besides playing a role in long-term carbon sequestration, whale falls help scientists…",
+          "url": "https://phys.org/news/2026-06-newfound-whale-necropolis-reveals-million.html",
+          "source": "Phys.org",
+          "date": "2026-06-10"
         },
         {
           "title": "Frozen squirrel scat preserves ancient DNA from hundreds of species",
@@ -104,20 +118,6 @@
           "url": "https://www.newscientist.com/article/2529635-frozen-squirrel-scat-preserves-ancient-dna-from-hundreds-of-species/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
           "source": "New Scientist",
           "date": "2026-06-09"
-        },
-        {
-          "title": "South Australia’s koala boom could end in mass starvation",
-          "summary": "South Australia’s koala population has grown so large that it may be heading toward a self-made disaster, with forests struggling to support the animals. Researchers say targeted fertility control could prevent…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260606075846.htm",
-          "source": "Science Daily",
-          "date": "2026-06-08"
-        },
-        {
-          "title": "Survival of five million amphibians and reptiles displaced by construction in British Columbia may not be tracked",
-          "summary": "UBC researchers have found that more than five million amphibians and reptiles were displaced by development in British Columbia in just four years—and that there is no requirement to monitor survival rates. The paper…",
-          "url": "https://phys.org/news/2026-06-survival-million-amphibians-reptiles-displaced.html",
-          "source": "Phys.org",
-          "date": "2026-06-10"
         }
       ]
     },
@@ -125,38 +125,38 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "How 'undone science' shaped Chile's glacier protection battle",
-          "summary": "What is \"undone science,\" and how does it affect environmental policy and regulation around the world? In a recent study published in Tapuya: Latin American Science, Technology and Society, Javiera Barandiarán, an…",
-          "url": "https://phys.org/news/2026-06-undone-science-chile-glacier.html",
+          "title": "Odds climb for record El Niño as 75% of models predict 2.5C warming",
+          "summary": "Europe's Copernicus Climate Change Service on Wednesday said global forecasters were increasingly confident that a very strong El Niño warming weather pattern could form later this year.",
+          "url": "https://phys.org/news/2026-06-odds-climb-el-nio-25c.html",
           "source": "Phys.org",
           "date": "2026-06-10"
         },
         {
-          "title": "Freshwater boundary breach deepens as climate and land use amplify extremes",
-          "summary": "Human activities have significantly altered the freshwater cycle, threatening its ability to support vital climatic and ecological Earth system processes. A new study led by researchers at the University of Eastern…",
-          "url": "https://phys.org/news/2026-06-freshwater-boundary-breach-deepens-climate.html",
+          "title": "Tyndall's Trail of Bergs: Ice splintered off southern Patagonia glacier drifts across a growing glacial lake",
+          "summary": "The Southern Patagonian Icefield is the largest expanse of ice in the Southern Hemisphere outside Antarctica. The mass of glacial ice extends hundreds of kilometers along the spine of the Andes, feeding dozens of…",
+          "url": "https://phys.org/news/2026-06-tyndall-trail-bergs-ice-splintered.html",
           "source": "Phys.org",
-          "date": "2026-06-09"
+          "date": "2026-06-10"
+        },
+        {
+          "title": "Retreating glaciers increase iceberg sightings and reshape deep-sea habitats",
+          "summary": "The number of icebergs in the Arctic has increased sharply since the 2000s. This is due to the destabilization of large glaciers in northeast Greenland and parts of the Russian Arctic, as well as the increasing mobility…",
+          "url": "https://phys.org/news/2026-06-retreating-glaciers-iceberg-sightings-reshape.html",
+          "source": "Phys.org",
+          "date": "2026-06-10"
+        },
+        {
+          "title": "Fragmented environmental policies risk costly failures, experts warn",
+          "summary": "Current climate and nature policies are working at cross-purposes, wasting public funds and causing unintended damage to ecosystems, according to a major new report co-authored by a University of York researcher.",
+          "url": "https://phys.org/news/2026-06-fragmented-environmental-policies-failures-experts.html",
+          "source": "Phys.org",
+          "date": "2026-06-10"
         },
         {
           "title": "These record-breaking black hole winds could create a category 79 hurricane on Earth",
           "summary": "Astronomers have discovered a distant quasar powered by a feeding supermassive black hole blasting out winds at record-breaking speeds for such an outflow seen in ultraviolet light, traveling at 30% the speed of light.",
           "url": "https://www.space.com/astronomy/black-holes/these-record-breaking-black-hole-winds-could-create-a-category-79-hurricane-on-earth",
           "source": "Space.com",
-          "date": "2026-06-09"
-        },
-        {
-          "title": "Incoming CME could spark impressive northern lights over the northern US tonight",
-          "summary": "A coronal mass ejection is currently racing toward Earth and could trigger G2 to G3 geomagnetic storm conditions on June 8, potentially boosting aurora displays across northern latitudes.",
-          "url": "https://www.space.com/stargazing/auroras/incoming-cme-could-spark-impressive-northern-lights-over-the-northern-us-june-8",
-          "source": "Space.com",
-          "date": "2026-06-08"
-        },
-        {
-          "title": "California faults under record stress, study finds",
-          "summary": "A new model of 1,000 years of earthquake history along 2 California faults has revealed that these faults are under record levels of stress. The post California faults under record stress, study finds first appeared on…",
-          "url": "https://earthsky.org/earth/california-faults-record-levels-of-stress-earthquake-risk/",
-          "source": "EarthSky",
           "date": "2026-06-09"
         }
       ]
@@ -165,32 +165,11 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "Q&A: Combating antibiotic resistance with nanotechnology, robotics and AI",
-          "summary": "Aeron Tynes Hammack, a physicist by training and currently interim facility director of the Nanofabrication Facility at the Molecular Foundry, likes to work with nanoscale objects to better understand the world and…",
-          "url": "https://phys.org/news/2026-06-qa-combating-antibiotic-resistance-nanotechnology.html",
-          "source": "Phys.org",
-          "date": "2026-06-09"
-        },
-        {
-          "title": "Strong leadership will be key as AI reshapes the workforce, argues research",
-          "summary": "As artificial intelligence changes how work gets done, experts say strong leadership will play a critical role in helping employees adapt to shifting responsibilities, evolving technologies and changing workplace…",
-          "url": "https://phys.org/news/2026-06-strong-leadership-key-ai-reshapes.html",
+          "title": "Study finds robotic mowers improve Florida lawn health while reducing maintenance",
+          "summary": "For many Florida homeowners, lawn mowing can feel like a never-ending chore, especially in the heat of summer. New guidance from experts suggests autonomous or robotic lawn mowers can ease that burden while effectively…",
+          "url": "https://phys.org/news/2026-06-robotic-mowers-florida-lawn-health.html",
           "source": "Phys.org",
           "date": "2026-06-10"
-        },
-        {
-          "title": "Examining doctoral students' attitudes toward AI chatbots and ChatGPT use in higher education",
-          "summary": "Researchers from the University of Phoenix College of Doctoral Studies have published research examining graduate students' attitudes toward artificial intelligence (AI) chatbots and their reported use of ChatGPT in…",
-          "url": "https://phys.org/news/2026-06-doctoral-students-attitudes-ai-chatbots.html",
-          "source": "Phys.org",
-          "date": "2026-06-10"
-        },
-        {
-          "title": "To achieve 'AI for all' in agriculture, Canada's farmers need regional, systems‑level change",
-          "summary": "Artificial intelligence (AI) is fundamentally reshaping the contours of life as we know it. In agriculture, the world market for AI is expected to reach almost US$47 billion by 2034. AI enables higher farm yields with…",
-          "url": "https://phys.org/news/2026-06-ai-agriculture-canada-farmers-regional.html",
-          "source": "Phys.org",
-          "date": "2026-06-09"
         },
         {
           "title": "You don't need to worry about recursive-self-improving AI – yet",
@@ -210,6 +189,13 @@
           "url": "https://www.sciencedaily.com/releases/2026/06/260608040015.htm",
           "source": "Science Daily",
           "date": "2026-06-09"
+        },
+        {
+          "title": "Giant kelp's microscopic light antenna could inspire innovative climate solutions",
+          "summary": "New research reveals the microscopic machinery that helps giant kelp turn sunlight into energy, providing inspiration for innovative climate solutions. The study, published in Nature Communications, mapped one of the…",
+          "url": "https://phys.org/news/2026-06-giant-kelp-microscopic-antenna-climate.html",
+          "source": "Phys.org",
+          "date": "2026-06-10"
         },
         {
           "title": "Why we should all take quantum physics extremely personally",
