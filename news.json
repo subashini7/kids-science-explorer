@@ -1,41 +1,41 @@
 {
-  "updated": "2026-06-10T16:36:24Z",
+  "updated": "2026-06-11T16:55:50Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "Acidic nanoparticles target Parkinson's at cellular source",
-          "summary": "Inside every human cell, a tiny structure called a lysosome acts like a recycling center, breaking down toxic waste, clearing damaged proteins and helping keep the cell functioning properly. When that recycling center…",
-          "url": "https://phys.org/news/2026-06-acidic-nanoparticles-parkinson-cellular-source.html",
-          "source": "Phys.org",
+          "title": "Scientists turn tofu and cheese waste into tiny CO2-catching beads",
+          "summary": "Scientists have developed biodegradable protein beads made from dairy and tofu waste that can capture carbon dioxide from the atmosphere more efficiently than many current technologies. Unlike conventional systems that…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260611024555.htm",
+          "source": "Science Daily",
+          "date": "2026-06-11"
+        },
+        {
+          "title": "Scientists propose a radical new theory for how life began on Earth",
+          "summary": "Researchers propose that tiny mineral nanoparticles may have been the hidden engines that transformed Earth’s early chemistry into the first building blocks of life. By acting as natural catalysts and energy processors…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260610003054.htm",
+          "source": "Science Daily",
           "date": "2026-06-10"
         },
         {
-          "title": "How Argonaute, a key protein for RNA therapeutics, becomes activated",
-          "summary": "RNA therapeutics have emerged as one of the most promising new classes of medicines. Eight small interfering RNA (siRNA) drugs have already been approved worldwide for the treatment of genetic diseases, yet scientists…",
-          "url": "https://phys.org/news/2026-06-argonaute-key-protein-rna-therapeutics.html",
-          "source": "Phys.org",
-          "date": "2026-06-10"
+          "title": "Air Pollution’s Daily Pulse Over the Northeast",
+          "summary": "The TEMPO mission helped scientists track morning nitrogen dioxide that contributed to afternoon ozone along the New York–Washington corridor in May 2026.",
+          "url": "https://science.nasa.gov/earth/earth-observatory/air-pollutions-daily-pulse-over-the-northeast/",
+          "source": "NASA",
+          "date": "2026-06-11"
         },
         {
-          "title": "An invisible forever chemical rain is falling across the planet",
-          "summary": "A surprising study suggests that chemicals introduced to protect the ozone layer may have unintentionally created a growing global pollution problem. Researchers found that refrigerants and certain anesthetic gases have…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260609025509.htm",
+          "title": "Scientists discover a strange property in rice and turn it into a smart material",
+          "summary": "Scientists discovered that rice behaves in a highly unusual way: it weakens under rapid compression but stays stronger when pressure is applied slowly. Using this effect, they engineered a new material that reacts…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260611024621.htm",
           "source": "Science Daily",
-          "date": "2026-06-09"
+          "date": "2026-06-11"
         },
         {
-          "title": "World's largest opioid review finds they often don't work",
-          "summary": "The largest review ever conducted on opioids for acute pain found that these widely prescribed drugs often deliver only small, short-lived benefits. For many common conditions, including some surgeries and kidney stone…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260608040023.htm",
-          "source": "Science Daily",
-          "date": "2026-06-09"
-        },
-        {
-          "title": "Cancer patients found a simple way to stay mentally sharp during chemotherapy",
-          "summary": "“Chemo brain” affects up to 80% of people receiving chemotherapy, making everyday tasks harder. In a new trial, cancer patients who followed a home-based exercise program showed better attention and fewer noticeable…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260608040019.htm",
+          "title": "Scientists shut down cancer DNA repair to overcome drug resistance",
+          "summary": "Cancer cells often survive treatment by fixing the DNA damage that therapy is meant to cause. Researchers found that UNI418 can disrupt this repair ability, leaving cancer cells more exposed. When combined with a PARP…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260610003052.htm",
           "source": "Science Daily",
           "date": "2026-06-10"
         }
@@ -52,45 +52,38 @@
           "date": "2026-06-09"
         },
         {
-          "title": "NASA Webb Finds Strongest Evidence Yet for ‘Black Hole Stars’",
-          "summary": "The complex puzzle known as little red dots has become more complete since their initial discovery by NASA’s James Webb Space Telescope in 2022. Now a particular little red dot’s spectrum is helping connect many of the…",
-          "url": "https://science.nasa.gov/missions/webb/nasa-webb-finds-strongest-evidence-yet-for-black-hole-stars/",
+          "title": "NASA to Preview Katalyst Mission to Boost Swift Spacecraft’s Orbit",
+          "summary": "NASA will host an audio-only media teleconference at 11 a.m. EDT, Wednesday, June 17, to preview the Katalyst Space mission to boost the orbit of NASA’s Neil Gehrels Swift Observatory. Katalyst’s robotic servicing…",
+          "url": "https://www.nasa.gov/news-release/nasa-to-preview-katalyst-mission-to-boost-swift-spacecrafts-orbit/",
           "source": "NASA",
-          "date": "2026-06-10"
+          "date": "2026-06-11"
         },
         {
-          "title": "Astronaut captures snake-like auroras from a SpaceX Dragon | Space photo of the day for June 9, 2026",
-          "summary": "NASA astronaut Jessica Meir captured a breathtaking view of auroras on Earth from orbit while sheltering with her fellow astronauts in a SpaceX Dragon spacecraft.",
-          "url": "https://www.space.com/space-exploration/human-spaceflight/astronaut-captures-snake-like-auroras-from-a-spacex-dragon-space-photo-of-the-day-for-june-9-2026",
+          "title": "NASA reveals Artemis III crew for one of the most complex space missions ever",
+          "summary": "NASA has selected the Artemis III crew for a high-stakes 2027 mission designed to test the future of lunar exploration. Astronauts will launch aboard Orion and perform unprecedented docking operations with lunar landers…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260611024606.htm",
+          "source": "Science Daily",
+          "date": "2026-06-11"
+        },
+        {
+          "title": "On the hunt for cosmic dawn and the universe's very first stars",
+          "summary": "After only four short years, NASA's James Webb Space Telescope (JWST) and observational cosmologists like Richard Ellis at University College London (UCL) have pushed the cosmic lookback time to an era when the…",
+          "url": "https://phys.org/news/2026-06-cosmic-dawn-universe-stars.html",
+          "source": "Phys.org",
+          "date": "2026-06-11"
+        },
+        {
+          "title": "James Webb Space Telescope finds evidence the mysterious 'little red dots' are black hole stars",
+          "summary": "Astronomers using the James Webb Space Telescope may be close to solving the mystery of \"little red dots\" in the early universe.",
+          "url": "https://www.space.com/astronomy/black-holes/james-webb-space-telescope-finds-evidence-the-mysterious-little-red-dots-are-black-hole-stars",
           "source": "Space.com",
-          "date": "2026-06-09"
-        },
-        {
-          "title": "Train Ride to NASA Kennedy for Artemis III Booster Segments",
-          "summary": "The final booster motor segments for NASA’s SLS (Space Launch System) rocket that will help propel Artemis III astronauts on their journey to space shipped from Northrop Grumman’s Railyard Shipping Facility in Corinne…",
-          "url": "https://www.nasa.gov/image-article/train-ride-to-nasa-kennedy-for-artemis-iii-booster-segments/",
-          "source": "NASA",
           "date": "2026-06-10"
-        },
-        {
-          "title": "SpaceX just launched — and landed — a Falcon 9 rocket booster for the 35th time. That's a new record. (video)",
-          "summary": "A SpaceX Falcon 9 rocket carrying 29 Starlink satellites lifted off from the Cape Canaveral Space Force Station in Florida on Monday, June 8, 2026. The first stage booster flew for a record 35th time.",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-35-b1067-ccsfs-asog",
-          "source": "Space.com",
-          "date": "2026-06-08"
         }
       ]
     },
     "Animals & Nature": {
       "emoji": "🐾",
       "articles": [
-        {
-          "title": "Fossil discovery shows the interaction between giant marine reptiles",
-          "summary": "Approximately 160 million years ago, during the Age of Dinosaurs, giant marine reptiles ruled the seas. One such creature, an ichthyosaur, swam in a sea near present-day Peterborough, England. This huge animal, shaped…",
-          "url": "https://phys.org/news/2026-06-fossil-discovery-interaction-giant-marine.html",
-          "source": "Phys.org",
-          "date": "2026-06-10"
-        },
         {
           "title": "Wildlife thrives in solar farm built on restored peatland",
           "summary": "A diverse range of bird species has been recorded at a solar park on rewetted peatland in Germany, suggesting that combining energy generation with habitat restoration could benefit biodiversity, the climate and the…",
@@ -99,17 +92,24 @@
           "date": "2026-06-08"
         },
         {
-          "title": "Acoustic environment may explain why some bird songs outlast others",
-          "summary": "From melodic morning choruses to territorial songs that echo through forests and grasslands, birds rely on vocalizations to communicate, attract mates and defend valuable habitat. For songbirds, these vocal displays are…",
-          "url": "https://phys.org/news/2026-06-acoustic-environment-bird-songs-outlast.html",
-          "source": "Phys.org",
+          "title": "The asteroid that wiped out the dinosaurs may have created a vast underground habitat for life that lasted 8 million years",
+          "summary": "The asteroid impact that triggered the extinction of the dinosaurs may also have created one of Earth's most enduring habitats for life.",
+          "url": "https://www.space.com/astronomy/asteroids/the-asteroid-that-wiped-out-the-dinosaurs-may-have-created-a-vast-underground-habitat-for-life-that-lasted-8-million-years",
+          "source": "Space.com",
           "date": "2026-06-10"
         },
         {
-          "title": "Newfound 'whale necropolis' reveals 5.3 million years of seafloor life",
-          "summary": "Whale falls form when whale carcasses sink to the seafloor, creating localized concentrations of biodiversity in the deep ocean. Besides playing a role in long-term carbon sequestration, whale falls help scientists…",
-          "url": "https://phys.org/news/2026-06-newfound-whale-necropolis-reveals-million.html",
-          "source": "Phys.org",
+          "title": "Millions of fossil whale bones found in deep-ocean ‘necropolis’",
+          "summary": "Researchers diving 7 kilometres deep in a crewed submersible have discovered a vast collection of whale bones, including fossils up to 5 million years old and species new to science",
+          "url": "https://www.newscientist.com/article/2529864-millions-of-fossil-whale-bones-found-in-deep-ocean-necropolis/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "source": "New Scientist",
+          "date": "2026-06-10"
+        },
+        {
+          "title": "Wolves seen hunting European bison in rare camera-trap recording",
+          "summary": "Europe’s largest land animal, the bison, is thought to be relatively unthreatened by predators, but footage from Białowieża Primaeval Forest in Poland shows it does face attacks from wolves",
+          "url": "https://www.newscientist.com/article/2529929-wolves-seen-hunting-european-bison-in-rare-camera-trap-recording/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "source": "New Scientist",
           "date": "2026-06-10"
         },
         {
@@ -125,32 +125,11 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Odds climb for record El Niño as 75% of models predict 2.5C warming",
-          "summary": "Europe's Copernicus Climate Change Service on Wednesday said global forecasters were increasingly confident that a very strong El Niño warming weather pattern could form later this year.",
-          "url": "https://phys.org/news/2026-06-odds-climb-el-nio-25c.html",
+          "title": "Massive Kamchatka earthquake has extended rupture that overlaps 1952 event, researchers find",
+          "summary": "Researchers combining two methods to reconstruct the rupture evolution of the July 2025 magnitude 8.8 Kamchatka earthquake found the rupture from the megathrust event extended about 500 kilometers (311 miles) from its…",
+          "url": "https://phys.org/news/2026-06-massive-kamchatka-earthquake-rupture-overlaps.html",
           "source": "Phys.org",
-          "date": "2026-06-10"
-        },
-        {
-          "title": "Tyndall's Trail of Bergs: Ice splintered off southern Patagonia glacier drifts across a growing glacial lake",
-          "summary": "The Southern Patagonian Icefield is the largest expanse of ice in the Southern Hemisphere outside Antarctica. The mass of glacial ice extends hundreds of kilometers along the spine of the Andes, feeding dozens of…",
-          "url": "https://phys.org/news/2026-06-tyndall-trail-bergs-ice-splintered.html",
-          "source": "Phys.org",
-          "date": "2026-06-10"
-        },
-        {
-          "title": "Retreating glaciers increase iceberg sightings and reshape deep-sea habitats",
-          "summary": "The number of icebergs in the Arctic has increased sharply since the 2000s. This is due to the destabilization of large glaciers in northeast Greenland and parts of the Russian Arctic, as well as the increasing mobility…",
-          "url": "https://phys.org/news/2026-06-retreating-glaciers-iceberg-sightings-reshape.html",
-          "source": "Phys.org",
-          "date": "2026-06-10"
-        },
-        {
-          "title": "Fragmented environmental policies risk costly failures, experts warn",
-          "summary": "Current climate and nature policies are working at cross-purposes, wasting public funds and causing unintended damage to ecosystems, according to a major new report co-authored by a University of York researcher.",
-          "url": "https://phys.org/news/2026-06-fragmented-environmental-policies-failures-experts.html",
-          "source": "Phys.org",
-          "date": "2026-06-10"
+          "date": "2026-06-11"
         },
         {
           "title": "These record-breaking black hole winds could create a category 79 hurricane on Earth",
@@ -158,6 +137,27 @@
           "url": "https://www.space.com/astronomy/black-holes/these-record-breaking-black-hole-winds-could-create-a-category-79-hurricane-on-earth",
           "source": "Space.com",
           "date": "2026-06-09"
+        },
+        {
+          "title": "Severe weather threat upgraded today for Midwest",
+          "summary": "Severe weather is expected Thursday across the Midwest and Great Lakes region. Tornadoes, destructive wind and large hail are possible. The post Severe weather threat upgraded today for Midwest first appeared on…",
+          "url": "https://earthsky.org/earth/severe-weather-in-upper-midwest-expected-june-10-11/",
+          "source": "EarthSky",
+          "date": "2026-06-11"
+        },
+        {
+          "title": "What is airglow? This glowing light is not an aurora",
+          "summary": "Airglow is a light that occurs high in Earth's atmosphere. It's usually too dim to see with the eye, but photographers can capture glorious photographs of it. The post What is airglow? This glowing light is not an…",
+          "url": "https://earthsky.org/earth/what-is-airglow-not-aurora/",
+          "source": "EarthSky",
+          "date": "2026-06-11"
+        },
+        {
+          "title": "A nuclear war between India and Pakistan could destroy the ozone layer",
+          "summary": "Climate models suggest a small nuclear war in the tropics would do even more damage to the ozone layer than a larger nuclear war in more northerly latitudes, increasing exposure to dangerous ultraviolet radiation all…",
+          "url": "https://www.newscientist.com/article/2529589-a-nuclear-war-between-india-and-pakistan-could-destroy-the-ozone-layer/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "source": "New Scientist",
+          "date": "2026-06-10"
         }
       ]
     },
@@ -165,10 +165,24 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "Study finds robotic mowers improve Florida lawn health while reducing maintenance",
-          "summary": "For many Florida homeowners, lawn mowing can feel like a never-ending chore, especially in the heat of summer. New guidance from experts suggests autonomous or robotic lawn mowers can ease that burden while effectively…",
-          "url": "https://phys.org/news/2026-06-robotic-mowers-florida-lawn-health.html",
-          "source": "Phys.org",
+          "title": "Scientists built a battery-free device that turns sunlight into fuel",
+          "summary": "Scientists have developed an artificial photosynthesis system that essentially regulates itself, eliminating the need for batteries used in many current designs. The key innovation is an electrolyzer that automatically…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260611024601.htm",
+          "source": "Science Daily",
+          "date": "2026-06-11"
+        },
+        {
+          "title": "Fully autonomous drones have killed human soldiers for the first time",
+          "summary": "A senior figure in the Ukrainian defence industry told New Scientist that a test took place two years ago involving fully autonomous drones set to destroy anything in a given area, with confirmed casualties",
+          "url": "https://www.newscientist.com/article/2529849-fully-autonomous-drones-have-killed-human-soldiers-for-the-first-time/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "source": "New Scientist",
+          "date": "2026-06-10"
+        },
+        {
+          "title": "'Voltron: Legendary Defender' turns 10 today, and we think this mecha robot reboot was just as good as 'Power Rangers' and 'Transformers'",
+          "summary": "Voltron may sound like an ointment for back pain, but the reboot Legendary Defender demonstrates that there's more to the big stompy robots concept than meets the eye.",
+          "url": "https://www.space.com/entertainment/space-movies-shows/voltron-legendary-defender-turns-10-today-and-we-think-this-mecha-robot-reboot-was-just-as-good-as-power-rangers-and-transformers",
+          "source": "Space.com",
           "date": "2026-06-10"
         },
         {
@@ -184,6 +198,27 @@
       "emoji": "⚡",
       "articles": [
         {
+          "title": "Electron matter waves gain ultrafast torque that flips handedness in femtoseconds",
+          "summary": "Many natural processes, ranging from magnetism to chemical reactions, entail the movement and rotation of particles at very small scales. In quantum mechanics, particles exhibit both particle-like and wave-like…",
+          "url": "https://phys.org/news/2026-06-electron-gain-ultrafast-torque-flips.html",
+          "source": "Phys.org",
+          "date": "2026-06-11"
+        },
+        {
+          "title": "Earth's energy imbalance has doubled—here's why that matters",
+          "summary": "Heat waves across Europe and South Asia have dominated the news recently. But these events are really a surface expression of more fundamental changes affecting our planet: Earth itself is accumulating heat faster than…",
+          "url": "https://phys.org/news/2026-06-earth-energy-imbalance.html",
+          "source": "Phys.org",
+          "date": "2026-06-11"
+        },
+        {
+          "title": "Soccer Meets Space Science",
+          "summary": "A soccer ball floats in microgravity in this March 2, 2026, picture from the International Space Station. The space station crew tested soccer balls to study how internal mass affects motion and stability in…",
+          "url": "https://www.nasa.gov/image-article/soccer-meets-space-science/",
+          "source": "NASA",
+          "date": "2026-06-11"
+        },
+        {
           "title": "Scientists think they solved the mystery of the Amaterasu particle",
           "summary": "The mysterious Amaterasu particle may not be a proton at all. New research suggests that some of the most extreme cosmic rays could be ultraheavy atomic nuclei, heavier than iron, which are better able to retain their…",
           "url": "https://www.sciencedaily.com/releases/2026/06/260608040015.htm",
@@ -191,25 +226,11 @@
           "date": "2026-06-09"
         },
         {
-          "title": "Giant kelp's microscopic light antenna could inspire innovative climate solutions",
-          "summary": "New research reveals the microscopic machinery that helps giant kelp turn sunlight into energy, providing inspiration for innovative climate solutions. The study, published in Nature Communications, mapped one of the…",
-          "url": "https://phys.org/news/2026-06-giant-kelp-microscopic-antenna-climate.html",
-          "source": "Phys.org",
-          "date": "2026-06-10"
-        },
-        {
           "title": "Why we should all take quantum physics extremely personally",
           "summary": "Physics is considered a cold, hard science – but it will transform your life if you view it with a bit more subjectivity, says Karmela Padavic-Callaghan",
           "url": "https://www.newscientist.com/article/2529183-why-we-should-all-take-quantum-physics-extremely-personally/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
           "source": "New Scientist",
           "date": "2026-06-09"
-        },
-        {
-          "title": "Scientists found a surprisingly simple way to create powerful quantum states",
-          "summary": "A team at the University of Chicago has discovered a surprisingly simple way to create powerful quantum states that are normally difficult to produce. By making small adjustments to the energy levels of atoms inside an…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260606075510.htm",
-          "source": "Science Daily",
-          "date": "2026-06-06"
         }
       ]
     }
