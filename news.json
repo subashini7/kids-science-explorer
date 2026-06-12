@@ -1,43 +1,43 @@
 {
-  "updated": "2026-06-11T16:55:50Z",
+  "updated": "2026-06-12T16:18:50Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "Scientists turn tofu and cheese waste into tiny CO2-catching beads",
-          "summary": "Scientists have developed biodegradable protein beads made from dairy and tofu waste that can capture carbon dioxide from the atmosphere more efficiently than many current technologies. Unlike conventional systems that…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260611024555.htm",
-          "source": "Science Daily",
-          "date": "2026-06-11"
+          "title": "AI tracks missing hydrogen atoms in crystals with 97% success rate",
+          "summary": "Artificial intelligence is often used to generate images. In research, specialized AI models are used for scientific applications—for example, to predict the positions of atoms in materials. The MatterGen model…",
+          "url": "https://phys.org/news/2026-06-ai-tracks-hydrogen-atoms-crystals.html",
+          "source": "Phys.org",
+          "date": "2026-06-12"
         },
         {
-          "title": "Scientists propose a radical new theory for how life began on Earth",
-          "summary": "Researchers propose that tiny mineral nanoparticles may have been the hidden engines that transformed Earth’s early chemistry into the first building blocks of life. By acting as natural catalysts and energy processors…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260610003054.htm",
-          "source": "Science Daily",
-          "date": "2026-06-10"
+          "title": "Why birds ignore Newton: New theory could sharpen models of flocks, crowds and cells",
+          "summary": "Birds in flocks, bacteria and cells: In many collective systems, individual elements respond to only part of their surroundings, seemingly defying Newton's third law of motion—action equals reaction. These exceptions…",
+          "url": "https://phys.org/news/2026-06-birds-newton-theory-sharpen-flocks.html",
+          "source": "Phys.org",
+          "date": "2026-06-12"
         },
         {
-          "title": "Air Pollution’s Daily Pulse Over the Northeast",
-          "summary": "The TEMPO mission helped scientists track morning nitrogen dioxide that contributed to afternoon ozone along the New York–Washington corridor in May 2026.",
-          "url": "https://science.nasa.gov/earth/earth-observatory/air-pollutions-daily-pulse-over-the-northeast/",
-          "source": "NASA",
-          "date": "2026-06-11"
+          "title": "These tiny holes could change how the world cleans water",
+          "summary": "A new nature-inspired membrane uses perfectly uniform one-nanometer pores to filter molecules with remarkable precision. The technology could transform industries such as pharmaceuticals and textiles by reducing energy…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260612032049.htm",
+          "source": "Science Daily",
+          "date": "2026-06-12"
         },
         {
-          "title": "Scientists discover a strange property in rice and turn it into a smart material",
-          "summary": "Scientists discovered that rice behaves in a highly unusual way: it weakens under rapid compression but stays stronger when pressure is applied slowly. Using this effect, they engineered a new material that reacts…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260611024621.htm",
+          "title": "Stanford scientists regrow lost cartilage and reverse arthritis in major breakthrough",
+          "summary": "A new treatment that blocks an aging-related protein restored lost cartilage in old mice and helped prevent arthritis after knee injuries. Human cartilage samples showed similar signs of regeneration, raising hopes for…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260612021604.htm",
           "source": "Science Daily",
-          "date": "2026-06-11"
+          "date": "2026-06-12"
         },
         {
-          "title": "Scientists shut down cancer DNA repair to overcome drug resistance",
-          "summary": "Cancer cells often survive treatment by fixing the DNA damage that therapy is meant to cause. Researchers found that UNI418 can disrupt this repair ability, leaving cancer cells more exposed. When combined with a PARP…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260610003052.htm",
+          "title": "Ancient DNA shared with Neanderthals may explain human language",
+          "summary": "A tiny set of ancient genetic “switches” may have played a surprisingly large role in making human language possible. Researchers found that these DNA regions, which act like volume controls for genes involved in brain…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260611024612.htm",
           "source": "Science Daily",
-          "date": "2026-06-10"
+          "date": "2026-06-12"
         }
       ]
     },
@@ -45,18 +45,11 @@
       "emoji": "🚀",
       "articles": [
         {
-          "title": "NASA reveals Artemis 3 astronauts for critical moon lander test flight",
-          "summary": "NASA named the astronauts who will launch on its Artemis 3 mission next year to test docking procedures in Earth orbit ahead of a planned moon landing in 2028.",
-          "url": "https://www.space.com/space-exploration/artemis/nasa-reveals-artemis-3-astronaut-crew",
-          "source": "Space.com",
-          "date": "2026-06-09"
-        },
-        {
-          "title": "NASA to Preview Katalyst Mission to Boost Swift Spacecraft’s Orbit",
-          "summary": "NASA will host an audio-only media teleconference at 11 a.m. EDT, Wednesday, June 17, to preview the Katalyst Space mission to boost the orbit of NASA’s Neil Gehrels Swift Observatory. Katalyst’s robotic servicing…",
-          "url": "https://www.nasa.gov/news-release/nasa-to-preview-katalyst-mission-to-boost-swift-spacecrafts-orbit/",
+          "title": "Black Eye Galaxy",
+          "summary": "This March 20, 2026, image of Messier 64, or the Black Eye Galaxy, is a composite view from NASA’s Hubble Space Telescope and James Webb Space Telescope. It shows Messier 64 captured at near- and mid-infrared…",
+          "url": "https://www.nasa.gov/image-article/black-eye-galaxy/",
           "source": "NASA",
-          "date": "2026-06-11"
+          "date": "2026-06-12"
         },
         {
           "title": "NASA reveals Artemis III crew for one of the most complex space missions ever",
@@ -66,31 +59,31 @@
           "date": "2026-06-11"
         },
         {
-          "title": "On the hunt for cosmic dawn and the universe's very first stars",
-          "summary": "After only four short years, NASA's James Webb Space Telescope (JWST) and observational cosmologists like Richard Ellis at University College London (UCL) have pushed the cosmic lookback time to an era when the…",
-          "url": "https://phys.org/news/2026-06-cosmic-dawn-universe-stars.html",
+          "title": "Photo: Hubble and Webb offer new view of Black Eye Galaxy",
+          "summary": "This March 20, 2026, image of Messier 64, or the Black Eye Galaxy, is a composite view from NASA's Hubble Space Telescope and James Webb Space Telescope. It shows Messier 64 captured at near- and mid-infrared…",
+          "url": "https://phys.org/news/2026-06-photo-hubble-webb-view-black.html",
           "source": "Phys.org",
-          "date": "2026-06-11"
+          "date": "2026-06-12"
         },
         {
-          "title": "James Webb Space Telescope finds evidence the mysterious 'little red dots' are black hole stars",
-          "summary": "Astronomers using the James Webb Space Telescope may be close to solving the mystery of \"little red dots\" in the early universe.",
-          "url": "https://www.space.com/astronomy/black-holes/james-webb-space-telescope-finds-evidence-the-mysterious-little-red-dots-are-black-hole-stars",
+          "title": "Hubble captures galaxy swarm with lensed arcs from early universe",
+          "summary": "Looking somewhat like a swarm of bees returning to their hive, this NASA Hubble Space Telescope image features the galaxy cluster MACS0329-0211. Galaxy clusters like MACS0329-0211 are important signposts in the story of…",
+          "url": "https://phys.org/news/2026-06-hubble-captures-galaxy-swarm-lensed.html",
+          "source": "Phys.org",
+          "date": "2026-06-12"
+        },
+        {
+          "title": "Satellite-boosting spacecraft inside air-launched rocket | Space photo of the day for June 12, 2026",
+          "summary": "A spacecraft was recently prepped for encapsulation inside of its rocket at one of NASA's launch facilities ahead of its launch to save another satellite.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/satellite-boosting-spacecraft-inside-air-launched-rocket-space-photo-of-the-day-for-june-12-2026",
           "source": "Space.com",
-          "date": "2026-06-10"
+          "date": "2026-06-12"
         }
       ]
     },
     "Animals & Nature": {
       "emoji": "🐾",
       "articles": [
-        {
-          "title": "Wildlife thrives in solar farm built on restored peatland",
-          "summary": "A diverse range of bird species has been recorded at a solar park on rewetted peatland in Germany, suggesting that combining energy generation with habitat restoration could benefit biodiversity, the climate and the…",
-          "url": "https://www.newscientist.com/article/2529590-wildlife-thrives-in-solar-farm-built-on-restored-peatland/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-          "source": "New Scientist",
-          "date": "2026-06-08"
-        },
         {
           "title": "The asteroid that wiped out the dinosaurs may have created a vast underground habitat for life that lasted 8 million years",
           "summary": "The asteroid impact that triggered the extinction of the dinosaurs may also have created one of Earth's most enduring habitats for life.",
@@ -106,18 +99,25 @@
           "date": "2026-06-10"
         },
         {
+          "title": "The missing notebooks that solved a 55-million-year-old fossil mystery",
+          "summary": "A spectacular fossil fish discovered on a remote cliff in New Zealand nearly 30 years ago has finally revealed its full story thanks to an unexpected discovery: the original collector’s long-lost field notebooks. The…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260612032038.htm",
+          "source": "Science Daily",
+          "date": "2026-06-12"
+        },
+        {
+          "title": "New findings complete first evolutionary history of all living millipede orders, dating back 460 million years",
+          "summary": "Long before vertebrates walked on land, millipedes had the place to themselves. Hundreds of millions of years before dinosaurs arrived, these early decomposers were helping establish Earth's terrestrial ecosystems. But…",
+          "url": "https://phys.org/news/2026-06-evolutionary-history-millipede-dating-million.html",
+          "source": "Phys.org",
+          "date": "2026-06-12"
+        },
+        {
           "title": "Wolves seen hunting European bison in rare camera-trap recording",
           "summary": "Europe’s largest land animal, the bison, is thought to be relatively unthreatened by predators, but footage from Białowieża Primaeval Forest in Poland shows it does face attacks from wolves",
           "url": "https://www.newscientist.com/article/2529929-wolves-seen-hunting-european-bison-in-rare-camera-trap-recording/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
           "source": "New Scientist",
           "date": "2026-06-10"
-        },
-        {
-          "title": "Frozen squirrel scat preserves ancient DNA from hundreds of species",
-          "summary": "A complex ecosystem of woolly mammoths, bison, horses and big cats has been elucidated by studying the faeces of small rodents that probably ate the bigger animals",
-          "url": "https://www.newscientist.com/article/2529635-frozen-squirrel-scat-preserves-ancient-dna-from-hundreds-of-species/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-          "source": "New Scientist",
-          "date": "2026-06-09"
         }
       ]
     },
@@ -125,11 +125,25 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Massive Kamchatka earthquake has extended rupture that overlaps 1952 event, researchers find",
-          "summary": "Researchers combining two methods to reconstruct the rupture evolution of the July 2025 magnitude 8.8 Kamchatka earthquake found the rupture from the megathrust event extended about 500 kilometers (311 miles) from its…",
-          "url": "https://phys.org/news/2026-06-massive-kamchatka-earthquake-rupture-overlaps.html",
+          "title": "Tracking the Antarctic ice most at risk of breakup and melting",
+          "summary": "Antarctic sea ice plays a critical role in regulating Earth's climate. It reflects sunlight back into space, insulates the ocean from the atmosphere, and supports unique polar ecosystems.",
+          "url": "https://phys.org/news/2026-06-tracking-antarctic-ice-breakup.html",
           "source": "Phys.org",
-          "date": "2026-06-11"
+          "date": "2026-06-12"
+        },
+        {
+          "title": "Meltwater is causing Antarctic glaciers to flow faster toward the ocean",
+          "summary": "In a new study, Professor Shin Sugiyama of Hokkaido University and his team have directly confirmed for the first time that water from melting snow and ice, or meltwater, found at the surface of a glacier can drain to…",
+          "url": "https://phys.org/news/2026-06-meltwater-antarctic-glaciers-faster-ocean.html",
+          "source": "Phys.org",
+          "date": "2026-06-12"
+        },
+        {
+          "title": "Climate change is causing fish to move to cooler water—what if their escape route is blocked?",
+          "summary": "Around the world, ocean warming is causing fish to move poleward in search of cooler water.",
+          "url": "https://phys.org/news/2026-06-climate-fish-cooler-route-blocked.html",
+          "source": "Phys.org",
+          "date": "2026-06-12"
         },
         {
           "title": "These record-breaking black hole winds could create a category 79 hurricane on Earth",
@@ -144,26 +158,26 @@
           "url": "https://earthsky.org/earth/severe-weather-in-upper-midwest-expected-june-10-11/",
           "source": "EarthSky",
           "date": "2026-06-11"
-        },
-        {
-          "title": "What is airglow? This glowing light is not an aurora",
-          "summary": "Airglow is a light that occurs high in Earth's atmosphere. It's usually too dim to see with the eye, but photographers can capture glorious photographs of it. The post What is airglow? This glowing light is not an…",
-          "url": "https://earthsky.org/earth/what-is-airglow-not-aurora/",
-          "source": "EarthSky",
-          "date": "2026-06-11"
-        },
-        {
-          "title": "A nuclear war between India and Pakistan could destroy the ozone layer",
-          "summary": "Climate models suggest a small nuclear war in the tropics would do even more damage to the ozone layer than a larger nuclear war in more northerly latitudes, increasing exposure to dangerous ultraviolet radiation all…",
-          "url": "https://www.newscientist.com/article/2529589-a-nuclear-war-between-india-and-pakistan-could-destroy-the-ozone-layer/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-          "source": "New Scientist",
-          "date": "2026-06-10"
         }
       ]
     },
     "Technology & Inventions": {
       "emoji": "🤖",
       "articles": [
+        {
+          "title": "Engineering quantum Hall stripes in 2D materials inside electromagnetic cavities",
+          "summary": "Quantum materials, materials with properties that are governed by the laws of quantum mechanics, have proved to be highly promising for the development of ultra-efficient electronic devices, quantum processors, highly…",
+          "url": "https://phys.org/news/2026-06-quantum-hall-stripes-2d-materials.html",
+          "source": "Phys.org",
+          "date": "2026-06-12"
+        },
+        {
+          "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
+          "summary": "Scientists at the University of Hong Kong have created a remarkable new type of brain-inspired chip that can function just above absolute zero, one of the coldest environments imaginable. By using a standard silicon…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
+          "source": "Science Daily",
+          "date": "2026-06-12"
+        },
         {
           "title": "Scientists built a battery-free device that turns sunlight into fuel",
           "summary": "Scientists have developed an artificial photosynthesis system that essentially regulates itself, eliminating the need for batteries used in many current designs. The key innovation is an electrolyzer that automatically…",
@@ -172,25 +186,18 @@
           "date": "2026-06-11"
         },
         {
+          "title": "Quantum computer quickly mines cryptocurrency while using less energy",
+          "summary": "A superconducting quantum computer is part of a network that is mining an experimental cryptocurrency called Quip, and it is able to do it faster and with better energy efficiency than conventional machines",
+          "url": "https://www.newscientist.com/article/2529973-quantum-computer-quickly-mines-cryptocurrency-while-using-less-energy/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "source": "New Scientist",
+          "date": "2026-06-12"
+        },
+        {
           "title": "Fully autonomous drones have killed human soldiers for the first time",
           "summary": "A senior figure in the Ukrainian defence industry told New Scientist that a test took place two years ago involving fully autonomous drones set to destroy anything in a given area, with confirmed casualties",
           "url": "https://www.newscientist.com/article/2529849-fully-autonomous-drones-have-killed-human-soldiers-for-the-first-time/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
           "source": "New Scientist",
           "date": "2026-06-10"
-        },
-        {
-          "title": "'Voltron: Legendary Defender' turns 10 today, and we think this mecha robot reboot was just as good as 'Power Rangers' and 'Transformers'",
-          "summary": "Voltron may sound like an ointment for back pain, but the reboot Legendary Defender demonstrates that there's more to the big stompy robots concept than meets the eye.",
-          "url": "https://www.space.com/entertainment/space-movies-shows/voltron-legendary-defender-turns-10-today-and-we-think-this-mecha-robot-reboot-was-just-as-good-as-power-rangers-and-transformers",
-          "source": "Space.com",
-          "date": "2026-06-10"
-        },
-        {
-          "title": "You don't need to worry about recursive-self-improving AI – yet",
-          "summary": "Anthropic has warned that recursive-self-improving AI could be on the horizon, but the truth is the company is more immediately concerned with marketing itself for a blockbuster initial public offering on the stock…",
-          "url": "https://www.newscientist.com/article/2529553-you-dont-need-to-worry-about-recursive-self-improving-ai-yet/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-          "source": "New Scientist",
-          "date": "2026-06-08"
         }
       ]
     },
@@ -198,18 +205,11 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "Electron matter waves gain ultrafast torque that flips handedness in femtoseconds",
-          "summary": "Many natural processes, ranging from magnetism to chemical reactions, entail the movement and rotation of particles at very small scales. In quantum mechanics, particles exhibit both particle-like and wave-like…",
-          "url": "https://phys.org/news/2026-06-electron-gain-ultrafast-torque-flips.html",
-          "source": "Phys.org",
-          "date": "2026-06-11"
-        },
-        {
-          "title": "Earth's energy imbalance has doubled—here's why that matters",
-          "summary": "Heat waves across Europe and South Asia have dominated the news recently. But these events are really a surface expression of more fundamental changes affecting our planet: Earth itself is accumulating heat faster than…",
-          "url": "https://phys.org/news/2026-06-earth-energy-imbalance.html",
-          "source": "Phys.org",
-          "date": "2026-06-11"
+          "title": "One-way quantum synchronization could make quantum computers more reliable",
+          "summary": "Scientists at RIKEN have proposed a new way to make quantum systems synchronize in only one direction—like a one-way street for sound particles known as phonons. The breakthrough combines two quantum effects to create a…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260611024619.htm",
+          "source": "Science Daily",
+          "date": "2026-06-12"
         },
         {
           "title": "Soccer Meets Space Science",
@@ -219,11 +219,11 @@
           "date": "2026-06-11"
         },
         {
-          "title": "Scientists think they solved the mystery of the Amaterasu particle",
-          "summary": "The mysterious Amaterasu particle may not be a proton at all. New research suggests that some of the most extreme cosmic rays could be ultraheavy atomic nuclei, heavier than iron, which are better able to retain their…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260608040015.htm",
-          "source": "Science Daily",
-          "date": "2026-06-09"
+          "title": "A cornerstone of Milky Way history may need rewriting with evidence of multiple ancient mergers",
+          "summary": "Astronomers may have uncovered new details about one of the Milky Way's most important ancient collisions. Using data from the Dark Energy Spectroscopic Instrument (DESI) and a new clustering algorithm, researchers have…",
+          "url": "https://phys.org/news/2026-06-cornerstone-milky-history-rewriting-evidence.html",
+          "source": "Phys.org",
+          "date": "2026-06-12"
         },
         {
           "title": "Why we should all take quantum physics extremely personally",
@@ -231,6 +231,13 @@
           "url": "https://www.newscientist.com/article/2529183-why-we-should-all-take-quantum-physics-extremely-personally/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
           "source": "New Scientist",
           "date": "2026-06-09"
+        },
+        {
+          "title": "Giant underground neutrino detector brings scientists closer to cracking the neutrino puzzle",
+          "summary": "Deep beneath the ground in China, the massive JUNO neutrino observatory has delivered its first major scientific breakthrough, achieving one of the most precise measurements yet of how elusive neutrinos change as they…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260612032026.htm",
+          "source": "Science Daily",
+          "date": "2026-06-12"
         }
       ]
     }
