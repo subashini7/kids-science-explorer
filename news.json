@@ -1,29 +1,22 @@
 {
-  "updated": "2026-06-14T15:07:43Z",
+  "updated": "2026-06-15T17:58:18Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "What powered the Earth's earliest life?",
-          "summary": "Early biological systems likely relied on RNA molecules to copy themselves and drive simple chemical reactions. Any system that could generate guanosine-triphosphate (GTP)—which is necessary for RNA synthesis—from…",
-          "url": "https://phys.org/news/2026-06-powered-earth-earliest-life.html",
-          "source": "Phys.org",
+          "title": "Scientists crack a decades-old CO2 problem and triple fuel production",
+          "summary": "A new catalyst design could significantly improve the conversion of CO2 into methanol, an important fuel and chemical feedstock. Researchers separated key reaction steps across different catalyst sites, avoiding a…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260613034234.htm",
+          "source": "Science Daily",
           "date": "2026-06-14"
         },
         {
-          "title": "Unique chromium beam experiment unlocks cosmic ray origins and galactic chemistry",
-          "summary": "When a star dies, it generates an explosion of elemental nuclei and hurls them into space. Those elements, called cosmic rays, travel at nearly the speed of light, and eventually some of them encounter manmade…",
-          "url": "https://phys.org/news/2026-06-unique-chromium-cosmic-ray-galactic.html",
+          "title": "Chemists reveal one-step 'alkyl swap' that rewrites key amines for drug discovery",
+          "summary": "For more than a century, chemists have been building complex molecules step by step—bond by bond, atom by atom. But what if, instead of painstakingly reassembling molecules, they could be directly \"rewritten\"? This is…",
+          "url": "https://phys.org/news/2026-06-chemists-reveal-alkyl-swap-rewrites.html",
           "source": "Phys.org",
-          "date": "2026-06-14"
-        },
-        {
-          "title": "Water molecule unlocks faster interfacial polymerization by lowering energy barrier",
-          "summary": "Researchers at The Hong Kong University of Science and Technology (HKUST) have achieved two major breakthroughs in interfacial polymerization, a key technique for preparing advanced functional materials. By integrating…",
-          "url": "https://phys.org/news/2026-06-molecule-faster-interfacial-polymerization-lowering.html",
-          "source": "Phys.org",
-          "date": "2026-06-13"
+          "date": "2026-06-15"
         },
         {
           "title": "These tiny holes could change how the world cleans water",
@@ -33,10 +26,17 @@
           "date": "2026-06-12"
         },
         {
-          "title": "Stanford scientists regrow lost cartilage and reverse arthritis in major breakthrough",
-          "summary": "A new treatment that blocks an aging-related protein restored lost cartilage in old mice and helped prevent arthritis after knee injuries. Human cartilage samples showed similar signs of regeneration, raising hopes for…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260612021604.htm",
-          "source": "Science Daily",
+          "title": "Critical cellular system discovery may lead to treatment of some cancers",
+          "summary": "A molecular geneticist at Montana State University has discovered a cellular process once believed impossible by scientists—the creation of the amino acid cysteine within a living cell when the cell's primary systems…",
+          "url": "https://phys.org/news/2026-06-critical-cellular-discovery-treatment-cancers.html",
+          "source": "Phys.org",
+          "date": "2026-06-15"
+        },
+        {
+          "title": "First working nuclear clock heralds a new era in timekeeping",
+          "summary": "A clock based on radioactive thorium atoms realises a long-held ambition, demonstrating a technology that could eventually beat the accuracy of today’s best atomic clocks",
+          "url": "https://www.newscientist.com/article/2530094-first-working-nuclear-clock-heralds-a-new-era-in-timekeeping/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "source": "New Scientist",
           "date": "2026-06-12"
         }
       ]
@@ -45,6 +45,20 @@
       "emoji": "🚀",
       "articles": [
         {
+          "title": "NASA Astronaut Anil Menon Available for Prelaunch Virtual Interviews",
+          "summary": "NASA astronaut Anil Menon will be available for limited media interviews beginning at 9 a.m. EDT Monday, June 22, to discuss his upcoming mission to the International Space Station as part of Expeditions 74/75. The…",
+          "url": "https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-available-for-prelaunch-virtual-interviews/",
+          "source": "NASA",
+          "date": "2026-06-15"
+        },
+        {
+          "title": "Experience the Launch of NASA’s Roman Space Telescope",
+          "summary": "Are you ready for a new view of the universe? The Nancy Grace Roman Space Telescope will reveal distant worlds, dark energy, and the structure of the cosmos, and we want you to be a part of it!&#160;&#160; Digital…",
+          "url": "https://www.nasa.gov/social-media/nasa-socials-program/experience-the-launch-of-nasas-roman-space-telescope/",
+          "source": "NASA",
+          "date": "2026-06-15"
+        },
+        {
           "title": "Black Eye Galaxy",
           "summary": "This March 20, 2026, image of Messier 64, or the Black Eye Galaxy, is a composite view from NASA’s Hubble Space Telescope and James Webb Space Telescope. It shows Messier 64 captured at near- and mid-infrared…",
           "url": "https://www.nasa.gov/image-article/black-eye-galaxy/",
@@ -52,31 +66,17 @@
           "date": "2026-06-12"
         },
         {
+          "title": "Live from the moon! How lasers connected us all to NASA's Artemis 2 astronauts on their epic lunar trip",
+          "summary": "A laser system, previously tested on board the International Space Station, helped to stream video directly from the Artemis 2 mission on its way around the moon.",
+          "url": "https://www.space.com/astronomy/moon/live-from-the-moon-how-lasers-connected-us-all-to-nasas-artemis-2-astronauts-on-their-epic-lunar-trip",
+          "source": "Space.com",
+          "date": "2026-06-15"
+        },
+        {
           "title": "SpaceX's stock wasn't the company's only launch today — It also put 29 Starlink satellites in orbit",
           "summary": "Liftoff of the Falcon 9 rocket occurred at 8:27 a.m. ET, just over an hour before SpaceX went public on the NASDAQ stock market.",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-54-b1080-ccsfs-asog",
           "source": "Space.com",
-          "date": "2026-06-12"
-        },
-        {
-          "title": "Satellite-boosting spacecraft inside air-launched rocket | Space photo of the day for June 12, 2026",
-          "summary": "A spacecraft was recently prepped for encapsulation inside of its rocket at one of NASA's launch facilities ahead of its launch to save another satellite.",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/satellite-boosting-spacecraft-inside-air-launched-rocket-space-photo-of-the-day-for-june-12-2026",
-          "source": "Space.com",
-          "date": "2026-06-12"
-        },
-        {
-          "title": "James Webb Space Telescope discovers 'galaxy-killing' wind that may explain why some early galaxies lived fast and died young",
-          "summary": "A “galaxy-killing” wind driven by cosmic mergers may explain why many massive galaxies in the early universe stopped forming stars far earlier than expected, according to new JWST and ALMA observations.",
-          "url": "https://www.space.com/astronomy/galaxies/james-webb-space-telescope-discovers-galaxy-killing-wind-that-may-explain-why-some-early-galaxies-lived-fast-and-died-young",
-          "source": "Space.com",
-          "date": "2026-06-11"
-        },
-        {
-          "title": "NASA to Cover 34th SpaceX Resupply Mission Space Station Departure",
-          "summary": "NASA and its international partners are set to receive scientific research samples and hardware as a SpaceX Dragon spacecraft is scheduled to depart the International Space Station on Tuesday, June 16, for its return to…",
-          "url": "https://www.nasa.gov/news-release/nasa-to-cover-34th-spacex-resupply-mission-space-station-departure/",
-          "source": "NASA",
           "date": "2026-06-12"
         }
       ]
@@ -106,18 +106,18 @@
           "date": "2026-06-12"
         },
         {
-          "title": "The deadly tapeworm spreading across America has reached the Pacific Northwest",
-          "summary": "A potentially dangerous tapeworm linked to severe, cancer-like disease has now been found in the Pacific Northwest, marking its first detection in wild animals along the U.S. West Coast. Researchers discovered the…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260611024610.htm",
-          "source": "Science Daily",
-          "date": "2026-06-11"
+          "title": "Pixels preserve world's rarest porpoise to 3D digital archive as extinction risk grows",
+          "summary": "The vaquita (Phocoena sinus), an elusive porpoise found only in the shallow waters of Mexico's northern Gulf of California, is one of the rarest and most endangered marine mammals on Earth. Measuring about 5 feet (1.5…",
+          "url": "https://phys.org/news/2026-06-pixels-world-rarest-porpoise-3d.html",
+          "source": "Phys.org",
+          "date": "2026-06-15"
         },
         {
-          "title": "Millions of fossil whale bones found in deep-ocean ‘necropolis’",
-          "summary": "Researchers diving 7 kilometres deep in a crewed submersible have discovered a vast collection of whale bones, including fossils up to 5 million years old and species new to science",
-          "url": "https://www.newscientist.com/article/2529864-millions-of-fossil-whale-bones-found-in-deep-ocean-necropolis/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-          "source": "New Scientist",
-          "date": "2026-06-10"
+          "title": "Toxic algal blooms linked to deaths of recently stranded humpback whales",
+          "summary": "Marine mammal stranding teams have completed major response activities for two deceased juvenile humpback whales discovered less than 10 miles (16 kilometers) apart in Monterey Bay earlier this month and issued…",
+          "url": "https://phys.org/news/2026-06-toxic-algal-blooms-linked-deaths.html",
+          "source": "Phys.org",
+          "date": "2026-06-15"
         }
       ]
     },
@@ -125,18 +125,32 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "El Niño has started and the weather could get weird",
-          "summary": "Global weather agencies have declared that El Niño has begun, and models show it is more likely than not to be a \"super\" El Niño. The climate pattern boosts extreme weather around the world, and could lead to record…",
-          "url": "https://www.newscientist.com/article/2530202-el-nino-has-started-and-the-weather-could-get-weird/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-          "source": "New Scientist",
-          "date": "2026-06-11"
+          "title": "Northern permafrost switches from carbon sink to carbon source earlier than thought in models including deep soil carbon",
+          "summary": "The Arctic and northern high latitudes are warming about 2–4 times faster than the global average, allowing ancient permafrost to thaw and release stored carbon. These permafrost soils currently store roughly one-third…",
+          "url": "https://phys.org/news/2026-06-northern-permafrost-carbon-source-earlier.html",
+          "source": "Phys.org",
+          "date": "2026-06-15"
         },
         {
-          "title": "World Cup Fever in Guadalajara",
-          "summary": "The city’s metro area has pushed westward since it last hosted World Cup matches in 1986, expanding across a landscape shaped by ancient volcanoes.",
-          "url": "https://science.nasa.gov/earth/earth-observatory/world-cup-fever-in-guadalajara/",
-          "source": "NASA",
-          "date": "2026-06-12"
+          "title": "Kilauea spawns a volcanic tornado, or volnado! See it here",
+          "summary": "On June 14, 2026, the Kilauea volcano in Hawaii produced a volnado, or volcanic-generated tornado. See videos of it here and check out the live cam. The post Kilauea spawns a volcanic tornado, or volnado! See it here…",
+          "url": "https://earthsky.org/earth/ongoing-kilauea-eruption-in-hawaii-live-cam-here/",
+          "source": "EarthSky",
+          "date": "2026-06-15"
+        },
+        {
+          "title": "Wind patterns play surprising role in tropical rainfall trends",
+          "summary": "Changes in wind patterns play the leading role in influencing often devastating tropical rainfall changes, rather than simply the warming atmosphere holding more moisture, according to new research.",
+          "url": "https://phys.org/news/2026-06-patterns-play-role-tropical-rainfall.html",
+          "source": "Phys.org",
+          "date": "2026-06-15"
+        },
+        {
+          "title": "Sun news: Sun-stuff could give us a glancing blow tomorrow",
+          "summary": "Sun news for June 15, 2026: The sun is taking a breather, but a glancing blow from a CME could disturb Earth's magnetic field tomorrow. The post Sun news: Sun-stuff could give us a glancing blow tomorrow first appeared…",
+          "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+          "source": "EarthSky",
+          "date": "2026-06-15"
         },
         {
           "title": "3rd batch of Pentagon UAP files: Orbs and more",
@@ -144,13 +158,6 @@
           "url": "https://earthsky.org/human-world/pentagon-uap-files-ufos-pursue/",
           "source": "EarthSky",
           "date": "2026-06-14"
-        },
-        {
-          "title": "A nuclear war between India and Pakistan could destroy the ozone layer",
-          "summary": "Climate models suggest a small nuclear war in the tropics would do even more damage to the ozone layer than a larger nuclear war in more northerly latitudes, increasing exposure to dangerous ultraviolet radiation all…",
-          "url": "https://www.newscientist.com/article/2529589-a-nuclear-war-between-india-and-pakistan-could-destroy-the-ozone-layer/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-          "source": "New Scientist",
-          "date": "2026-06-10"
         }
       ]
     },
@@ -158,25 +165,11 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "Bidirectional manipulation of gate-free quantum electronic states via semiconductor interface engineering",
-          "summary": "A recent study published in Nature Communications demonstrates precise control over electron spatial arrangement in two directions simultaneously—without any applied voltage—through interface engineering between…",
-          "url": "https://phys.org/news/2026-06-bidirectional-gate-free-quantum-electronic.html",
-          "source": "Phys.org",
-          "date": "2026-06-13"
-        },
-        {
-          "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
-          "summary": "Scientists at the University of Hong Kong have created a remarkable new type of brain-inspired chip that can function just above absolute zero, one of the coldest environments imaginable. By using a standard silicon…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
-          "source": "Science Daily",
-          "date": "2026-06-12"
-        },
-        {
-          "title": "Light-programmed system projects 28-layer 3D images in single shot",
-          "summary": "Researchers at the UCLA Samueli School of Engineering and CNSI (California NanoSystems Institute), led by Professor Aydogan Ozcan, introduced a snapshot 3D image projection system that integrates a digital encoder with…",
-          "url": "https://phys.org/news/2026-06-layer-3d-images-shot.html",
-          "source": "Phys.org",
-          "date": "2026-06-14"
+          "title": "Are useful and error-free quantum computers only two years away?",
+          "summary": "Quantum computing firm QuEra says it plans to make a fault-tolerant quantum computer and offer it to users through the cloud in 2028, which will require a real leap in engineering",
+          "url": "https://www.newscientist.com/article/2530326-are-useful-and-error-free-quantum-computers-only-two-years-away/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "source": "New Scientist",
+          "date": "2026-06-15"
         },
         {
           "title": "How Japanese scientists sent a real-life Transformer to the moon",
@@ -191,6 +184,20 @@
           "url": "https://www.newscientist.com/article/2530304-killer-robots-are-here-we-must-finally-decide-whether-to-accept-them/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
           "source": "New Scientist",
           "date": "2026-06-12"
+        },
+        {
+          "title": "Quantum computer quickly mines cryptocurrency while using less energy",
+          "summary": "A superconducting quantum computer is part of a network that is mining an experimental cryptocurrency called Quip, and it is able to do it faster and with better energy efficiency than conventional machines",
+          "url": "https://www.newscientist.com/article/2529973-quantum-computer-quickly-mines-cryptocurrency-while-using-less-energy/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "source": "New Scientist",
+          "date": "2026-06-12"
+        },
+        {
+          "title": "Oxford physicists just made Schrödinger’s cat even stranger",
+          "summary": "Oxford physicists have created an entirely new type of Schrödinger’s cat-like quantum state using components that are themselves highly quantum in nature. The advance could open new possibilities for more resilient…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260614011848.htm",
+          "source": "Science Daily",
+          "date": "2026-06-15"
         }
       ]
     },
@@ -198,39 +205,25 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "One-way quantum synchronization could make quantum computers more reliable",
-          "summary": "Scientists at RIKEN have proposed a new way to make quantum systems synchronize in only one direction—like a one-way street for sound particles known as phonons. The breakthrough combines two quantum effects to create a…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260611024619.htm",
-          "source": "Science Daily",
-          "date": "2026-06-12"
+          "title": "We have 4 fundamental forces of nature. 'Quantum gravity' could help lead us to a mysterious 5th",
+          "summary": "Scientists think a new framework for quantum gravity could offer clues about a mysterious 5th fundamental force of nature.",
+          "url": "https://www.space.com/astronomy/we-have-4-fundamental-forces-of-nature-quantum-gravity-could-help-lead-us-to-a-mysterious-5th",
+          "source": "Space.com",
+          "date": "2026-06-15"
         },
         {
-          "title": "Fusion reactors could be monitored for covert plutonium production",
-          "summary": "In the next few decades, many physicists are hopeful that nuclear fusion could become a realistic source of practically limitless energy. But before this can happen, it will be critical to ensure that reactors cannot be…",
-          "url": "https://phys.org/news/2026-06-fusion-reactors-covert-plutonium-production.html",
+          "title": "Most precise measurement of the force that binds nuclear matter achieved",
+          "summary": "Trinity's Prof. Stefan Sint, along with collaborators from Germany, Spain and Italy, has published the most precise determination to date of the strong coupling constant. This parameter governs the interactions between…",
+          "url": "https://phys.org/news/2026-06-precise-nuclear.html",
           "source": "Phys.org",
-          "date": "2026-06-13"
+          "date": "2026-06-15"
         },
         {
-          "title": "Soccer Meets Space Science",
-          "summary": "A soccer ball floats in microgravity in this March 2, 2026, picture from the International Space Station. The space station crew tested soccer balls to study how internal mass affects motion and stability in…",
-          "url": "https://www.nasa.gov/image-article/soccer-meets-space-science/",
-          "source": "NASA",
-          "date": "2026-06-11"
-        },
-        {
-          "title": "Giant underground neutrino detector brings scientists closer to cracking the neutrino puzzle",
-          "summary": "Deep beneath the ground in China, the massive JUNO neutrino observatory has delivered its first major scientific breakthrough, achieving one of the most precise measurements yet of how elusive neutrinos change as they…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260612032026.htm",
-          "source": "Science Daily",
-          "date": "2026-06-12"
-        },
-        {
-          "title": "Why we should all take quantum physics extremely personally",
-          "summary": "Physics is considered a cold, hard science – but it will transform your life if you view it with a bit more subjectivity, says Karmela Padavic-Callaghan",
-          "url": "https://www.newscientist.com/article/2529183-why-we-should-all-take-quantum-physics-extremely-personally/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-          "source": "New Scientist",
-          "date": "2026-06-09"
+          "title": "'Everybody came with their A-game': Oscar-winning sound editor Andy Nelson talks reuniting with Spielberg & John Williams for 'Disclosure Day'",
+          "summary": "'The truth is, everybody came with their A-game. Because the script called for it. Steven definitely calls for it.'",
+          "url": "https://www.space.com/entertainment/space-movies-shows/oscar-winning-sound-editor-andy-nelson-talks-reuniting-with-spielberg-and-john-williams-for-disclosure-day",
+          "source": "Space.com",
+          "date": "2026-06-15"
         }
       ]
     }
