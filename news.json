@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T18:04:58Z",
+  "updated": "2026-06-17T16:39:11Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
@@ -9,21 +9,21 @@
           "summary": "A copper-based compound restored the brain’s ability to clear toxic Alzheimer’s proteins, dramatically reducing amyloid buildup and improving memory in laboratory experiments. The findings point to a potentially…",
           "url": "https://www.sciencedaily.com/releases/2026/06/260615033835.htm",
           "source": "Science Daily",
-          "date": "2026-06-16"
+          "date": "2026-06-15"
         },
         {
-          "title": "Scientists crack a decades-old CO2 problem and triple fuel production",
-          "summary": "A new catalyst design could significantly improve the conversion of CO2 into methanol, an important fuel and chemical feedstock. Researchers separated key reaction steps across different catalyst sites, avoiding a…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260613034234.htm",
-          "source": "Science Daily",
-          "date": "2026-06-14"
-        },
-        {
-          "title": "AI decodes plant DNA 'switches' to better predict gene control",
-          "summary": "An international research team led by Forschungszentrum Jülich and the IPK Leibniz Institute has developed an artificial intelligence model that predicts where regulatory proteins dock onto plant DNA to switch genes on…",
-          "url": "https://phys.org/news/2026-06-ai-decodes-dna-gene.html",
+          "title": "Cockroach genomes are packed with DNA transferred by their endosymbiont bacterial partners",
+          "summary": "Genes aren't just transferred from parents to their offspring. Nature has found other ways to pass on genetic information, even between different species. And a new study, published in the journal Proceedings of the…",
+          "url": "https://phys.org/news/2026-06-cockroach-genomes-dna-endosymbiont-bacterial.html",
           "source": "Phys.org",
-          "date": "2026-06-16"
+          "date": "2026-06-17"
+        },
+        {
+          "title": "Drug-free nanoparticles stop tumor growth by transmitting biological messages to immune cells",
+          "summary": "A research team from the Technion's Wolfson Faculty of Chemical Engineering has developed an original technology for treating cancer using nanoparticles that carry no drugs at all and has demonstrated its effectiveness…",
+          "url": "https://phys.org/news/2026-06-drug-free-nanoparticles-tumor-growth.html",
+          "source": "Phys.org",
+          "date": "2026-06-17"
         },
         {
           "title": "Scientists just found a hidden weakness in forever chemicals",
@@ -33,11 +33,11 @@
           "date": "2026-06-16"
         },
         {
-          "title": "Artificial cells gain porous membranes, enabling lab reactions and drug release",
-          "summary": "Artificial cells created in the laboratory offer a wide range of potential applications. Until now, however, their membranes—unlike those of real cells—have been virtually impermeable. Researchers at the Max Planck…",
-          "url": "https://phys.org/news/2026-06-artificial-cells-gain-porous-membranes.html",
-          "source": "Phys.org",
-          "date": "2026-06-16"
+          "title": "Humans may have hidden regenerative powers",
+          "summary": "Scientists have taken a surprising step toward unlocking regeneration in mammals, showing that the ability to rebuild complex body parts may not be lost after all—it may simply be switched off. Using a two-stage…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260617032207.htm",
+          "source": "Science Daily",
+          "date": "2026-06-17"
         }
       ]
     },
@@ -45,39 +45,39 @@
       "emoji": "🚀",
       "articles": [
         {
-          "title": "SpaceX sends 24 Starlink satellites to orbit on 1st launch as a public company (video)",
-          "summary": "A SpaceX Falcon 9 rocket carrying 24 Starlink satellites lifted off from Vandenberg Space Force Base in California on Monday, June 15, 2026.",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-54-b1093-vsfb-ocisly",
-          "source": "Space.com",
-          "date": "2026-06-15"
-        },
-        {
-          "title": "Live from the moon! How lasers connected us all to NASA's Artemis 2 astronauts on their epic lunar trip",
-          "summary": "A laser system, previously tested on board the International Space Station, helped to stream video directly from the Artemis 2 mission on its way around the moon.",
-          "url": "https://www.space.com/astronomy/moon/live-from-the-moon-how-lasers-connected-us-all-to-nasas-artemis-2-astronauts-on-their-epic-lunar-trip",
-          "source": "Space.com",
-          "date": "2026-06-15"
-        },
-        {
-          "title": "NASA’s SpaceX CRS-34 Dragon Returns Packed with Space Station Science",
-          "summary": "Scientists await a big splash in the Pacific Ocean as one of the most research-packed Dragon spacecraft to date returns, completing the 34th SpaceX commercial resupply mission to the International Space Station for…",
-          "url": "https://www.nasa.gov/missions/station/iss-research/nasas-spacex-crs-34-dragon-returns-packed-with-space-station-science/",
+          "title": "NASA’s Webb Catches Exoplanet Getting Roasted",
+          "summary": "That’s the latest from researchers analyzing NASA’s James Webb Space Telescope’s observations of HD 80606 b, an exoplanet four times the mass of Jupiter with an extremely elliptical orbit that sweeps close by its…",
+          "url": "https://science.nasa.gov/missions/webb/nasas-webb-catches-exoplanet-getting-roasted/",
           "source": "NASA",
-          "date": "2026-06-15"
-        },
-        {
-          "title": "NASA's SpaceX CRS-34 Dragon returns packed with space station science",
-          "summary": "Scientists await a big splash in the Pacific Ocean as one of the most research-packed Dragon spacecraft to date returns, completing the 34th SpaceX commercial resupply mission to the International Space Station for…",
-          "url": "https://phys.org/news/2026-06-nasa-spacex-crs-dragon-space.html",
-          "source": "Phys.org",
           "date": "2026-06-16"
         },
         {
-          "title": "Revealing how and when a black hole's mighty winds can squash star formation",
-          "summary": "Thanks to the X-Ray Imaging and Spectroscopy Mission, or XRISM, University of Michigan researchers are helping chip away at one of astronomy's cosmic mysteries: The universe's most massive galaxies appear to be missing…",
-          "url": "https://phys.org/news/2026-06-revealing-black-hole-mighty-star.html",
+          "title": "NASA's Webb catches exoplanet getting roasted",
+          "summary": "One well-done gas giant, coming right up! That's the latest from researchers analyzing NASA's James Webb Space Telescope observations of HD 80606 b, an exoplanet four times the mass of Jupiter with an extremely…",
+          "url": "https://phys.org/news/2026-06-nasa-webb-exoplanet-roasted.html",
           "source": "Phys.org",
+          "date": "2026-06-17"
+        },
+        {
+          "title": "NASA Webb, Hubble Reveal History of Relic of Milky Way’s Formation",
+          "summary": "Researchers using two of humanity’s most powerful observatories — NASA’s James Webb and Hubble Space Telescopes — have definitively shown that Terzan 5 is not a globular star cluster as it was once classified, offering…",
+          "url": "https://science.nasa.gov/missions/webb/nasa-webb-hubble-reveal-history-of-relic-of-milky-ways-formation/",
+          "source": "NASA",
           "date": "2026-06-16"
+        },
+        {
+          "title": "'Best. Mars. Mission. Ever.' Scientists hail MAVEN's legacy as NASA retires Red Planet orbiter",
+          "summary": "NASA's MAVEN Mars mission ended after 11 years, having revealed how the planet lost its atmosphere and served as a key communications relay for surface missions.",
+          "url": "https://www.space.com/astronomy/mars/best-mars-mission-ever-scientists-hail-mavens-legacy-as-nasa-retires-red-planet-orbiter",
+          "source": "Space.com",
+          "date": "2026-06-17"
+        },
+        {
+          "title": "NASA discussing bold mission to boost Swift space telescope today: Listen live",
+          "summary": "NASA will discuss an ambitious mission to boost the orbit of its Swift space telescope during a press conference today (June 17), and you can listen to it live.",
+          "url": "https://www.space.com/space-exploration/missions/nasa-discussing-bold-mission-to-boost-swift-space-telescope-today-listen-live",
+          "source": "Space.com",
+          "date": "2026-06-17"
         }
       ]
     },
@@ -85,18 +85,11 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "The world agreed to protect 30% of the ocean by 2030—but marine protection can't be judged by area alone",
-          "summary": "The ocean is home to some of the richest biodiversity on Earth. From coral reefs and mangrove forests to the deep sea, marine ecosystems sustain countless species, support coastal communities, regulate the climate and…",
-          "url": "https://phys.org/news/2026-06-world-ocean-marine-area.html",
-          "source": "Phys.org",
-          "date": "2026-06-16"
-        },
-        {
-          "title": "Lucy’s hunter revealed: Giant crocodile terrorized early human ancestors",
-          "summary": "A newly identified crocodile species nicknamed “Lucy’s hunter” prowled Ethiopia’s rivers when Lucy’s species walked the Earth more than 3 million years ago. The giant predator was likely the most dangerous animal in the…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260613034229.htm",
+          "title": "On the brink of extinction, the vaquita gets a digital lifeline",
+          "summary": "Scientists have digitally preserved the world’s most endangered marine mammal by creating highly detailed 3D models of a vaquita skeleton using advanced imaging technology. The virtual archive provides an unprecedented…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260616102223.htm",
           "source": "Science Daily",
-          "date": "2026-06-13"
+          "date": "2026-06-17"
         },
         {
           "title": "Dinosaur-killing asteroid created an abode for life",
@@ -118,6 +111,13 @@
           "url": "https://www.sciencedaily.com/releases/2026/06/260615033841.htm",
           "source": "Science Daily",
           "date": "2026-06-16"
+        },
+        {
+          "title": "Millions take calcium and vitamin D for stronger bones. A major review finds little benefit",
+          "summary": "For years, calcium and vitamin D supplements have been promoted as a simple way for older adults to protect their bones and prevent falls. But a massive review of nearly 154,000 people found that calcium, vitamin D, or…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260614011852.htm",
+          "source": "Science Daily",
+          "date": "2026-06-15"
         }
       ]
     },
@@ -125,39 +125,32 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Deep learning helps discover hundreds of Antarctic earthquakes coming from an unlikely location",
-          "summary": "Most of the earthquakes we hear about are due to tectonic plates colliding or sliding past each other near plate boundaries. Yet researchers have detected some enigmatic earthquakes happening inside the more stable…",
-          "url": "https://phys.org/news/2026-06-deep-hundreds-antarctic-earthquakes.html",
+          "title": "Tropical Storm Arthur, the first of the Atlantic season, targets Gulf Coast with heavy rain",
+          "summary": "The first tropical storm of the Atlantic hurricane season formed Wednesday near the Gulf Coast, bringing intense rain and the threat of dangerous flash floods to states including Texas and Louisiana, meteorologists said.",
+          "url": "https://phys.org/news/2026-06-tropical-storm-arthur-atlantic-season.html",
           "source": "Phys.org",
-          "date": "2026-06-16"
+          "date": "2026-06-17"
         },
         {
-          "title": "Digital twin predicts Alaska permafrost changes using real-time sensors and AI",
-          "summary": "Communities around the world have adapted to live on the year-round frozen soil of frigid environments, such as in the Arctic. However, rising temperatures have introduced a new challenge: What happens when the ground…",
-          "url": "https://phys.org/news/2026-06-digital-twin-alaska-permafrost-real.html",
+          "title": "Levels of 'forever chemicals' in dolphins and whales are rising globally",
+          "summary": "Whales and dolphins inhabit some of the largest and seemingly most pristine environments on Earth, from tropical coastlines to Antarctic waters. Yet even they cannot escape PFAS—persistent \"forever chemicals\" that leak…",
+          "url": "https://phys.org/news/2026-06-chemicals-dolphins-whales-globally.html",
           "source": "Phys.org",
-          "date": "2026-06-16"
+          "date": "2026-06-17"
         },
         {
-          "title": "One of the world's most important plate boundaries is older than previously thought",
-          "summary": "A chain of remote islands and underwater volcanoes between Alaska and Kamchatka has revealed a much older chapter in Earth's tectonic history than previously known. Along the Aleutian Arc, the Pacific Plate dives…",
-          "url": "https://phys.org/news/2026-06-world-important-plate-boundaries-older.html",
-          "source": "Phys.org",
-          "date": "2026-06-16"
+          "title": "Midwest tornadoes possible today, flash floods across Gulf?",
+          "summary": "Tornadoes, large hail and damaging winds are expected in the U.S. Midwest on Wednesday, while a tropical system could bring flash floods across the Gulf Coast. The post Midwest tornadoes possible today, flash floods…",
+          "url": "https://earthsky.org/earth/tornadoes-possible-in-midwest-today-flash-floods-for-texas/",
+          "source": "EarthSky",
+          "date": "2026-06-17"
         },
         {
-          "title": "When glaciers vanish, so does the hidden life they support",
-          "summary": "We often hear about glacier melting and predictions of what climate change could do. But very little is mentioned about the effects on ecosystems or the animals that call them home. To redress some of this imbalance, an…",
-          "url": "https://phys.org/news/2026-06-glaciers-hidden-life.html",
-          "source": "Phys.org",
-          "date": "2026-06-16"
-        },
-        {
-          "title": "5.5 magnitude earthquake rattles Tokyo region but no danger of a tsunami, meteorological agency says",
-          "summary": "An earthquake with a preliminary magnitude of 5.5 shook eastern Japan, including Tokyo, on Tuesday, but there was no danger of a tsunami, the meteorological agency said.",
-          "url": "https://phys.org/news/2026-06-magnitude-earthquake-rattles-tokyo-region.html",
-          "source": "Phys.org",
-          "date": "2026-06-16"
+          "title": "El Niño has started and the weather could get weird",
+          "summary": "Global weather agencies have declared that El Niño has begun, and models show it is more likely than not to be a \"super\" El Niño. The climate pattern boosts extreme weather around the world, and could lead to record…",
+          "url": "https://www.newscientist.com/article/2530202-el-nino-has-started-and-the-weather-could-get-weird/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "source": "New Scientist",
+          "date": "2026-06-11"
         }
       ]
     },
@@ -179,11 +172,18 @@
           "date": "2026-06-16"
         },
         {
-          "title": "How Japanese scientists sent a real-life Transformer to the moon",
-          "summary": "An autonomous rolling rover that was able to transform from a sphere into a robot successfully explored a small part of the moon in 2024.",
-          "url": "https://www.space.com/astronomy/moon/how-japanese-scientists-sent-a-real-life-transformer-to-the-moon",
-          "source": "Space.com",
-          "date": "2026-06-13"
+          "title": "Semiconductor chip writes 64 DNA sequences in water, setting new enzymatic benchmark",
+          "summary": "Silicon chips have powered computing for half a century. Increasingly, they are also becoming platforms to read and manipulate biology at scale—recording from many neurons, reading many DNA sequences and now…",
+          "url": "https://phys.org/news/2026-06-semiconductor-chip-dna-sequences-enzymatic.html",
+          "source": "Phys.org",
+          "date": "2026-06-17"
+        },
+        {
+          "title": "Quantum Hall effect gains a new twist in graphene moiré systems",
+          "summary": "Physicists have long been drawn to the nonlinear Hall effect: a subtle variant of the classical Hall effect, in which an electric voltage appears perpendicular to a current flowing through a material. Unlike its…",
+          "url": "https://phys.org/news/2026-06-quantum-hall-effect-gains-graphene.html",
+          "source": "Phys.org",
+          "date": "2026-06-17"
         },
         {
           "title": "Technology is changing our perspective on nature – at every scale",
@@ -191,19 +191,19 @@
           "url": "https://www.newscientist.com/article/2530330-technology-is-changing-our-perspective-on-nature-at-every-scale/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
           "source": "New Scientist",
           "date": "2026-06-16"
-        },
-        {
-          "title": "Oxford physicists just made Schrödinger’s cat even stranger",
-          "summary": "Oxford physicists have created an entirely new type of Schrödinger’s cat-like quantum state using components that are themselves highly quantum in nature. The advance could open new possibilities for more resilient…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260614011848.htm",
-          "source": "Science Daily",
-          "date": "2026-06-15"
         }
       ]
     },
     "Physics": {
       "emoji": "⚡",
       "articles": [
+        {
+          "title": "Quantum sensor overcomes major obstacle in search for dark matter and gravitational waves",
+          "summary": "A prototype quantum sensor developed by researchers at Imperial has demonstrated for the first time that a key principle behind next-generation quantum detectors can work under realistic conditions.",
+          "url": "https://phys.org/news/2026-06-quantum-sensor-major-obstacle-dark.html",
+          "source": "Phys.org",
+          "date": "2026-06-17"
+        },
         {
           "title": "We have 4 fundamental forces of nature. 'Quantum gravity' could help lead us to a mysterious 5th",
           "summary": "Scientists think a new framework for quantum gravity could offer clues about a mysterious 5th fundamental force of nature.",
@@ -212,18 +212,25 @@
           "date": "2026-06-15"
         },
         {
-          "title": "Why hotel crisis plans collapse when panic sets in, according to hospitality leaders",
-          "summary": "Hospitality leaders are being forced to handle far more than operational disruption when crises hit, according to new research from the University of Surrey. Researchers found that modern crises demand emotional…",
-          "url": "https://phys.org/news/2026-06-hotel-crisis-collapse-panic-hospitality.html",
+          "title": "New heat-regulating fabric feels fluffy like cotton—but doesn't get wet",
+          "summary": "Once cotton gets wet, it pulls heat from your body. This is helpful when you're exercising or outside on a hot day, but dangerous in the bitter cold. Now, researchers reporting in ACS Energy Letters have created an…",
+          "url": "https://phys.org/news/2026-06-fabric-fluffy-cotton-doesnt.html",
           "source": "Phys.org",
+          "date": "2026-06-17"
+        },
+        {
+          "title": "A quantum state that lasts forever may finally be within our grasp",
+          "summary": "Defying the laws of thermodynamics, experiments are beginning to show that a quantum state that is frozen forever might not be impossible. If we can tame it, it could unlock whole new types of matter",
+          "url": "https://www.newscientist.com/article/2529039-a-quantum-state-that-lasts-forever-may-finally-be-within-our-grasp/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "source": "New Scientist",
           "date": "2026-06-16"
         },
         {
-          "title": "'Everybody came with their A-game': Oscar-winning sound editor Andy Nelson talks reuniting with Spielberg & John Williams for 'Disclosure Day'",
-          "summary": "'The truth is, everybody came with their A-game. Because the script called for it. Steven definitely calls for it.'",
-          "url": "https://www.space.com/entertainment/space-movies-shows/oscar-winning-sound-editor-andy-nelson-talks-reuniting-with-spielberg-and-john-williams-for-disclosure-day",
+          "title": "Stream Season 3 of Silo in safety, anywhere, with 70% off 24 months of ProtonVPN Plus",
+          "summary": "Can't wait for Season 3 of Silo? Watch this post-apocalyptic smash wherever you are and stay safe online with this superb ProtonVPN deal.",
+          "url": "https://www.space.com/technology/stream-season-3-of-silo-in-safety-anywhere-with-70-percent-off-24-months-of-protonvpn-plus",
           "source": "Space.com",
-          "date": "2026-06-15"
+          "date": "2026-06-17"
         }
       ]
     }
