@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T15:03:17Z",
+  "updated": "2026-06-21T15:11:28Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
@@ -10,13 +10,6 @@
           "url": "https://phys.org/news/2026-06-generative-ai-enables-atomic-scale.html",
           "source": "Phys.org",
           "date": "2026-06-20"
-        },
-        {
-          "title": "AI reveals unexpected source of antibiotic candidates in prion proteins",
-          "summary": "New antibiotic candidates for drug-resistant bacteria may reside inside prions, misfolded proteins in the brain best known for rare and fatal degenerative brain diseases. Prion and prion-like proteins may hide short…",
-          "url": "https://phys.org/news/2026-06-ai-reveals-unexpected-source-antibiotic.html",
-          "source": "Phys.org",
-          "date": "2026-06-19"
         },
         {
           "title": "DNA time stamps reveal the strawberry’s surprising origins",
@@ -33,9 +26,16 @@
           "date": "2026-06-20"
         },
         {
-          "title": "Saturday Citations: Intermittent fasting and chronic stress; macroscopic entanglement; gamma-ray bursts",
-          "summary": "Researchers reported this week a deadly outbreak of plague in Siberia 5,500 years ago, revealing that Yersinia pestis evolved lethal genetic traits far earlier than suspected. A drug developed for heart tissue repair…",
-          "url": "https://phys.org/news/2026-06-saturday-citations-intermittent-fasting-chronic.html",
+          "title": "Ancient Mongolian cemetery reveals power and status mattered more than blood ties",
+          "summary": "On the edge of the Mongolian steppe, overlooking where two rivers meet, lies an ancient cemetery. Buried within are two families, traced through ancient DNA across six generations, surrounded by dozens of \"strangers.\"…",
+          "url": "https://phys.org/news/2026-06-ancient-mongolian-cemetery-reveals-power.html",
+          "source": "Phys.org",
+          "date": "2026-06-20"
+        },
+        {
+          "title": "Faster aptamer screening finds synthetic alternatives to antibodies in days instead of months",
+          "summary": "Aptamers are short DNA or RNA strands that can recognize and bind to a specific target molecule with high precision. Similar to antibodies, they can be used to detect these molecules or modulate their activity. Unlike…",
+          "url": "https://phys.org/news/2026-06-faster-aptamer-screening-synthetic-alternatives.html",
           "source": "Phys.org",
           "date": "2026-06-20"
         }
@@ -52,20 +52,6 @@
           "date": "2026-06-19"
         },
         {
-          "title": "James Webb Space Telescope discovers extreme exoplanet being roasted by its home star",
-          "summary": "Who ordered the roasted exoplanet? Astronomers using the James Webb Space Telescope found a world that really puts the \"hot\" in \"Hot Jupiter.\"",
-          "url": "https://www.space.com/astronomy/exoplanets/james-webb-space-telescope-discovers-extreme-exoplanet-being-roasted-by-its-home-star",
-          "source": "Space.com",
-          "date": "2026-06-17"
-        },
-        {
-          "title": "'Best. Mars. Mission. Ever.' Scientists hail MAVEN's legacy as NASA retires Red Planet orbiter",
-          "summary": "NASA's MAVEN Mars mission ended after 11 years, having revealed how the planet lost its atmosphere and served as a key communications relay for surface missions.",
-          "url": "https://www.space.com/astronomy/mars/best-mars-mission-ever-scientists-hail-mavens-legacy-as-nasa-retires-red-planet-orbiter",
-          "source": "Space.com",
-          "date": "2026-06-17"
-        },
-        {
           "title": "Stages of Star Formation",
           "summary": "This image, captured by NASA&#8217;s James Webb Space Telescope and released on June 5, 2026, shows just a small portion of one of the Orion Molecular Clouds, a long and massive filament of cold gas and dust beyond the…",
           "url": "https://www.nasa.gov/image-article/stages-of-star-formation/",
@@ -78,6 +64,20 @@
           "url": "https://science.nasa.gov/missions/hubble/hubble-glimpses-merging-galaxy-clusters/",
           "source": "NASA",
           "date": "2026-06-18"
+        },
+        {
+          "title": "Black hole winds may be robbing giant galaxies of their future stars",
+          "summary": "Astronomers may be closing in on a long-standing cosmic mystery: why some of the universe’s biggest galaxies seem to have far fewer stars than expected. Using NASA- and JAXA-supported XRISM observations of a galaxy…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260618041454.htm",
+          "source": "Science Daily",
+          "date": "2026-06-19"
+        },
+        {
+          "title": "'No one thought it was going to be possible.' A space telescope is falling out of space. This is NASA's daring plan to save it.",
+          "summary": "NASA's Swift space observatory is falling out of orbit. Can a commercial company build a spacecraft in nine months to save it?",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/no-one-thought-it-was-going-to-be-possible-a-space-telescope-is-falling-out-of-space-this-is-nasas-daring-plan-to-save-it",
+          "source": "Space.com",
+          "date": "2026-06-19"
         }
       ]
     },
@@ -92,38 +92,45 @@
           "date": "2026-06-18"
         },
         {
-          "title": "On the brink of extinction, the vaquita gets a digital lifeline",
-          "summary": "Scientists have digitally preserved the world’s most endangered marine mammal by creating highly detailed 3D models of a vaquita skeleton using advanced imaging technology. The virtual archive provides an unprecedented…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260616102223.htm",
-          "source": "Science Daily",
-          "date": "2026-06-17"
-        },
-        {
-          "title": "From birds to fish, how extreme heat causes wildlife to suffer",
-          "summary": "Like humans, wildlife is increasingly vulnerable as climate change fuels longer and more intense heat waves, disrupting feeding and breeding and, in extreme cases, proving fatal.",
-          "url": "https://phys.org/news/2026-06-birds-fish-extreme-wildlife.html",
+          "title": "Bat rays employ a chemical cue to warn others of danger",
+          "summary": "Frightened bat rays produce a chemical cue to warn other rays of danger, a well-known anti-predator strategy for bony fish that has not been documented in cartilaginous fish until now. Oregon State University…",
+          "url": "https://phys.org/news/2026-06-rays-employ-chemical-cue-danger.html",
           "source": "Phys.org",
-          "date": "2026-06-19"
+          "date": "2026-06-20"
         },
         {
-          "title": "Plant hormones in mammals challenge view of cytokinins as purely botanical",
-          "summary": "In biology, cytokinins were long considered regulators exclusive to the plant kingdom, where they control, among other things, growth and responses to stress. Until now, little research has been conducted into whether…",
-          "url": "https://phys.org/news/2026-06-hormones-mammals-view-cytokinins-purely.html",
-          "source": "Phys.org",
-          "date": "2026-06-19"
-        },
-        {
-          "title": "These bees have nowhere to hide from extreme heat",
-          "summary": "A major study of Australian native bees found that stem-nesting species may be the first to feel the impact of climate change. Unlike bees that nest underground, they have few ways to escape dangerous heat. Researchers…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260617032157.htm",
+          "title": "The secret language behind animal cooperation",
+          "summary": "Animals from different species often rely on surprisingly sophisticated communication to work together, whether finding food, cleaning parasites, or gaining protection. New research suggests these interspecies…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260619101328.htm",
           "source": "Science Daily",
-          "date": "2026-06-18"
+          "date": "2026-06-20"
+        },
+        {
+          "title": "Arctic marine heat waves surge since 1980s, with record event lasting 480 days",
+          "summary": "In recent years, marine heat waves have been taking an ever-greater toll on the world's oceans and their ecosystems. Amplified by increasing global warming, these events are occurring more frequently and lasting longer…",
+          "url": "https://phys.org/news/2026-06-arctic-marine-surge-1980s-event.html",
+          "source": "Phys.org",
+          "date": "2026-06-21"
+        },
+        {
+          "title": "Crane pair dances follow hidden rules, with performances revealing partner-driven timing",
+          "summary": "Animal pairs engage in mutual signaling by simultaneously performing a diverse repertoire of behaviors. A famous example is the sophisticated dance (mutual displays) performed by bird pairs.",
+          "url": "https://phys.org/news/2026-06-crane-pair-hidden-revealing-partner.html",
+          "source": "Phys.org",
+          "date": "2026-06-20"
         }
       ]
     },
     "Earth & Climate": {
       "emoji": "🌍",
       "articles": [
+        {
+          "title": "Climate change boosts soybean production but worsens bean quality",
+          "summary": "A study published by Food Research International analyzed the triple effect of climate change on soybean quality—increased carbon dioxide (CO₂), high temperatures and drought. Using predictive modeling powered by…",
+          "url": "https://phys.org/news/2026-06-climate-boosts-soybean-production-worsens.html",
+          "source": "Phys.org",
+          "date": "2026-06-21"
+        },
         {
           "title": "Tropical Storm Arthur",
           "summary": "The first named storm of the 2026 Atlantic hurricane season brought intense rainfall and the threat of flash flooding to the U.S. Gulf Coast.",
@@ -132,32 +139,25 @@
           "date": "2026-06-19"
         },
         {
-          "title": "Scientists discover an earthquake gate as California faults reach their highest stress levels in 1,000 years",
-          "summary": "A new study suggests Southern California's major fault system is more stressed than at any point in the last 1,000 years. Researchers found that the Cajon Pass, where the San Andreas and San Jacinto faults meet, could…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260617032155.htm",
+          "title": "Hidden geological process offsets carbon emissions from thawing permafrost",
+          "summary": "Scientists found that thawing permafrost can trigger increased rock weathering, a natural process that absorbs CO2 from the atmosphere. In some regions, this carbon uptake was strong enough to fully offset — or even…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260619101343.htm",
           "source": "Science Daily",
-          "date": "2026-06-18"
-        },
-        {
-          "title": "Antarctica is offering 30 to 50 years' worth of warning on sea level rise, models suggest",
-          "summary": "Scientists predict that the next three to five decades provide a critical window to anticipate and plan for Antarctic ice loss and its contribution to sea level rise. Research published in Nature, led by Monash…",
-          "url": "https://phys.org/news/2026-06-antarctica-years-worth-sea.html",
-          "source": "Phys.org",
           "date": "2026-06-20"
         },
         {
-          "title": "Midwest tornadoes possible today, flash floods across Gulf?",
-          "summary": "Tornadoes, large hail and damaging winds are expected in the U.S. Midwest on Wednesday, while a tropical system could bring flash floods across the Gulf Coast. The post Midwest tornadoes possible today, flash floods…",
-          "url": "https://earthsky.org/earth/tornadoes-possible-in-midwest-today-flash-floods-for-texas/",
-          "source": "EarthSky",
-          "date": "2026-06-17"
+          "title": "Tropical ocean temperatures may drive changes in malaria cases in Malawi",
+          "summary": "Malaria is one of the world's deadliest infectious diseases. Because it is transmitted by mosquitoes, malaria is extremely sensitive to environmental conditions like rainfall and temperature that affect mosquito…",
+          "url": "https://phys.org/news/2026-06-tropical-ocean-temperatures-malaria-cases.html",
+          "source": "Phys.org",
+          "date": "2026-06-21"
         },
         {
-          "title": "Gas from Uranus reveals it has an icy centre",
-          "summary": "Carbon monoxide in Uranus's deep atmosphere indicates that the planet contains more ice than rock, suggesting it formed more like Neptune than we thought",
-          "url": "https://www.newscientist.com/article/2531117-gas-from-uranus-reveals-it-has-an-icy-centre/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-          "source": "New Scientist",
-          "date": "2026-06-19"
+          "title": "Eight ways to sleep well in hot weather",
+          "summary": "When temperatures rise, sleep often suffers. Hot nights can make it harder to fall asleep, increase waking during the night and leave people feeling less rested the next day.",
+          "url": "https://phys.org/news/2026-06-ways-hot-weather.html",
+          "source": "Phys.org",
+          "date": "2026-06-20"
         }
       ]
     },
@@ -165,11 +165,18 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "New Scientist recommends an excellent look at the future of work",
-          "summary": "Sarah O'Connor's We Are Not Machines explores how we are contorting ourselves to fit AI into our working lives – and what to do about it, finds Tom Knowles",
-          "url": "https://www.newscientist.com/article/mg27036000-200-new-scientist-recommends-an-excellent-look-at-the-future-of-work/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-          "source": "New Scientist",
-          "date": "2026-06-17"
+          "title": "Chinese sodium battery surprised scientists by matching key Tesla benchmarks",
+          "summary": "Researchers found that a Chinese sodium-ion battery performs far better than expected, with production quality and design features comparable to Tesla’s batteries. If engineers can improve cold-weather charging and…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260621060305.htm",
+          "source": "Science Daily",
+          "date": "2026-06-21"
+        },
+        {
+          "title": "This simple twist could bring quantum computers closer to reality",
+          "summary": "Researchers found that twisting layered sheets of hexagonal boron nitride can dramatically change the light produced by quantum emitters embedded within the material. The technique offers an unexpected new level of…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260620100312.htm",
+          "source": "Science Daily",
+          "date": "2026-06-20"
         },
         {
           "title": "Are useful and error-free quantum computers only two years away?",
@@ -184,26 +191,19 @@
           "url": "https://www.newscientist.com/article/2530330-technology-is-changing-our-perspective-on-nature-at-every-scale/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
           "source": "New Scientist",
           "date": "2026-06-16"
+        },
+        {
+          "title": "New Scientist recommends an excellent look at the future of work",
+          "summary": "Sarah O'Connor's We Are Not Machines explores how we are contorting ourselves to fit AI into our working lives – and what to do about it, finds Tom Knowles",
+          "url": "https://www.newscientist.com/article/mg27036000-200-new-scientist-recommends-an-excellent-look-at-the-future-of-work/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "source": "New Scientist",
+          "date": "2026-06-17"
         }
       ]
     },
     "Physics": {
       "emoji": "⚡",
       "articles": [
-        {
-          "title": "Tiny objects swimming in a superfluid of light move against the flow",
-          "summary": "Superfluids are intriguing states of matter in which particles behave like a giant collective wave, allowing them to flow without any friction. When this fluid flows past a fixed obstacle at a velocity below a specific…",
-          "url": "https://phys.org/news/2026-06-tiny-superfluid.html",
-          "source": "Phys.org",
-          "date": "2026-06-19"
-        },
-        {
-          "title": "Could cosmic memory explain dark matter, dark energy, and black holes?",
-          "summary": "A new theory suggests the universe is constantly recording its own history in the fabric of spacetime. If correct, this cosmic memory could help solve some of the biggest puzzles in physics, from black holes to dark…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260616103131.htm",
-          "source": "Science Daily",
-          "date": "2026-06-18"
-        },
         {
           "title": "Belgian Nobel laureate Francois Englert dies aged 93",
           "summary": "Belgian scientist Francois Englert, a particle physics specialist who won the Nobel Prize in 2013 for his work on the Higgs boson, has died at 93.",
@@ -224,6 +224,20 @@
           "url": "https://www.sciencedaily.com/releases/2026/06/260619020516.htm",
           "source": "Science Daily",
           "date": "2026-06-19"
+        },
+        {
+          "title": "Quantum gravity research links continuous parameters to local operators within the theory itself",
+          "summary": "A researcher at Kyushu University and his collaborators have shown that continuous parameters in quantum gravity may not be freely adjustable \"dials\" from outside the theory, but rather arise from operators within the…",
+          "url": "https://phys.org/news/2026-06-quantum-gravity-links-parameters-local.html",
+          "source": "Phys.org",
+          "date": "2026-06-20"
+        },
+        {
+          "title": "A quantum state that lasts forever may finally be within our grasp",
+          "summary": "Defying the laws of thermodynamics, experiments are beginning to show that a quantum state that is frozen forever might not be impossible. If we can tame it, it could unlock whole new types of matter",
+          "url": "https://www.newscientist.com/article/2529039-a-quantum-state-that-lasts-forever-may-finally-be-within-our-grasp/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "source": "New Scientist",
+          "date": "2026-06-16"
         }
       ]
     }
