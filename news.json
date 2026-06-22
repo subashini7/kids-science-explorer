@@ -1,16 +1,9 @@
 {
-  "updated": "2026-06-21T15:11:28Z",
+  "updated": "2026-06-22T17:40:31Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
-        {
-          "title": "Novel generative AI model enables atomic-scale prediction of protein-protein interactions",
-          "summary": "Proteins are the molecular workhorses of the human body. They perform a vast range of essential functions, from building tissues and transporting molecules to regulating cellular communication and defending against…",
-          "url": "https://phys.org/news/2026-06-generative-ai-enables-atomic-scale.html",
-          "source": "Phys.org",
-          "date": "2026-06-20"
-        },
         {
           "title": "DNA time stamps reveal the strawberry’s surprising origins",
           "summary": "Researchers have created a new way to reconstruct the evolutionary history of complex plant genomes by analyzing genetic traces left by transposable elements. The technique revealed that modern strawberries were…",
@@ -19,25 +12,32 @@
           "date": "2026-06-19"
         },
         {
-          "title": "AI-designed protein unlocks virus-like shells that could reshape vaccine and drug delivery",
-          "summary": "An international research team led by a Korean scientist has succeeded in designing large-scale protein structures that faithfully replicate the self-assembly principles found in naturally occurring viruses, using…",
-          "url": "https://phys.org/news/2026-06-ai-protein-virus-shells-reshape.html",
+          "title": "Primordial halo simulations reveal how cosmic storms shaped the universe's first stars",
+          "summary": "Just a few hundred million years after the Big Bang, the universe was a dark and simple place. There were no galaxies like the Milky Way, no planets, and no heavy elements such as carbon or oxygen. Instead, vast clouds…",
+          "url": "https://phys.org/news/2026-06-primordial-halo-simulations-reveal-cosmic.html",
           "source": "Phys.org",
-          "date": "2026-06-20"
+          "date": "2026-06-22"
         },
         {
-          "title": "Ancient Mongolian cemetery reveals power and status mattered more than blood ties",
-          "summary": "On the edge of the Mongolian steppe, overlooking where two rivers meet, lies an ancient cemetery. Buried within are two families, traced through ancient DNA across six generations, surrounded by dozens of \"strangers.\"…",
-          "url": "https://phys.org/news/2026-06-ancient-mongolian-cemetery-reveals-power.html",
+          "title": "Researchers develop antiviral candidate for deadly mosquito-borne brain infections",
+          "summary": "Can newly identified antiviral compounds help stop some of the most dangerous mosquito-borne viruses that attack the brain? A research team led by scientists at The University of Alabama in Huntsville (UAH), a part of…",
+          "url": "https://phys.org/news/2026-06-antiviral-candidate-deadly-mosquito-borne.html",
           "source": "Phys.org",
-          "date": "2026-06-20"
+          "date": "2026-06-22"
         },
         {
-          "title": "Faster aptamer screening finds synthetic alternatives to antibodies in days instead of months",
-          "summary": "Aptamers are short DNA or RNA strands that can recognize and bind to a specific target molecule with high precision. Similar to antibodies, they can be used to detect these molecules or modulate their activity. Unlike…",
-          "url": "https://phys.org/news/2026-06-faster-aptamer-screening-synthetic-alternatives.html",
-          "source": "Phys.org",
-          "date": "2026-06-20"
+          "title": "Ebola and hantavirus can start like the flu but turn deadly fast",
+          "summary": "Two dangerous viruses are back in the spotlight, reminding health officials how quickly infectious diseases can become serious threats. Hantavirus, often linked to rodents, can cause severe heart and lung complications…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260622014257.htm",
+          "source": "Science Daily",
+          "date": "2026-06-22"
+        },
+        {
+          "title": "One common fat may fuel type 2 diabetes while another helps fight it",
+          "summary": "Not all fats affect your body the same way. Researchers found that palmitic acid, a saturated fat common in many foods, may contribute to insulin resistance and type 2 diabetes by triggering inflammation, toxic fat…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260621060318.htm",
+          "source": "Science Daily",
+          "date": "2026-06-22"
         }
       ]
     },
@@ -52,32 +52,32 @@
           "date": "2026-06-19"
         },
         {
-          "title": "Stages of Star Formation",
-          "summary": "This image, captured by NASA&#8217;s James Webb Space Telescope and released on June 5, 2026, shows just a small portion of one of the Orion Molecular Clouds, a long and massive filament of cold gas and dust beyond the…",
-          "url": "https://www.nasa.gov/image-article/stages-of-star-formation/",
+          "title": "SpaceX Falcon 9 rocket launches 24 Starlink satellites into low Earth orbit from California (video)",
+          "summary": "A SpaceX Falcon 9 rocket carrying 24 Starlink satellites lifted off from Vandenberg Space Force Base in California on Sunday, June 21, 2026.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-28-b1063-vsfb-ocisly",
+          "source": "Space.com",
+          "date": "2026-06-21"
+        },
+        {
+          "title": "NASA’s Webb Finds Clues to Ancient, Distant Origin of Comet 3I/ATLAS",
+          "summary": "As interstellar comet 3I/ATLAS began moving away from the Sun in December 2025, astronomers took the opportunity to turn NASA’s powerful James Webb Space Telescope in its direction and capture detailed measurements of…",
+          "url": "https://science.nasa.gov/missions/webb/nasas-webb-finds-clues-to-ancient-distant-origin-of-comet-3i-atlas/",
           "source": "NASA",
-          "date": "2026-06-18"
+          "date": "2026-06-22"
         },
         {
-          "title": "Hubble Glimpses Merging Galaxy Clusters",
-          "summary": "This NASA Hubble Space Telescope image features a galaxy cluster, called CL0016+1609 or MACS J0018.5+1626, that is very bright at X-ray wavelengths and is one of the most extensively studied clusters at X-ray and radio…",
-          "url": "https://science.nasa.gov/missions/hubble/hubble-glimpses-merging-galaxy-clusters/",
-          "source": "NASA",
-          "date": "2026-06-18"
-        },
-        {
-          "title": "Black hole winds may be robbing giant galaxies of their future stars",
-          "summary": "Astronomers may be closing in on a long-standing cosmic mystery: why some of the universe’s biggest galaxies seem to have far fewer stars than expected. Using NASA- and JAXA-supported XRISM observations of a galaxy…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260618041454.htm",
-          "source": "Science Daily",
-          "date": "2026-06-19"
-        },
-        {
-          "title": "'No one thought it was going to be possible.' A space telescope is falling out of space. This is NASA's daring plan to save it.",
+          "title": "'No one thought it was going to be possible.' A space telescope is falling out of space. This is NASA's daring plan to save it. (video)",
           "summary": "NASA's Swift space observatory is falling out of orbit. Can a commercial company build a spacecraft in nine months to save it?",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/no-one-thought-it-was-going-to-be-possible-a-space-telescope-is-falling-out-of-space-this-is-nasas-daring-plan-to-save-it",
           "source": "Space.com",
           "date": "2026-06-19"
+        },
+        {
+          "title": "NASA to Cover US Spacewalk 95, Host Preview News Conference",
+          "summary": "NASA astronauts will venture outside the International Space Station on Tuesday, June 30, to replace a wrist joint on the orbital complex’s Canadarm2 robotic arm. The spacewalk is scheduled to begin at approximately…",
+          "url": "https://www.nasa.gov/news-release/nasa-to-cover-us-spacewalk-95-host-preview-news-conference/",
+          "source": "NASA",
+          "date": "2026-06-22"
         }
       ]
     },
@@ -85,39 +85,39 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "Remarkable fossils rewrite the story of how animals conquered the land",
-          "summary": "Palaeontologists have found new evidence that the early ancestors of amphibians, reptiles and mammals did not have a larval stage with external gills like modern frogs or salamanders",
-          "url": "https://www.newscientist.com/article/2531039-remarkable-fossils-rewrite-the-story-of-how-animals-conquered-the-land/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-          "source": "New Scientist",
-          "date": "2026-06-18"
-        },
-        {
-          "title": "Bat rays employ a chemical cue to warn others of danger",
-          "summary": "Frightened bat rays produce a chemical cue to warn other rays of danger, a well-known anti-predator strategy for bony fish that has not been documented in cartilaginous fish until now. Oregon State University…",
-          "url": "https://phys.org/news/2026-06-rays-employ-chemical-cue-danger.html",
-          "source": "Phys.org",
-          "date": "2026-06-20"
-        },
-        {
-          "title": "The secret language behind animal cooperation",
-          "summary": "Animals from different species often rely on surprisingly sophisticated communication to work together, whether finding food, cleaning parasites, or gaining protection. New research suggests these interspecies…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260619101328.htm",
+          "title": "More trees can mean fewer birds, new study reveals",
+          "summary": "Trees planted to protect farmland from wind may not be the biodiversity boost many assume. In Japan’s wetland farming landscapes, shelterbelts benefited some birds but sharply reduced grassland and wetland species that…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260620100426.htm",
           "source": "Science Daily",
-          "date": "2026-06-20"
+          "date": "2026-06-22"
         },
         {
-          "title": "Arctic marine heat waves surge since 1980s, with record event lasting 480 days",
-          "summary": "In recent years, marine heat waves have been taking an ever-greater toll on the world's oceans and their ecosystems. Amplified by increasing global warming, these events are occurring more frequently and lasting longer…",
-          "url": "https://phys.org/news/2026-06-arctic-marine-surge-1980s-event.html",
-          "source": "Phys.org",
-          "date": "2026-06-21"
+          "title": "T. rex took 40 years to reach full size, scientists find",
+          "summary": "Tyrannosaurus rex may have been a much slower grower than scientists realized. A new study of 17 tyrannosaur fossils found that the giant predator likely took about 40 years to reach its full size of roughly eight tons…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260621110957.htm",
+          "source": "Science Daily",
+          "date": "2026-06-22"
         },
         {
-          "title": "Crane pair dances follow hidden rules, with performances revealing partner-driven timing",
-          "summary": "Animal pairs engage in mutual signaling by simultaneously performing a diverse repertoire of behaviors. A famous example is the sophisticated dance (mutual displays) performed by bird pairs.",
-          "url": "https://phys.org/news/2026-06-crane-pair-hidden-revealing-partner.html",
+          "title": "Plant‑based products need to be easier to find and consistently affordable for shoppers",
+          "summary": "There is strong evidence that transitioning from animal to more plant-based diets could improve human and planetary health, but progress has been slow. This is partly due to a misunderstanding of what drives the…",
+          "url": "https://phys.org/news/2026-06-plantbased-products-easier-shoppers.html",
           "source": "Phys.org",
-          "date": "2026-06-20"
+          "date": "2026-06-22"
+        },
+        {
+          "title": "125-million-year-old fossil reveals 'pregnant' shellfish",
+          "summary": "An international team of scientists led by Dr. Graciela Delvene of the Geological and Mining Institute of Spain (CSIC) has uncovered the oldest known evidence of maternal care in shellfish, revealing that some…",
+          "url": "https://phys.org/news/2026-06-million-year-fossil-reveals-pregnant.html",
+          "source": "Phys.org",
+          "date": "2026-06-22"
+        },
+        {
+          "title": "Butterfly that barely ages could help unlock longevity secrets",
+          "summary": "Scientists discovered that Heliconius butterflies have evolved an extraordinary lifespan, living several times longer than closely related species. Even more surprising, some show little sign of physical decline as they…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260622014302.htm",
+          "source": "Science Daily",
+          "date": "2026-06-22"
         }
       ]
     },
@@ -125,11 +125,18 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Climate change boosts soybean production but worsens bean quality",
-          "summary": "A study published by Food Research International analyzed the triple effect of climate change on soybean quality—increased carbon dioxide (CO₂), high temperatures and drought. Using predictive modeling powered by…",
-          "url": "https://phys.org/news/2026-06-climate-boosts-soybean-production-worsens.html",
+          "title": "Machine learning helps identify six promising solvents for carbon dioxide electroreduction",
+          "summary": "Carbon dioxide (CO2) is a primary driver of climate change in Earth's atmosphere. At the State University of New York at Stony Brook (Stony Brook University), Ph.D. researcher Kuldeepsinh Raj, along with principal…",
+          "url": "https://phys.org/news/2026-06-machine-solvents-carbon-dioxide-electroreduction.html",
           "source": "Phys.org",
-          "date": "2026-06-21"
+          "date": "2026-06-22"
+        },
+        {
+          "title": "Does climate change lead to more migration? Here's why researchers can't agree on the evidence",
+          "summary": "Images of families displaced by floods, prolonged droughts or extreme storms have become a distressingly regular feature of the daily news. As the impact of climate change intensifies, so does concern over its effects…",
+          "url": "https://phys.org/news/2026-06-climate-migration-evidence.html",
+          "source": "Phys.org",
+          "date": "2026-06-22"
         },
         {
           "title": "Tropical Storm Arthur",
@@ -146,24 +153,24 @@
           "date": "2026-06-20"
         },
         {
-          "title": "Tropical ocean temperatures may drive changes in malaria cases in Malawi",
-          "summary": "Malaria is one of the world's deadliest infectious diseases. Because it is transmitted by mosquitoes, malaria is extremely sensitive to environmental conditions like rainfall and temperature that affect mosquito…",
-          "url": "https://phys.org/news/2026-06-tropical-ocean-temperatures-malaria-cases.html",
-          "source": "Phys.org",
-          "date": "2026-06-21"
-        },
-        {
-          "title": "Eight ways to sleep well in hot weather",
-          "summary": "When temperatures rise, sleep often suffers. Hot nights can make it harder to fall asleep, increase waking during the night and leave people feeling less rested the next day.",
-          "url": "https://phys.org/news/2026-06-ways-hot-weather.html",
-          "source": "Phys.org",
-          "date": "2026-06-20"
+          "title": "Gas from Uranus reveals it has an icy centre",
+          "summary": "Carbon monoxide in Uranus's deep atmosphere indicates that the planet contains more ice than rock, suggesting it formed more like Neptune than we thought",
+          "url": "https://www.newscientist.com/article/2531117-gas-from-uranus-reveals-it-has-an-icy-centre/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "source": "New Scientist",
+          "date": "2026-06-19"
         }
       ]
     },
     "Technology & Inventions": {
       "emoji": "🤖",
       "articles": [
+        {
+          "title": "How drone AI could help endangered birds",
+          "summary": "Drones and artificial intelligence could provide valuable information to guide efforts to slow the alarming extinction rate of birds across the globe, research from The University of Queensland has found.",
+          "url": "https://phys.org/news/2026-06-drone-ai-endangered-birds.html",
+          "source": "Phys.org",
+          "date": "2026-06-22"
+        },
         {
           "title": "Chinese sodium battery surprised scientists by matching key Tesla benchmarks",
           "summary": "Researchers found that a Chinese sodium-ion battery performs far better than expected, with production quality and design features comparable to Tesla’s batteries. If engineers can improve cold-weather charging and…",
@@ -179,18 +186,11 @@
           "date": "2026-06-20"
         },
         {
-          "title": "Are useful and error-free quantum computers only two years away?",
-          "summary": "Quantum computing firm QuEra says it plans to make a fault-tolerant quantum computer and offer it to users through the cloud in 2028, which will require a real leap in engineering",
-          "url": "https://www.newscientist.com/article/2530326-are-useful-and-error-free-quantum-computers-only-two-years-away/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-          "source": "New Scientist",
-          "date": "2026-06-15"
-        },
-        {
-          "title": "Technology is changing our perspective on nature – at every scale",
-          "summary": "Inspired by Ariel Waldman’s docuseries Life Unearthed, columnist Annalee Newitz explores how microscopes, drones and specialised cameras are giving us an unprecedented view of nature from many different vantage points",
-          "url": "https://www.newscientist.com/article/2530330-technology-is-changing-our-perspective-on-nature-at-every-scale/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-          "source": "New Scientist",
-          "date": "2026-06-16"
+          "title": "Our expert thinks this pocket-friendly drone is brilliant for beginners, and it's $30 off ahead of Amazon Prime Day",
+          "summary": "Looking to take to the skies but are new to drone flying? This DJI Neo is super simple to use and it's the best drone deal at 15% off before Prime Day begins tomorrow",
+          "url": "https://www.space.com/stargazing/skywatching-kit/our-expert-thinks-this-pocket-friendly-drone-is-brilliant-for-beginners-and-its-30-dollars-off-ahead-of-amazon-prime-day",
+          "source": "Space.com",
+          "date": "2026-06-22"
         },
         {
           "title": "New Scientist recommends an excellent look at the future of work",
@@ -205,20 +205,6 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "Belgian Nobel laureate Francois Englert dies aged 93",
-          "summary": "Belgian scientist Francois Englert, a particle physics specialist who won the Nobel Prize in 2013 for his work on the Higgs boson, has died at 93.",
-          "url": "https://phys.org/news/2026-06-belgian-nobel-laureate-francois-englert.html",
-          "source": "Phys.org",
-          "date": "2026-06-20"
-        },
-        {
-          "title": "Scientists trace high-energy ghost particle to the 'Shadow Blaster' galaxy",
-          "summary": "\"If confirmed, Shadow Blaster would be the first-ever individual dusty star-forming galaxy directly linked to a high-energy neutrino event.\"",
-          "url": "https://www.space.com/science/particle-physics/scientists-trace-high-energy-ghost-particle-to-the-shadow-blaster-galaxy",
-          "source": "Space.com",
-          "date": "2026-06-18"
-        },
-        {
           "title": "Einstein’s “biggest blunder” may finally have an explanation",
           "summary": "Scientists have uncovered a surprising connection between quantum gravity and an exotic quantum state of matter that could explain why the universe isn’t expanding wildly fast. The study suggests that the very shape of…",
           "url": "https://www.sciencedaily.com/releases/2026/06/260619020516.htm",
@@ -226,11 +212,18 @@
           "date": "2026-06-19"
         },
         {
-          "title": "Quantum gravity research links continuous parameters to local operators within the theory itself",
-          "summary": "A researcher at Kyushu University and his collaborators have shown that continuous parameters in quantum gravity may not be freely adjustable \"dials\" from outside the theory, but rather arise from operators within the…",
-          "url": "https://phys.org/news/2026-06-quantum-gravity-links-parameters-local.html",
+          "title": "Europe scorched by latest heat wave",
+          "summary": "Thirteen people died by drowning in searing temperatures in France over the weekend, with the heat wave set to intensify from Monday across much of Europe, forcing warnings and special measures.",
+          "url": "https://phys.org/news/2026-06-europe-latest.html",
           "source": "Phys.org",
-          "date": "2026-06-20"
+          "date": "2026-06-22"
+        },
+        {
+          "title": "Scientists trace high-energy ghost particle to the 'Shadow Blaster' galaxy",
+          "summary": "\"If confirmed, Shadow Blaster would be the first-ever individual dusty star-forming galaxy directly linked to a high-energy neutrino event.\"",
+          "url": "https://www.space.com/science/particle-physics/scientists-trace-high-energy-ghost-particle-to-the-shadow-blaster-galaxy",
+          "source": "Space.com",
+          "date": "2026-06-18"
         },
         {
           "title": "A quantum state that lasts forever may finally be within our grasp",
