@@ -1,41 +1,41 @@
 {
-  "updated": "2026-06-22T17:40:31Z",
+  "updated": "2026-06-23T15:48:52Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "DNA time stamps reveal the strawberry’s surprising origins",
-          "summary": "Researchers have created a new way to reconstruct the evolutionary history of complex plant genomes by analyzing genetic traces left by transposable elements. The technique revealed that modern strawberries were…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260618041515.htm",
+          "title": "Contact lenses can repair themselves with just one hour of UV light exposure",
+          "summary": "Contact lenses are a great vision correction option for many, but if one of them gets damaged, there is little to do other than throw it away. A team reporting in ACS Applied Polymer Materials has a solution: special…",
+          "url": "https://phys.org/news/2026-06-contact-lenses-hour-uv-exposure.html",
+          "source": "Phys.org",
+          "date": "2026-06-23"
+        },
+        {
+          "title": "Completing DNA replication triggers genomic instability in bacteria",
+          "summary": "If you are anything like us, whenever you plan a journey, you spend a remarkable amount of time thinking about the start and the middle. Is everything packed? What time should we leave? Will there be traffic? Is there a…",
+          "url": "https://phys.org/news/2026-06-dna-replication-triggers-genomic-instability.html",
+          "source": "Phys.org",
+          "date": "2026-06-23"
+        },
+        {
+          "title": "NASA’s Cold Atom Lab is creating one of the weirdest forms of matter in space",
+          "summary": "NASA’s upgraded Cold Atom Lab is turning the International Space Station into a frontier for quantum research, creating ultra-cold matter that behaves in astonishing ways. The experiments could unlock new discoveries…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260622091507.htm",
           "source": "Science Daily",
-          "date": "2026-06-19"
+          "date": "2026-06-23"
         },
         {
-          "title": "Primordial halo simulations reveal how cosmic storms shaped the universe's first stars",
-          "summary": "Just a few hundred million years after the Big Bang, the universe was a dark and simple place. There were no galaxies like the Milky Way, no planets, and no heavy elements such as carbon or oxygen. Instead, vast clouds…",
-          "url": "https://phys.org/news/2026-06-primordial-halo-simulations-reveal-cosmic.html",
-          "source": "Phys.org",
-          "date": "2026-06-22"
-        },
-        {
-          "title": "Researchers develop antiviral candidate for deadly mosquito-borne brain infections",
-          "summary": "Can newly identified antiviral compounds help stop some of the most dangerous mosquito-borne viruses that attack the brain? A research team led by scientists at The University of Alabama in Huntsville (UAH), a part of…",
-          "url": "https://phys.org/news/2026-06-antiviral-candidate-deadly-mosquito-borne.html",
-          "source": "Phys.org",
-          "date": "2026-06-22"
+          "title": "Scientists say most people need more protein than current guidelines suggest",
+          "summary": "A new review suggests that doing more exercise and eating more protein than current minimum recommendations may help people stay stronger, sharper, and more independent as they age. The goal isn't building a beach…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260622091429.htm",
+          "source": "Science Daily",
+          "date": "2026-06-23"
         },
         {
           "title": "Ebola and hantavirus can start like the flu but turn deadly fast",
           "summary": "Two dangerous viruses are back in the spotlight, reminding health officials how quickly infectious diseases can become serious threats. Hantavirus, often linked to rodents, can cause severe heart and lung complications…",
           "url": "https://www.sciencedaily.com/releases/2026/06/260622014257.htm",
-          "source": "Science Daily",
-          "date": "2026-06-22"
-        },
-        {
-          "title": "One common fat may fuel type 2 diabetes while another helps fight it",
-          "summary": "Not all fats affect your body the same way. Researchers found that palmitic acid, a saturated fat common in many foods, may contribute to insulin resistance and type 2 diabetes by triggering inflammation, toxic fat…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260621060318.htm",
           "source": "Science Daily",
           "date": "2026-06-22"
         }
@@ -45,11 +45,25 @@
       "emoji": "🚀",
       "articles": [
         {
+          "title": "NASA's Roman Space Telescope arrives in Florida ahead of SpaceX Falcon Heavy launch this summer",
+          "summary": "The Nancy Roman Grace Telescope has arrived at NASA's Kennedy Space Center for final preparations ahead of launching to join the orbital ranks of Hubble, Webb, Spitzer and Chandra.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/nasas-roman-space-telescope-arrives-in-florida-ahead-of-spacex-falcon-heavy-launch-this-summer",
+          "source": "Space.com",
+          "date": "2026-06-22"
+        },
+        {
           "title": "A private company will build and launch NASA's next Mars orbiter in 2028 — and it's not SpaceX",
           "summary": "A California-based company will design, build and launch a spacecraft for NASA's Aeolus mission to orbit around Mars, where the probe will be the first to provide daily measurements of the planet's global environment.",
           "url": "https://www.space.com/space-exploration/missions/a-private-company-will-build-and-launch-nasas-next-mars-orbiter-in-2028-and-its-not-spacex",
           "source": "Space.com",
           "date": "2026-06-19"
+        },
+        {
+          "title": "NASA’s Webb Pinpoints Millions of Stars Within Cigar Galaxy",
+          "summary": "Located 12 million light-years away and undergoing rapid star formation, edge-on spiral galaxy Messier 82 (M82) is a scientifically unique sight to behold, and now NASA’s James Webb Space Telescope has revealed…",
+          "url": "https://science.nasa.gov/missions/webb/nasas-webb-pinpoints-millions-of-stars-within-cigar-galaxy/",
+          "source": "NASA",
+          "date": "2026-06-23"
         },
         {
           "title": "SpaceX Falcon 9 rocket launches 24 Starlink satellites into low Earth orbit from California (video)",
@@ -59,25 +73,11 @@
           "date": "2026-06-21"
         },
         {
-          "title": "NASA’s Webb Finds Clues to Ancient, Distant Origin of Comet 3I/ATLAS",
-          "summary": "As interstellar comet 3I/ATLAS began moving away from the Sun in December 2025, astronomers took the opportunity to turn NASA’s powerful James Webb Space Telescope in its direction and capture detailed measurements of…",
-          "url": "https://science.nasa.gov/missions/webb/nasas-webb-finds-clues-to-ancient-distant-origin-of-comet-3i-atlas/",
+          "title": "Hubble Details Early Galaxy Transforming Neighborhood",
+          "summary": "Astronomers using NASA’s Hubble Space Telescope have found something they never expected — ultraviolet light from a galaxy that existed just 1.4 billion years after the big bang.",
+          "url": "https://science.nasa.gov/missions/hubble/hubble-details-early-galaxy-transforming-neighborhood/",
           "source": "NASA",
-          "date": "2026-06-22"
-        },
-        {
-          "title": "'No one thought it was going to be possible.' A space telescope is falling out of space. This is NASA's daring plan to save it. (video)",
-          "summary": "NASA's Swift space observatory is falling out of orbit. Can a commercial company build a spacecraft in nine months to save it?",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/no-one-thought-it-was-going-to-be-possible-a-space-telescope-is-falling-out-of-space-this-is-nasas-daring-plan-to-save-it",
-          "source": "Space.com",
-          "date": "2026-06-19"
-        },
-        {
-          "title": "NASA to Cover US Spacewalk 95, Host Preview News Conference",
-          "summary": "NASA astronauts will venture outside the International Space Station on Tuesday, June 30, to replace a wrist joint on the orbital complex’s Canadarm2 robotic arm. The spacewalk is scheduled to begin at approximately…",
-          "url": "https://www.nasa.gov/news-release/nasa-to-cover-us-spacewalk-95-host-preview-news-conference/",
-          "source": "NASA",
-          "date": "2026-06-22"
+          "date": "2026-06-23"
         }
       ]
     },
@@ -99,18 +99,18 @@
           "date": "2026-06-22"
         },
         {
-          "title": "Plant‑based products need to be easier to find and consistently affordable for shoppers",
-          "summary": "There is strong evidence that transitioning from animal to more plant-based diets could improve human and planetary health, but progress has been slow. This is partly due to a misunderstanding of what drives the…",
-          "url": "https://phys.org/news/2026-06-plantbased-products-easier-shoppers.html",
-          "source": "Phys.org",
-          "date": "2026-06-22"
+          "title": "This four-winged dinosaur may have terrorized Earth's earliest birds",
+          "summary": "A newly discovered feathered dinosaur called Jian changmaensis may be the missing predator responsible for mysterious piles of crushed prehistoric bird bones in China. The four-winged glider, a close cousin of…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260621060311.htm",
+          "source": "Science Daily",
+          "date": "2026-06-23"
         },
         {
-          "title": "125-million-year-old fossil reveals 'pregnant' shellfish",
-          "summary": "An international team of scientists led by Dr. Graciela Delvene of the Geological and Mining Institute of Spain (CSIC) has uncovered the oldest known evidence of maternal care in shellfish, revealing that some…",
-          "url": "https://phys.org/news/2026-06-million-year-fossil-reveals-pregnant.html",
-          "source": "Phys.org",
-          "date": "2026-06-22"
+          "title": "Scientists open a million-year-old time capsule hidden beneath New Zealand",
+          "summary": "A cave in New Zealand has yielded fossils from a lost ecosystem that existed about 1 million years ago, including a possible flying ancestor of the kākāpō. The discovery reveals that volcanoes and climate upheaval were…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260623011129.htm",
+          "source": "Science Daily",
+          "date": "2026-06-23"
         },
         {
           "title": "Butterfly that barely ages could help unlock longevity secrets",
@@ -125,27 +125,6 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Machine learning helps identify six promising solvents for carbon dioxide electroreduction",
-          "summary": "Carbon dioxide (CO2) is a primary driver of climate change in Earth's atmosphere. At the State University of New York at Stony Brook (Stony Brook University), Ph.D. researcher Kuldeepsinh Raj, along with principal…",
-          "url": "https://phys.org/news/2026-06-machine-solvents-carbon-dioxide-electroreduction.html",
-          "source": "Phys.org",
-          "date": "2026-06-22"
-        },
-        {
-          "title": "Does climate change lead to more migration? Here's why researchers can't agree on the evidence",
-          "summary": "Images of families displaced by floods, prolonged droughts or extreme storms have become a distressingly regular feature of the daily news. As the impact of climate change intensifies, so does concern over its effects…",
-          "url": "https://phys.org/news/2026-06-climate-migration-evidence.html",
-          "source": "Phys.org",
-          "date": "2026-06-22"
-        },
-        {
-          "title": "Tropical Storm Arthur",
-          "summary": "The first named storm of the 2026 Atlantic hurricane season brought intense rainfall and the threat of flash flooding to the U.S. Gulf Coast.",
-          "url": "https://science.nasa.gov/earth/earth-observatory/tropical-storm-arthur/",
-          "source": "NASA",
-          "date": "2026-06-19"
-        },
-        {
           "title": "Hidden geological process offsets carbon emissions from thawing permafrost",
           "summary": "Scientists found that thawing permafrost can trigger increased rock weathering, a natural process that absorbs CO2 from the atmosphere. In some regions, this carbon uptake was strong enough to fully offset — or even…",
           "url": "https://www.sciencedaily.com/releases/2026/06/260619101343.htm",
@@ -153,24 +132,38 @@
           "date": "2026-06-20"
         },
         {
+          "title": "Hidden seismicity patterns before large earthquakes uncovered",
+          "summary": "When and where the next large earthquake will strike remains one of the most difficult questions in geoscience. Researchers from the GFZ Helmholtz Center for Geosciences led by Dr. Sadegh Karimpouli and Prof. Dr…",
+          "url": "https://phys.org/news/2026-06-hidden-seismicity-patterns-large-earthquakes.html",
+          "source": "Phys.org",
+          "date": "2026-06-23"
+        },
+        {
+          "title": "'Super fungi' offer greener path to recovery of critical minerals",
+          "summary": "A \"superpowered\" fungus engineered at The University of Queensland could be used to extract critical minerals from toxic mining waste while also helping to remediate sites. Environmental engineers at UQ's new…",
+          "url": "https://phys.org/news/2026-06-super-fungi-greener-path-recovery.html",
+          "source": "Phys.org",
+          "date": "2026-06-23"
+        },
+        {
           "title": "Gas from Uranus reveals it has an icy centre",
           "summary": "Carbon monoxide in Uranus's deep atmosphere indicates that the planet contains more ice than rock, suggesting it formed more like Neptune than we thought",
           "url": "https://www.newscientist.com/article/2531117-gas-from-uranus-reveals-it-has-an-icy-centre/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
           "source": "New Scientist",
           "date": "2026-06-19"
+        },
+        {
+          "title": "Almost the whole of Japan moved eastward after 2011 earthquake",
+          "summary": "An extremely unusual tectonic movement took place 15 minutes after the Tohoku earthquake in 2011, causing almost the whole of Japan to move 5 millimetres to the east",
+          "url": "https://www.newscientist.com/article/2531001-almost-the-whole-of-japan-moved-eastward-after-2011-earthquake/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "source": "New Scientist",
+          "date": "2026-06-18"
         }
       ]
     },
     "Technology & Inventions": {
       "emoji": "🤖",
       "articles": [
-        {
-          "title": "How drone AI could help endangered birds",
-          "summary": "Drones and artificial intelligence could provide valuable information to guide efforts to slow the alarming extinction rate of birds across the globe, research from The University of Queensland has found.",
-          "url": "https://phys.org/news/2026-06-drone-ai-endangered-birds.html",
-          "source": "Phys.org",
-          "date": "2026-06-22"
-        },
         {
           "title": "Chinese sodium battery surprised scientists by matching key Tesla benchmarks",
           "summary": "Researchers found that a Chinese sodium-ion battery performs far better than expected, with production quality and design features comparable to Tesla’s batteries. If engineers can improve cold-weather charging and…",
@@ -205,32 +198,39 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "Einstein’s “biggest blunder” may finally have an explanation",
-          "summary": "Scientists have uncovered a surprising connection between quantum gravity and an exotic quantum state of matter that could explain why the universe isn’t expanding wildly fast. The study suggests that the very shape of…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260619020516.htm",
-          "source": "Science Daily",
-          "date": "2026-06-19"
-        },
-        {
-          "title": "Europe scorched by latest heat wave",
-          "summary": "Thirteen people died by drowning in searing temperatures in France over the weekend, with the heat wave set to intensify from Monday across much of Europe, forcing warnings and special measures.",
-          "url": "https://phys.org/news/2026-06-europe-latest.html",
+          "title": "Hidden dark force may slow cosmic structure growth, not speed it up",
+          "summary": "Dark matter is often portrayed as a cosmic loner, interacting with itself and the rest of the universe only through gravity. But what if dark matter particles also exert a hidden force on one another?",
+          "url": "https://phys.org/news/2026-06-hidden-dark-cosmic-growth.html",
           "source": "Phys.org",
-          "date": "2026-06-22"
+          "date": "2026-06-23"
         },
         {
-          "title": "Scientists trace high-energy ghost particle to the 'Shadow Blaster' galaxy",
-          "summary": "\"If confirmed, Shadow Blaster would be the first-ever individual dusty star-forming galaxy directly linked to a high-energy neutrino event.\"",
-          "url": "https://www.space.com/science/particle-physics/scientists-trace-high-energy-ghost-particle-to-the-shadow-blaster-galaxy",
-          "source": "Space.com",
-          "date": "2026-06-18"
+          "title": "Solid-state material turns visible light into high-energy UV at sunlight intensity, expanding solar energy potential",
+          "summary": "Two cups of warm water don't make one cup of boiling water. But in the quantum world, multiple low-energy photons can combine to produce a single, higher-energy photon.",
+          "url": "https://phys.org/news/2026-06-solid-state-material-visible-high.html",
+          "source": "Phys.org",
+          "date": "2026-06-23"
         },
         {
-          "title": "A quantum state that lasts forever may finally be within our grasp",
-          "summary": "Defying the laws of thermodynamics, experiments are beginning to show that a quantum state that is frozen forever might not be impossible. If we can tame it, it could unlock whole new types of matter",
-          "url": "https://www.newscientist.com/article/2529039-a-quantum-state-that-lasts-forever-may-finally-be-within-our-grasp/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-          "source": "New Scientist",
-          "date": "2026-06-16"
+          "title": "A tiny diamond defect could reveal a mysterious new kind of magnetism",
+          "summary": "A newly proposed quantum sensing technique could make it much easier to identify one of physics’ newest and most intriguing classes of magnets: altermagnets. These unusual materials, discovered only a few years ago…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260621060304.htm",
+          "source": "Science Daily",
+          "date": "2026-06-23"
+        },
+        {
+          "title": "Espresso 'pucks' stop behaving predictably above certain pressures",
+          "summary": "When a physics student asked baristas at the Warsaw Coffee Conference what their biggest question for scientists was, the baristas said they wanted to know how to stop channeling during brewing.",
+          "url": "https://phys.org/news/2026-06-espresso-pucks-pressures.html",
+          "source": "Phys.org",
+          "date": "2026-06-23"
+        },
+        {
+          "title": "Horizon edge states gain finite description in string theory calculation",
+          "summary": "Modern physics theories highlight the key role of horizons—boundaries beyond which information cannot reach an observer—in a variety of cosmological and gravitational phenomena. Two renowned examples of these boundaries…",
+          "url": "https://phys.org/news/2026-06-horizon-edge-states-gain-finite.html",
+          "source": "Phys.org",
+          "date": "2026-06-23"
         }
       ]
     }
