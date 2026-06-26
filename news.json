@@ -1,9 +1,16 @@
 {
-  "updated": "2026-06-25T15:39:40Z",
+  "updated": "2026-06-26T15:23:55Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
+        {
+          "title": "Elusive thorium–thorium bonding directly observed using Hirshfeld atom refinement",
+          "summary": "Researchers have directly visualized a rare type of chemical bond between some of the heaviest elements in the periodic table, providing experimental evidence of how these atoms share electrons in systems where this has…",
+          "url": "https://phys.org/news/2026-06-elusive-thoriumthorium-bonding-hirshfeld-atom.html",
+          "source": "Phys.org",
+          "date": "2026-06-26"
+        },
         {
           "title": "One tiny mutation may explain how bat viruses become human threats",
           "summary": "Scientists found that one tiny genetic change can completely alter how a coronavirus behaves in different species. Comparing SARS-CoV-2 with a closely related bat-only virus, they showed that a single amino-acid…",
@@ -12,23 +19,16 @@
           "date": "2026-06-24"
         },
         {
-          "title": "What really controls water chemistry in nanoscale spaces",
-          "summary": "Water is the most studied molecule on Earth, yet a surprisingly basic question has gone unanswered for decades: When water is squeezed into gaps just a few molecules wide—as happens inside nanoscale pores, membranes and…",
-          "url": "https://phys.org/news/2026-06-chemistry-nanoscale-spaces.html",
+          "title": "Metal hydride molecule trapped with laser light opens path to ultracold hydrogen",
+          "summary": "Controlling and trapping molecules, units of a substance consisting of two or more chemically bound atoms, with laser light is significantly more challenging than trapping individual atoms. This is because molecules…",
+          "url": "https://phys.org/news/2026-06-metal-hydride-molecule-laser-path.html",
           "source": "Phys.org",
-          "date": "2026-06-25"
+          "date": "2026-06-26"
         },
         {
-          "title": "Tiny water droplets transmutate aniline into pyridine in ambient and catalyst-free conditions",
-          "summary": "Aniline can now be transformed into pyridine without adding any catalysts, oxidants or toxic reagents. In a recent study published in the Journal of the American Chemical Society, researchers achieved skeletal editing…",
-          "url": "https://phys.org/news/2026-06-tiny-droplets-transmutate-aniline-pyridine.html",
-          "source": "Phys.org",
-          "date": "2026-06-25"
-        },
-        {
-          "title": "Bacteria-killing viruses redirect vaccine immunity to destroy cancer",
+          "title": "Phages could enable us to hijack vaccine immunity to kill cancer cells",
           "summary": "Phages, viruses that infect bacteria, could be genetically manipulated to destroy cancerous cells using the immunity we have acquired from vaccines",
-          "url": "https://www.newscientist.com/article/2531700-bacteria-killing-viruses-redirect-vaccine-immunity-to-destroy-cancer/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "url": "https://www.newscientist.com/article/2531700-phages-could-enable-us-to-hijack-vaccine-immunity-to-kill-cancer-cells/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
           "source": "New Scientist",
           "date": "2026-06-25"
         },
@@ -45,37 +45,37 @@
       "emoji": "🚀",
       "articles": [
         {
-          "title": "Rocket Lab launches US Space Force mission with less than 17 hours' notice — a new record",
-          "summary": "Rocket Lab launched the second satellite for the U.S. Space Force's Victus Haze mission, setting a new launch readiness record in the process. Now, the mission's two spacecraft are in a chase to rendezvous and perform…",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-us-space-force-mission-with-less-than-17-hours-notice-a-new-record",
+          "title": "Millions of Stars in Cigar Galaxy",
+          "summary": "NASA’s James Webb Space Telescope recently observed edge-on starburst galaxy Messier 82 (M82), nicknamed the Cigar Galaxy. Webb’s new view of M82, added to archival data from NASA&#8217;s Hubble Space Telescope, gives…",
+          "url": "https://www.nasa.gov/image-article/millions-of-stars-in-cigar-galaxy/",
+          "source": "NASA",
+          "date": "2026-06-25"
+        },
+        {
+          "title": "NASA Selects Rocket Lab to Launch Sun, Earth Science Missions",
+          "summary": "NASA has selected Rocket Lab to provide the launch service for both the agency’s PolSIR (Polarized Submillimeter Ice-cloud Radiometer) and Total and Spectral Solar Irradiance Sensor-2 (TSIS-2) missions. The two…",
+          "url": "https://www.nasa.gov/missions/tsis-2/nasa-selects-rocket-lab-to-launch-sun-earth-science-missions/",
+          "source": "NASA",
+          "date": "2026-06-25"
+        },
+        {
+          "title": "NASA is paying $30 million for a 1st-of-its-kind rescue mission to the aging Swift telescope before it falls from space. Is it worth it?",
+          "summary": "NASA's daring Swift Boost mission launches June 27 to save the nearly 22-year-old Swift observatory , which is being dragged out of space by Earth's atmosphere.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/nasa-is-paying-usd30-million-for-a-1st-of-its-kind-rescue-mission-to-the-aging-swift-telescope-before-it-falls-from-space-is-it-worth-it",
           "source": "Space.com",
-          "date": "2026-06-23"
+          "date": "2026-06-26"
         },
         {
-          "title": "NASA at the Ion: Orion Lessons from Artemis II Shape NASA’s Moon to Mars Path",
-          "summary": "Seven&#160;weeks&#160;after&#160;the Orion spacecraft&#160;returned&#160;four&#160;astronauts from&#160;humanity’s&#160;first crewed journey around the Moon since Apollo,&#160;Artemis II&#160;Orion Vehicle Manager…",
-          "url": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-at-the-ion-orion-lessons-from-artemis-ii-shape-nasas-moon-to-mars-path/",
-          "source": "NASA",
-          "date": "2026-06-24"
-        },
-        {
-          "title": "Euclid View of Milky Way Heart Previews Core Survey by NASA’s Roman",
-          "summary": "A new look at the heart of our Milky Way galaxy by Euclid, an ESA (European Space Agency) mission with NASA contributions, overlaps with a region scientists will observe with NASA’s Nancy Grace Roman Space Telescope…",
-          "url": "https://www.nasa.gov/missions/roman-space-telescope/euclid-view-of-milky-way-heart-previews-core-survey-by-nasas-roman/",
-          "source": "NASA",
-          "date": "2026-06-24"
+          "title": "James Webb Space Telescope catches 6 galaxies merging into one of the largest galaxies in the universe",
+          "summary": "A supermassive black hole is also coming together at the heart of this galaxy maelstrom.",
+          "url": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-catches-6-galaxies-merging-into-one-of-the-largest-galaxies-in-the-universe",
+          "source": "Space.com",
+          "date": "2026-06-25"
         },
         {
           "title": "This is the largest and most detailed image of our Milky Way — with over 60 million stars and 50 exoplanet systems",
           "summary": "The ESA's dark universe detective spacecraft Euclid, has studied the heart of the Milky Way, creating the largest and most detailed photo of this region ever made.",
           "url": "https://www.space.com/astronomy/galaxies/this-is-the-largest-and-most-detailed-image-of-our-milky-way-with-over-60-million-stars-and-50-exoplanet-systems",
-          "source": "Space.com",
-          "date": "2026-06-24"
-        },
-        {
-          "title": "SpaceX launches 24 Starlink satellites to orbit from California (video)",
-          "summary": "A SpaceX Falcon 9 rocket launched two dozen Starlink satellites to orbit from Vandenberg Space Force Base on Wednesday night (June 24).",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-17-45-launch-ocisly",
           "source": "Space.com",
           "date": "2026-06-24"
         }
@@ -85,25 +85,25 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "This single well-known and widespread butterfly is actually three species in disguise",
-          "summary": "The tropical rainforests of Central and South America are among the most biodiverse places on Earth. Costa Rica alone is home to half a million species, five times more than exist in the entire country of Canada…",
-          "url": "https://phys.org/news/2026-06-widespread-butterfly-species-disguise.html",
-          "source": "Phys.org",
-          "date": "2026-06-25"
-        },
-        {
-          "title": "T. rex took 40 years to reach full size, scientists find",
-          "summary": "Tyrannosaurus rex may have been a much slower grower than scientists realized. A new study of 17 tyrannosaur fossils found that the giant predator likely took about 40 years to reach its full size of roughly eight tons…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260621110957.htm",
-          "source": "Science Daily",
-          "date": "2026-06-22"
-        },
-        {
           "title": "This four-winged dinosaur may have terrorized Earth's earliest birds",
           "summary": "A newly discovered feathered dinosaur called Jian changmaensis may be the missing predator responsible for mysterious piles of crushed prehistoric bird bones in China. The four-winged glider, a close cousin of…",
           "url": "https://www.sciencedaily.com/releases/2026/06/260621060311.htm",
           "source": "Science Daily",
           "date": "2026-06-23"
+        },
+        {
+          "title": "Marine heat waves pose significant threat to seagrass restoration efforts",
+          "summary": "A marine heat wave has undermined the success of seagrass restoration efforts at a site in north Wales, new research has found. More than 1.1 million seagrass seeds were planted at sites in two bays in north Wales…",
+          "url": "https://phys.org/news/2026-06-marine-pose-significant-threat-seagrass.html",
+          "source": "Phys.org",
+          "date": "2026-06-26"
+        },
+        {
+          "title": "Wastewater management reverses widespread freshwater deoxygenation in China",
+          "summary": "Freshwater ecosystems worldwide have been suffering from declining oxygen levels—a trend known as deoxygenation—that threatens biodiversity, fisheries and ecosystem stability. However, a new study published in Nature…",
+          "url": "https://phys.org/news/2026-06-wastewater-reverses-widespread-freshwater-deoxygenation.html",
+          "source": "Phys.org",
+          "date": "2026-06-26"
         },
         {
           "title": "“Absolutely huge” 400-year-old black coral stuns scientists in New Zealand",
@@ -125,32 +125,32 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Researchers identify dual-function rice gene that boosts drought tolerance and grain yield",
-          "summary": "As climate change intensifies droughts and other environmental stresses, maintaining crop productivity has become a major challenge for global agriculture. Drought can impair chloroplast development, reducing…",
-          "url": "https://phys.org/news/2026-06-dual-function-rice-gene-boosts.html",
+          "title": "Whitebait rapidly switch life cycles when earthquakes cut off route to sea",
+          "summary": "Aotearoa New Zealand whitebait can rapidly switch their life cycles in response to sudden environmental changes, new University of Otago—Ōtākou Whakaihu Waka research shows. The research is published in the journal…",
+          "url": "https://phys.org/news/2026-06-whitebait-rapidly-life-earthquakes-route.html",
           "source": "Phys.org",
-          "date": "2026-06-25"
+          "date": "2026-06-26"
         },
         {
-          "title": "Turtles may migrate using Earth's magnetic field",
-          "summary": "New research indicates that sea turtles seem to navigate across hundreds of miles of open ocean using Earth's magnetic field. Previous experimental studies suggested that sea turtles use geomagnetism to navigate, but…",
-          "url": "https://phys.org/news/2026-06-turtles-migrate-earth-magnetic-field.html",
+          "title": "Europe heat wave shattering temperature records",
+          "summary": "Europe's heat wave has smashed several temperature records, the U.N.'s weather and climate agency said Friday, adding that it would determine the full impact once the phenomenon has ended.",
+          "url": "https://phys.org/news/2026-06-europe-shattering-temperature.html",
           "source": "Phys.org",
-          "date": "2026-06-25"
+          "date": "2026-06-26"
         },
         {
-          "title": "How fair climate action works: Findings from 88 countries with 5 billion people",
-          "summary": "A study by the Potsdam Institute for Climate Impact Research (PIK) now sheds light, for the first time, on the carbon intensity of household consumption across much of the world—and thus on the distributional impact of…",
-          "url": "https://phys.org/news/2026-06-fair-climate-action-countries-billion.html",
+          "title": "Flooding rains, ocean gains: How a huge Murray flood gave the sea a feast",
+          "summary": "For decades, the rivers of the Murray-Darling Basin have been heavily regulated by dams and irrigation networks. As a result, the volume of water entering the ocean is about 60% smaller than 100 years ago. But nature…",
+          "url": "https://phys.org/news/2026-06-ocean-gains-huge-murray-gave.html",
           "source": "Phys.org",
-          "date": "2026-06-25"
+          "date": "2026-06-26"
         },
         {
-          "title": "Location-specific solutions needed to manage heat across northern Australia, say researchers",
-          "summary": "Place-specific strategies for adapting to increasing temperatures are crucial to keeping remote towns and communities across northern Australia habitable, according to a recent study on the future impacts of climate…",
-          "url": "https://phys.org/news/2026-06-specific-solutions-northern-australia.html",
+          "title": "What to know about earthquake early warning systems",
+          "summary": "As earthquakes struck from California to Venezuela to Japan, millions of people received warnings on their mobile phones, providing critical seconds to seek protection.",
+          "url": "https://phys.org/news/2026-06-earthquake-early.html",
           "source": "Phys.org",
-          "date": "2026-06-25"
+          "date": "2026-06-26"
         },
         {
           "title": "Back-to-back Venezuela earthquakes kill at least 164",
@@ -165,11 +165,25 @@
       "emoji": "🤖",
       "articles": [
         {
+          "title": "Can video games help us better understand quantum mechanics?",
+          "summary": "The world of quantum video games is vast – there are hundreds that are either inspired by quantum mechanics or use quantum computers in their development. Columnist Karmela Padavic-Callaghan explores how these could…",
+          "url": "https://www.newscientist.com/article/2532015-can-video-games-help-us-better-understand-quantum-mechanics/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "source": "New Scientist",
+          "date": "2026-06-26"
+        },
+        {
           "title": "Lost books by ancient philosophers recovered from 'unreadable' scrolls",
           "summary": "Scrolls from the Roman library of Herculaneum that were carbonised by a volcanic eruption have been read in their entirety for the first time, thanks to scans and AI software",
           "url": "https://www.newscientist.com/article/2531697-lost-books-by-ancient-philosophers-recovered-from-unreadable-scrolls/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
           "source": "New Scientist",
           "date": "2026-06-25"
+        },
+        {
+          "title": "New research outlines human-centered AI framework for online student success",
+          "summary": "University of Phoenix College of Doctoral Studies scholars Pamayla E. Darbyshire, DHA, MSN/CNS, and Carl Beitsayadeh, MS, have published the article, \"Enhancing Student Success through GAI and Predictive Analytics,\" in…",
+          "url": "https://phys.org/news/2026-06-outlines-human-centered-ai-framework.html",
+          "source": "Phys.org",
+          "date": "2026-06-26"
         }
       ]
     },
@@ -177,32 +191,18 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "A thermodynamic approach to gravity could explain cosmic acceleration without dark energy",
-          "summary": "Gravity, the force that attracts objects toward each other, is currently framed by Albert Einstein's theory of general relativity. This framework describes gravity as the curvature of spacetime, the invisible…",
-          "url": "https://phys.org/news/2026-06-thermodynamic-approach-gravity-cosmic-dark.html",
-          "source": "Phys.org",
-          "date": "2026-06-25"
+          "title": "Europe’s heatwave is the hottest and most humid ever",
+          "summary": "The current temperatures in western and central Europe would have been virtually impossible 50 years ago, and unprecedented humidity levels make this heatwave especially dangerous",
+          "url": "https://www.newscientist.com/article/2531992-europes-heatwave-is-the-hottest-and-most-humid-ever/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "source": "New Scientist",
+          "date": "2026-06-26"
         },
         {
-          "title": "Trios of quantum particles form checkerboard layouts when particle density hits sweet spot",
-          "summary": "Trions form when three particles, like quarks or electrons, come together. This formation occurs in quantum particles in nuclear physics, semiconductors and magnets, and understanding its behavior can be challenging…",
-          "url": "https://phys.org/news/2026-06-trios-quantum-particles-checkerboard-layouts.html",
-          "source": "Phys.org",
+          "title": "If you aren't terrified by this heatwave, you should be",
+          "summary": "The extreme heat currently being felt in Europe isn’t the new normal – much worse is to come, and we are doing far too little to adapt, says Michael Le Page",
+          "url": "https://www.newscientist.com/article/2531853-if-you-arent-terrified-by-this-heatwave-you-should-be/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "source": "New Scientist",
           "date": "2026-06-25"
-        },
-        {
-          "title": "Quantum waves reveal one-sided motion marking elusive critical states",
-          "summary": "Sound waves, light waves and other types of waves, generally spread freely through space and over time. In 1958, physicist Philip W. Anderson first described a phenomenon via which irregularities or other sources of…",
-          "url": "https://phys.org/news/2026-06-quantum-reveal-sided-motion-elusive.html",
-          "source": "Phys.org",
-          "date": "2026-06-25"
-        },
-        {
-          "title": "Career Spotlight: Electrician (Ages 14-18)",
-          "summary": "What does an electrician do? Electricity powers the world, and electricians are the ones who get it where it needs to go. An electrician is an expert who is trained to make sure electrical systems and equipment are…",
-          "url": "https://www.nasa.gov/learning-resources/career-spotlight-electrician-ages-14-18/",
-          "source": "NASA",
-          "date": "2026-06-24"
         },
         {
           "title": "This common vitamin deficiency can mimic normal aging",
@@ -210,6 +210,13 @@
           "url": "https://www.sciencedaily.com/releases/2026/06/260623083116.htm",
           "source": "Science Daily",
           "date": "2026-06-25"
+        },
+        {
+          "title": "Study challenges a common belief about vitamin D and sunlight",
+          "summary": "A study of nearly 300 people across northern Britain found that vitamin D levels often stay low all year in groups most at risk. Surprisingly, summer sunshine did not significantly boost vitamin D levels among older…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260623083104.htm",
+          "source": "Science Daily",
+          "date": "2026-06-24"
         }
       ]
     }
