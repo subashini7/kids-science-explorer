@@ -1,13 +1,20 @@
 {
-  "updated": "2026-06-26T15:23:55Z",
+  "updated": "2026-06-27T14:42:01Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "Elusive thorium–thorium bonding directly observed using Hirshfeld atom refinement",
-          "summary": "Researchers have directly visualized a rare type of chemical bond between some of the heaviest elements in the periodic table, providing experimental evidence of how these atoms share electrons in systems where this has…",
-          "url": "https://phys.org/news/2026-06-elusive-thoriumthorium-bonding-hirshfeld-atom.html",
+          "title": "Coastal and estuarine carbon removal technique may backfire when pushed too far",
+          "summary": "Scientists investigating a proposed way to remove carbon dioxide from the atmosphere using seawater have found that adding too much alkalinity to neutralize acids can trigger chemical reactions that undermine the…",
+          "url": "https://phys.org/news/2026-06-coastal-estuarine-carbon-technique-backfire.html",
+          "source": "Phys.org",
+          "date": "2026-06-27"
+        },
+        {
+          "title": "ROS-producing enzymes guide plant cell division and tissue patterning, gene-editing study shows",
+          "summary": "Reactive oxygen species (ROS) produced naturally during cellular metabolism often cause oxidative damage to cells. However, these molecules also play an important role in normal cellular signaling. While ROS are…",
+          "url": "https://phys.org/news/2026-06-ros-enzymes-cell-division-tissue.html",
           "source": "Phys.org",
           "date": "2026-06-26"
         },
@@ -19,9 +26,9 @@
           "date": "2026-06-24"
         },
         {
-          "title": "Metal hydride molecule trapped with laser light opens path to ultracold hydrogen",
-          "summary": "Controlling and trapping molecules, units of a substance consisting of two or more chemically bound atoms, with laser light is significantly more challenging than trapping individual atoms. This is because molecules…",
-          "url": "https://phys.org/news/2026-06-metal-hydride-molecule-laser-path.html",
+          "title": "Clean crystal surface lets single molecules hit ultimate quantum limit",
+          "summary": "Scientists at the Max Planck Institute for the Science of Light (MPL) have developed a technique for interrogating molecules on surfaces with spectroscopic precision, thereby reaching the ultimate quantum limit for the…",
+          "url": "https://phys.org/news/2026-06-crystal-surface-molecules-ultimate-quantum.html",
           "source": "Phys.org",
           "date": "2026-06-26"
         },
@@ -31,13 +38,6 @@
           "url": "https://www.newscientist.com/article/2531700-phages-could-enable-us-to-hijack-vaccine-immunity-to-kill-cancer-cells/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
           "source": "New Scientist",
           "date": "2026-06-25"
-        },
-        {
-          "title": "New superconducting X-ray detector is up to 1,000 times more sensitive",
-          "summary": "A groundbreaking superconducting X-ray spectrometer has begun operation at BESSY II, giving Europe its first TES-based system and boosting photon detection efficiency by up to 1,000 times. The advance enables scientists…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260623083108.htm",
-          "source": "Science Daily",
-          "date": "2026-06-24"
         }
       ]
     },
@@ -45,18 +45,18 @@
       "emoji": "🚀",
       "articles": [
         {
-          "title": "Millions of Stars in Cigar Galaxy",
-          "summary": "NASA’s James Webb Space Telescope recently observed edge-on starburst galaxy Messier 82 (M82), nicknamed the Cigar Galaxy. Webb’s new view of M82, added to archival data from NASA&#8217;s Hubble Space Telescope, gives…",
-          "url": "https://www.nasa.gov/image-article/millions-of-stars-in-cigar-galaxy/",
+          "title": "NASA Tests New Refuel Device for Future In-Space Refueling Missions",
+          "summary": "For NASA’s next generation of deep space exploration missions, spacecraft may need to refuel in Earth orbit before pushing farther into the solar system. Similar to how a gas pump needs a nozzle to fit your fuel tank…",
+          "url": "https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-tests-new-refuel-device-for-future-in-space-refueling-missions/",
           "source": "NASA",
-          "date": "2026-06-25"
+          "date": "2026-06-26"
         },
         {
-          "title": "NASA Selects Rocket Lab to Launch Sun, Earth Science Missions",
-          "summary": "NASA has selected Rocket Lab to provide the launch service for both the agency’s PolSIR (Polarized Submillimeter Ice-cloud Radiometer) and Total and Spectral Solar Irradiance Sensor-2 (TSIS-2) missions. The two…",
-          "url": "https://www.nasa.gov/missions/tsis-2/nasa-selects-rocket-lab-to-launch-sun-earth-science-missions/",
-          "source": "NASA",
-          "date": "2026-06-25"
+          "title": "Hubble spies ancient 'Chandelier Cluster' forming stars in two bursts",
+          "summary": "The subject of today's NASA/ESA Hubble Space Telescope image is an ancient inhabitant of our galaxy. This sparkling scene features a globular cluster: a collection of tens of thousands to millions of stars, all tightly…",
+          "url": "https://phys.org/news/2026-06-hubble-spies-ancient-chandelier-cluster.html",
+          "source": "Phys.org",
+          "date": "2026-06-26"
         },
         {
           "title": "NASA is paying $30 million for a 1st-of-its-kind rescue mission to the aging Swift telescope before it falls from space. Is it worth it?",
@@ -73,11 +73,11 @@
           "date": "2026-06-25"
         },
         {
-          "title": "This is the largest and most detailed image of our Milky Way — with over 60 million stars and 50 exoplanet systems",
-          "summary": "The ESA's dark universe detective spacecraft Euclid, has studied the heart of the Milky Way, creating the largest and most detailed photo of this region ever made.",
-          "url": "https://www.space.com/astronomy/galaxies/this-is-the-largest-and-most-detailed-image-of-our-milky-way-with-over-60-million-stars-and-50-exoplanet-systems",
-          "source": "Space.com",
-          "date": "2026-06-24"
+          "title": "Partners, NASA Ready for June Launch of Swift Boost Mission",
+          "summary": "A mission to raise the orbit of NASA’s Swift observatory is poised for launch June 30.",
+          "url": "https://science.nasa.gov/missions/swift/swift-boost-mission/partners-nasa-ready-for-june-launch-of-swift-boost-mission/",
+          "source": "NASA",
+          "date": "2026-06-26"
         }
       ]
     },
@@ -85,25 +85,18 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "This four-winged dinosaur may have terrorized Earth's earliest birds",
-          "summary": "A newly discovered feathered dinosaur called Jian changmaensis may be the missing predator responsible for mysterious piles of crushed prehistoric bird bones in China. The four-winged glider, a close cousin of…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260621060311.htm",
-          "source": "Science Daily",
-          "date": "2026-06-23"
+          "title": "Primate evolution kept aging rates stable for 25 million years despite lifespan gaps",
+          "summary": "Biologists group animals with similar traits into broad categories called orders. Despite their similarities, animal species in the same order can have very different average lifespans.",
+          "url": "https://phys.org/news/2026-06-primate-evolution-aging-stable-million.html",
+          "source": "Phys.org",
+          "date": "2026-06-27"
         },
         {
-          "title": "Marine heat waves pose significant threat to seagrass restoration efforts",
-          "summary": "A marine heat wave has undermined the success of seagrass restoration efforts at a site in north Wales, new research has found. More than 1.1 million seagrass seeds were planted at sites in two bays in north Wales…",
-          "url": "https://phys.org/news/2026-06-marine-pose-significant-threat-seagrass.html",
+          "title": "Vulnerable butterfly recorded in the Botanical Garden at Uppsala",
+          "summary": "The Botanical Garden in Uppsala was recently visited by animal ecology researchers, who conducted a BioBlitz to find, identify and record as many insects as possible in the Botanical Garden. One of the finds was an…",
+          "url": "https://phys.org/news/2026-06-vulnerable-butterfly-botanical-garden-uppsala.html",
           "source": "Phys.org",
-          "date": "2026-06-26"
-        },
-        {
-          "title": "Wastewater management reverses widespread freshwater deoxygenation in China",
-          "summary": "Freshwater ecosystems worldwide have been suffering from declining oxygen levels—a trend known as deoxygenation—that threatens biodiversity, fisheries and ecosystem stability. However, a new study published in Nature…",
-          "url": "https://phys.org/news/2026-06-wastewater-reverses-widespread-freshwater-deoxygenation.html",
-          "source": "Phys.org",
-          "date": "2026-06-26"
+          "date": "2026-06-27"
         },
         {
           "title": "“Absolutely huge” 400-year-old black coral stuns scientists in New Zealand",
@@ -113,11 +106,18 @@
           "date": "2026-06-25"
         },
         {
-          "title": "Scientists open a million-year-old time capsule hidden beneath New Zealand",
-          "summary": "A cave in New Zealand has yielded fossils from a lost ecosystem that existed about 1 million years ago, including a possible flying ancestor of the kākāpō. The discovery reveals that volcanoes and climate upheaval were…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260623011129.htm",
-          "source": "Science Daily",
-          "date": "2026-06-23"
+          "title": "Saturday Citations: Predicting earthquakes; two types of water; observing event horizons",
+          "summary": "Howdy, pards, here's a quick roundup of the week's science news: Moose, previously thought to be a transplanted species, are actually native to Colorado. A digital twin of a two-year-old child's brain revealed neural…",
+          "url": "https://phys.org/news/2026-06-saturday-citations-earthquakes-event-horizons.html",
+          "source": "Phys.org",
+          "date": "2026-06-27"
+        },
+        {
+          "title": "Lamprey brain atlas reveals 450-million-year blueprint of vertebrate brains",
+          "summary": "What did the very first complex vertebrate brain look like? To find out, scientists turned to an unlikely time traveler: the lamprey, a jawless, eel-like fish whose body plan has barely changed in roughly 360 million…",
+          "url": "https://phys.org/news/2026-06-lamprey-brain-atlas-reveals-million.html",
+          "source": "Phys.org",
+          "date": "2026-06-27"
         }
       ]
     },
@@ -125,39 +125,39 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Whitebait rapidly switch life cycles when earthquakes cut off route to sea",
-          "summary": "Aotearoa New Zealand whitebait can rapidly switch their life cycles in response to sudden environmental changes, new University of Otago—Ōtākou Whakaihu Waka research shows. The research is published in the journal…",
-          "url": "https://phys.org/news/2026-06-whitebait-rapidly-life-earthquakes-route.html",
+          "title": "UK sets new June temperature record for third day in a row: Met Office",
+          "summary": "The UK broke the record for a June temperature for the third day in a row on Friday, the Met Office weather agency said, as a sweltering heat wave strained schools and hospitals and drove down business.",
+          "url": "https://phys.org/news/2026-06-uk-june-temperature-day-row.html",
+          "source": "Phys.org",
+          "date": "2026-06-27"
+        },
+        {
+          "title": "Germany sees hottest temperature on record of 41.3C: Weather service",
+          "summary": "Germany saw its highest temperature ever recorded Friday at 41.3°C (106.3°F), according to preliminary weather service data, as the country braces for the possibility of even higher temperatures over the weekend.",
+          "url": "https://phys.org/news/2026-06-germany-hottest-temperature-413c-weather.html",
+          "source": "Phys.org",
+          "date": "2026-06-27"
+        },
+        {
+          "title": "Thawing ground, future questions: Decoding Arctic climate in a lab",
+          "summary": "In a Penn State lab, a small cylinder of soil sits wired with sensors, slowly cooling as it mimics conditions thousands of miles away.",
+          "url": "https://phys.org/news/2026-06-ground-future-decoding-arctic-climate.html",
+          "source": "Phys.org",
+          "date": "2026-06-27"
+        },
+        {
+          "title": "Coal pollution reaches one of Earth's most remote mountain regions",
+          "summary": "The Himalayas are often seen as one of Earth's great natural barriers, separating the heavily populated and industrialized regions of South Asia from the remote Tibetan Plateau. But new research, published in…",
+          "url": "https://phys.org/news/2026-06-coal-pollution-earth-remote-mountain.html",
           "source": "Phys.org",
           "date": "2026-06-26"
         },
         {
-          "title": "Europe heat wave shattering temperature records",
-          "summary": "Europe's heat wave has smashed several temperature records, the U.N.'s weather and climate agency said Friday, adding that it would determine the full impact once the phenomenon has ended.",
-          "url": "https://phys.org/news/2026-06-europe-shattering-temperature.html",
+          "title": "Ocean warming above 1.5°C triggered year-round marine disruption across globe, study shows",
+          "summary": "Researchers at King Abdullah University of Science and Technology (KAUST) led one of the first global assessments of how marine ecosystems responded during the first year when global temperatures temporarily exceeded…",
+          "url": "https://phys.org/news/2026-06-ocean-15c-triggered-year-marine.html",
           "source": "Phys.org",
           "date": "2026-06-26"
-        },
-        {
-          "title": "Flooding rains, ocean gains: How a huge Murray flood gave the sea a feast",
-          "summary": "For decades, the rivers of the Murray-Darling Basin have been heavily regulated by dams and irrigation networks. As a result, the volume of water entering the ocean is about 60% smaller than 100 years ago. But nature…",
-          "url": "https://phys.org/news/2026-06-ocean-gains-huge-murray-gave.html",
-          "source": "Phys.org",
-          "date": "2026-06-26"
-        },
-        {
-          "title": "What to know about earthquake early warning systems",
-          "summary": "As earthquakes struck from California to Venezuela to Japan, millions of people received warnings on their mobile phones, providing critical seconds to seek protection.",
-          "url": "https://phys.org/news/2026-06-earthquake-early.html",
-          "source": "Phys.org",
-          "date": "2026-06-26"
-        },
-        {
-          "title": "Back-to-back Venezuela earthquakes kill at least 164",
-          "summary": "Two back-to-back Venezuela earthquakes caused devastation last night. The current death toll is at least 164, with over 700 injured. The post Back-to-back Venezuela earthquakes kill at least 164 first appeared on…",
-          "url": "https://earthsky.org/earth/back-to-back-venezuela-earthquakes/",
-          "source": "EarthSky",
-          "date": "2026-06-25"
         }
       ]
     },
@@ -165,11 +165,11 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "Can video games help us better understand quantum mechanics?",
-          "summary": "The world of quantum video games is vast – there are hundreds that are either inspired by quantum mechanics or use quantum computers in their development. Columnist Karmela Padavic-Callaghan explores how these could…",
-          "url": "https://www.newscientist.com/article/2532015-can-video-games-help-us-better-understand-quantum-mechanics/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-          "source": "New Scientist",
-          "date": "2026-06-26"
+          "title": "Research team cuts cost of building reconstituted cell-free systems by 95%",
+          "summary": "A research team led by Professor Joongoo Lee in the Department of Chemical Engineering at POSTECH (Pohang University of Science and Technology) has developed an automated, modular method for assembling reconstituted…",
+          "url": "https://phys.org/news/2026-06-team-reconstituted-cell-free.html",
+          "source": "Phys.org",
+          "date": "2026-06-27"
         },
         {
           "title": "Lost books by ancient philosophers recovered from 'unreadable' scrolls",
@@ -179,10 +179,24 @@
           "date": "2026-06-25"
         },
         {
-          "title": "New research outlines human-centered AI framework for online student success",
-          "summary": "University of Phoenix College of Doctoral Studies scholars Pamayla E. Darbyshire, DHA, MSN/CNS, and Carl Beitsayadeh, MS, have published the article, \"Enhancing Student Success through GAI and Predictive Analytics,\" in…",
-          "url": "https://phys.org/news/2026-06-outlines-human-centered-ai-framework.html",
+          "title": "Can video games help us better understand quantum mechanics?",
+          "summary": "The world of quantum video games is vast – there are hundreds that are either inspired by quantum mechanics or use quantum computers in their development. Columnist Karmela Padavic-Callaghan explores how these could…",
+          "url": "https://www.newscientist.com/article/2532015-can-video-games-help-us-better-understand-quantum-mechanics/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "source": "New Scientist",
+          "date": "2026-06-26"
+        },
+        {
+          "title": "Investigative interviews are key to solving crimes—should AI be helping police with their inquiries?",
+          "summary": "Investigative interviewing—the process of obtaining accurate and complete accounts from victims, witnesses and suspects—is the lifeblood of the criminal justice system.",
+          "url": "https://phys.org/news/2026-06-key-crimes-ai-police-inquiries.html",
           "source": "Phys.org",
+          "date": "2026-06-27"
+        },
+        {
+          "title": "Only a few hours left! This expert-approved, beginner-friendly drone is $60 off for Prime Day",
+          "summary": "Drone expert James Abbott thinks this DJI Neo is perfect for beginners. $139 for this drone idea for newcomers is a steal.",
+          "url": "https://www.space.com/technology/drones/only-a-few-hours-left-this-expert-approved-beginner-friendly-drone-is-usd60-off-for-prime-day",
+          "source": "Space.com",
           "date": "2026-06-26"
         }
       ]
@@ -190,6 +204,27 @@
     "Physics": {
       "emoji": "⚡",
       "articles": [
+        {
+          "title": "Swiss glaciers facing drastic loss from heat wave: Expert",
+          "summary": "Swiss glaciers are set to lose an enormous amount of ice due to the heat wave battering Europe, the head of Glacier Monitoring in Switzerland (GLAMOS) told AFP.",
+          "url": "https://phys.org/news/2026-06-swiss-glaciers-drastic-loss-expert.html",
+          "source": "Phys.org",
+          "date": "2026-06-27"
+        },
+        {
+          "title": "Farmers fear drought as Italy's longest river runs dry",
+          "summary": "Seawater is seeping into Italy's longest river as the waterway starts to run dry in the heat wave, hitting a farming heartland that produces the milk for Parmesan cheese.",
+          "url": "https://phys.org/news/2026-06-farmers-drought-italy-longest-river.html",
+          "source": "Phys.org",
+          "date": "2026-06-27"
+        },
+        {
+          "title": "Plasma and graphene combine to protect metal surfaces from corrosion",
+          "summary": "Plasma is an ionized gas, often referred to as the fourth state of matter. Plasmas, which are created artificially by applying energy to a gas, are found in the fluorescent tubes that illuminate kitchens. However, they…",
+          "url": "https://phys.org/news/2026-06-plasma-graphene-combine-metal-surfaces.html",
+          "source": "Phys.org",
+          "date": "2026-06-26"
+        },
         {
           "title": "Europe’s heatwave is the hottest and most humid ever",
           "summary": "The current temperatures in western and central Europe would have been virtually impossible 50 years ago, and unprecedented humidity levels make this heatwave especially dangerous",
@@ -203,20 +238,6 @@
           "url": "https://www.newscientist.com/article/2531853-if-you-arent-terrified-by-this-heatwave-you-should-be/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
           "source": "New Scientist",
           "date": "2026-06-25"
-        },
-        {
-          "title": "This common vitamin deficiency can mimic normal aging",
-          "summary": "Vitamin B12 is needed in microscopic amounts, but a shortage can have major effects on health and energy. The vitamin was first linked to a lifesaving liver treatment for pernicious anemia nearly 100 years ago. Today…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260623083116.htm",
-          "source": "Science Daily",
-          "date": "2026-06-25"
-        },
-        {
-          "title": "Study challenges a common belief about vitamin D and sunlight",
-          "summary": "A study of nearly 300 people across northern Britain found that vitamin D levels often stay low all year in groups most at risk. Surprisingly, summer sunshine did not significantly boost vitamin D levels among older…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260623083104.htm",
-          "source": "Science Daily",
-          "date": "2026-06-24"
         }
       ]
     }
