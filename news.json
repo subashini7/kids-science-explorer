@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T14:42:01Z",
+  "updated": "2026-06-28T14:48:57Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
@@ -12,32 +12,32 @@
           "date": "2026-06-27"
         },
         {
-          "title": "ROS-producing enzymes guide plant cell division and tissue patterning, gene-editing study shows",
-          "summary": "Reactive oxygen species (ROS) produced naturally during cellular metabolism often cause oxidative damage to cells. However, these molecules also play an important role in normal cellular signaling. While ROS are…",
-          "url": "https://phys.org/news/2026-06-ros-enzymes-cell-division-tissue.html",
+          "title": "Lithium-doped carbon nanorings show promise for next-generation optical devices",
+          "summary": "Nonlinear optical materials are essential for advanced photonics and laser technologies, but researchers are still searching for ways to optimize organic, carbon-based alternatives. Using computational modeling…",
+          "url": "https://phys.org/news/2026-06-lithium-doped-carbon-nanorings-generation.html",
           "source": "Phys.org",
-          "date": "2026-06-26"
+          "date": "2026-06-27"
         },
         {
-          "title": "One tiny mutation may explain how bat viruses become human threats",
-          "summary": "Scientists found that one tiny genetic change can completely alter how a coronavirus behaves in different species. Comparing SARS-CoV-2 with a closely related bat-only virus, they showed that a single amino-acid…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260622091434.htm",
-          "source": "Science Daily",
-          "date": "2026-06-24"
-        },
-        {
-          "title": "Clean crystal surface lets single molecules hit ultimate quantum limit",
-          "summary": "Scientists at the Max Planck Institute for the Science of Light (MPL) have developed a technique for interrogating molecules on surfaces with spectroscopic precision, thereby reaching the ultimate quantum limit for the…",
-          "url": "https://phys.org/news/2026-06-crystal-surface-molecules-ultimate-quantum.html",
+          "title": "New workflow transforms nonfunctional protein scaffolds into active enzymes",
+          "summary": "Enzymes are regarded as the key to sustainable chemistry. Despite major advances in protein design, creating artificial enzymes from scratch has so far remained a grand challenge. A research team at the University of…",
+          "url": "https://phys.org/news/2026-06-workflow-nonfunctional-protein-scaffolds-enzymes.html",
           "source": "Phys.org",
-          "date": "2026-06-26"
+          "date": "2026-06-27"
         },
         {
-          "title": "Phages could enable us to hijack vaccine immunity to kill cancer cells",
-          "summary": "Phages, viruses that infect bacteria, could be genetically manipulated to destroy cancerous cells using the immunity we have acquired from vaccines",
-          "url": "https://www.newscientist.com/article/2531700-phages-could-enable-us-to-hijack-vaccine-immunity-to-kill-cancer-cells/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-          "source": "New Scientist",
-          "date": "2026-06-25"
+          "title": "Oxygen atoms in 15‑million‑year‑old giant eggshells reveal how plants reacted to a hotter Earth",
+          "summary": "Some periods in Earth's history are so different from our own that they may as well belong to another planet. Many people are interested in the age of dinosaurs or the Ice Ages, but it is an intermediate world, the…",
+          "url": "https://phys.org/news/2026-06-oxygen-atoms-15millionyearold-giant-eggshells.html",
+          "source": "Phys.org",
+          "date": "2026-06-28"
+        },
+        {
+          "title": "Burned-home soils showed uneven lead, arsenic contamination after Los Angeles wildfires",
+          "summary": "A chemical analysis of residential soils and ash around California homes burned by the Eaton and Palisades wildfires in early 2025 revealed wide variation in contamination by potentially harmful elements, including…",
+          "url": "https://phys.org/news/2026-06-home-soils-uneven-arsenic-contamination.html",
+          "source": "Phys.org",
+          "date": "2026-06-27"
         }
       ]
     },
@@ -49,13 +49,6 @@
           "summary": "For NASA’s next generation of deep space exploration missions, spacecraft may need to refuel in Earth orbit before pushing farther into the solar system. Similar to how a gas pump needs a nozzle to fit your fuel tank…",
           "url": "https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-tests-new-refuel-device-for-future-in-space-refueling-missions/",
           "source": "NASA",
-          "date": "2026-06-26"
-        },
-        {
-          "title": "Hubble spies ancient 'Chandelier Cluster' forming stars in two bursts",
-          "summary": "The subject of today's NASA/ESA Hubble Space Telescope image is an ancient inhabitant of our galaxy. This sparkling scene features a globular cluster: a collection of tens of thousands to millions of stars, all tightly…",
-          "url": "https://phys.org/news/2026-06-hubble-spies-ancient-chandelier-cluster.html",
-          "source": "Phys.org",
           "date": "2026-06-26"
         },
         {
@@ -78,6 +71,13 @@
           "url": "https://science.nasa.gov/missions/swift/swift-boost-mission/partners-nasa-ready-for-june-launch-of-swift-boost-mission/",
           "source": "NASA",
           "date": "2026-06-26"
+        },
+        {
+          "title": "Euclid Sees Heart of Milky Way",
+          "summary": "Euclid, an ESA (European Space Agency) mission with NASA contributions, took a new look at the heart of our Milky Way galaxy, seen in this image released on June 24, 2026. This observation overlaps with a region…",
+          "url": "https://www.nasa.gov/image-article/euclid-sees-heart-of-milky-way/",
+          "source": "NASA",
+          "date": "2026-06-26"
         }
       ]
     },
@@ -92,9 +92,9 @@
           "date": "2026-06-27"
         },
         {
-          "title": "Vulnerable butterfly recorded in the Botanical Garden at Uppsala",
-          "summary": "The Botanical Garden in Uppsala was recently visited by animal ecology researchers, who conducted a BioBlitz to find, identify and record as many insects as possible in the Botanical Garden. One of the finds was an…",
-          "url": "https://phys.org/news/2026-06-vulnerable-butterfly-botanical-garden-uppsala.html",
+          "title": "Newly identified fossil sheds light on evolutionary history of saber-toothed cats",
+          "summary": "Fossils tucked away in a museum drawer and identified merely as \"feline\" are actually from a very ancient and enigmatic saber-toothed cat that inhabited North America more than 5 million years ago. Newly identified by a…",
+          "url": "https://phys.org/news/2026-06-newly-fossil-evolutionary-history-saber.html",
           "source": "Phys.org",
           "date": "2026-06-27"
         },
@@ -106,16 +106,16 @@
           "date": "2026-06-25"
         },
         {
+          "title": "Scientists uncover evolutionary edge behind plant invasions",
+          "summary": "Plants that become invasive may owe their success to an advantage shaped long before they arrive, according to new research led by King's College London.",
+          "url": "https://phys.org/news/2026-06-scientists-uncover-evolutionary-edge-invasions.html",
+          "source": "Phys.org",
+          "date": "2026-06-28"
+        },
+        {
           "title": "Saturday Citations: Predicting earthquakes; two types of water; observing event horizons",
           "summary": "Howdy, pards, here's a quick roundup of the week's science news: Moose, previously thought to be a transplanted species, are actually native to Colorado. A digital twin of a two-year-old child's brain revealed neural…",
           "url": "https://phys.org/news/2026-06-saturday-citations-earthquakes-event-horizons.html",
-          "source": "Phys.org",
-          "date": "2026-06-27"
-        },
-        {
-          "title": "Lamprey brain atlas reveals 450-million-year blueprint of vertebrate brains",
-          "summary": "What did the very first complex vertebrate brain look like? To find out, scientists turned to an unlikely time traveler: the lamprey, a jawless, eel-like fish whose body plan has barely changed in roughly 360 million…",
-          "url": "https://phys.org/news/2026-06-lamprey-brain-atlas-reveals-million.html",
           "source": "Phys.org",
           "date": "2026-06-27"
         }
@@ -124,6 +124,13 @@
     "Earth & Climate": {
       "emoji": "🌍",
       "articles": [
+        {
+          "title": "The sun's outbursts may briefly weaken rain and snow events across North America",
+          "summary": "For decades, scientists have searched for a clear link between the sun's explosive storms and the weather that occurs on Earth. A breakthrough study from the University of New Hampshire reveals that in the hours and…",
+          "url": "https://phys.org/news/2026-06-sun-outbursts-briefly-weaken-events.html",
+          "source": "Phys.org",
+          "date": "2026-06-28"
+        },
         {
           "title": "UK sets new June temperature record for third day in a row: Met Office",
           "summary": "The UK broke the record for a June temperature for the third day in a row on Friday, the Met Office weather agency said, as a sweltering heat wave strained schools and hospitals and drove down business.",
@@ -139,31 +146,31 @@
           "date": "2026-06-27"
         },
         {
-          "title": "Thawing ground, future questions: Decoding Arctic climate in a lab",
-          "summary": "In a Penn State lab, a small cylinder of soil sits wired with sensors, slowly cooling as it mimics conditions thousands of miles away.",
-          "url": "https://phys.org/news/2026-06-ground-future-decoding-arctic-climate.html",
-          "source": "Phys.org",
-          "date": "2026-06-27"
+          "title": "Sun news: Possible G2 storm due overnight June 29? Aurora alert!",
+          "summary": "Sun news for June 28, 2026: CME from June 26 targets Earth! G1–G2 storms possible June 30. AR4478 beta-gamma-delta growing. Aurora alert midweek! The post Sun news: Possible G2 storm due overnight June 29? Aurora alert!…",
+          "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+          "source": "EarthSky",
+          "date": "2026-06-28"
         },
         {
-          "title": "Coal pollution reaches one of Earth's most remote mountain regions",
-          "summary": "The Himalayas are often seen as one of Earth's great natural barriers, separating the heavily populated and industrialized regions of South Asia from the remote Tibetan Plateau. But new research, published in…",
-          "url": "https://phys.org/news/2026-06-coal-pollution-earth-remote-mountain.html",
-          "source": "Phys.org",
-          "date": "2026-06-26"
-        },
-        {
-          "title": "Ocean warming above 1.5°C triggered year-round marine disruption across globe, study shows",
-          "summary": "Researchers at King Abdullah University of Science and Technology (KAUST) led one of the first global assessments of how marine ecosystems responded during the first year when global temperatures temporarily exceeded…",
-          "url": "https://phys.org/news/2026-06-ocean-15c-triggered-year-marine.html",
-          "source": "Phys.org",
-          "date": "2026-06-26"
+          "title": "The race to understand how and when Thwaites glacier will collapse",
+          "summary": "The loss of Antarctica’s doomsday glacier would transform our planet. Now scientists are revealing the secrets of this remotest of places, and asking the question: is its demise inevitable?",
+          "url": "https://www.newscientist.com/article/2526630-the-race-to-understand-how-and-when-thwaites-glacier-will-collapse/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "source": "New Scientist",
+          "date": "2026-06-25"
         }
       ]
     },
     "Technology & Inventions": {
       "emoji": "🤖",
       "articles": [
+        {
+          "title": "Non-Hermitian geometry reveals when quantum amplification depends only on start and end points",
+          "summary": "In quantum mechanics, the geometry of quantum states has emerged as a powerful framework for understanding phenomena ranging from electrical conductivity to superconductivity. One research direction aims to extend these…",
+          "url": "https://phys.org/news/2026-06-hermitian-geometry-reveals-quantum-amplification.html",
+          "source": "Phys.org",
+          "date": "2026-06-27"
+        },
         {
           "title": "Research team cuts cost of building reconstituted cell-free systems by 95%",
           "summary": "A research team led by Professor Joongoo Lee in the Department of Chemical Engineering at POSTECH (Pohang University of Science and Technology) has developed an automated, modular method for assembling reconstituted…",
@@ -186,13 +193,6 @@
           "date": "2026-06-26"
         },
         {
-          "title": "Investigative interviews are key to solving crimes—should AI be helping police with their inquiries?",
-          "summary": "Investigative interviewing—the process of obtaining accurate and complete accounts from victims, witnesses and suspects—is the lifeblood of the criminal justice system.",
-          "url": "https://phys.org/news/2026-06-key-crimes-ai-police-inquiries.html",
-          "source": "Phys.org",
-          "date": "2026-06-27"
-        },
-        {
           "title": "Only a few hours left! This expert-approved, beginner-friendly drone is $60 off for Prime Day",
           "summary": "Drone expert James Abbott thinks this DJI Neo is perfect for beginners. $139 for this drone idea for newcomers is a steal.",
           "url": "https://www.space.com/technology/drones/only-a-few-hours-left-this-expert-approved-beginner-friendly-drone-is-usd60-off-for-prime-day",
@@ -204,6 +204,20 @@
     "Physics": {
       "emoji": "⚡",
       "articles": [
+        {
+          "title": "Climate change to blame for intensity of Europe heat wave: Scientists",
+          "summary": "Human-caused climate change is \"unequivocally\" responsible for the intensity of a record-breaking heat wave scorching Europe, scientists said Friday.",
+          "url": "https://phys.org/news/2026-06-climate-blame-intensity-europe-scientists.html",
+          "source": "Phys.org",
+          "date": "2026-06-28"
+        },
+        {
+          "title": "World's largest particle smasher halts for upgrade to boost hunt for dark matter",
+          "summary": "The world's most powerful particle accelerator will shutter operations Monday for four years of renovations to dramatically boost its collision capacity and the potential for unlocking one of the greatest mysteries of…",
+          "url": "https://phys.org/news/2026-06-world-largest-particle-smasher-halts.html",
+          "source": "Phys.org",
+          "date": "2026-06-27"
+        },
         {
           "title": "Swiss glaciers facing drastic loss from heat wave: Expert",
           "summary": "Swiss glaciers are set to lose an enormous amount of ice due to the heat wave battering Europe, the head of Glacier Monitoring in Switzerland (GLAMOS) told AFP.",
@@ -219,25 +233,11 @@
           "date": "2026-06-27"
         },
         {
-          "title": "Plasma and graphene combine to protect metal surfaces from corrosion",
-          "summary": "Plasma is an ionized gas, often referred to as the fourth state of matter. Plasmas, which are created artificially by applying energy to a gas, are found in the fluorescent tubes that illuminate kitchens. However, they…",
-          "url": "https://phys.org/news/2026-06-plasma-graphene-combine-metal-surfaces.html",
-          "source": "Phys.org",
-          "date": "2026-06-26"
-        },
-        {
           "title": "Europe’s heatwave is the hottest and most humid ever",
           "summary": "The current temperatures in western and central Europe would have been virtually impossible 50 years ago, and unprecedented humidity levels make this heatwave especially dangerous",
           "url": "https://www.newscientist.com/article/2531992-europes-heatwave-is-the-hottest-and-most-humid-ever/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
           "source": "New Scientist",
           "date": "2026-06-26"
-        },
-        {
-          "title": "If you aren't terrified by this heatwave, you should be",
-          "summary": "The extreme heat currently being felt in Europe isn’t the new normal – much worse is to come, and we are doing far too little to adapt, says Michael Le Page",
-          "url": "https://www.newscientist.com/article/2531853-if-you-arent-terrified-by-this-heatwave-you-should-be/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-          "source": "New Scientist",
-          "date": "2026-06-25"
         }
       ]
     }
