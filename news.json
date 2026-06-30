@@ -1,43 +1,43 @@
 {
-  "updated": "2026-06-29T16:38:28Z",
+  "updated": "2026-06-30T15:27:58Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "DNA databases unite to create a fully open resource for transposable element research",
-          "summary": "For more than three decades, researchers studying genomes have relied on foundational resources such as Repbase and, more recently, Dfam to identify and classify transposable elements—the mobile DNA sequences that shape…",
-          "url": "https://phys.org/news/2026-06-dna-databases-fully-resource-transposable.html",
+          "title": "Rice grown on the moon? Air-to-fertilizer technology helps rice grow in lunar soil simulant",
+          "summary": "Securing sustainable food supplies is a key challenge for long-term human exploration and potential habitation of the moon. The moon's soil contains no organic material, and essential plant nitrogen sources like ammonia…",
+          "url": "https://phys.org/news/2026-06-rice-grown-moon-air-fertilizer.html",
           "source": "Phys.org",
+          "date": "2026-06-30"
+        },
+        {
+          "title": "These tiny soil microbes could rescue crops from salty farmland",
+          "summary": "Researchers have discovered that beneficial soil bacteria give plants an unexpected survival advantage in salty soils. Instead of helping plants keep salt out, the microbes stimulate the production of lignin, a natural…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260626124703.htm",
+          "source": "Science Daily",
           "date": "2026-06-29"
         },
         {
-          "title": "Nanopore technology identifies proteins molecule by molecule",
-          "summary": "Proteins are responsible for most functions in the human body. However, their analysis, which is essential for understanding diseases, developing drugs and discovering new biomarkers, remains highly complex. Using a…",
-          "url": "https://phys.org/news/2026-06-nanopore-technology-proteins-molecule.html",
+          "title": "New findings on how malaria parasites invade human cells yield proof of concept for new antimalarial drug",
+          "summary": "For nearly half a century, scientists have known that malaria parasites force their way into human red blood cells through a ring-shaped structure called the moving junction. What no one could work out was what it…",
+          "url": "https://phys.org/news/2026-06-malaria-parasites-invade-human-cells.html",
           "source": "Phys.org",
+          "date": "2026-06-30"
+        },
+        {
+          "title": "NASA’s Newest Wind Tunnel Builds on Legacy of Innovation",
+          "summary": "For more than 100 years, wind tunnels at NASA’s Langley Research Center in Hampton, Virginia, have helped shape the future of flight. &#160; Now, two of NASA’s longest-serving facilities — the 12-Foot Low-Speed Tunnel…",
+          "url": "https://www.nasa.gov/centers-and-facilities/langley/nasas-newest-wind-tunnel-builds-on-legacy-of-innovation/",
+          "source": "NASA",
           "date": "2026-06-29"
         },
         {
-          "title": "Why nanoscale droplets don't coalesce and microscale droplets do",
-          "summary": "Olive oil and water do not naturally mix. Water molecules are polar, having a net electric dipole moment due to the bend angle of about 104.5° between the two oxygen-hydrogen bonds. Olive oil is nonpolar due to its long…",
-          "url": "https://phys.org/news/2026-06-nanoscale-droplets-dont-coalesce-microscale.html",
-          "source": "Phys.org",
-          "date": "2026-06-29"
-        },
-        {
-          "title": "Toward experiment-guided AlphaFold: Researchers overcome AI tool's single-conformation limitation",
-          "summary": "The AI-based program AlphaFold predicts a protein's 3D structure with remarkable accuracy. However, it tends to reduce heterogeneous structures to a single dominant conformation, or shape, and overlooks experimental…",
-          "url": "https://phys.org/news/2026-06-alphafold-ai-tool-conformation-limitation.html",
-          "source": "Phys.org",
-          "date": "2026-06-29"
-        },
-        {
-          "title": "Light-activated compound kills antibiotic-resistant bacteria by turning its own defense enzyme against it",
-          "summary": "Antibiotic resistance is becoming an accelerating crisis because of the overuse and misuse of antibiotics over many years. The problem is exacerbated when antibiotics wipe out susceptible bacteria but leave resistant…",
-          "url": "https://phys.org/news/2026-06-compound-antibiotic-resistant-bacteria-defense.html",
-          "source": "Phys.org",
-          "date": "2026-06-29"
+          "title": "Scientists may have finally found how Alzheimer's spreads through the brain",
+          "summary": "A common brain protein may be giving Alzheimer’s disease an unexpected way to spread, carrying toxic Tau proteins from damaged neurons into healthy ones. By blocking these harmful protein packages before they reach new…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260630020521.htm",
+          "source": "Science Daily",
+          "date": "2026-06-30"
         }
       ]
     },
@@ -45,11 +45,18 @@
       "emoji": "🚀",
       "articles": [
         {
-          "title": "NASA Tests New Refuel Device for Future In-Space Refueling Missions",
-          "summary": "For NASA’s next generation of deep space exploration missions, spacecraft may need to refuel in Earth orbit before pushing farther into the solar system. Similar to how a gas pump needs a nozzle to fit your fuel tank…",
-          "url": "https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-tests-new-refuel-device-for-future-in-space-refueling-missions/",
-          "source": "NASA",
-          "date": "2026-06-26"
+          "title": "NASA to launch rescue mission July 1 to save Swift space telescope from burning up in Earth's atmosphere",
+          "summary": "Northrop Grumman will launch a rocket from an airplane to save NASA's SWIFT space telescope from falling out of orbit.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/nasa-to-launch-ambitious-mission-to-save-a-space-telescope-from-burning-up-in-earths-atmosphere",
+          "source": "Space.com",
+          "date": "2026-06-29"
+        },
+        {
+          "title": "'Titan is actually a very reasonable destination for humans': Scientists start mapping out crewed mission to huge Saturn moon",
+          "summary": "Researchers met recently for the first \"Humans to Titan Summit 2026,\" which explored how to send astronauts to the huge Saturn moon.",
+          "url": "https://www.space.com/astronomy/saturn/titan-is-actually-a-very-reasonable-destination-for-humans-scientists-start-mapping-out-crewed-mission-to-huge-saturn-moon",
+          "source": "Space.com",
+          "date": "2026-06-30"
         },
         {
           "title": "SpaceX sends 24 Starlink satellites into Earth orbit on Falcon 9 launch from California (video)",
@@ -59,25 +66,18 @@
           "date": "2026-06-28"
         },
         {
-          "title": "NASA is paying $30 million for a 1st-of-its-kind rescue mission to the aging Swift telescope before it falls from space. Is it worth it?",
-          "summary": "NASA's daring Swift Boost mission launches June 27 to save the nearly 22-year-old Swift observatory , which is being dragged out of space by Earth's atmosphere.",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/nasa-is-paying-usd30-million-for-a-1st-of-its-kind-rescue-mission-to-the-aging-swift-telescope-before-it-falls-from-space-is-it-worth-it",
+          "title": "NASA launches robot to rescue aging Swift telescope from fiery demise",
+          "summary": "NASA on Tuesday is set to launch a daring robotic rescue mission, a long-shot bid to prevent one of its aging telescopes from vanishing into dust.",
+          "url": "https://phys.org/news/2026-06-nasa-robot-aging-swift-telescope.html",
+          "source": "Phys.org",
+          "date": "2026-06-30"
+        },
+        {
+          "title": "The James Webb Space Telescope peered into one of the universe's oldest galaxy clusters, and scientists can't explain what they saw",
+          "summary": "Using the James Webb Space Telescope, astronomers have spotted a massive and densely packed galaxy cluster at \"cosmic noon\" before such structures were thought to be possible.",
+          "url": "https://www.space.com/astronomy/galaxies/the-james-webb-space-telescope-peered-into-one-of-the-universes-oldest-galaxy-clusters-and-scientists-cant-explain-what-they-saw",
           "source": "Space.com",
-          "date": "2026-06-26"
-        },
-        {
-          "title": "Partners, NASA Ready for June Launch of Swift Boost Mission",
-          "summary": "A mission to raise the orbit of NASA’s Swift observatory is poised for launch June 30.",
-          "url": "https://science.nasa.gov/missions/swift/swift-boost-mission/partners-nasa-ready-for-june-launch-of-swift-boost-mission/",
-          "source": "NASA",
-          "date": "2026-06-26"
-        },
-        {
-          "title": "Euclid Sees Heart of Milky Way",
-          "summary": "Euclid, an ESA (European Space Agency) mission with NASA contributions, took a new look at the heart of our Milky Way galaxy, seen in this image released on June 24, 2026. This observation overlaps with a region…",
-          "url": "https://www.nasa.gov/image-article/euclid-sees-heart-of-milky-way/",
-          "source": "NASA",
-          "date": "2026-06-26"
+          "date": "2026-06-29"
         }
       ]
     },
@@ -85,39 +85,39 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "Decline in plankton across Northeast Atlantic sends stark warning for ocean health",
-          "summary": "Microscopic plankton are among the most important organisms on Earth. Phytoplankton produce around half of the oxygen we breathe, while plankton as a whole underpin marine food webs, support fisheries, help regulate…",
-          "url": "https://phys.org/news/2026-06-decline-plankton-northeast-atlantic-stark.html",
+          "title": "Hawaii is turning ocean plastic and fishing nets into roads",
+          "summary": "Hawaii researchers are giving old fishing nets and recycled plastic a second life by mixing them into asphalt roads. Early tests found these roads didn't release more plastic particles than standard pavement, with tire…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260625014830.htm",
+          "source": "Science Daily",
+          "date": "2026-06-28"
+        },
+        {
+          "title": "Camouflaging snails change color in the rain",
+          "summary": "How does a stripy tree snail hide from hungry birds? The Hypselostyla camelopardalis from the Philippines and Reinia variegata from Japan have both evolved a form of dynamic camouflage to survive. Their light-colored…",
+          "url": "https://phys.org/news/2026-06-camouflaging-snails.html",
           "source": "Phys.org",
+          "date": "2026-06-30"
+        },
+        {
+          "title": "It's been 25 years since 'A.I. Artificial Intelligence', and we think this was peak Spielberg sci-fi",
+          "summary": "Two cinematic geniuses united to create one of Hollywood’s most arresting android movies",
+          "url": "https://www.space.com/entertainment/space-movies-shows/its-been-25-years-since-a-i-artificial-intelligence-and-we-think-this-was-spielberg-at-the-top-of-his-sci-fi-game",
+          "source": "Space.com",
           "date": "2026-06-29"
         },
         {
-          "title": "Giraffes combine quantities similarly to addition",
-          "summary": "In addition to humans, some species of primates and birds have demonstrated under experimental conditions their ability to manipulate quantities in tasks that require combining or separating them, in a manner similar to…",
-          "url": "https://phys.org/news/2026-06-giraffes-combine-quantities-similarly-addition.html",
-          "source": "Phys.org",
+          "title": "Childbirth for many primate species is even harder than for humans",
+          "summary": "For decades, we’ve thought that childbirth is uniquely challenging for humans, but it turns out that many other primates find the birth process just as difficult",
+          "url": "https://www.newscientist.com/article/2532191-childbirth-for-many-primate-species-is-even-harder-than-for-humans/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "source": "New Scientist",
           "date": "2026-06-29"
         },
         {
-          "title": "Ultra-faint galaxy discovered near Andromeda may be 12.5 billion years old",
-          "summary": "A new ultra-faint dwarf galaxy has been discovered in the vicinity of Andromeda (M31), the Milky Way's large neighboring galaxy. The new study, published in Astronomy & Astrophysics suggests that the galaxy, named And…",
-          "url": "https://phys.org/news/2026-06-ultra-faint-galaxy-andromeda-billion.html",
-          "source": "Phys.org",
-          "date": "2026-06-29"
-        },
-        {
-          "title": "Online calculator shows how drastically mowing affects insects",
-          "summary": "How many insects and spiders live in 1 square meter (11 square feet) of meadow? What impact do humans have on this biodiversity in mowed meadows, lawns and roadside verges? A new online tool answers these questions: the…",
-          "url": "https://phys.org/news/2026-06-online-drastically-affects-insects.html",
-          "source": "Phys.org",
-          "date": "2026-06-29"
-        },
-        {
-          "title": "Camera traps reveal the true culprit behind crop damage in Honduras",
-          "summary": "A new study from the Honduran Mosquitia shows how simple, noninvasive technology can help solve one of the most common challenges in wildlife conservation: identifying the species actually responsible for crop damage…",
-          "url": "https://phys.org/news/2026-06-camera-reveal-true-culprit-crop.html",
-          "source": "Phys.org",
-          "date": "2026-06-29"
+          "title": "“Absolutely huge” 400-year-old black coral stuns scientists in New Zealand",
+          "summary": "A giant black coral estimated to be 300–400 years old has been discovered deep in Fiordland, New Zealand, astonishing researchers with its enormous size—about 4 meters tall and 4.5 meters wide. Scientists say it may be…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260623014018.htm",
+          "source": "Science Daily",
+          "date": "2026-06-25"
         }
       ]
     },
@@ -125,18 +125,25 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Human activity has driven retreat of Antarctica's fastest melting glacier",
-          "summary": "Human-driven climate change significantly intensified the retreat of one of the most important glaciers in Antarctica during the 20th century. The Pine Island Glacier, which drains a large part of the West Antarctic Ice…",
-          "url": "https://phys.org/news/2026-06-human-driven-retreat-antarctica-fastest.html",
+          "title": "Could this be Australia's warmest winter ever?",
+          "summary": "Many parts of Australia have already broken early winter maximum and minimum temperature records.",
+          "url": "https://phys.org/news/2026-06-australia-warmest-winter.html",
           "source": "Phys.org",
-          "date": "2026-06-28"
+          "date": "2026-06-30"
         },
         {
-          "title": "Deadly Venezuela earthquakes raise concern in tremor-prone California",
-          "summary": "In the aftermath of back-to-back earthquakes in northern Venezuela, which by Friday had killed more than 500 people and left thousands injured, experts in resilience planning have emphasized the increasing importance of…",
-          "url": "https://phys.org/news/2026-06-deadly-venezuela-earthquakes-tremor-prone.html",
+          "title": "A severe El Niño could threaten something essential to half of humanity—rice",
+          "summary": "Forecasters expect the El Niño now underway in the tropical Pacific to strengthen into a strong or very strong climate driver later this year.",
+          "url": "https://phys.org/news/2026-06-severe-el-nio-threaten-essential.html",
           "source": "Phys.org",
-          "date": "2026-06-29"
+          "date": "2026-06-30"
+        },
+        {
+          "title": "By 2050, many Sydney apartments built to today's standards could be too hot for weeks at a time",
+          "summary": "Sydney is no stranger to extreme heat. In January 2020, Penrith in western Sydney reached 48.9°C, the highest temperature ever recorded in Greater Sydney.",
+          "url": "https://phys.org/news/2026-06-sydney-apartments-built-today-standards.html",
+          "source": "Phys.org",
+          "date": "2026-06-30"
         },
         {
           "title": "The race to understand how and when Thwaites glacier will collapse",
@@ -151,25 +158,32 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "Age bias discovered in AI",
-          "summary": "Do responses generated by artificial intelligence systems such as ChatGPT reflect social prejudice? A KAIST research team has quantitatively analyzed and identified age-related stereotypes embedded in the responses of…",
-          "url": "https://phys.org/news/2026-06-age-bias-ai.html",
+          "title": "Could AI create a new form of inequality in South Africa?",
+          "summary": "Generative artificial intelligence (AI), especially large language models deployed as chatbots and digital assistants, are now part of everyday digital life.",
+          "url": "https://phys.org/news/2026-06-ai-inequality-south-africa.html",
           "source": "Phys.org",
-          "date": "2026-06-29"
+          "date": "2026-06-30"
         },
         {
-          "title": "Can video games help us better understand quantum mechanics?",
-          "summary": "The world of quantum video games is vast – there are hundreds that are either inspired by quantum mechanics or use quantum computers in their development. Columnist Karmela Padavic-Callaghan explores how these could…",
-          "url": "https://www.newscientist.com/article/2532015-can-video-games-help-us-better-understand-quantum-mechanics/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "title": "A good idea is not enough: Experts explain what helps digital health start-ups succeed",
+          "summary": "A new study by researchers at Kaunas University of Technology (KTU) in Lithuania has shown that a good idea alone is not enough for health startups to succeed. What matters most is access to data, health care…",
+          "url": "https://phys.org/news/2026-06-good-idea-experts-digital-health.html",
+          "source": "Phys.org",
+          "date": "2026-06-30"
+        },
+        {
+          "title": "Measuring process over product: AI approach assesses learning processes",
+          "summary": "Artificial intelligence (AI) is profoundly reshaping education worldwide. While AI tools increasingly support students in brainstorming, drafting and problem-solving, assessment practices often remain narrowly focused…",
+          "url": "https://phys.org/news/2026-06-product-ai-approach.html",
+          "source": "Phys.org",
+          "date": "2026-06-30"
+        },
+        {
+          "title": "US government wants to have a useful quantum computer by 2028",
+          "summary": "The US government is trying to speed up the development of quantum computers so it can have one sooner",
+          "url": "https://www.newscientist.com/article/2532173-us-government-wants-to-have-a-useful-quantum-computer-by-2028/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
           "source": "New Scientist",
-          "date": "2026-06-26"
-        },
-        {
-          "title": "Only a few hours left! This expert-approved, beginner-friendly drone is $60 off for Prime Day",
-          "summary": "Drone expert James Abbott thinks this DJI Neo is perfect for beginners. $139 for this drone idea for newcomers is a steal.",
-          "url": "https://www.space.com/technology/drones/only-a-few-hours-left-this-expert-approved-beginner-friendly-drone-is-usd60-off-for-prime-day",
-          "source": "Space.com",
-          "date": "2026-06-26"
+          "date": "2026-06-29"
         },
         {
           "title": "Lost books by ancient philosophers recovered from 'unreadable' scrolls",
@@ -184,6 +198,27 @@
       "emoji": "⚡",
       "articles": [
         {
+          "title": "An iconic spear-throwing device likely wasn't used by prehistoric hunters until around 10,000 years ago",
+          "summary": "Archaeologists have long pictured prehistoric hunters taking down mammoths and other megafauna using the atlatl, a handheld spear-throwing device that uses leverage to achieve greater velocity and force when throwing…",
+          "url": "https://phys.org/news/2026-06-iconic-spear-device-wasnt-prehistoric.html",
+          "source": "Phys.org",
+          "date": "2026-06-30"
+        },
+        {
+          "title": "Extreme heat impacting millions across eastern half of US",
+          "summary": "A dangerous, extreme heat wave is forecast for the Midwest and East Coast of the United States this week into the holiday weekend. Get the details here. The post Extreme heat impacting millions across eastern half of US…",
+          "url": "https://earthsky.org/earth/extreme-heat-eastern-united-states-late-june-30-early-july-2026/",
+          "source": "EarthSky",
+          "date": "2026-06-30"
+        },
+        {
+          "title": "How guaranteed income can support working families facing economic hardship",
+          "summary": "An innovative partnership between George Mason University, Fairfax County and the United Way is shedding light on how guaranteed income can support working families facing economic hardship.",
+          "url": "https://phys.org/news/2026-06-income-families-economic-hardship.html",
+          "source": "Phys.org",
+          "date": "2026-06-30"
+        },
+        {
           "title": "Europe’s heatwave is the hottest and most humid ever",
           "summary": "The current temperatures in western and central Europe would have been virtually impossible 50 years ago, and unprecedented humidity levels make this heatwave especially dangerous",
           "url": "https://www.newscientist.com/article/2531992-europes-heatwave-is-the-hottest-and-most-humid-ever/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
@@ -196,27 +231,6 @@
           "url": "https://www.newscientist.com/article/2531853-if-you-arent-terrified-by-this-heatwave-you-should-be/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
           "source": "New Scientist",
           "date": "2026-06-25"
-        },
-        {
-          "title": "This common vitamin deficiency can mimic normal aging",
-          "summary": "Vitamin B12 is needed in microscopic amounts, but a shortage can have major effects on health and energy. The vitamin was first linked to a lifesaving liver treatment for pernicious anemia nearly 100 years ago. Today…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260623083116.htm",
-          "source": "Science Daily",
-          "date": "2026-06-25"
-        },
-        {
-          "title": "Study challenges a common belief about vitamin D and sunlight",
-          "summary": "A study of nearly 300 people across northern Britain found that vitamin D levels often stay low all year in groups most at risk. Surprisingly, summer sunshine did not significantly boost vitamin D levels among older…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260623083104.htm",
-          "source": "Science Daily",
-          "date": "2026-06-24"
-        },
-        {
-          "title": "The best sci-fi novel in 2026 so far – plus 6 other great reads",
-          "summary": "Sci-fi columnist Emily H. Wilson rounds up her favourite reads of the year to date – and highlights one particular book as her top pick",
-          "url": "https://www.newscientist.com/article/mg27036014-200-the-best-sci-fi-novel-in-2026-so-far-plus-6-other-great-reads/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-          "source": "New Scientist",
-          "date": "2026-06-24"
         }
       ]
     }
