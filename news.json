@@ -1,14 +1,21 @@
 {
-  "updated": "2026-06-30T15:27:58Z",
+  "updated": "2026-07-01T15:42:28Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "Rice grown on the moon? Air-to-fertilizer technology helps rice grow in lunar soil simulant",
-          "summary": "Securing sustainable food supplies is a key challenge for long-term human exploration and potential habitation of the moon. The moon's soil contains no organic material, and essential plant nitrogen sources like ammonia…",
-          "url": "https://phys.org/news/2026-06-rice-grown-moon-air-fertilizer.html",
-          "source": "Phys.org",
+          "title": "The world's fastest spider tops 3.5 metres per second",
+          "summary": "The most comprehensive database ever compiled of how fast arachnids can run has shown how leg anatomy and evolutionary history influence spiders’ running speed",
+          "url": "https://www.newscientist.com/article/2532086-the-worlds-fastest-spider-tops-3-5-metres-per-second/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "source": "New Scientist",
+          "date": "2026-06-30"
+        },
+        {
+          "title": "La NASA adjudica nuevas misiones científicas para Base Lunar y adelanta nuevas oportunidades",
+          "summary": "Read this news release in English here. Nota del editor: Este comunicado se actualizó el 30 de junio de 2026 para aclarar la versión de desarrollo de ingeniería del rover PROMISE.La NASA anunció el martes la selección…",
+          "url": "https://www.nasa.gov/news-release/la-nasa-adjudica-nuevas-misiones-cientificas-para-base-lunar-y-adelanta-nuevas-oportunidades/",
+          "source": "NASA",
           "date": "2026-06-30"
         },
         {
@@ -19,25 +26,18 @@
           "date": "2026-06-29"
         },
         {
-          "title": "New findings on how malaria parasites invade human cells yield proof of concept for new antimalarial drug",
-          "summary": "For nearly half a century, scientists have known that malaria parasites force their way into human red blood cells through a ring-shaped structure called the moving junction. What no one could work out was what it…",
-          "url": "https://phys.org/news/2026-06-malaria-parasites-invade-human-cells.html",
+          "title": "Perfluorooctanoic acid in the Seto Inland Sea: Variability, transport, and fate",
+          "summary": "Perfluorooctanoic acid (PFOA) is one of the per- and polyfluoroalkyl substances (PFAS), a class of substances within a broader universe of organofluorine compounds. PFOA has potential adverse effects on human health and…",
+          "url": "https://phys.org/news/2026-07-perfluorooctanoic-acid-seto-inland-sea.html",
           "source": "Phys.org",
-          "date": "2026-06-30"
+          "date": "2026-07-01"
         },
         {
-          "title": "NASA’s Newest Wind Tunnel Builds on Legacy of Innovation",
-          "summary": "For more than 100 years, wind tunnels at NASA’s Langley Research Center in Hampton, Virginia, have helped shape the future of flight. &#160; Now, two of NASA’s longest-serving facilities — the 12-Foot Low-Speed Tunnel…",
-          "url": "https://www.nasa.gov/centers-and-facilities/langley/nasas-newest-wind-tunnel-builds-on-legacy-of-innovation/",
-          "source": "NASA",
-          "date": "2026-06-29"
-        },
-        {
-          "title": "Scientists may have finally found how Alzheimer's spreads through the brain",
-          "summary": "A common brain protein may be giving Alzheimer’s disease an unexpected way to spread, carrying toxic Tau proteins from damaged neurons into healthy ones. By blocking these harmful protein packages before they reach new…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260630020521.htm",
-          "source": "Science Daily",
-          "date": "2026-06-30"
+          "title": "Darwin residents want answers on toxic gas emissions: Science shows their concerns are warranted",
+          "summary": "For years, Darwin residents have been concerned about toxic chemicals emitted by the city's two gas export facilities. In fact, some locals are so worried about these airborne chemicals—particularly benzene—they…",
+          "url": "https://phys.org/news/2026-07-darwin-residents-toxic-gas-emissions.html",
+          "source": "Phys.org",
+          "date": "2026-07-01"
         }
       ]
     },
@@ -45,39 +45,39 @@
       "emoji": "🚀",
       "articles": [
         {
-          "title": "NASA to launch rescue mission July 1 to save Swift space telescope from burning up in Earth's atmosphere",
+          "title": "NASA’s TESS Mission Finds Planetary System in New Way",
+          "summary": "For the first time, NASA’s TESS (Transiting Exoplanet Survey Satellite) mission has identified a planet orbiting a distant star thanks to ripples in space-time. Unlike the star-hugging transiting planets TESS regularly…",
+          "url": "https://science.nasa.gov/missions/tess/nasas-tess-mission-finds-planetary-system-in-new-way/",
+          "source": "NASA",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "NASA’s Webb Studies How Planet Survived Death of its Star",
+          "summary": "NASA’s James Webb Space Telescope is giving us new insight into the far-future of solar systems like our own, as the agency continues to reveal the secrets of the universe and our place in it. Billions of years ago, a…",
+          "url": "https://science.nasa.gov/missions/webb/nasas-webb-studies-how-planet-survived-death-of-its-star/",
+          "source": "NASA",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "NASA to launch rescue mission July 2 to save Swift space telescope from burning up in Earth's atmosphere",
           "summary": "Northrop Grumman will launch a rocket from an airplane to save NASA's SWIFT space telescope from falling out of orbit.",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/nasa-to-launch-ambitious-mission-to-save-a-space-telescope-from-burning-up-in-earths-atmosphere",
           "source": "Space.com",
           "date": "2026-06-29"
         },
         {
-          "title": "'Titan is actually a very reasonable destination for humans': Scientists start mapping out crewed mission to huge Saturn moon",
-          "summary": "Researchers met recently for the first \"Humans to Titan Summit 2026,\" which explored how to send astronauts to the huge Saturn moon.",
-          "url": "https://www.space.com/astronomy/saturn/titan-is-actually-a-very-reasonable-destination-for-humans-scientists-start-mapping-out-crewed-mission-to-huge-saturn-moon",
-          "source": "Space.com",
-          "date": "2026-06-30"
+          "title": "LINK Spacecraft Set for Mission to Boost NASA’s Swift Observatory",
+          "summary": "A first-of-its-kind mission to raise the orbit of NASA’s Neil Gehrels Swift Observatory is poised for launch no earlier than Thursday, July 2, 5:09 a.m. EDT (9:09 p.m. UTC+12), from Kwajalein Atoll, part of the Republic…",
+          "url": "https://www.nasa.gov/image-article/link-spacecraft-set-for-mission-to-boost-nasas-swift-observatory/",
+          "source": "NASA",
+          "date": "2026-07-01"
         },
         {
-          "title": "SpaceX sends 24 Starlink satellites into Earth orbit on Falcon 9 launch from California (video)",
-          "summary": "A SpaceX Falcon 9 rocket carrying 24 Starlink satellites lifted off from Vandenberg Space Force Base in California on Sunday, June 28, 2026.",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-40-b1088-vsfb-ocisly",
-          "source": "Space.com",
-          "date": "2026-06-28"
-        },
-        {
-          "title": "NASA launches robot to rescue aging Swift telescope from fiery demise",
-          "summary": "NASA on Tuesday is set to launch a daring robotic rescue mission, a long-shot bid to prevent one of its aging telescopes from vanishing into dust.",
-          "url": "https://phys.org/news/2026-06-nasa-robot-aging-swift-telescope.html",
+          "title": "How a giant planet survived its star's death, then migrated inward",
+          "summary": "When astronomers discovered a giant planet orbiting a dead star in 2020, they wondered how it survived its star's violent demise. Now, observations from NASA's James Webb Space Telescope (JWST) may finally explain the…",
+          "url": "https://phys.org/news/2026-06-giant-planet-survived-star-death.html",
           "source": "Phys.org",
-          "date": "2026-06-30"
-        },
-        {
-          "title": "The James Webb Space Telescope peered into one of the universe's oldest galaxy clusters, and scientists can't explain what they saw",
-          "summary": "Using the James Webb Space Telescope, astronomers have spotted a massive and densely packed galaxy cluster at \"cosmic noon\" before such structures were thought to be possible.",
-          "url": "https://www.space.com/astronomy/galaxies/the-james-webb-space-telescope-peered-into-one-of-the-universes-oldest-galaxy-clusters-and-scientists-cant-explain-what-they-saw",
-          "source": "Space.com",
-          "date": "2026-06-29"
+          "date": "2026-07-01"
         }
       ]
     },
@@ -85,39 +85,39 @@
       "emoji": "🐾",
       "articles": [
         {
+          "title": "Urokodia! 518-million-year-old fossil shows beginning of spider's bite",
+          "summary": "The earliest evidence of spiders' fangs has been identified in a 518-million-year-old fossil by scientists at the University of Leicester and Yunnan University.",
+          "url": "https://phys.org/news/2026-07-urokodia-million-year-fossil-spider.html",
+          "source": "Phys.org",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "What made trees possible? New research points to drought",
+          "summary": "A study is reframing a fundamental question in plant evolution: What made trees possible? Researchers from Cal Poly Humboldt, Yale University, the University of Hohenheim in Germany and the Czech Academy of Sciences set…",
+          "url": "https://phys.org/news/2026-07-trees-drought.html",
+          "source": "Phys.org",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "Himalayan pangolin emerges as distinct species, confirmed with DNA from 19th-century specimen",
+          "summary": "The pangolin is a midsize mammal found only in Africa and Asia. The pangolins' scales make them unique, but these scales have become their undoing. Pangolins are poached for their scales, making them the most highly…",
+          "url": "https://phys.org/news/2026-06-himalayan-pangolin-emerges-distinct-species.html",
+          "source": "Phys.org",
+          "date": "2026-07-01"
+        },
+        {
+          "title": "New modeling shows where to focus conservation efforts for Australia's endangered alpine ash",
+          "summary": "An alpine ash forest is a sight to behold. Alpine ash (Eucalyptus delegatensis) is a tall eucalypt species that grows in the cool, wet mountains of southeastern Australia.",
+          "url": "https://phys.org/news/2026-06-focus-efforts-australia-endangered-alpine.html",
+          "source": "Phys.org",
+          "date": "2026-07-01"
+        },
+        {
           "title": "Hawaii is turning ocean plastic and fishing nets into roads",
           "summary": "Hawaii researchers are giving old fishing nets and recycled plastic a second life by mixing them into asphalt roads. Early tests found these roads didn't release more plastic particles than standard pavement, with tire…",
           "url": "https://www.sciencedaily.com/releases/2026/06/260625014830.htm",
           "source": "Science Daily",
           "date": "2026-06-28"
-        },
-        {
-          "title": "Camouflaging snails change color in the rain",
-          "summary": "How does a stripy tree snail hide from hungry birds? The Hypselostyla camelopardalis from the Philippines and Reinia variegata from Japan have both evolved a form of dynamic camouflage to survive. Their light-colored…",
-          "url": "https://phys.org/news/2026-06-camouflaging-snails.html",
-          "source": "Phys.org",
-          "date": "2026-06-30"
-        },
-        {
-          "title": "It's been 25 years since 'A.I. Artificial Intelligence', and we think this was peak Spielberg sci-fi",
-          "summary": "Two cinematic geniuses united to create one of Hollywood’s most arresting android movies",
-          "url": "https://www.space.com/entertainment/space-movies-shows/its-been-25-years-since-a-i-artificial-intelligence-and-we-think-this-was-spielberg-at-the-top-of-his-sci-fi-game",
-          "source": "Space.com",
-          "date": "2026-06-29"
-        },
-        {
-          "title": "Childbirth for many primate species is even harder than for humans",
-          "summary": "For decades, we’ve thought that childbirth is uniquely challenging for humans, but it turns out that many other primates find the birth process just as difficult",
-          "url": "https://www.newscientist.com/article/2532191-childbirth-for-many-primate-species-is-even-harder-than-for-humans/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-          "source": "New Scientist",
-          "date": "2026-06-29"
-        },
-        {
-          "title": "“Absolutely huge” 400-year-old black coral stuns scientists in New Zealand",
-          "summary": "A giant black coral estimated to be 300–400 years old has been discovered deep in Fiordland, New Zealand, astonishing researchers with its enormous size—about 4 meters tall and 4.5 meters wide. Scientists say it may be…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260623014018.htm",
-          "source": "Science Daily",
-          "date": "2026-06-25"
         }
       ]
     },
@@ -125,25 +125,32 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Could this be Australia's warmest winter ever?",
-          "summary": "Many parts of Australia have already broken early winter maximum and minimum temperature records.",
-          "url": "https://phys.org/news/2026-06-australia-warmest-winter.html",
+          "title": "World's oceans break June heat record: EU monitor",
+          "summary": "The world's oceans just experienced their hottest June on record and could set fresh highs in the months ahead as El Nino and climate change drive temperatures even higher, scientists said Wednesday.",
+          "url": "https://phys.org/news/2026-07-world-oceans-june-eu.html",
           "source": "Phys.org",
-          "date": "2026-06-30"
+          "date": "2026-07-01"
         },
         {
-          "title": "A severe El Niño could threaten something essential to half of humanity—rice",
-          "summary": "Forecasters expect the El Niño now underway in the tropical Pacific to strengthen into a strong or very strong climate driver later this year.",
-          "url": "https://phys.org/news/2026-06-severe-el-nio-threaten-essential.html",
+          "title": "Black-box optimization weather intervention method supports future disaster mitigation",
+          "summary": "In recent years, the frequency of weather-related natural disasters—cyclones, torrential rains, floods—has increased as a consequence of global warming. These disasters cause billions of dollars in damage and losses…",
+          "url": "https://phys.org/news/2026-07-black-optimization-weather-intervention-method.html",
           "source": "Phys.org",
-          "date": "2026-06-30"
+          "date": "2026-07-01"
         },
         {
-          "title": "By 2050, many Sydney apartments built to today's standards could be too hot for weeks at a time",
-          "summary": "Sydney is no stranger to extreme heat. In January 2020, Penrith in western Sydney reached 48.9°C, the highest temperature ever recorded in Greater Sydney.",
-          "url": "https://phys.org/news/2026-06-sydney-apartments-built-today-standards.html",
+          "title": "Helping children navigate the emotional aftershocks of an earthquake",
+          "summary": "The devastating earthquake in Venezuela has left countless families grieving, displaced and searching for loved ones. For many South Florida families with ties to the region, the tragedy feels especially close to home.",
+          "url": "https://phys.org/news/2026-07-children-emotional-aftershocks-earthquake.html",
           "source": "Phys.org",
-          "date": "2026-06-30"
+          "date": "2026-07-01"
+        },
+        {
+          "title": "Sun news: X flare! Sun-stuff speeding to Earth?",
+          "summary": "Sun news for July 1, 2026: X1.1 flare erupts from AR4479! This huge flare seems to have sent a blast of sun-stuff toward Earth. The post Sun news: X flare! Sun-stuff speeding to Earth? first appeared on EarthSky .",
+          "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+          "source": "EarthSky",
+          "date": "2026-07-01"
         },
         {
           "title": "The race to understand how and when Thwaites glacier will collapse",
@@ -158,27 +165,6 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "Could AI create a new form of inequality in South Africa?",
-          "summary": "Generative artificial intelligence (AI), especially large language models deployed as chatbots and digital assistants, are now part of everyday digital life.",
-          "url": "https://phys.org/news/2026-06-ai-inequality-south-africa.html",
-          "source": "Phys.org",
-          "date": "2026-06-30"
-        },
-        {
-          "title": "A good idea is not enough: Experts explain what helps digital health start-ups succeed",
-          "summary": "A new study by researchers at Kaunas University of Technology (KTU) in Lithuania has shown that a good idea alone is not enough for health startups to succeed. What matters most is access to data, health care…",
-          "url": "https://phys.org/news/2026-06-good-idea-experts-digital-health.html",
-          "source": "Phys.org",
-          "date": "2026-06-30"
-        },
-        {
-          "title": "Measuring process over product: AI approach assesses learning processes",
-          "summary": "Artificial intelligence (AI) is profoundly reshaping education worldwide. While AI tools increasingly support students in brainstorming, drafting and problem-solving, assessment practices often remain narrowly focused…",
-          "url": "https://phys.org/news/2026-06-product-ai-approach.html",
-          "source": "Phys.org",
-          "date": "2026-06-30"
-        },
-        {
           "title": "US government wants to have a useful quantum computer by 2028",
           "summary": "The US government is trying to speed up the development of quantum computers so it can have one sooner",
           "url": "https://www.newscientist.com/article/2532173-us-government-wants-to-have-a-useful-quantum-computer-by-2028/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
@@ -191,6 +177,13 @@
           "url": "https://www.newscientist.com/article/2531697-lost-books-by-ancient-philosophers-recovered-from-unreadable-scrolls/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
           "source": "New Scientist",
           "date": "2026-06-25"
+        },
+        {
+          "title": "Can video games help us better understand quantum mechanics?",
+          "summary": "The world of quantum video games is vast – there are hundreds that are either inspired by quantum mechanics or use quantum computers in their development. Columnist Karmela Padavic-Callaghan explores how these could…",
+          "url": "https://www.newscientist.com/article/2532015-can-video-games-help-us-better-understand-quantum-mechanics/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "source": "New Scientist",
+          "date": "2026-06-26"
         }
       ]
     },
@@ -198,24 +191,10 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "An iconic spear-throwing device likely wasn't used by prehistoric hunters until around 10,000 years ago",
-          "summary": "Archaeologists have long pictured prehistoric hunters taking down mammoths and other megafauna using the atlatl, a handheld spear-throwing device that uses leverage to achieve greater velocity and force when throwing…",
-          "url": "https://phys.org/news/2026-06-iconic-spear-device-wasnt-prehistoric.html",
-          "source": "Phys.org",
-          "date": "2026-06-30"
-        },
-        {
           "title": "Extreme heat impacting millions across eastern half of US",
           "summary": "A dangerous, extreme heat wave is forecast for the Midwest and East Coast of the United States this week into the holiday weekend. Get the details here. The post Extreme heat impacting millions across eastern half of US…",
           "url": "https://earthsky.org/earth/extreme-heat-eastern-united-states-late-june-30-early-july-2026/",
           "source": "EarthSky",
-          "date": "2026-06-30"
-        },
-        {
-          "title": "How guaranteed income can support working families facing economic hardship",
-          "summary": "An innovative partnership between George Mason University, Fairfax County and the United Way is shedding light on how guaranteed income can support working families facing economic hardship.",
-          "url": "https://phys.org/news/2026-06-income-families-economic-hardship.html",
-          "source": "Phys.org",
           "date": "2026-06-30"
         },
         {
@@ -231,6 +210,20 @@
           "url": "https://www.newscientist.com/article/2531853-if-you-arent-terrified-by-this-heatwave-you-should-be/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
           "source": "New Scientist",
           "date": "2026-06-25"
+        },
+        {
+          "title": "This common vitamin deficiency can mimic normal aging",
+          "summary": "Vitamin B12 is needed in microscopic amounts, but a shortage can have major effects on health and energy. The vitamin was first linked to a lifesaving liver treatment for pernicious anemia nearly 100 years ago. Today…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260623083116.htm",
+          "source": "Science Daily",
+          "date": "2026-06-25"
+        },
+        {
+          "title": "Study challenges a common belief about vitamin D and sunlight",
+          "summary": "A study of nearly 300 people across northern Britain found that vitamin D levels often stay low all year in groups most at risk. Surprisingly, summer sunshine did not significantly boost vitamin D levels among older…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260623083104.htm",
+          "source": "Science Daily",
+          "date": "2026-06-24"
         }
       ]
     }
