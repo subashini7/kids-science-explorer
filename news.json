@@ -1,15 +1,15 @@
 {
-  "updated": "2026-07-02T15:15:33Z",
+  "updated": "2026-07-03T15:11:59Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "A holoparasitic plant replaces its own genes with host DNA to survive",
-          "summary": "All living organisms are known to inherit genes, DNA sequences that contain instructions for producing specific proteins and performing biological functions, from their parents. In some cases, however, genes can also…",
-          "url": "https://phys.org/news/2026-07-holoparasitic-genes-host-dna-survive.html",
-          "source": "Phys.org",
-          "date": "2026-07-02"
+          "title": "Scientists discover a protein switch that burns fat and blocks new fat cells",
+          "summary": "A protein called “Mitch” may hold the key to a new generation of obesity treatments. Researchers found that disabling it in human cells boosts fat burning, increases energy use, and makes it harder for new fat cells to…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260624115324.htm",
+          "source": "Science Daily",
+          "date": "2026-07-03"
         },
         {
           "title": "The world's fastest spider tops 3.5 metres per second",
@@ -26,18 +26,18 @@
           "date": "2026-06-30"
         },
         {
-          "title": "These tiny soil microbes could rescue crops from salty farmland",
-          "summary": "Researchers have discovered that beneficial soil bacteria give plants an unexpected survival advantage in salty soils. Instead of helping plants keep salt out, the microbes stimulate the production of lignin, a natural…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260626124703.htm",
-          "source": "Science Daily",
-          "date": "2026-06-29"
+          "title": "What is 'SpudCell'? Arguably the greatest bioengineering feat yet",
+          "summary": "A prototype cell partly capable of replicating itself has been created using 36 existing bacterial genes, but it's not really a living organism – yet",
+          "url": "https://www.newscientist.com/article/2532689-what-is-spudcell-arguably-the-greatest-bioengineering-feat-yet/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "source": "New Scientist",
+          "date": "2026-07-01"
         },
         {
-          "title": "Harsh UVB bursts leave tadpoles with more DNA damage than longer exposure",
-          "summary": "Sunburn is a serious problem in the Southern Hemisphere, where depleted ozone provides less protection from UVB. Tadpoles are at particular risk because they are growing rapidly, making them vulnerable to UVB DNA…",
-          "url": "https://phys.org/news/2026-07-harsh-uvb-tadpoles-dna-longer.html",
-          "source": "Phys.org",
-          "date": "2026-07-02"
+          "title": "New calculator reveals whether you should really worry about statin side effects",
+          "summary": "Scientists at the University of Oxford have created a calculator that predicts a person's individual risk of serious muscle disorders from statin medications. Their analysis found that more than 98% of people who…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260630020549.htm",
+          "source": "Science Daily",
+          "date": "2026-06-30"
         }
       ]
     },
@@ -45,11 +45,11 @@
       "emoji": "🚀",
       "articles": [
         {
-          "title": "NASA’s TESS Mission Finds Planetary System in New Way",
-          "summary": "For the first time, NASA’s TESS (Transiting Exoplanet Survey Satellite) mission has identified a planet orbiting a distant star thanks to ripples in space-time. Unlike the star-hugging transiting planets TESS regularly…",
-          "url": "https://science.nasa.gov/missions/tess/nasas-tess-mission-finds-planetary-system-in-new-way/",
-          "source": "NASA",
-          "date": "2026-07-01"
+          "title": "Rescue mission launches to save NASA telescope that's falling back to Earth",
+          "summary": "A three-armed spacecraft rocketed into orbit Friday to rescue a NASA telescope that's in danger of crashing back to Earth.",
+          "url": "https://phys.org/news/2026-07-mission-nasa-telescope-falling-earth.html",
+          "source": "Phys.org",
+          "date": "2026-07-03"
         },
         {
           "title": "NASA’s Webb Studies How Planet Survived Death of its Star",
@@ -57,6 +57,13 @@
           "url": "https://science.nasa.gov/missions/webb/nasas-webb-studies-how-planet-survived-death-of-its-star/",
           "source": "NASA",
           "date": "2026-07-01"
+        },
+        {
+          "title": "'Stellar death is not the end': James Webb Space Telescope glimpses the fate of the solar system in a weird exoplanet orbiting a dead star",
+          "summary": "\"It's like using a time machine to peer into the distant future of our solar system.\"",
+          "url": "https://www.space.com/astronomy/stars/stellar-death-is-not-the-end-james-webb-space-telescope-glimpses-the-fate-of-the-solar-system-in-a-weird-exoplanet-orbiting-a-dead-star",
+          "source": "Space.com",
+          "date": "2026-07-02"
         },
         {
           "title": "NASA Seeks Volunteers for New Yearlong Simulated Moon, Mars Mission",
@@ -71,13 +78,6 @@
           "url": "https://www.nasa.gov/image-article/link-spacecraft-set-for-mission-to-boost-nasas-swift-observatory/",
           "source": "NASA",
           "date": "2026-07-01"
-        },
-        {
-          "title": "'Rocket's Red Glare': How NASA's Artemis 2 moon mission celebrated America's 250th birthday",
-          "summary": "NASA joined in the semiquincentennial celebrations this year by painting \"America 250\" on the rocket that launched the Artemis 2 astronauts around the moon.",
-          "url": "https://www.space.com/space-exploration/artemis/rockets-red-glare-how-nasas-artemis-2-moon-mission-celebrated-americas-250th-birthday",
-          "source": "Space.com",
-          "date": "2026-07-01"
         }
       ]
     },
@@ -85,39 +85,39 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "Sun-powered sponges may generate 11% of tropical coral reef productivity",
-          "summary": "In marine environments, sponges tend to eat other organisms to get their nutrients. But a study published in Functional Ecology by researchers at the University of Amsterdam's Institute for Biodiversity and Ecosystem…",
-          "url": "https://phys.org/news/2026-07-sun-powered-sponges-generate-tropical.html",
+          "title": "How a new fungal genome-editing tool could open fresh paths to cancer treatments",
+          "summary": "Researchers have spent decades—and billions of dollars—sequencing animal and crop genomes, but fungi have historically been the forgotten middle child of genomics, only noticed when they're ruining bread or colonizing…",
+          "url": "https://phys.org/news/2026-07-fungal-genome-tool-fresh-paths.html",
           "source": "Phys.org",
+          "date": "2026-07-03"
+        },
+        {
+          "title": "Complex food webs sustain ecosystem functioning",
+          "summary": "Healthy ecosystems depend on more than just having lots of species—they rely on the complex relationships between plants, prey and predators, according to new international research led by the University of Waikato and…",
+          "url": "https://phys.org/news/2026-07-complex-food-webs-sustain-ecosystem.html",
+          "source": "Phys.org",
+          "date": "2026-07-03"
+        },
+        {
+          "title": "Great ape laughter reveals a hidden origin of human speech",
+          "summary": "The rhythm of human laughter appears to have deep evolutionary roots shared with chimpanzees, bonobos, gorillas, and orangutans. That ancient pattern may offer one of the clearest clues yet to how the vocal control…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260626124704.htm",
+          "source": "Science Daily",
           "date": "2026-07-02"
         },
         {
-          "title": "Genomic tool can help measure resilience in Merino sheep",
-          "summary": "A new resilience test for merino sheep is using hereditary markers to help producers identify which animals are better able to cope with stressors in their environment.",
-          "url": "https://phys.org/news/2026-07-genomic-tool-resilience-merino-sheep.html",
-          "source": "Phys.org",
-          "date": "2026-07-02"
+          "title": "Scientists stunned as bumble bees solve a classic intelligence test",
+          "summary": "Bumble bees astonished researchers by inventing a new way to reach a hidden reward, despite never being taught the trick. The discovery adds to growing evidence that these tiny insects are far smarter and more adaptable…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260625014755.htm",
+          "source": "Science Daily",
+          "date": "2026-07-03"
         },
         {
-          "title": "Abandoned farmland restored to wildflower meadow without sowing seeds",
-          "summary": "Abandoned farmland can be transformed into wildflower-rich grassland habitat without the need for expensive and labor-intensive seeding, a new study by UCL researchers finds.",
-          "url": "https://phys.org/news/2026-07-abandoned-farmland-wildflower-meadow-seeds.html",
+          "title": "Escaped flowerhorn fish threaten biodiversity, pose potential public health risks in Laguna, Philippines",
+          "summary": "A hardy aquarium fish prized for its golden hue, the ornamental Flowerhorn cichlid (Amphilophus spp.) has become a problem for the residents of San Pablo City, Laguna: It is increasingly taking on an outsized role in…",
+          "url": "https://phys.org/news/2026-07-flowerhorn-fish-threaten-biodiversity-pose.html",
           "source": "Phys.org",
-          "date": "2026-07-02"
-        },
-        {
-          "title": "Spider venoms could stop deadly varroa mites killing honey bees",
-          "summary": "Spider venoms contain ingredients that could lead to a new treatment to protect honeybees from the deadly Varroa destructor mite, according to a study led by the University of the Sunshine Coast. Researchers identified…",
-          "url": "https://phys.org/news/2026-07-spider-venoms-deadly-varroa-mites.html",
-          "source": "Phys.org",
-          "date": "2026-07-02"
-        },
-        {
-          "title": "Swimming crab trapped in plastic bottle survives two months at sea",
-          "summary": "How did a large crab end up trapped inside a plastic bottle with an opening smaller than its body? Hiroshima University researchers investigated this unusual marine mystery, revealing a lesser-known impact of marine…",
-          "url": "https://phys.org/news/2026-07-crab-plastic-bottle-survives-months.html",
-          "source": "Phys.org",
-          "date": "2026-07-02"
+          "date": "2026-07-03"
         }
       ]
     },
@@ -125,11 +125,25 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Climate change may prop up urban plant growth in the face of development—provided cities build slowly enough",
-          "summary": "Worsened drought stress, changing rainfall patterns, flowers and pollinators thrown out of sync: These only scratch the surface of the ways climate change challenges plant life. But warmer air and higher carbon dioxide…",
-          "url": "https://phys.org/news/2026-07-climate-prop-urban-growth-cities.html",
-          "source": "Phys.org",
+          "title": "Climate scientist who “proved” humanity is warming Earth says government report got it wrong",
+          "summary": "A pioneering climate scientist is challenging a U.S. government report that cited his research while reaching what he says is the exact opposite conclusion. Benjamin Santer and his colleagues say decades of satellite…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260625060214.htm",
+          "source": "Science Daily",
           "date": "2026-07-02"
+        },
+        {
+          "title": "Sea turtles diving through the eye of the storm help develop better cyclone forecasts",
+          "summary": "Every summer, communities across northern Australia brace for the tropical cyclone season. Tropical cyclones draw their power from the warm seas, extracting heat and moisture from ocean water.",
+          "url": "https://phys.org/news/2026-07-sea-turtles-eye-storm-cyclone.html",
+          "source": "Phys.org",
+          "date": "2026-07-03"
+        },
+        {
+          "title": "Projected 'super typhoon' heads for US Pacific islands",
+          "summary": "Residents of Guam and the Northern Marianas boarded up windows and stocked up Friday as a monster weather system forecast to become a \"super typhoon\" approached the U.S. Pacific territories.",
+          "url": "https://phys.org/news/2026-07-super-typhoon-pacific-islands.html",
+          "source": "Phys.org",
+          "date": "2026-07-03"
         },
         {
           "title": "Sun fires off 10 solar flares in 24 hours as multiple Earth-bound CMEs raise northern lights hopes for July 4 weekend",
@@ -139,11 +153,11 @@
           "date": "2026-07-02"
         },
         {
-          "title": "The race to understand how and when Thwaites glacier will collapse",
-          "summary": "The loss of Antarctica’s doomsday glacier would transform our planet. Now scientists are revealing the secrets of this remotest of places, and asking the question: is its demise inevitable?",
-          "url": "https://www.newscientist.com/article/2526630-the-race-to-understand-how-and-when-thwaites-glacier-will-collapse/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-          "source": "New Scientist",
-          "date": "2026-06-25"
+          "title": "Sun news: Sun-stuff to reach Earth today, auroras possible!",
+          "summary": "Sun news for July 3, 2026: Sun-stuff from Tuesday's X flare should arrive today! G1–G2 (minor-moderate) storms and auroras are possible. The post Sun news: Sun-stuff to reach Earth today, auroras possible! first…",
+          "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+          "source": "EarthSky",
+          "date": "2026-07-03"
         }
       ]
     },
@@ -151,10 +165,10 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "Quantum semiconductor design could expand search for dark matter",
-          "summary": "Dark matter accounts for 85% of the matter in the universe, but scientists still do not know what it is made of. A study, published in Physical Review Letters, by Rice University researchers proposes a detector design…",
-          "url": "https://phys.org/news/2026-07-quantum-semiconductor-dark.html",
-          "source": "Phys.org",
+          "title": "Tiny magnetic waves could unlock quantum computers the size of a penny",
+          "summary": "A major breakthrough in quantum technology has turned magnons, tiny magnetic waves once considered too short-lived for practical use, into promising carriers of quantum information. Researchers extended their lifetime…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260626030431.htm",
+          "source": "Science Daily",
           "date": "2026-07-02"
         },
         {
@@ -163,26 +177,33 @@
           "url": "https://www.newscientist.com/article/2532173-us-government-wants-to-have-a-useful-quantum-computer-by-2028/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
           "source": "New Scientist",
           "date": "2026-06-29"
-        },
-        {
-          "title": "Lost books by ancient philosophers recovered from 'unreadable' scrolls",
-          "summary": "Scrolls from the Roman library of Herculaneum that were carbonised by a volcanic eruption have been read in their entirety for the first time, thanks to scans and AI software",
-          "url": "https://www.newscientist.com/article/2531697-lost-books-by-ancient-philosophers-recovered-from-unreadable-scrolls/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-          "source": "New Scientist",
-          "date": "2026-06-25"
-        },
-        {
-          "title": "Can video games help us better understand quantum mechanics?",
-          "summary": "The world of quantum video games is vast – there are hundreds that are either inspired by quantum mechanics or use quantum computers in their development. Columnist Karmela Padavic-Callaghan explores how these could…",
-          "url": "https://www.newscientist.com/article/2532015-can-video-games-help-us-better-understand-quantum-mechanics/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-          "source": "New Scientist",
-          "date": "2026-06-26"
         }
       ]
     },
     "Physics": {
       "emoji": "⚡",
       "articles": [
+        {
+          "title": "Scientists create quantum sound device that could transform communications",
+          "summary": "A new quantum device can generate precisely controlled bursts of sound-like particles, or phonons, by forcing electrons through an ultra-thin crystal at extremely low temperatures. The surprising behavior pushes beyond…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260626030435.htm",
+          "source": "Science Daily",
+          "date": "2026-07-02"
+        },
+        {
+          "title": "Scientists make quantum time flow backward in stunning physics breakthrough",
+          "summary": "Researchers have created quantum control techniques that can make a system appear to run backward in time. By precisely managing quantum measurements, they can reshape the system's arrow of time and even harvest energy…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260625014802.htm",
+          "source": "Science Daily",
+          "date": "2026-07-03"
+        },
+        {
+          "title": "Wildfires rage in southern France, 3,000 people evacuated",
+          "summary": "Nearly 3,000 people have been evacuated in southwestern France as Prime Minister Sebastien Lecornu sounded the alarm over an early outbreak of wildfires in the wake of a record-breaking heat wave.",
+          "url": "https://phys.org/news/2026-07-wildfires-rage-southern-france-people.html",
+          "source": "Phys.org",
+          "date": "2026-07-03"
+        },
         {
           "title": "The weirdness of neutrinos could completely rewrite particle physics",
           "summary": "A philosopher has put forward an argument for rethinking how particles are defined within the standard model of particle physics",
@@ -191,31 +212,10 @@
           "date": "2026-07-01"
         },
         {
-          "title": "How heat stress triggers emergency programs in plants",
-          "summary": "Researchers at the Karlsruhe Institute of Technology (KIT) have found how plant cells respond to stress. If their energy supply is disrupted by heat, drought or saline soils, chloroplasts—the cells' powerhouses—send an…",
-          "url": "https://phys.org/news/2026-07-stress-triggers-emergency.html",
-          "source": "Phys.org",
-          "date": "2026-07-02"
-        },
-        {
-          "title": "Analog gravity advance offers new insights into Hawking radiation from black holes",
-          "summary": "Hawking radiation is a form of radiation emitted by black holes, as theoretically predicted by Stephen Hawking. It suggests that black holes do not merely swallow matter—as had previously been assumed—but also emit very…",
-          "url": "https://phys.org/news/2026-07-analog-gravity-advance-insights-hawking.html",
-          "source": "Phys.org",
-          "date": "2026-07-02"
-        },
-        {
-          "title": "Huge, specially designed heat pump saves a Norwegian agricultural cooperative millions",
-          "summary": "There are some magical limits to how much energy we can get out of a heat pump. This story is about pushing the technical limits. It is about getting more energy out than you put in. And it's about how SINTEF—one of…",
-          "url": "https://phys.org/news/2026-07-huge-specially-norwegian-agricultural-cooperative.html",
-          "source": "Phys.org",
-          "date": "2026-07-02"
-        },
-        {
-          "title": "New tool maps public land with potential for hundreds of thousands of affordable homes in British Columbia",
-          "summary": "A new research tool is highlighting publicly owned land that may have potential for affordable housing development in B.C., with early analysis revealing more than 50,000 parcels of publicly owned land in B.C. and up to…",
-          "url": "https://phys.org/news/2026-07-tool-potential-hundreds-thousands-homes.html",
-          "source": "Phys.org",
+          "title": "390 gravitational wave detections reveal hidden population of black holes",
+          "summary": "Astronomers have released the largest gravitational wave catalog ever, revealing 161 new black hole collisions and pushing the total number of detections to 390. Among the highlights are the clearest gravitational wave…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260625060203.htm",
+          "source": "Science Daily",
           "date": "2026-07-02"
         }
       ]
