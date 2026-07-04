@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T15:11:59Z",
+  "updated": "2026-07-04T14:37:21Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
@@ -12,32 +12,32 @@
           "date": "2026-07-03"
         },
         {
-          "title": "The world's fastest spider tops 3.5 metres per second",
-          "summary": "The most comprehensive database ever compiled of how fast arachnids can run has shown how leg anatomy and evolutionary history influence spiders’ running speed",
-          "url": "https://www.newscientist.com/article/2532086-the-worlds-fastest-spider-tops-3-5-metres-per-second/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-          "source": "New Scientist",
-          "date": "2026-06-30"
+          "title": "How generative AI and physics can help design new antibiotics",
+          "summary": "By 2050, scientists estimate that antibiotic-resistant infections will be associated with more than 8 million deaths around the world every year.",
+          "url": "https://phys.org/news/2026-07-generative-ai-physics-antibiotics.html",
+          "source": "Phys.org",
+          "date": "2026-07-03"
         },
         {
-          "title": "Scientists discover a completely different way to fight viruses",
-          "summary": "Researchers have uncovered an unexpected antiviral defense system in sea anemones that works very differently from the one humans use. The discovery suggests evolution developed multiple ways to combat viruses…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260630020534.htm",
-          "source": "Science Daily",
-          "date": "2026-06-30"
+          "title": "Small-molecule switches put therapeutic CRISPR editing under on-demand control in living tissues",
+          "summary": "In a study published in Science Translational Medicine, a team of researchers led by Dr. Wang Yu from the Shenzhen Institutes of Advanced Technology of the Chinese Academy of Sciences developed PRINCE and Little Prince…",
+          "url": "https://phys.org/news/2026-07-small-molecule-therapeutic-crispr-demand.html",
+          "source": "Phys.org",
+          "date": "2026-07-03"
         },
         {
-          "title": "What is 'SpudCell'? Arguably the greatest bioengineering feat yet",
-          "summary": "A prototype cell partly capable of replicating itself has been created using 36 existing bacterial genes, but it's not really a living organism – yet",
-          "url": "https://www.newscientist.com/article/2532689-what-is-spudcell-arguably-the-greatest-bioengineering-feat-yet/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-          "source": "New Scientist",
-          "date": "2026-07-01"
+          "title": "A benchmark for how different disturbances influence the loss and recovery of carbon and CO₂ in tropical forests",
+          "summary": "Tropical moist forests account for 70% of global living biomass. Deforestation and degradation—that is, the partial damage to tree stands—as well as the subsequent regeneration of forests therefore play a pivotal role…",
+          "url": "https://phys.org/news/2026-07-benchmark-disturbances-loss-recovery-carbon.html",
+          "source": "Phys.org",
+          "date": "2026-07-03"
         },
         {
-          "title": "New calculator reveals whether you should really worry about statin side effects",
-          "summary": "Scientists at the University of Oxford have created a calculator that predicts a person's individual risk of serious muscle disorders from statin medications. Their analysis found that more than 98% of people who…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260630020549.htm",
-          "source": "Science Daily",
-          "date": "2026-06-30"
+          "title": "Colony connections determine ant wound care: Transitional workers treat injured nestmates",
+          "summary": "Patients in hospitals generally trust the nursing staff. After all, they have undergone training and, in some cases, have several years of professional experience. In the case of carpenter ants, it is not nursing…",
+          "url": "https://phys.org/news/2026-07-colony-ant-wound-transitional-workers.html",
+          "source": "Phys.org",
+          "date": "2026-07-03"
         }
       ]
     },
@@ -45,25 +45,18 @@
       "emoji": "🚀",
       "articles": [
         {
-          "title": "Rescue mission launches to save NASA telescope that's falling back to Earth",
-          "summary": "A three-armed spacecraft rocketed into orbit Friday to rescue a NASA telescope that's in danger of crashing back to Earth.",
-          "url": "https://phys.org/news/2026-07-mission-nasa-telescope-falling-earth.html",
-          "source": "Phys.org",
-          "date": "2026-07-03"
-        },
-        {
-          "title": "NASA’s Webb Studies How Planet Survived Death of its Star",
-          "summary": "NASA’s James Webb Space Telescope is giving us new insight into the far-future of solar systems like our own, as the agency continues to reveal the secrets of the universe and our place in it. Billions of years ago, a…",
-          "url": "https://science.nasa.gov/missions/webb/nasas-webb-studies-how-planet-survived-death-of-its-star/",
-          "source": "NASA",
-          "date": "2026-07-01"
-        },
-        {
           "title": "'Stellar death is not the end': James Webb Space Telescope glimpses the fate of the solar system in a weird exoplanet orbiting a dead star",
           "summary": "\"It's like using a time machine to peer into the distant future of our solar system.\"",
           "url": "https://www.space.com/astronomy/stars/stellar-death-is-not-the-end-james-webb-space-telescope-glimpses-the-fate-of-the-solar-system-in-a-weird-exoplanet-orbiting-a-dead-star",
           "source": "Space.com",
           "date": "2026-07-02"
+        },
+        {
+          "title": "Audacious mission to rescue NASA's falling telescope has launched",
+          "summary": "NASA’s Swift space telescope is reaching the end of its two-decade run in orbit – unless a satellite launched on 3 July can give it a lifesaving boost",
+          "url": "https://www.newscientist.com/article/2532627-audacious-mission-to-rescue-nasas-falling-telescope-has-launched/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "source": "New Scientist",
+          "date": "2026-07-03"
         },
         {
           "title": "NASA Seeks Volunteers for New Yearlong Simulated Moon, Mars Mission",
@@ -78,6 +71,13 @@
           "url": "https://www.nasa.gov/image-article/link-spacecraft-set-for-mission-to-boost-nasas-swift-observatory/",
           "source": "NASA",
           "date": "2026-07-01"
+        },
+        {
+          "title": "'Rocket's Red Glare': How NASA's Artemis 2 moon mission celebrated America's 250th birthday",
+          "summary": "NASA joined in the semiquincentennial celebrations this year by painting \"America 250\" on the rocket that launched the Artemis 2 astronauts around the moon.",
+          "url": "https://www.space.com/space-exploration/artemis/rockets-red-glare-how-nasas-artemis-2-moon-mission-celebrated-americas-250th-birthday",
+          "source": "Space.com",
+          "date": "2026-07-01"
         }
       ]
     },
@@ -85,18 +85,18 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "How a new fungal genome-editing tool could open fresh paths to cancer treatments",
-          "summary": "Researchers have spent decades—and billions of dollars—sequencing animal and crop genomes, but fungi have historically been the forgotten middle child of genomics, only noticed when they're ruining bread or colonizing…",
-          "url": "https://phys.org/news/2026-07-fungal-genome-tool-fresh-paths.html",
+          "title": "Paleontological study shows climate change makes marine animals shrink",
+          "summary": "Whether mussels, crustaceans or fish, marine animals have been responding to environmental crises with a reduction in body size for hundreds of millions of years. A new study by Friedrich-Alexander-Universität…",
+          "url": "https://phys.org/news/2026-07-paleontological-climate-marine-animals.html",
           "source": "Phys.org",
           "date": "2026-07-03"
         },
         {
-          "title": "Complex food webs sustain ecosystem functioning",
-          "summary": "Healthy ecosystems depend on more than just having lots of species—they rely on the complex relationships between plants, prey and predators, according to new international research led by the University of Waikato and…",
-          "url": "https://phys.org/news/2026-07-complex-food-webs-sustain-ecosystem.html",
+          "title": "New species of ghost shark may have been found in Costa Rica",
+          "summary": "Costa Rican scientists may have discovered a new species of ghost shark in Pacific waters near Cabo Blanco and Cano Island.",
+          "url": "https://phys.org/news/2026-07-species-ghost-shark-costa-rica.html",
           "source": "Phys.org",
-          "date": "2026-07-03"
+          "date": "2026-07-04"
         },
         {
           "title": "Great ape laughter reveals a hidden origin of human speech",
@@ -113,9 +113,9 @@
           "date": "2026-07-03"
         },
         {
-          "title": "Escaped flowerhorn fish threaten biodiversity, pose potential public health risks in Laguna, Philippines",
-          "summary": "A hardy aquarium fish prized for its golden hue, the ornamental Flowerhorn cichlid (Amphilophus spp.) has become a problem for the residents of San Pablo City, Laguna: It is increasingly taking on an outsized role in…",
-          "url": "https://phys.org/news/2026-07-flowerhorn-fish-threaten-biodiversity-pose.html",
+          "title": "Mammals use the same underlying system—preserved through evolution—to process smells",
+          "summary": "Picture a mouse taking rapid, staccato sniffs of a crumb it's found while foraging for food. Now compare that with a human leaning in for a single, deep inhale to gauge whether a cantaloupe is ripe. New research from…",
+          "url": "https://phys.org/news/2026-07-mammals-underlying-evolution.html",
           "source": "Phys.org",
           "date": "2026-07-03"
         }
@@ -125,6 +125,27 @@
       "emoji": "🌍",
       "articles": [
         {
+          "title": "Antarctic ozone loss drove unexpected Southern Ocean cooling, climate model shows",
+          "summary": "The Southern Ocean has long stood out as an oddity in the global climate system. While most of the planet's surface oceans have warmed in response to rising greenhouse gases, waters circling Antarctica showed an…",
+          "url": "https://phys.org/news/2026-07-antarctic-ozone-loss-drove-unexpected.html",
+          "source": "Phys.org",
+          "date": "2026-07-03"
+        },
+        {
+          "title": "Rising seas make once-rare coastal floods 12 times more likely",
+          "summary": "Extreme floods that once swamped coastal communities only rarely are becoming far more common as climate change caused by humans pushes sea levels higher, according to new research published Wednesday. Experts say the…",
+          "url": "https://phys.org/news/2026-06-seas-rare-coastal.html",
+          "source": "Phys.org",
+          "date": "2026-07-04"
+        },
+        {
+          "title": "A volcano has erupted remnants of Earth's primordial magma ocean",
+          "summary": "Earth was once covered by a global magma ocean, which later cooled and crystallised – now traces of this primordial event have been found in magma from a young volcano in the Indian Ocean",
+          "url": "https://www.newscientist.com/article/2532929-a-volcano-has-erupted-remnants-of-earths-primordial-magma-ocean/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "source": "New Scientist",
+          "date": "2026-07-03"
+        },
+        {
           "title": "Climate scientist who “proved” humanity is warming Earth says government report got it wrong",
           "summary": "A pioneering climate scientist is challenging a U.S. government report that cited his research while reaching what he says is the exact opposite conclusion. Benjamin Santer and his colleagues say decades of satellite…",
           "url": "https://www.sciencedaily.com/releases/2026/06/260625060214.htm",
@@ -132,32 +153,11 @@
           "date": "2026-07-02"
         },
         {
-          "title": "Sea turtles diving through the eye of the storm help develop better cyclone forecasts",
-          "summary": "Every summer, communities across northern Australia brace for the tropical cyclone season. Tropical cyclones draw their power from the warm seas, extracting heat and moisture from ocean water.",
-          "url": "https://phys.org/news/2026-07-sea-turtles-eye-storm-cyclone.html",
+          "title": "El Nino set to be 'strong', UN warns",
+          "summary": "El Nino is here and will quickly develop into a strong event between July and September, fueling the likelihood of extreme weather, the United Nations' climate agency warned Friday.",
+          "url": "https://phys.org/news/2026-07-el-nino-strong.html",
           "source": "Phys.org",
-          "date": "2026-07-03"
-        },
-        {
-          "title": "Projected 'super typhoon' heads for US Pacific islands",
-          "summary": "Residents of Guam and the Northern Marianas boarded up windows and stocked up Friday as a monster weather system forecast to become a \"super typhoon\" approached the U.S. Pacific territories.",
-          "url": "https://phys.org/news/2026-07-super-typhoon-pacific-islands.html",
-          "source": "Phys.org",
-          "date": "2026-07-03"
-        },
-        {
-          "title": "Sun fires off 10 solar flares in 24 hours as multiple Earth-bound CMEs raise northern lights hopes for July 4 weekend",
-          "summary": "Multiple CMEs are heading toward Earth, with G1-G2 geomagnetic storm conditions possible as the holiday weekend begins.",
-          "url": "https://www.space.com/stargazing/auroras/sun-fires-off-10-solar-flares-in-24-hours-as-multiple-earth-bound-cmes-raise-northern-lights-hopes-for-july-4-weekend",
-          "source": "Space.com",
-          "date": "2026-07-02"
-        },
-        {
-          "title": "Sun news: Sun-stuff to reach Earth today, auroras possible!",
-          "summary": "Sun news for July 3, 2026: Sun-stuff from Tuesday's X flare should arrive today! G1–G2 (minor-moderate) storms and auroras are possible. The post Sun news: Sun-stuff to reach Earth today, auroras possible! first…",
-          "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
-          "source": "EarthSky",
-          "date": "2026-07-03"
+          "date": "2026-07-04"
         }
       ]
     },
@@ -170,6 +170,20 @@
           "url": "https://www.sciencedaily.com/releases/2026/06/260626030431.htm",
           "source": "Science Daily",
           "date": "2026-07-02"
+        },
+        {
+          "title": "Trained AI outperforms biologists at spotting salmon lice",
+          "summary": "Researchers have taken over 120,000 images of salmon lice larvae in seawater and used them to train AI models. The models were much faster and more accurate than experienced biologists at identifying the parasites that…",
+          "url": "https://phys.org/news/2026-07-ai-outperforms-biologists-salmon-lice.html",
+          "source": "Phys.org",
+          "date": "2026-07-04"
+        },
+        {
+          "title": "AI must be built with Indigenous Knowledges, not against them",
+          "summary": "As Australia marks 50 years of NAIDOC Week, honoring the world's oldest living culture, humanity's newest technology has yet to reckon with a simple principle: \"nothing about us, without us.\" The concern is that…",
+          "url": "https://phys.org/news/2026-07-ai-built-indigenous-knowledges.html",
+          "source": "Phys.org",
+          "date": "2026-07-04"
         },
         {
           "title": "US government wants to have a useful quantum computer by 2028",
@@ -191,17 +205,17 @@
           "date": "2026-07-02"
         },
         {
+          "title": "Ultrafast scanning tunneling microscopy reaches the quantum mechanical space-time limit for the first time",
+          "summary": "Werner Heisenberg's famous uncertainty principle describes one of the most intriguing features of quantum physics: certain pairs of physical quantities describing a particle, such as position and momentum, cannot…",
+          "url": "https://phys.org/news/2026-07-ultrafast-scanning-tunneling-microscopy-quantum.html",
+          "source": "Phys.org",
+          "date": "2026-07-03"
+        },
+        {
           "title": "Scientists make quantum time flow backward in stunning physics breakthrough",
           "summary": "Researchers have created quantum control techniques that can make a system appear to run backward in time. By precisely managing quantum measurements, they can reshape the system's arrow of time and even harvest energy…",
           "url": "https://www.sciencedaily.com/releases/2026/06/260625014802.htm",
           "source": "Science Daily",
-          "date": "2026-07-03"
-        },
-        {
-          "title": "Wildfires rage in southern France, 3,000 people evacuated",
-          "summary": "Nearly 3,000 people have been evacuated in southwestern France as Prime Minister Sebastien Lecornu sounded the alarm over an early outbreak of wildfires in the wake of a record-breaking heat wave.",
-          "url": "https://phys.org/news/2026-07-wildfires-rage-southern-france-people.html",
-          "source": "Phys.org",
           "date": "2026-07-03"
         },
         {
