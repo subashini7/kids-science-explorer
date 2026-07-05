@@ -1,43 +1,43 @@
 {
-  "updated": "2026-07-04T14:37:21Z",
+  "updated": "2026-07-05T14:43:33Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "Scientists discover a protein switch that burns fat and blocks new fat cells",
-          "summary": "A protein called “Mitch” may hold the key to a new generation of obesity treatments. Researchers found that disabling it in human cells boosts fat burning, increases energy use, and makes it harder for new fat cells to…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260624115324.htm",
+          "title": "How proteins are inserted into cell membranes",
+          "summary": "Researchers from Heinrich Heine University Düsseldorf (HHU) have—in collaboration with colleagues from Ludwig Maximilian University (LMU) in Munich—analyzed the complex biochemical processes that bacteria use to insert…",
+          "url": "https://phys.org/news/2026-06-proteins-inserted-cell-membranes.html",
+          "source": "Phys.org",
+          "date": "2026-07-04"
+        },
+        {
+          "title": "Bacterial protein reveals a hidden rule for controlling calcium",
+          "summary": "A small change in acidity can transform the world around us. A squeeze of lemon changes the taste of food. Vinegar preserves vegetables. Stomach acid helps break down a meal. These familiar effects come from…",
+          "url": "https://phys.org/news/2026-07-bacterial-protein-reveals-hidden-calcium.html",
+          "source": "Phys.org",
+          "date": "2026-07-04"
+        },
+        {
+          "title": "New research reveals the hidden pollution left behind by fireworks",
+          "summary": "Scientists have uncovered new evidence that fireworks can pollute both the air and water in ways that extend beyond the visible smoke. The findings show that leftover debris, fine particles, and airborne chemicals may…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260701205009.htm",
           "source": "Science Daily",
-          "date": "2026-07-03"
+          "date": "2026-07-04"
         },
         {
-          "title": "How generative AI and physics can help design new antibiotics",
-          "summary": "By 2050, scientists estimate that antibiotic-resistant infections will be associated with more than 8 million deaths around the world every year.",
-          "url": "https://phys.org/news/2026-07-generative-ai-physics-antibiotics.html",
-          "source": "Phys.org",
-          "date": "2026-07-03"
+          "title": "New optical centrifuge unlocks the secrets of frictionless superfluids",
+          "summary": "Physicists have developed a new optical centrifuge that can precisely spin molecules inside a superfluid for the first time. The advance could help unravel some of the biggest mysteries of quantum liquids and reveal how…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260625014840.htm",
+          "source": "Science Daily",
+          "date": "2026-07-04"
         },
         {
-          "title": "Small-molecule switches put therapeutic CRISPR editing under on-demand control in living tissues",
-          "summary": "In a study published in Science Translational Medicine, a team of researchers led by Dr. Wang Yu from the Shenzhen Institutes of Advanced Technology of the Chinese Academy of Sciences developed PRINCE and Little Prince…",
-          "url": "https://phys.org/news/2026-07-small-molecule-therapeutic-crispr-demand.html",
-          "source": "Phys.org",
-          "date": "2026-07-03"
-        },
-        {
-          "title": "A benchmark for how different disturbances influence the loss and recovery of carbon and CO₂ in tropical forests",
-          "summary": "Tropical moist forests account for 70% of global living biomass. Deforestation and degradation—that is, the partial damage to tree stands—as well as the subsequent regeneration of forests therefore play a pivotal role…",
-          "url": "https://phys.org/news/2026-07-benchmark-disturbances-loss-recovery-carbon.html",
-          "source": "Phys.org",
-          "date": "2026-07-03"
-        },
-        {
-          "title": "Colony connections determine ant wound care: Transitional workers treat injured nestmates",
-          "summary": "Patients in hospitals generally trust the nursing staff. After all, they have undergone training and, in some cases, have several years of professional experience. In the case of carpenter ants, it is not nursing…",
-          "url": "https://phys.org/news/2026-07-colony-ant-wound-transitional-workers.html",
-          "source": "Phys.org",
-          "date": "2026-07-03"
+          "title": "A hidden weakness in deadly cancers could lead to powerful new treatments",
+          "summary": "A UCLA study has identified a hidden Achilles' heel in aggressive small cell cancers that have resisted new treatments for decades. Scientists found that tumors lacking the RB gene become critically dependent on the…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260626030430.htm",
+          "source": "Science Daily",
+          "date": "2026-07-04"
         }
       ]
     },
@@ -59,25 +59,25 @@
           "date": "2026-07-03"
         },
         {
-          "title": "NASA Seeks Volunteers for New Yearlong Simulated Moon, Mars Mission",
-          "summary": "NASA is recruiting research participants for the agency’s next simulated deep space mission. Beginning no earlier than August 2027, research volunteers will spend one year living and working in interplanetary…",
-          "url": "https://www.nasa.gov/humans-in-space/nasa-seeks-volunteers-for-new-yearlong-simulated-moon-mars-mission/",
-          "source": "NASA",
-          "date": "2026-07-01"
+          "title": "Groundbreaking Swift spacecraft rescue mission launches",
+          "summary": "NASA's LINK spacecraft is on its way to save the Swift space telescope. LINK launched earlier today from Kwajalein Atoll in the South Pacific Ocean. The post Groundbreaking Swift spacecraft rescue mission launches first…",
+          "url": "https://earthsky.org/space/swift-spacecraft-boost-plunging-back-to-earth/",
+          "source": "EarthSky",
+          "date": "2026-07-03"
         },
         {
-          "title": "LINK Spacecraft Set for Mission to Boost NASA’s Swift Observatory",
-          "summary": "A first-of-its-kind mission to raise the orbit of NASA’s Neil Gehrels Swift Observatory is poised for launch no earlier than Thursday, July 2, 5:09 a.m. EDT (9:09 p.m. UTC+12), from Kwajalein Atoll, part of the Republic…",
-          "url": "https://www.nasa.gov/image-article/link-spacecraft-set-for-mission-to-boost-nasas-swift-observatory/",
-          "source": "NASA",
-          "date": "2026-07-01"
-        },
-        {
-          "title": "'Rocket's Red Glare': How NASA's Artemis 2 moon mission celebrated America's 250th birthday",
-          "summary": "NASA joined in the semiquincentennial celebrations this year by painting \"America 250\" on the rocket that launched the Artemis 2 astronauts around the moon.",
-          "url": "https://www.space.com/space-exploration/artemis/rockets-red-glare-how-nasas-artemis-2-moon-mission-celebrated-americas-250th-birthday",
+          "title": "1 private spacecraft intercepts another on Space Force's groundbreaking 'Victus Haze' mission",
+          "summary": "A U.S. Space Force mission pitting two satellites against each other has completed the organization's first tactical intercept of an orbital target.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/1-private-spacecraft-intercepts-another-on-space-forces-groundbreaking-victus-haze-mission",
           "source": "Space.com",
-          "date": "2026-07-01"
+          "date": "2026-07-03"
+        },
+        {
+          "title": "NASA’s Hubble Spies Stellar Sparkler for July 4th",
+          "summary": "Red, white, and blue stars glitter like a sparkler being waved on a dark night in this new image from NASA’s Hubble Space Telescope.",
+          "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-stellar-sparkler-for-july-4th/",
+          "source": "NASA",
+          "date": "2026-07-04"
         }
       ]
     },
@@ -85,11 +85,11 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "Paleontological study shows climate change makes marine animals shrink",
-          "summary": "Whether mussels, crustaceans or fish, marine animals have been responding to environmental crises with a reduction in body size for hundreds of millions of years. A new study by Friedrich-Alexander-Universität…",
-          "url": "https://phys.org/news/2026-07-paleontological-climate-marine-animals.html",
+          "title": "Rare 309-million-year-old fossils suggest early tetrapods developed without tadpole phase",
+          "summary": "Scientists have long posited that the earliest water animals to transition to land had amphibious tadpole features, going through a metamorphosis akin to that of today's frogs.",
+          "url": "https://phys.org/news/2026-06-rare-million-year-fossils-early.html",
           "source": "Phys.org",
-          "date": "2026-07-03"
+          "date": "2026-07-05"
         },
         {
           "title": "New species of ghost shark may have been found in Costa Rica",
@@ -106,31 +106,24 @@
           "date": "2026-07-02"
         },
         {
-          "title": "Scientists stunned as bumble bees solve a classic intelligence test",
-          "summary": "Bumble bees astonished researchers by inventing a new way to reach a hidden reward, despite never being taught the trick. The discovery adds to growing evidence that these tiny insects are far smarter and more adaptable…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260625014755.htm",
-          "source": "Science Daily",
-          "date": "2026-07-03"
+          "title": "Spain data on 5.5 million convictions challenges immigration-crime link",
+          "summary": "When analyzing crime, the foreign population typically shows higher rates than the native population. However, crime statistics change significantly when comparing groups of the same age and gender. A detailed data…",
+          "url": "https://phys.org/news/2026-07-spain-million-convictions-immigration-crime.html",
+          "source": "Phys.org",
+          "date": "2026-07-05"
         },
         {
-          "title": "Mammals use the same underlying system—preserved through evolution—to process smells",
-          "summary": "Picture a mouse taking rapid, staccato sniffs of a crumb it's found while foraging for food. Now compare that with a human leaning in for a single, deep inhale to gauge whether a cantaloupe is ripe. New research from…",
-          "url": "https://phys.org/news/2026-07-mammals-underlying-evolution.html",
+          "title": "A rare dinosaur fossil from Antarctica is found tucked away in a drawer",
+          "summary": "Scientists have stumbled on a rare dinosaur fossil from Antarctica, tucked away for decades in a drawer.",
+          "url": "https://phys.org/news/2026-06-rare-dinosaur-fossil-antarctica-tucked.html",
           "source": "Phys.org",
-          "date": "2026-07-03"
+          "date": "2026-07-04"
         }
       ]
     },
     "Earth & Climate": {
       "emoji": "🌍",
       "articles": [
-        {
-          "title": "Antarctic ozone loss drove unexpected Southern Ocean cooling, climate model shows",
-          "summary": "The Southern Ocean has long stood out as an oddity in the global climate system. While most of the planet's surface oceans have warmed in response to rising greenhouse gases, waters circling Antarctica showed an…",
-          "url": "https://phys.org/news/2026-07-antarctic-ozone-loss-drove-unexpected.html",
-          "source": "Phys.org",
-          "date": "2026-07-03"
-        },
         {
           "title": "Rising seas make once-rare coastal floods 12 times more likely",
           "summary": "Extreme floods that once swamped coastal communities only rarely are becoming far more common as climate change caused by humans pushes sea levels higher, according to new research published Wednesday. Experts say the…",
@@ -146,6 +139,13 @@
           "date": "2026-07-03"
         },
         {
+          "title": "A popular climate fix could accidentally trigger massive changes to global weather",
+          "summary": "A new study found that not all geoengineering ideas are created equal. Brightening marine clouds over the eastern Pacific could dramatically weaken the El Niño cycle, triggering major changes to global weather patterns…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260626030448.htm",
+          "source": "Science Daily",
+          "date": "2026-07-03"
+        },
+        {
           "title": "Climate scientist who “proved” humanity is warming Earth says government report got it wrong",
           "summary": "A pioneering climate scientist is challenging a U.S. government report that cited his research while reaching what he says is the exact opposite conclusion. Benjamin Santer and his colleagues say decades of satellite…",
           "url": "https://www.sciencedaily.com/releases/2026/06/260625060214.htm",
@@ -153,11 +153,11 @@
           "date": "2026-07-02"
         },
         {
-          "title": "El Nino set to be 'strong', UN warns",
-          "summary": "El Nino is here and will quickly develop into a strong event between July and September, fueling the likelihood of extreme weather, the United Nations' climate agency warned Friday.",
-          "url": "https://phys.org/news/2026-07-el-nino-strong.html",
+          "title": "'Very dangerous' super typhoon nears US Pacific islands",
+          "summary": "Howling winds and lashing rain battered Guam and the Northern Marianas late Sunday, hours before the projected arrival of a \"super typhoon\" with force equivalent to a Category 5 hurricane over the U.S. Pacific…",
+          "url": "https://phys.org/news/2026-07-dangerous-super-typhoon-nears-pacific.html",
           "source": "Phys.org",
-          "date": "2026-07-04"
+          "date": "2026-07-05"
         }
       ]
     },
@@ -172,16 +172,16 @@
           "date": "2026-07-02"
         },
         {
-          "title": "Trained AI outperforms biologists at spotting salmon lice",
-          "summary": "Researchers have taken over 120,000 images of salmon lice larvae in seawater and used them to train AI models. The models were much faster and more accurate than experienced biologists at identifying the parasites that…",
-          "url": "https://phys.org/news/2026-07-ai-outperforms-biologists-salmon-lice.html",
+          "title": "BC and Alberta fall behind on fracking safety distances for residents",
+          "summary": "In May, Prime Minister Mark Carney announced plans to double the capacity of Canada's electricity grid by 2050, using natural gas in the name of \"powering Canada strong.\" Almost all Canadian natural gas these days is…",
+          "url": "https://phys.org/news/2026-07-bc-alberta-fall-fracking-safety.html",
           "source": "Phys.org",
           "date": "2026-07-04"
         },
         {
-          "title": "AI must be built with Indigenous Knowledges, not against them",
-          "summary": "As Australia marks 50 years of NAIDOC Week, honoring the world's oldest living culture, humanity's newest technology has yet to reckon with a simple principle: \"nothing about us, without us.\" The concern is that…",
-          "url": "https://phys.org/news/2026-07-ai-built-indigenous-knowledges.html",
+          "title": "Trained AI outperforms biologists at spotting salmon lice",
+          "summary": "Researchers have taken over 120,000 images of salmon lice larvae in seawater and used them to train AI models. The models were much faster and more accurate than experienced biologists at identifying the parasites that…",
+          "url": "https://phys.org/news/2026-07-ai-outperforms-biologists-salmon-lice.html",
           "source": "Phys.org",
           "date": "2026-07-04"
         },
@@ -205,31 +205,31 @@
           "date": "2026-07-02"
         },
         {
-          "title": "Ultrafast scanning tunneling microscopy reaches the quantum mechanical space-time limit for the first time",
-          "summary": "Werner Heisenberg's famous uncertainty principle describes one of the most intriguing features of quantum physics: certain pairs of physical quantities describing a particle, such as position and momentum, cannot…",
-          "url": "https://phys.org/news/2026-07-ultrafast-scanning-tunneling-microscopy-quantum.html",
-          "source": "Phys.org",
-          "date": "2026-07-03"
-        },
-        {
-          "title": "Scientists make quantum time flow backward in stunning physics breakthrough",
-          "summary": "Researchers have created quantum control techniques that can make a system appear to run backward in time. By precisely managing quantum measurements, they can reshape the system's arrow of time and even harvest energy…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260625014802.htm",
-          "source": "Science Daily",
-          "date": "2026-07-03"
-        },
-        {
-          "title": "The weirdness of neutrinos could completely rewrite particle physics",
-          "summary": "A philosopher has put forward an argument for rethinking how particles are defined within the standard model of particle physics",
-          "url": "https://www.newscientist.com/article/2532479-the-weirdness-of-neutrinos-could-completely-rewrite-particle-physics/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-          "source": "New Scientist",
-          "date": "2026-07-01"
-        },
-        {
           "title": "390 gravitational wave detections reveal hidden population of black holes",
           "summary": "Astronomers have released the largest gravitational wave catalog ever, revealing 161 new black hole collisions and pushing the total number of detections to 390. Among the highlights are the clearest gravitational wave…",
           "url": "https://www.sciencedaily.com/releases/2026/06/260625060203.htm",
           "source": "Science Daily",
+          "date": "2026-07-02"
+        },
+        {
+          "title": "One for the history books: What we know about the European heat wave",
+          "summary": "Europe is still taking stock of a powerful heat wave in late June, but experts are already confident it ranks among the worst ever recorded—even rivaling a freak 2003 episode.",
+          "url": "https://phys.org/news/2026-07-history-european.html",
+          "source": "Phys.org",
+          "date": "2026-07-04"
+        },
+        {
+          "title": "Dangerous heat wave roasts America's big birthday party",
+          "summary": "A punishing heat wave threatened America's July Fourth celebrations, World Cup matches and power grids as near-record temperatures scorched the eastern United States on Friday.",
+          "url": "https://phys.org/news/2026-07-dangerous-roasts-america-big-birthday.html",
+          "source": "Phys.org",
+          "date": "2026-07-04"
+        },
+        {
+          "title": "June heatwave may have killed around 20,000 people in Europe",
+          "summary": "It will be some months before the true toll of Europe's worst-ever heatwave is confirmed, but researchers can estimate a death count based on how many people died in Europe during previous hot periods",
+          "url": "https://www.newscientist.com/article/2532825-june-heatwave-may-have-killed-around-20000-people-in-europe/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "source": "New Scientist",
           "date": "2026-07-02"
         }
       ]
