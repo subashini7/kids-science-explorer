@@ -1,22 +1,29 @@
 {
-  "updated": "2026-07-06T16:20:25Z",
+  "updated": "2026-07-07T15:43:40Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "Atomic-level engineering of Cu nanoclusters improves conversion of CO₂ to fuel",
-          "summary": "Researchers at Tohoku University have discovered a promising strategy that converts harmful carbon dioxide into valuable fuels and chemicals by precisely altering nanoclusters made of copper.",
-          "url": "https://phys.org/news/2026-07-atomic-cu-nanoclusters-conversion-fuel.html",
+          "title": "New screening tool spots RNA-disrupting antibiotics for drug-resistant gram-negative bacteria",
+          "summary": "Researchers from Skoltech and other science centers in Russia have developed a reporter system—a tool for screening potential new antibiotics—that enables the selection of drug compounds disrupting RNA synthesis in…",
+          "url": "https://phys.org/news/2026-07-screening-tool-rna-disrupting-antibiotics.html",
           "source": "Phys.org",
-          "date": "2026-07-06"
+          "date": "2026-07-07"
         },
         {
-          "title": "AI maps 991 aromatic plants, identifies scent compounds that may improve sleep",
-          "summary": "Food scientists at the National University of Singapore (NUS) have used machine learning to sift through more than 2,300 scent molecules from aromatic plants and identify compounds with sleep-promoting potential, an…",
-          "url": "https://phys.org/news/2026-07-ai-aromatic-scent-compounds.html",
+          "title": "Scientists enable DNA synthesis using only temperature instead of chemical reagents",
+          "summary": "\"Complex chemical processes are essential for making DNA.\" This long-held assumption in the field of biotechnology has been overturned by a Korean research team. A KAIST research team has developed the world's first…",
+          "url": "https://phys.org/news/2026-07-scientists-enable-dna-synthesis-temperature.html",
           "source": "Phys.org",
-          "date": "2026-07-06"
+          "date": "2026-07-07"
+        },
+        {
+          "title": "Metallic rutile oxides break the rules of cooling",
+          "summary": "Physicists have long puzzled over a strange contradiction inside a family of minerals called rutile oxides. These materials all share the same crystal structure—but while some of them, like titanium dioxide, are firmly…",
+          "url": "https://phys.org/news/2026-07-metallic-rutile-oxides-cooling.html",
+          "source": "Phys.org",
+          "date": "2026-07-07"
         },
         {
           "title": "New research reveals the hidden pollution left behind by fireworks",
@@ -26,18 +33,11 @@
           "date": "2026-07-04"
         },
         {
-          "title": "Scientists observe water's behavior in a single molecular layer",
-          "summary": "New research has revealed that water behaves differently when confined to spaces just one molecule thick. For the first time, scientists have directly measured the vibrational signatures of truly two-dimensional water…",
-          "url": "https://phys.org/news/2026-07-scientists-behavior-molecular-layer.html",
+          "title": "Sunlight-powered chemistry reduces hazardous oxidant risk",
+          "summary": "Researchers at the University of Osaka developed a light-driven method for synthesizing Davis reagents that generates the hazardous oxidant mCPBA only on demand and consumes it immediately. Kinetic analysis showed no…",
+          "url": "https://phys.org/news/2026-07-sunlight-powered-chemistry-hazardous-oxidant.html",
           "source": "Phys.org",
-          "date": "2026-07-06"
-        },
-        {
-          "title": "Chemists capture structure of the elusive borylnitrene trapped in a crystal using X-ray",
-          "summary": "Nitrenes are the ghosts of synthetic chemistry, formed in an instant and gone just as quickly, rearranging into something entirely different. These highly reactive intermediates are widely used in synthesis, yet remain…",
-          "url": "https://phys.org/news/2026-07-chemists-capture-elusive-borylnitrene-crystal.html",
-          "source": "Phys.org",
-          "date": "2026-07-06"
+          "date": "2026-07-07"
         }
       ]
     },
@@ -45,18 +45,11 @@
       "emoji": "🚀",
       "articles": [
         {
-          "title": "Audacious mission to rescue NASA's falling telescope has launched",
-          "summary": "NASA’s Swift space telescope is reaching the end of its two-decade run in orbit – unless a satellite launched on 3 July can give it a lifesaving boost",
-          "url": "https://www.newscientist.com/article/2532627-audacious-mission-to-rescue-nasas-falling-telescope-has-launched/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-          "source": "New Scientist",
-          "date": "2026-07-03"
-        },
-        {
-          "title": "Groundbreaking Swift spacecraft rescue mission launches",
-          "summary": "NASA's LINK spacecraft is on its way to save the Swift space telescope. LINK launched earlier today from Kwajalein Atoll in the South Pacific Ocean. The post Groundbreaking Swift spacecraft rescue mission launches first…",
-          "url": "https://earthsky.org/space/swift-spacecraft-boost-plunging-back-to-earth/",
-          "source": "EarthSky",
-          "date": "2026-07-03"
+          "title": "SpaceX just launched the 1st-ever nuclear-powered commercial satellite",
+          "summary": "A satellite aboard SpaceX's Transporter-17 rideshare mission is the first commercially designed and operated spacecraft to harness nuclear energy in orbit.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-just-launched-the-1st-ever-nuclear-powered-commercial-satellite",
+          "source": "Space.com",
+          "date": "2026-07-07"
         },
         {
           "title": "NASA’s CAPSTONE Completes Extended Mission Testing Lunar Technologies",
@@ -66,31 +59,31 @@
           "date": "2026-07-06"
         },
         {
-          "title": "1 private spacecraft intercepts another on Space Force's groundbreaking 'Victus Haze' mission",
-          "summary": "A U.S. Space Force mission pitting two satellites against each other has completed the organization's first tactical intercept of an orbital target.",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/1-private-spacecraft-intercepts-another-on-space-forces-groundbreaking-victus-haze-mission",
-          "source": "Space.com",
-          "date": "2026-07-03"
+          "title": "University team proposed retractable, pressurized tunnels for missions to Mars",
+          "summary": "NASA and China's national space agency plan to send crewed missions to Mars in the coming decades. Per NASA's Moon to Mars mission architecture, this will involve using infrastructure established through the Artemis…",
+          "url": "https://phys.org/news/2026-07-university-team-retractable-pressurized-tunnels.html",
+          "source": "Phys.org",
+          "date": "2026-07-07"
         },
         {
-          "title": "'Stellar death is not the end': James Webb Space Telescope glimpses the fate of the solar system in a weird exoplanet orbiting a dead star",
-          "summary": "\"It's like using a time machine to peer into the distant future of our solar system.\"",
-          "url": "https://www.space.com/astronomy/stars/stellar-death-is-not-the-end-james-webb-space-telescope-glimpses-the-fate-of-the-solar-system-in-a-weird-exoplanet-orbiting-a-dead-star",
+          "title": "NASA just found a planet 'hiding' in TESS spacecraft data, all thanks to Einstein",
+          "summary": "NASA's exoplanet-hunting spacecraft TESS has a new method for detecting worlds beyond the solar system, and it is thanks to Einstein.",
+          "url": "https://www.space.com/astronomy/exoplanets/nasa-just-found-a-planet-hiding-in-tess-spacecraft-data-all-thanks-to-einstein",
           "source": "Space.com",
-          "date": "2026-07-02"
+          "date": "2026-07-06"
+        },
+        {
+          "title": "Black holes buried in mysterious 'little red dot' galaxies could blast cosmic ghosts at Earth",
+          "summary": "Mysterious \"little red dots\" discovered in the early universe by the James Webb Space Telescope could harbor buried black holes that fire high-energy neutrinos through the cosmos.",
+          "url": "https://www.space.com/astronomy/black-holes/black-holes-buried-in-mysterious-little-red-dot-galaxies-could-blast-cosmic-ghosts-at-earth",
+          "source": "Space.com",
+          "date": "2026-07-06"
         }
       ]
     },
     "Animals & Nature": {
       "emoji": "🐾",
       "articles": [
-        {
-          "title": "Moving forests to save them: Here are the risks and rewards of assisted tree migration",
-          "summary": "Climate change is shifting forest conditions faster than local tree species can adapt. Higher temperatures, more frequent droughts and less predictable winters can weaken species that have been established in a region…",
-          "url": "https://phys.org/news/2026-07-forests-rewards-tree-migration.html",
-          "source": "Phys.org",
-          "date": "2026-07-06"
-        },
         {
           "title": "Ancient bees turned tooth sockets into tiny nurseries 20,000 years ago",
           "summary": "A stunning fossil discovery shows that ancient bees used the empty tooth sockets of mammal bones as tiny nests after owls scattered the bones across a cave floor 20,000 years ago. It's the first known evidence of bees…",
@@ -99,18 +92,18 @@
           "date": "2026-07-05"
         },
         {
-          "title": "Climate change is silencing the Pilbara barking gecko",
-          "summary": "New research from Monash University has provided the first comprehensive assessment of the Pilbara barking gecko (Underwoodisaurus seorsus) and revealed the species is facing a heightened risk of extinction under a…",
-          "url": "https://phys.org/news/2026-07-climate-silencing-pilbara-barking-gecko.html",
+          "title": "Hawaiʻi island spinner dolphins are producing fewer calves",
+          "summary": "Unexpectedly low calf numbers within the spinner dolphin population off Hawaiʻi Island were revealed in a study led by scientists with the Marine Mammal Research Program (MMRP) at the University of Hawaiʻi at Mānoa…",
+          "url": "https://phys.org/news/2026-07-hawaii-island-spinner-dolphins-calves.html",
           "source": "Phys.org",
-          "date": "2026-07-06"
+          "date": "2026-07-07"
         },
         {
-          "title": "Ancient hobbit-like humans may have survived on meat left behind by Komodo dragons",
-          "summary": "Arguably one of the most curious ancient human relatives is Homo floresiensis, a 3-foot-tall species that lived on the Indonesian island of Flores and has been nicknamed \"hobbit\" for its diminutive stature. Even though…",
-          "url": "https://phys.org/news/2026-07-ancient-hobbit-humans-survived-meat.html",
+          "title": "Cheetah chases inspire researchers to make a biologically accurate video game",
+          "summary": "Movement data from wild predator–prey encounters and controlled human catch-tag games have been combined to create realistic simulations of high-intensity movement dynamics and energetics—before being transformed into a…",
+          "url": "https://phys.org/news/2026-07-cheetah-biologically-accurate-video-game.html",
           "source": "Phys.org",
-          "date": "2026-07-06"
+          "date": "2026-07-07"
         },
         {
           "title": "Human brains may have got bigger for no particular reason",
@@ -118,26 +111,19 @@
           "url": "https://www.newscientist.com/article/2532890-human-brains-may-have-got-bigger-for-no-particular-reason/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
           "source": "New Scientist",
           "date": "2026-07-06"
+        },
+        {
+          "title": "Bumblebees exposed to up to 7 times as much toxic metal as honeybees",
+          "summary": "Bumblebees collect up to seven times the amount of toxic heavy metals as honeybees even when foraging in the same environment, new research from the University of Cambridge has found. Exposure to these metals can affect…",
+          "url": "https://phys.org/news/2026-07-bumblebees-exposed-toxic-metal-honeybees.html",
+          "source": "Phys.org",
+          "date": "2026-07-07"
         }
       ]
     },
     "Earth & Climate": {
       "emoji": "🌍",
       "articles": [
-        {
-          "title": "Why Antarctica froze millions of years before the Arctic",
-          "summary": "East Antarctica hosts the largest ice sheet on Earth, containing enough water to raise global sea levels by 52 meters (171 feet) were it to fully melt. Yet scientists have been puzzled for decades about how and why this…",
-          "url": "https://phys.org/news/2026-07-antarctica-froze-millions-years-arctic.html",
-          "source": "Phys.org",
-          "date": "2026-07-06"
-        },
-        {
-          "title": "Traces of Earth's primordial magma ocean discovered in lava from a modern volcanic eruption",
-          "summary": "In May 2018, the island of Mayotte, between Madagascar and Mozambique, began to experience a series of earthquakes that led to the discovery of an underwater volcano, now called Fani Maoré. Multiple scientific…",
-          "url": "https://phys.org/news/2026-07-earth-primordial-magma-ocean-lava.html",
-          "source": "Phys.org",
-          "date": "2026-07-06"
-        },
         {
           "title": "Record-breaking ocean drilling reveals why Japan's 2011 tsunami was so deadly",
           "summary": "Scientists have uncovered a hidden weakness beneath the Pacific Ocean that helps explain why Japan’s catastrophic 2011 earthquake and tsunami became so devastating. By drilling deeper into the seafloor than ever before…",
@@ -153,24 +139,31 @@
           "date": "2026-07-06"
         },
         {
-          "title": "A volcano has erupted remnants of Earth's primordial magma ocean",
-          "summary": "Earth was once covered by a global magma ocean, which later cooled and crystallised – now traces of this primordial event have been found in magma from a young volcano in the Indian Ocean",
-          "url": "https://www.newscientist.com/article/2532929-a-volcano-has-erupted-remnants-of-earths-primordial-magma-ocean/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-          "source": "New Scientist",
-          "date": "2026-07-03"
+          "title": "New research finds connection to place predicts hurricane response among US coastal residents",
+          "summary": "For U.S. coastal residents, storm surge is among the deadliest hurricane hazards, causing catastrophic property damage and loss of life, and scientists expect tropical storms to grow more intense. During Hurricane Ian…",
+          "url": "https://phys.org/news/2026-07-hurricane-response-coastal-residents.html",
+          "source": "Phys.org",
+          "date": "2026-07-07"
+        },
+        {
+          "title": "Machine learning to predict how fast biodegradable plastics break down in nature",
+          "summary": "Testing how quickly a biodegradable plastic actually breaks down in the environment can take months, sometimes years, of lab work. A new study from the Agricultural University of Athens, offers a faster alternative: a…",
+          "url": "https://phys.org/news/2026-07-machine-fast-biodegradable-plastics-nature.html",
+          "source": "Phys.org",
+          "date": "2026-07-07"
+        },
+        {
+          "title": "Isotopic signatures link hot spring magmatic water to the subducting Pacific Plate",
+          "summary": "Water flowing from hot springs near volcanoes often contains a mixture of meteoric water that has percolated underground and a deeper component known as magmatic water. Researchers at the University of Tsukuba used…",
+          "url": "https://phys.org/news/2026-07-isotopic-signatures-link-hot-magmatic.html",
+          "source": "Phys.org",
+          "date": "2026-07-07"
         }
       ]
     },
     "Technology & Inventions": {
       "emoji": "🤖",
       "articles": [
-        {
-          "title": "Scientists discover smart way to supercharge soft robotics and better support rehabilitation patients",
-          "summary": "Researchers have found an ingenious way to make soft robots and wearable technology more than three times more powerful by harnessing the surface tension of a tiny liquid metal droplet smaller than a raindrop.",
-          "url": "https://phys.org/news/2026-07-scientists-smart-supercharge-soft-robotics.html",
-          "source": "Phys.org",
-          "date": "2026-07-06"
-        },
         {
           "title": "Tiny magnetic waves could unlock quantum computers the size of a penny",
           "summary": "A major breakthrough in quantum technology has turned magnons, tiny magnetic waves once considered too short-lived for practical use, into promising carriers of quantum information. Researchers extended their lifetime…",
@@ -179,11 +172,11 @@
           "date": "2026-07-02"
         },
         {
-          "title": "Universities must rethink how they prepare students for an AI-powered world, study argues",
-          "summary": "Universities need to rethink how they teach, assess and prepare students for employment as artificial intelligence becomes an increasingly important part of everyday life and work, according to a new study from the…",
-          "url": "https://phys.org/news/2026-07-universities-rethink-students-ai-powered.html",
+          "title": "AI faces trusted more than faces of real people, warn researchers",
+          "summary": "Images of faces created by artificial intelligence (AI) are seen as more trustworthy than images of genuine faces, researchers say, warning of the risks of online fraud and other harms. This is the first study to…",
+          "url": "https://phys.org/news/2026-07-ai-real-people.html",
           "source": "Phys.org",
-          "date": "2026-07-06"
+          "date": "2026-07-07"
         },
         {
           "title": "Can the biggest problems in AI be solved by philosophy?",
@@ -191,19 +184,26 @@
           "url": "https://www.newscientist.com/article/2532588-can-the-biggest-problems-in-ai-be-solved-by-philosophy/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
           "source": "New Scientist",
           "date": "2026-07-06"
-        },
-        {
-          "title": "US government wants to have a useful quantum computer by 2028",
-          "summary": "The US government is trying to speed up the development of quantum computers so it can have one sooner",
-          "url": "https://www.newscientist.com/article/2532173-us-government-wants-to-have-a-useful-quantum-computer-by-2028/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-          "source": "New Scientist",
-          "date": "2026-06-29"
         }
       ]
     },
     "Physics": {
       "emoji": "⚡",
       "articles": [
+        {
+          "title": "Evidence of elusive high-energy gravitons in quantum Hall systems",
+          "summary": "Electrons, negatively charged particles, sometimes coordinate their movements in ways that produce certain collective excitations referred to as quasiparticles. One case in which this occurs is the quantum Hall effect…",
+          "url": "https://phys.org/news/2026-07-evidence-elusive-high-energy-gravitons.html",
+          "source": "Phys.org",
+          "date": "2026-07-07"
+        },
+        {
+          "title": "AI just supercharged the race to find room temperature superconductors",
+          "summary": "Scientists have combined machine learning with quantum physics to discover two new superconductors and create a much faster way to search for many more. The technique could bring researchers significantly closer to the…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260701205006.htm",
+          "source": "Science Daily",
+          "date": "2026-07-07"
+        },
         {
           "title": "Scientists create quantum sound device that could transform communications",
           "summary": "A new quantum device can generate precisely controlled bursts of sound-like particles, or phonons, by forcing electrons through an ultra-thin crystal at extremely low temperatures. The surprising behavior pushes beyond…",
@@ -212,32 +212,18 @@
           "date": "2026-07-02"
         },
         {
-          "title": "The weirdness of neutrinos could completely rewrite particle physics",
-          "summary": "A philosopher has put forward an argument for rethinking how particles are defined within the standard model of particle physics",
-          "url": "https://www.newscientist.com/article/2532479-the-weirdness-of-neutrinos-could-completely-rewrite-particle-physics/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-          "source": "New Scientist",
-          "date": "2026-07-01"
+          "title": "How approaching sounds can warp your perception of time",
+          "summary": "Everyone's perception of time is unique. It is a subjective experience shaped by factors such as age, emotions, memory and environmental contexts. And it may also be influenced by background noise, as scientists have…",
+          "url": "https://phys.org/news/2026-07-approaching-warp-perception.html",
+          "source": "Phys.org",
+          "date": "2026-07-07"
         },
         {
-          "title": "June heatwave may have killed around 20,000 people in Europe",
-          "summary": "It will be some months before the true toll of Europe's worst-ever heatwave is confirmed, but researchers can estimate a death count based on how many people died in Europe during previous hot periods",
-          "url": "https://www.newscientist.com/article/2532825-june-heatwave-may-have-killed-around-20000-people-in-europe/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "title": "5 graphs that show how heatwaves are getting more dangerous",
+          "summary": "Longer-lasting hot spells and high temperatures at night are making it harder to cope, leading to thousands more deaths from extreme heat",
+          "url": "https://www.newscientist.com/article/2532809-5-graphs-that-show-how-heatwaves-are-getting-more-dangerous/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
           "source": "New Scientist",
-          "date": "2026-07-02"
-        },
-        {
-          "title": "Random wobbles in time could finally solve gravity’s greatest mystery",
-          "summary": "The question of how gravity interacts with the quantum world has long perplexed physicists, but a non-quantum theory of space-time could present an answer",
-          "url": "https://www.newscientist.com/article/2532714-random-wobbles-in-time-could-finally-solve-gravitys-greatest-mystery/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-          "source": "New Scientist",
-          "date": "2026-07-02"
-        },
-        {
-          "title": "Geoengineering could expose plane passengers to sulphuric acid",
-          "summary": "A proposed technique to counter global warming by spraying sun-reflecting particles near the poles would cause commercial flights to pass through clouds of sulphuric acid, posing a danger to passengers and crew",
-          "url": "https://www.newscientist.com/article/2532757-geoengineering-could-expose-plane-passengers-to-sulphuric-acid/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-          "source": "New Scientist",
-          "date": "2026-07-02"
+          "date": "2026-07-07"
         }
       ]
     }
