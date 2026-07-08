@@ -1,43 +1,43 @@
 {
-  "updated": "2026-07-07T15:43:40Z",
+  "updated": "2026-07-08T15:22:27Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "New screening tool spots RNA-disrupting antibiotics for drug-resistant gram-negative bacteria",
-          "summary": "Researchers from Skoltech and other science centers in Russia have developed a reporter system—a tool for screening potential new antibiotics—that enables the selection of drug compounds disrupting RNA synthesis in…",
-          "url": "https://phys.org/news/2026-07-screening-tool-rna-disrupting-antibiotics.html",
-          "source": "Phys.org",
-          "date": "2026-07-07"
-        },
-        {
-          "title": "Scientists enable DNA synthesis using only temperature instead of chemical reagents",
-          "summary": "\"Complex chemical processes are essential for making DNA.\" This long-held assumption in the field of biotechnology has been overturned by a Korean research team. A KAIST research team has developed the world's first…",
-          "url": "https://phys.org/news/2026-07-scientists-enable-dna-synthesis-temperature.html",
-          "source": "Phys.org",
-          "date": "2026-07-07"
-        },
-        {
-          "title": "Metallic rutile oxides break the rules of cooling",
-          "summary": "Physicists have long puzzled over a strange contradiction inside a family of minerals called rutile oxides. These materials all share the same crystal structure—but while some of them, like titanium dioxide, are firmly…",
-          "url": "https://phys.org/news/2026-07-metallic-rutile-oxides-cooling.html",
-          "source": "Phys.org",
-          "date": "2026-07-07"
-        },
-        {
-          "title": "New research reveals the hidden pollution left behind by fireworks",
-          "summary": "Scientists have uncovered new evidence that fireworks can pollute both the air and water in ways that extend beyond the visible smoke. The findings show that leftover debris, fine particles, and airborne chemicals may…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260701205009.htm",
+          "title": "Ancient DNA reveals the mysterious collapse of Europe's megalith builders",
+          "summary": "DNA from a 5,000-year-old French megalithic tomb reveals that the people buried before and after a population collapse were genetically unrelated, pointing to a major migration after a devastating crisis. The shift…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260707054108.htm",
           "source": "Science Daily",
-          "date": "2026-07-04"
+          "date": "2026-07-08"
         },
         {
-          "title": "Sunlight-powered chemistry reduces hazardous oxidant risk",
-          "summary": "Researchers at the University of Osaka developed a light-driven method for synthesizing Davis reagents that generates the hazardous oxidant mCPBA only on demand and consumes it immediately. Kinetic analysis showed no…",
-          "url": "https://phys.org/news/2026-07-sunlight-powered-chemistry-hazardous-oxidant.html",
-          "source": "Phys.org",
+          "title": "Incredible new material makes heat programmable",
+          "summary": "A newly developed material can control and \"program\" heat, allowing it to direct thermal radiation, switch modes, and remember its settings without continuous power. The innovation could lead to smarter infrared…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260707025046.htm",
+          "source": "Science Daily",
           "date": "2026-07-07"
+        },
+        {
+          "title": "The Neanderthal “love story” isn’t what the DNA actually shows",
+          "summary": "Claims that Neanderthal men \"preferred\" Homo sapiens women may make for catchy headlines, but the underlying research does not actually show prehistoric romance. The genetic evidence only points to an uneven pattern of…",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260626030443.htm",
+          "source": "Science Daily",
+          "date": "2026-07-07"
+        },
+        {
+          "title": "Researchers uncover the inside story on plant organ growth",
+          "summary": "Research has shed intriguing new light on the genetics underlying the diverse plant organ shapes seen in agriculture and nature. Despite more than a century of scientific investigation into the role of inner and outer…",
+          "url": "https://phys.org/news/2026-07-uncover-story-growth.html",
+          "source": "Phys.org",
+          "date": "2026-07-08"
+        },
+        {
+          "title": "Breathable hydrogel keeps ECG signals steady through workouts and 10 days of wear",
+          "summary": "Hydrogels are squishy, biofriendly materials made mostly of water and a bit of polymer. The Jell-O-like substance is available in the form of medical patches, sprays and glues, and can be stuck to the skin or implanted…",
+          "url": "https://phys.org/news/2026-07-breathable-hydrogel-ecg-steady-workouts.html",
+          "source": "Phys.org",
+          "date": "2026-07-08"
         }
       ]
     },
@@ -52,18 +52,18 @@
           "date": "2026-07-07"
         },
         {
+          "title": "Hubble Captures Star-Studded Cluster",
+          "summary": "This image from NASA’s&#160;Hubble Space Telescope showcases&#160;Messier 3&#160;(M3), one of the Milky Way galaxy’s most massive globular clusters, or spherical collections of gravitationally bound stars.&#160;Globular…",
+          "url": "https://www.nasa.gov/image-article/hubble-captures-star-studded-cluster/",
+          "source": "NASA",
+          "date": "2026-07-08"
+        },
+        {
           "title": "NASA’s CAPSTONE Completes Extended Mission Testing Lunar Technologies",
           "summary": "As NASA prepares for a sustained human presence on the Moon, missions will increasingly require spacecraft that can navigate and communicate without a direct connection to Earth. NASA’s Cislunar Autonomous Positioning…",
           "url": "https://www.nasa.gov/technology/space-comms/nasas-capstone-completes-extended-mission-testing-lunar-technologies/",
           "source": "NASA",
           "date": "2026-07-06"
-        },
-        {
-          "title": "University team proposed retractable, pressurized tunnels for missions to Mars",
-          "summary": "NASA and China's national space agency plan to send crewed missions to Mars in the coming decades. Per NASA's Moon to Mars mission architecture, this will involve using infrastructure established through the Artemis…",
-          "url": "https://phys.org/news/2026-07-university-team-retractable-pressurized-tunnels.html",
-          "source": "Phys.org",
-          "date": "2026-07-07"
         },
         {
           "title": "NASA just found a planet 'hiding' in TESS spacecraft data, all thanks to Einstein",
@@ -85,52 +85,45 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "Ancient bees turned tooth sockets into tiny nurseries 20,000 years ago",
-          "summary": "A stunning fossil discovery shows that ancient bees used the empty tooth sockets of mammal bones as tiny nests after owls scattered the bones across a cave floor 20,000 years ago. It's the first known evidence of bees…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260625060216.htm",
+          "title": "Tiny Jurassic bird reveals a key step in bird evolution",
+          "summary": "The transition from a lumbering, heavy dinosaur body to the flight-adapted bird body plan is one of many fascinating episodes in evolutionary history. Working out how this massive transformation took place relies…",
+          "url": "https://phys.org/news/2026-07-tiny-jurassic-bird-reveals-key.html",
+          "source": "Phys.org",
+          "date": "2026-07-08"
+        },
+        {
+          "title": "It's been 30 years since Dolly the sheep was born—where is cloning technology now?",
+          "summary": "When Dolly the sheep—the first cloned mammal—was born 30 years ago, she became one of the most famous animals in science history. Her arrival sparked predictions of a sci-fi future filled with cloned pets, cloned humans…",
+          "url": "https://phys.org/news/2026-07-years-dolly-sheep-born-cloning.html",
+          "source": "Phys.org",
+          "date": "2026-07-08"
+        },
+        {
+          "title": "Bumblebees collect up to 7 times more toxic metals than honeybees",
+          "summary": "Bumblebees are picking up dramatically more toxic heavy metals than honeybees, even when both species forage in the same places. Researchers warn that this hidden pollution could quietly reduce their ability to find…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260707025044.htm",
           "source": "Science Daily",
-          "date": "2026-07-05"
-        },
-        {
-          "title": "Hawaiʻi island spinner dolphins are producing fewer calves",
-          "summary": "Unexpectedly low calf numbers within the spinner dolphin population off Hawaiʻi Island were revealed in a study led by scientists with the Marine Mammal Research Program (MMRP) at the University of Hawaiʻi at Mānoa…",
-          "url": "https://phys.org/news/2026-07-hawaii-island-spinner-dolphins-calves.html",
-          "source": "Phys.org",
           "date": "2026-07-07"
         },
         {
-          "title": "Cheetah chases inspire researchers to make a biologically accurate video game",
-          "summary": "Movement data from wild predator–prey encounters and controlled human catch-tag games have been combined to create realistic simulations of high-intensity movement dynamics and energetics—before being transformed into a…",
-          "url": "https://phys.org/news/2026-07-cheetah-biologically-accurate-video-game.html",
+          "title": "Study: Biodiversity hotspots in American West face extinction",
+          "summary": "A comprehensive study of more than 1,100 springs in the American West warns that critical biodiversity hot spots are facing a mounting extinction crisis.",
+          "url": "https://phys.org/news/2026-07-biodiversity-hotspots-american-west-extinction.html",
           "source": "Phys.org",
-          "date": "2026-07-07"
+          "date": "2026-07-08"
         },
         {
-          "title": "Human brains may have got bigger for no particular reason",
-          "summary": "Our brains are large compared with other animals, so it is tempting to assume there was an evolutionary advantage to them – but that may not be true at all",
-          "url": "https://www.newscientist.com/article/2532890-human-brains-may-have-got-bigger-for-no-particular-reason/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-          "source": "New Scientist",
-          "date": "2026-07-06"
-        },
-        {
-          "title": "Bumblebees exposed to up to 7 times as much toxic metal as honeybees",
-          "summary": "Bumblebees collect up to seven times the amount of toxic heavy metals as honeybees even when foraging in the same environment, new research from the University of Cambridge has found. Exposure to these metals can affect…",
-          "url": "https://phys.org/news/2026-07-bumblebees-exposed-toxic-metal-honeybees.html",
+          "title": "Scavenger animals are the missing link in Australia's bird flu response. Three experts explain",
+          "summary": "Australia is racing to contain the spread of highly pathogenic avian influenza (HPAI), which is now believed to have infected seven seabirds.",
+          "url": "https://phys.org/news/2026-07-scavenger-animals-link-australia-bird.html",
           "source": "Phys.org",
-          "date": "2026-07-07"
+          "date": "2026-07-08"
         }
       ]
     },
     "Earth & Climate": {
       "emoji": "🌍",
       "articles": [
-        {
-          "title": "Record-breaking ocean drilling reveals why Japan's 2011 tsunami was so deadly",
-          "summary": "Scientists have uncovered a hidden weakness beneath the Pacific Ocean that helps explain why Japan’s catastrophic 2011 earthquake and tsunami became so devastating. By drilling deeper into the seafloor than ever before…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260625060220.htm",
-          "source": "Science Daily",
-          "date": "2026-07-05"
-        },
         {
           "title": "Collapse of AMOC ocean current may already be locked in",
           "summary": "The fate of the Atlantic Ocean current that keeps Europe’s climate warm depends on our carbon emissions and the rate of ice melt from Greenland, but there is a chance that a shutdown is already inevitable",
@@ -139,25 +132,32 @@
           "date": "2026-07-06"
         },
         {
-          "title": "New research finds connection to place predicts hurricane response among US coastal residents",
-          "summary": "For U.S. coastal residents, storm surge is among the deadliest hurricane hazards, causing catastrophic property damage and loss of life, and scientists expect tropical storms to grow more intense. During Hurricane Ian…",
-          "url": "https://phys.org/news/2026-07-hurricane-response-coastal-residents.html",
+          "title": "Hotter, drier weather could double water bills in some US cities, study finds",
+          "summary": "Hotter, drier weather threatens to double water bills by midcentury in some cities, according to a Stanford-led study. The research, published in Nature Sustainability, is the first to comprehensively model how climate…",
+          "url": "https://phys.org/news/2026-07-hotter-drier-weather-bills-cities.html",
           "source": "Phys.org",
-          "date": "2026-07-07"
+          "date": "2026-07-08"
         },
         {
-          "title": "Machine learning to predict how fast biodegradable plastics break down in nature",
-          "summary": "Testing how quickly a biodegradable plastic actually breaks down in the environment can take months, sometimes years, of lab work. A new study from the Agricultural University of Athens, offers a faster alternative: a…",
-          "url": "https://phys.org/news/2026-07-machine-fast-biodegradable-plastics-nature.html",
+          "title": "UK museums at 'sharp end' of climate change challenge",
+          "summary": "As visitors peered at skeletons and preserved animals in a London zoological museum during a UK heat wave, staff focused on a different attraction: a computer screen glowing with red and green temperature indicators.",
+          "url": "https://phys.org/news/2026-07-uk-museums-sharp-climate.html",
           "source": "Phys.org",
-          "date": "2026-07-07"
+          "date": "2026-07-08"
         },
         {
-          "title": "Isotopic signatures link hot spring magmatic water to the subducting Pacific Plate",
-          "summary": "Water flowing from hot springs near volcanoes often contains a mixture of meteoric water that has percolated underground and a deeper component known as magmatic water. Researchers at the University of Tsukuba used…",
-          "url": "https://phys.org/news/2026-07-isotopic-signatures-link-hot-magmatic.html",
+          "title": "Nearby super-Earth GJ 3378b may be a good candidate for life",
+          "summary": "Astronomers have gotten a closer look at the nearby super-Earth GJ 3378b. It could be habitable, if it has an atmosphere. The post Nearby super-Earth GJ 3378b may be a good candidate for life first appeared on EarthSky .",
+          "url": "https://earthsky.org/space/nearby-super-earth-planet-gj-3378b-habitability/",
+          "source": "EarthSky",
+          "date": "2026-07-08"
+        },
+        {
+          "title": "Study examines Miami-Dade County resilience plans",
+          "summary": "A University of Miami study has developed a new approach to evaluate how multiple climate resilience plans work together—or fail to do so—in addressing the growing risks posed by climate-related hazards. The researchers…",
+          "url": "https://phys.org/news/2026-07-miami-dade-county-resilience.html",
           "source": "Phys.org",
-          "date": "2026-07-07"
+          "date": "2026-07-08"
         }
       ]
     },
@@ -165,17 +165,17 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "Tiny magnetic waves could unlock quantum computers the size of a penny",
-          "summary": "A major breakthrough in quantum technology has turned magnons, tiny magnetic waves once considered too short-lived for practical use, into promising carriers of quantum information. Researchers extended their lifetime…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260626030431.htm",
-          "source": "Science Daily",
-          "date": "2026-07-02"
+          "title": "What's in a name? AI associates Jewish names with stereotypical traits",
+          "summary": "A cynical doctor. A ruthless chemist. An arrogant billionaire. A calculating mafia boss. These are not only some of today's most iconic fictional characters—they are also the figures that artificial intelligence models…",
+          "url": "https://phys.org/news/2026-07-ai-associates-jewish-stereotypical-traits.html",
+          "source": "Phys.org",
+          "date": "2026-07-08"
         },
         {
-          "title": "AI faces trusted more than faces of real people, warn researchers",
-          "summary": "Images of faces created by artificial intelligence (AI) are seen as more trustworthy than images of genuine faces, researchers say, warning of the risks of online fraud and other harms. This is the first study to…",
-          "url": "https://phys.org/news/2026-07-ai-real-people.html",
-          "source": "Phys.org",
+          "title": "Peter Shor’s algorithm could break the internet – but he's not worried",
+          "summary": "Few people have invented an algorithm with the potential to spark a worldwide crisis, so why is quantum computing pioneer Peter Shor so unconcerned? Karmela Padavic-Callaghan spoke to him to find out",
+          "url": "https://www.newscientist.com/article/2533218-peter-shors-algorithm-could-break-the-internet-but-hes-not-worried/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "source": "New Scientist",
           "date": "2026-07-07"
         },
         {
@@ -191,11 +191,11 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "Evidence of elusive high-energy gravitons in quantum Hall systems",
-          "summary": "Electrons, negatively charged particles, sometimes coordinate their movements in ways that produce certain collective excitations referred to as quasiparticles. One case in which this occurs is the quantum Hall effect…",
-          "url": "https://phys.org/news/2026-07-evidence-elusive-high-energy-gravitons.html",
+          "title": "Long-theorized electron-on-helium qubit achieves strong coupling to a single microwave photon",
+          "summary": "Quantum computers, devices that store and process information leveraging the principles of quantum mechanics, have been found to be promising for tackling some problems that cannot be solved by classical computers…",
+          "url": "https://phys.org/news/2026-07-theorized-electron-helium-qubit-strong.html",
           "source": "Phys.org",
-          "date": "2026-07-07"
+          "date": "2026-07-08"
         },
         {
           "title": "AI just supercharged the race to find room temperature superconductors",
@@ -205,18 +205,11 @@
           "date": "2026-07-07"
         },
         {
-          "title": "Scientists create quantum sound device that could transform communications",
-          "summary": "A new quantum device can generate precisely controlled bursts of sound-like particles, or phonons, by forcing electrons through an ultra-thin crystal at extremely low temperatures. The surprising behavior pushes beyond…",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260626030435.htm",
-          "source": "Science Daily",
-          "date": "2026-07-02"
-        },
-        {
-          "title": "How approaching sounds can warp your perception of time",
-          "summary": "Everyone's perception of time is unique. It is a subjective experience shaped by factors such as age, emotions, memory and environmental contexts. And it may also be influenced by background noise, as scientists have…",
-          "url": "https://phys.org/news/2026-07-approaching-warp-perception.html",
-          "source": "Phys.org",
-          "date": "2026-07-07"
+          "title": "The US Space Force just got a new electromagnetic weapon to jam adversary satellites",
+          "summary": "The U.S. Space Force has acquired one of its first publicly acknowledged offensive weapons, one that can blast adversary satellites with electromagnetic radiation.",
+          "url": "https://www.space.com/space-exploration/satellites/the-us-space-force-just-got-a-new-electromagnetic-weapon-to-jam-adversary-satellites",
+          "source": "Space.com",
+          "date": "2026-07-08"
         },
         {
           "title": "5 graphs that show how heatwaves are getting more dangerous",
@@ -224,6 +217,13 @@
           "url": "https://www.newscientist.com/article/2532809-5-graphs-that-show-how-heatwaves-are-getting-more-dangerous/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
           "source": "New Scientist",
           "date": "2026-07-07"
+        },
+        {
+          "title": "Is the decline of newspapers taking the pressure off of corporate social responsibility programs? Research says 'yes'",
+          "summary": "Local newspapers have long played a quiet but powerful role in corporate accountability: They scrutinize company behavior and give public visibility to good corporate citizenship. But as local newspapers continue to…",
+          "url": "https://phys.org/news/2026-07-decline-newspapers-pressure-corporate-social.html",
+          "source": "Phys.org",
+          "date": "2026-07-08"
         }
       ]
     }
