@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T15:56:10Z",
+  "updated": "2026-07-10T15:31:38Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
@@ -19,25 +19,25 @@
           "date": "2026-07-08"
         },
         {
-          "title": "Scientists finally crack nature's secret for building better cancer drugs",
-          "summary": "Researchers have cracked the code behind bacteria's ability to naturally manufacture multiple versions of powerful anti-cancer drugs. The discovery could make it much easier to engineer new cancer treatments inspired by…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260701205001.htm",
-          "source": "Science Daily",
+          "title": "Special relativity can warp chemical bonds – now we've seen it happen",
+          "summary": "An experiment with a charged molecule of bismuth and carbon reveals how effects from Albert Einstein’s special relativity reshape the standard understanding of chemical bonds",
+          "url": "https://www.newscientist.com/article/2533629-special-relativity-can-warp-chemical-bonds-now-weve-seen-it-happen/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "source": "New Scientist",
+          "date": "2026-07-09"
+        },
+        {
+          "title": "Students Connect NASA Science With Indigenous Knowledge to Study Coastal Erosion",
+          "summary": "For the Pleasant Point Passamaquoddy Reservation, or Sipayik, the ocean has always been a teacher. Situated in what is known as Downeast Maine, along the shores of Passamaquoddy Bay, generations of Indigenous people…",
+          "url": "https://science.nasa.gov/learning-resources/science-activation/students-connect-nasa-science-with-indigenous-knowledge-to-study-coastal-erosion/",
+          "source": "NASA",
           "date": "2026-07-08"
         },
         {
-          "title": "Next‑generation membranes can refine crude oil using under half the energy of distillation",
-          "summary": "Oil refining is necessary for transforming raw, unusable crude oil into valuable goods like gasoline, diesel, jet fuel and petrochemical feedstocks. However, the usual distillation process is energy-intensive, spurring…",
-          "url": "https://phys.org/news/2026-07-nextgeneration-membranes-refine-crude-oil.html",
-          "source": "Phys.org",
-          "date": "2026-07-09"
-        },
-        {
-          "title": "Genetic crossovers defy chromosome-length model in male and female mice",
-          "summary": "A Cornell-led study is challenging a decades-old explanation for how chromosomes exchange genetic material within the biological process that forms eggs and sperm in mammals.",
-          "url": "https://phys.org/news/2026-07-genetic-crossovers-defy-chromosome-length.html",
-          "source": "Phys.org",
-          "date": "2026-07-09"
+          "title": "This common pesticide may be quietly wiping out future bumblebees",
+          "summary": "A next-generation pesticide designed to kill crop pests may also be interfering with the reproductive health of bumblebees. Researchers discovered that low-dose exposure to sulfoxaflor changed gene activity, especially…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260709160630.htm",
+          "source": "Science Daily",
+          "date": "2026-07-10"
         }
       ]
     },
@@ -45,11 +45,11 @@
       "emoji": "🚀",
       "articles": [
         {
-          "title": "SpaceX just launched the 1st-ever nuclear-powered commercial satellite",
-          "summary": "A satellite aboard SpaceX's Transporter-17 rideshare mission is the first commercially designed and operated spacecraft to harness nuclear energy in orbit.",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-just-launched-the-1st-ever-nuclear-powered-commercial-satellite",
-          "source": "Space.com",
-          "date": "2026-07-07"
+          "title": "NASA Sets Coverage for Astronaut Anil Menon Launch to Space Station",
+          "summary": "NASA astronaut Anil Menon will launch aboard the Roscosmos Soyuz MS-29 spacecraft to the International Space Station on Tuesday, July 14, accompanied by cosmonauts Pyotr Dubrov and Anna Kikina, where they will join the…",
+          "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-anil-menon-launch-to-space-station/",
+          "source": "NASA",
+          "date": "2026-07-09"
         },
         {
           "title": "Hubble Captures Star-Studded Cluster",
@@ -57,6 +57,13 @@
           "url": "https://www.nasa.gov/image-article/hubble-captures-star-studded-cluster/",
           "source": "NASA",
           "date": "2026-07-08"
+        },
+        {
+          "title": "SpaceX wants to launch 100,000 Starlink satellites to orbit",
+          "summary": "SpaceX has applied for approval to operate a 100,000-member megaconstellation of next-gen Starlink satellites in Earth orbit. And each of the new spacecraft will weigh about 4,400 pounds.",
+          "url": "https://www.space.com/space-exploration/satellites/spacex-wants-to-launch-100-000-starlink-satellites-to-orbit",
+          "source": "Space.com",
+          "date": "2026-07-09"
         },
         {
           "title": "Japanese company books 1,100 pounds of cargo space on SpaceX Starship mission to the moon",
@@ -71,13 +78,6 @@
           "url": "https://www.space.com/space-exploration/missions/nasa-begins-funding-hardware-for-skyfall-mars-helicopter-mission",
           "source": "Space.com",
           "date": "2026-07-08"
-        },
-        {
-          "title": "Warped spacetime reveals exoplanet far from its star",
-          "summary": "The Gaia and TESS space telescopes have discovered a distant Jupiter-like world - Gaia23bra b - by studying warped spacetime. The post Warped spacetime reveals exoplanet far from its star first appeared on EarthSky .",
-          "url": "https://earthsky.org/space/warped-spacetime-reveals-exoplanet-gaia23bra-b-gravitational-microlensing-tess/",
-          "source": "EarthSky",
-          "date": "2026-07-09"
         }
       ]
     },
@@ -85,11 +85,11 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "Fossils found decades ago reveal extinct 3.5 million-year-old giant salamander species",
-          "summary": "In the late 1990s in the Ajimu region of Japan's Oita Prefecture, researchers discovered three fossilized vertebrae belonging to the Cryptobranchidae family of giant salamanders. These were embedded in the Tsubusugawa…",
-          "url": "https://phys.org/news/2026-07-fossils-decades-reveal-extinct-million.html",
+          "title": "Researchers link the mass extinction of once-dominant marine groups to intolerable heat, diminished oxygen in oceans",
+          "summary": "A new Stanford-led study offers the clearest picture yet of how some ocean life survived our planet's biggest mass extinction while most animals did not. About 252 million years ago, 96% of marine species and 70% of…",
+          "url": "https://phys.org/news/2026-07-link-mass-extinction-dominant-marine.html",
           "source": "Phys.org",
-          "date": "2026-07-09"
+          "date": "2026-07-10"
         },
         {
           "title": "A worm that lived half a billion years ago preferred turning right",
@@ -106,18 +106,18 @@
           "date": "2026-07-07"
         },
         {
-          "title": "Heat waves push tropical forests past photosynthesis limits across 57 million hectares",
-          "summary": "As heat waves continue one after another, we are feeling their effects on our own bodies: It becomes harder for us to function normally. Trees also have their limits when temperatures are too high. Above a certain…",
-          "url": "https://phys.org/news/2026-07-tropical-forests-photosynthesis-limits-million.html",
+          "title": "New Jurassic dinosaur species identified in Thailand from a single bone",
+          "summary": "A new study published in Scientific Reports describes the identification of a new species of long-necked dinosaur found in the Phu Kradung Formation in Thailand. The team calls the dinosaur Uragasaurus kalasinensis and…",
+          "url": "https://phys.org/news/2026-07-jurassic-dinosaur-species-thailand-bone.html",
           "source": "Phys.org",
-          "date": "2026-07-09"
+          "date": "2026-07-10"
         },
         {
-          "title": "Camera traps reveal Chornobyl wildlife changed routines during Russian occupation",
-          "summary": "An international research team has for the first time investigated how an unfolding armed conflict influenced the behavior of wild animals. Using camera traps, the scientists documented how the Russian occupation of the…",
-          "url": "https://phys.org/news/2026-07-camera-reveal-chornobyl-wildlife-routines.html",
+          "title": "Assessing lab animals with AI",
+          "summary": "Rutgers Office for Research (OfR) leaders collaborated with researchers around the world to develop an artificial intelligence (AI) program that has the potential to revolutionize lab research.",
+          "url": "https://phys.org/news/2026-07-lab-animals-ai.html",
           "source": "Phys.org",
-          "date": "2026-07-09"
+          "date": "2026-07-10"
         }
       ]
     },
@@ -125,38 +125,38 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Collapse of AMOC ocean current may already be locked in",
-          "summary": "The fate of the Atlantic Ocean current that keeps Europe’s climate warm depends on our carbon emissions and the rate of ice melt from Greenland, but there is a chance that a shutdown is already inevitable",
-          "url": "https://www.newscientist.com/article/2533017-collapse-of-amoc-ocean-current-may-already-be-locked-in/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-          "source": "New Scientist",
-          "date": "2026-07-06"
+          "title": "Tiny mountain lakes pose big, overlooked flood risks, new study warns",
+          "summary": "A new international study involving scientists from the University of Aberdeen has revealed a critical blind spot in global climate risk assessments—the growing danger posed by small alpine lakes formed by glacier…",
+          "url": "https://phys.org/news/2026-07-tiny-mountain-lakes-pose-big.html",
+          "source": "Phys.org",
+          "date": "2026-07-10"
         },
         {
-          "title": "El Nino powers up as forecasters predict historic strength and a rainier winter for the US South",
-          "summary": "An intensifying El Niño, nature's heat-releasing thermostat that spikes global temperatures, is heading to historically strong levels, the U.S. National Oceanic and Atmospheric Administration said Thursday.",
-          "url": "https://phys.org/news/2026-07-el-nino-powers-historic-strength.html",
-          "source": "Phys.org",
-          "date": "2026-07-09"
+          "title": "Where Venezuela’s Earthquakes Shifted the Ground",
+          "summary": "Radar data from the NISAR satellite show that La Guaira and nearby areas experienced significant ground displacement from the June 2026 temblors.",
+          "url": "https://science.nasa.gov/earth/earth-observatory/where-venezuelas-earthquakes-shifted-the-ground/",
+          "source": "NASA",
+          "date": "2026-07-10"
         },
         {
-          "title": "Harmful ozone may have reached two-thirds of EU residents during record June heat wave",
-          "summary": "Two-thirds of the European Union's population may have been exposed to harmful levels of ozone pollution during last month's record-breaking heat wave, a report exclusively shared with AFP warned Thursday.",
-          "url": "https://phys.org/news/2026-07-ozone-thirds-eu-residents-june.html",
+          "title": "New model maps solar storms across 1 million miles around Earth",
+          "summary": "A team at the Applied Physics Lab is working to understand the complex science behind predicting invisible threats that can quickly cripple electric grid infrastructure on Earth.",
+          "url": "https://phys.org/news/2026-07-solar-storms-million-miles-earth.html",
           "source": "Phys.org",
-          "date": "2026-07-09"
+          "date": "2026-07-10"
         },
         {
-          "title": "Shackleton's final ship is no longer just a sonar shadow",
-          "summary": "An expedition led by the Royal Canadian Geographical Society in partnership with Woods Hole Oceanographic Institution has obtained the first close-up images of the wreck of Quest, the last ship of famed Antarctic…",
-          "url": "https://phys.org/news/2026-07-shackleton-ship-longer-sonar-shadow.html",
+          "title": "US pushes for weaker truck pollution rules",
+          "summary": "President Donald Trump's administration on Thursday moved to loosen truck pollution regulations put in place by his predecessor, Joe Biden, in its latest environmental rollback benefiting makers of fossil fuel-burning…",
+          "url": "https://phys.org/news/2026-07-weaker-truck-pollution.html",
           "source": "Phys.org",
-          "date": "2026-07-09"
+          "date": "2026-07-10"
         },
         {
-          "title": "China's pollution declines came at a cost",
-          "summary": "More than 20 years ago, the Chinese government instituted the Scientific Outlook on Development (SOD) program, tying local leaders' job performance evaluations to environmental quality improvements. More than 350 river…",
-          "url": "https://phys.org/news/2026-07-china-pollution-declines.html",
-          "source": "Phys.org",
+          "title": "Super Typhoon Bavi",
+          "summary": "The third category 5 tropical cyclone of 2026 crossed the U.S. Northern Mariana Islands and Guam before continuing toward Asia.",
+          "url": "https://science.nasa.gov/earth/earth-observatory/super-typhoon-bavi/",
+          "source": "NASA",
           "date": "2026-07-09"
         }
       ]
@@ -165,11 +165,25 @@
       "emoji": "🤖",
       "articles": [
         {
+          "title": "Q&A: Examining the Global South's call for environmental justice amid expanding technology",
+          "summary": "Digital technologies—from artificial intelligence to smartphones and data centers—are often described as \"clean\" innovations. Yet every device depends on minerals, electricity, labor and global supply chains, raising…",
+          "url": "https://phys.org/news/2026-07-qa-global-south-environmental-justice.html",
+          "source": "Phys.org",
+          "date": "2026-07-10"
+        },
+        {
           "title": "Peter Shor’s algorithm could break the internet – but he's not worried",
           "summary": "Few people have invented an algorithm with the potential to spark a worldwide crisis, so why is quantum computing pioneer Peter Shor so unconcerned? Karmela Padavic-Callaghan spoke to him to find out",
           "url": "https://www.newscientist.com/article/2533218-peter-shors-algorithm-could-break-the-internet-but-hes-not-worried/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
           "source": "New Scientist",
           "date": "2026-07-07"
+        },
+        {
+          "title": "The biggest problem with solid-state batteries may finally be solved",
+          "summary": "Researchers solved the mystery of how soft lithium dendrites crack the hard ceramic inside solid-state batteries, triggering short circuits. The breakthrough could help engineers build safer, longer-lasting batteries…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260710003533.htm",
+          "source": "Science Daily",
+          "date": "2026-07-10"
         },
         {
           "title": "Scientists used AI to crack one of water's biggest mysteries",
@@ -179,25 +193,11 @@
           "date": "2026-07-08"
         },
         {
-          "title": "'Check your ingredients': A new blueprint for using Fermi's 'Golden Rule'",
-          "summary": "Underpinning much of modern technology, from smartphones to scanning tunneling microscopes to particle colliders, is Fermi's Golden Rule. Named for 20th-century Italian American physicist Enrico Fermi (but actually…",
-          "url": "https://phys.org/news/2026-07-ingredients-blueprint-fermi-golden.html",
-          "source": "Phys.org",
-          "date": "2026-07-09"
-        },
-        {
-          "title": "A new route to electrically controlled helimagnetic structures",
-          "summary": "Advanced magnetic memory and spintronic devices rely on the ability to control magnetic states using electricity. Today, such technologies work by manipulating relatively simple magnetic structures found in…",
-          "url": "https://phys.org/news/2026-07-route-electrically-helimagnetic.html",
-          "source": "Phys.org",
-          "date": "2026-07-09"
-        },
-        {
-          "title": "Can the biggest problems in AI be solved by philosophy?",
-          "summary": "AI companies are hiring philosophy graduates to help them understand the nature of consciousness, whether it can be replicated and how their systems can be made better and more reliable",
-          "url": "https://www.newscientist.com/article/2532588-can-the-biggest-problems-in-ai-be-solved-by-philosophy/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "title": "The 5 must-watch science shows of 2026 so far",
+          "summary": "From AI with Hannah Fry to David Attenborough's early days, these are the five must-watch science documentaries of the year to date, says Bethan Ackerley",
+          "url": "https://www.newscientist.com/article/mg27136031-200-the-5-must-watch-science-shows-of-2026-so-far/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
           "source": "New Scientist",
-          "date": "2026-07-06"
+          "date": "2026-07-08"
         }
       ]
     },
@@ -205,17 +205,10 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "AI just supercharged the race to find room temperature superconductors",
-          "summary": "Scientists have combined machine learning with quantum physics to discover two new superconductors and create a much faster way to search for many more. The technique could bring researchers significantly closer to the…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260701205006.htm",
-          "source": "Science Daily",
-          "date": "2026-07-07"
-        },
-        {
-          "title": "Using mechanical vibrations instead of magnetic memory for quantum computing",
-          "summary": "Quantum computers still face limits when it comes to storing information. Researchers at ETH Zurich are now turning to mechanical vibrations rather than electromagnetic memory. Their new vibrating memory can store…",
-          "url": "https://phys.org/news/2026-07-mechanical-vibrations-magnetic-memory-quantum.html",
-          "source": "Phys.org",
+          "title": "Mathematics of thermodynamics is being rewritten after 200 years",
+          "summary": "The laws of physics that concern heat and work could gain a firmer mathematical footing thanks to “gauge theory”, which already helps us understand quantum fields",
+          "url": "https://www.newscientist.com/article/2533428-mathematics-of-thermodynamics-is-being-rewritten-after-200-years/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "source": "New Scientist",
           "date": "2026-07-09"
         },
         {
@@ -238,6 +231,13 @@
           "url": "https://www.newscientist.com/article/mg27136032-200-a-surprisingly-detailed-look-at-the-physics-of-a-lugworms-poop/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
           "source": "New Scientist",
           "date": "2026-07-08"
+        },
+        {
+          "title": "5 graphs that show how heatwaves are getting more dangerous",
+          "summary": "Longer-lasting hot spells and high temperatures at night are making it harder to cope, leading to thousands more deaths from extreme heat",
+          "url": "https://www.newscientist.com/article/2532809-5-graphs-that-show-how-heatwaves-are-getting-more-dangerous/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "source": "New Scientist",
+          "date": "2026-07-07"
         }
       ]
     }
