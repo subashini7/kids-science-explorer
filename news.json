@@ -1,9 +1,16 @@
 {
-  "updated": "2026-07-10T15:31:38Z",
+  "updated": "2026-07-11T14:22:26Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
+        {
+          "title": "Visible light triggers three-step cascade to make 3D drug-like molecules",
+          "summary": "A team led by chemist Frank Glorius, a professor at the Institute of Organic Chemistry at the University of Münster, has developed a new light-driven reaction sequence. In this triple catalysis, one reaction step…",
+          "url": "https://phys.org/news/2026-07-visible-triggers-cascade-3d-drug.html",
+          "source": "Phys.org",
+          "date": "2026-07-10"
+        },
         {
           "title": "Harvard scientists turn a silicon chip into a DNA writing machine",
           "summary": "Scientists have created a silicon chip that can write dozens of DNA sequences simultaneously using electricity and water-based enzymes, offering a cleaner alternative to conventional DNA manufacturing. The breakthrough…",
@@ -12,11 +19,11 @@
           "date": "2026-07-09"
         },
         {
-          "title": "Ancient DNA reveals the mysterious collapse of Europe's megalith builders",
-          "summary": "DNA from a 5,000-year-old French megalithic tomb reveals that the people buried before and after a population collapse were genetically unrelated, pointing to a major migration after a devastating crisis. The shift…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260707054108.htm",
-          "source": "Science Daily",
-          "date": "2026-07-08"
+          "title": "New 3D COF structure could help tune porous materials for batteries and cleanup",
+          "summary": "A research team synthesized and determined the structure of a borate-linked 3D crystalline covalent organic framework, TCTP-COF, via electron diffraction for the first time. These findings will help scientists determine…",
+          "url": "https://phys.org/news/2026-07-3d-cof-tune-porous-materials.html",
+          "source": "Phys.org",
+          "date": "2026-07-10"
         },
         {
           "title": "Special relativity can warp chemical bonds – now we've seen it happen",
@@ -26,18 +33,11 @@
           "date": "2026-07-09"
         },
         {
-          "title": "Students Connect NASA Science With Indigenous Knowledge to Study Coastal Erosion",
-          "summary": "For the Pleasant Point Passamaquoddy Reservation, or Sipayik, the ocean has always been a teacher. Situated in what is known as Downeast Maine, along the shores of Passamaquoddy Bay, generations of Indigenous people…",
-          "url": "https://science.nasa.gov/learning-resources/science-activation/students-connect-nasa-science-with-indigenous-knowledge-to-study-coastal-erosion/",
-          "source": "NASA",
-          "date": "2026-07-08"
-        },
-        {
-          "title": "This common pesticide may be quietly wiping out future bumblebees",
-          "summary": "A next-generation pesticide designed to kill crop pests may also be interfering with the reproductive health of bumblebees. Researchers discovered that low-dose exposure to sulfoxaflor changed gene activity, especially…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260709160630.htm",
+          "title": "Physicists finally build a quantum material predicted more than a decade ago",
+          "summary": "Researchers have achieved a major milestone by creating a long-sought two-dimensional quantum material and confirming its unusual conducting edge states. The ability to control these states through strain could make the…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260711010123.htm",
           "source": "Science Daily",
-          "date": "2026-07-10"
+          "date": "2026-07-11"
         }
       ]
     },
@@ -52,11 +52,11 @@
           "date": "2026-07-09"
         },
         {
-          "title": "Hubble Captures Star-Studded Cluster",
-          "summary": "This image from NASA’s&#160;Hubble Space Telescope showcases&#160;Messier 3&#160;(M3), one of the Milky Way galaxy’s most massive globular clusters, or spherical collections of gravitationally bound stars.&#160;Globular…",
-          "url": "https://www.nasa.gov/image-article/hubble-captures-star-studded-cluster/",
-          "source": "NASA",
-          "date": "2026-07-08"
+          "title": "SpaceX Falcon 9 rocket launches for 35th time, hauls Starlink satellites to orbit (video)",
+          "summary": "A SpaceX Falcon 9 rocket flew for the 35th time tonight (July 10), carrying 29 Starlink satellites to low Earth orbit.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-35th-mission-starlink-launch",
+          "source": "Space.com",
+          "date": "2026-07-11"
         },
         {
           "title": "SpaceX wants to launch 100,000 Starlink satellites to orbit",
@@ -85,11 +85,18 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "Researchers link the mass extinction of once-dominant marine groups to intolerable heat, diminished oxygen in oceans",
-          "summary": "A new Stanford-led study offers the clearest picture yet of how some ocean life survived our planet's biggest mass extinction while most animals did not. About 252 million years ago, 96% of marine species and 70% of…",
-          "url": "https://phys.org/news/2026-07-link-mass-extinction-dominant-marine.html",
-          "source": "Phys.org",
-          "date": "2026-07-10"
+          "title": "Scientists warn invasive Asian mantises are threatening Europe's wildlife",
+          "summary": "Two striking Asian praying mantis species that have rapidly spread across Europe have now been officially classified as invasive, raising new concerns about their impact on native wildlife. Boosted by climate change and…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260710003540.htm",
+          "source": "Science Daily",
+          "date": "2026-07-11"
+        },
+        {
+          "title": "Rare fossil goose rewrites the story of New Zealand's giant birds",
+          "summary": "Scientists have discovered a previously unknown fossil goose that challenges a decades-old theory about the evolution of New Zealand's birds. The find suggests the country's giant flightless geese evolved from much more…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260709160637.htm",
+          "source": "Science Daily",
+          "date": "2026-07-11"
         },
         {
           "title": "A worm that lived half a billion years ago preferred turning right",
@@ -99,23 +106,16 @@
           "date": "2026-07-09"
         },
         {
-          "title": "Bumblebees collect up to 7 times more toxic metals than honeybees",
-          "summary": "Bumblebees are picking up dramatically more toxic heavy metals than honeybees, even when both species forage in the same places. Researchers warn that this hidden pollution could quietly reduce their ability to find…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260707025044.htm",
-          "source": "Science Daily",
-          "date": "2026-07-07"
-        },
-        {
-          "title": "New Jurassic dinosaur species identified in Thailand from a single bone",
-          "summary": "A new study published in Scientific Reports describes the identification of a new species of long-necked dinosaur found in the Phu Kradung Formation in Thailand. The team calls the dinosaur Uragasaurus kalasinensis and…",
-          "url": "https://phys.org/news/2026-07-jurassic-dinosaur-species-thailand-bone.html",
+          "title": "New platform creates digital map for marine biobanks",
+          "summary": "A new digital platform developed under the leadership of CIIMAR is making Portugal's marine biodiversity more accessible by bringing together thousands of biological resources into a single access point. The Blue…",
+          "url": "https://phys.org/news/2026-07-platform-digital-marine-biobanks.html",
           "source": "Phys.org",
-          "date": "2026-07-10"
+          "date": "2026-07-11"
         },
         {
-          "title": "Assessing lab animals with AI",
-          "summary": "Rutgers Office for Research (OfR) leaders collaborated with researchers around the world to develop an artificial intelligence (AI) program that has the potential to revolutionize lab research.",
-          "url": "https://phys.org/news/2026-07-lab-animals-ai.html",
+          "title": "Why natural forests survive heat waves better than planted forests",
+          "summary": "When a record-breaking drought and heat wave swept across China's Yangtze River Basin in 2022, forests across the region faced an extreme test. The event provided a rare opportunity for researchers to test how different…",
+          "url": "https://phys.org/news/2026-07-natural-forests-survive.html",
           "source": "Phys.org",
           "date": "2026-07-10"
         }
@@ -125,11 +125,11 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Tiny mountain lakes pose big, overlooked flood risks, new study warns",
-          "summary": "A new international study involving scientists from the University of Aberdeen has revealed a critical blind spot in global climate risk assessments—the growing danger posed by small alpine lakes formed by glacier…",
-          "url": "https://phys.org/news/2026-07-tiny-mountain-lakes-pose-big.html",
+          "title": "Brutal heat wave forecast for western US this weekend",
+          "summary": "A \"widespread and significant\" heat wave is predicted to bring oppressive temperatures to drought-hit western U.S. states over the weekend, with all-time records at risk of falling, the National Weather Service said…",
+          "url": "https://phys.org/news/2026-07-brutal-western-weekend.html",
           "source": "Phys.org",
-          "date": "2026-07-10"
+          "date": "2026-07-11"
         },
         {
           "title": "Where Venezuela’s Earthquakes Shifted the Ground",
@@ -139,25 +139,25 @@
           "date": "2026-07-10"
         },
         {
-          "title": "New model maps solar storms across 1 million miles around Earth",
-          "summary": "A team at the Applied Physics Lab is working to understand the complex science behind predicting invisible threats that can quickly cripple electric grid infrastructure on Earth.",
-          "url": "https://phys.org/news/2026-07-solar-storms-million-miles-earth.html",
-          "source": "Phys.org",
+          "title": "The total solar eclipse of August 12, 2026",
+          "summary": "On August 12, 2026, a total solar eclipse will be visible parts of Arctic, Greenland, Iceland, and Spain. Details here. The post The total solar eclipse of August 12, 2026 first appeared on EarthSky .",
+          "url": "https://earthsky.org/astronomy-essentials/total-solar-eclipse-visible-august-12-2026/",
+          "source": "EarthSky",
+          "date": "2026-07-11"
+        },
+        {
+          "title": "Europe's most active volcano may have a secret origin",
+          "summary": "Mount Etna has long puzzled geologists because it doesn't fit any of the three classic ways volcanoes are thought to form. A new study suggests it may instead be fueled by ancient pockets of magma that are pushed upward…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260709160653.htm",
+          "source": "Science Daily",
           "date": "2026-07-10"
         },
         {
-          "title": "US pushes for weaker truck pollution rules",
-          "summary": "President Donald Trump's administration on Thursday moved to loosen truck pollution regulations put in place by his predecessor, Joe Biden, in its latest environmental rollback benefiting makers of fossil fuel-burning…",
-          "url": "https://phys.org/news/2026-07-weaker-truck-pollution.html",
+          "title": "Thousands shelter in Taiwan as typhoon lashes Japan islands",
+          "summary": "More than 14,000 people in Taiwan have fled their homes, and many shops remain closed, as a typhoon pounding Japan's remote southwestern islands swept toward China on Saturday.",
+          "url": "https://phys.org/news/2026-07-thousands-taiwan-typhoon-lashes-japan.html",
           "source": "Phys.org",
-          "date": "2026-07-10"
-        },
-        {
-          "title": "Super Typhoon Bavi",
-          "summary": "The third category 5 tropical cyclone of 2026 crossed the U.S. Northern Mariana Islands and Guam before continuing toward Asia.",
-          "url": "https://science.nasa.gov/earth/earth-observatory/super-typhoon-bavi/",
-          "source": "NASA",
-          "date": "2026-07-09"
+          "date": "2026-07-11"
         }
       ]
     },
@@ -165,18 +165,18 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "Q&A: Examining the Global South's call for environmental justice amid expanding technology",
-          "summary": "Digital technologies—from artificial intelligence to smartphones and data centers—are often described as \"clean\" innovations. Yet every device depends on minerals, electricity, labor and global supply chains, raising…",
-          "url": "https://phys.org/news/2026-07-qa-global-south-environmental-justice.html",
+          "title": "Researchers find simple solution for extending the lifespan of LEDs made from glowing quantum dots",
+          "summary": "A new study led by MIT researchers could drive the development of more energy-efficient digital displays—such as flat-screen TVs, augmented and virtual reality headsets, smartphone screens, medical imaging devices and…",
+          "url": "https://phys.org/news/2026-07-simple-solution-lifespan-quantum-dots.html",
           "source": "Phys.org",
           "date": "2026-07-10"
         },
         {
-          "title": "Peter Shor’s algorithm could break the internet – but he's not worried",
-          "summary": "Few people have invented an algorithm with the potential to spark a worldwide crisis, so why is quantum computing pioneer Peter Shor so unconcerned? Karmela Padavic-Callaghan spoke to him to find out",
-          "url": "https://www.newscientist.com/article/2533218-peter-shors-algorithm-could-break-the-internet-but-hes-not-worried/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-          "source": "New Scientist",
-          "date": "2026-07-07"
+          "title": "Early Career Faculty (ECF) 2025 Awards",
+          "summary": "Back to ECF Home Advanced Diagnostics for High-Enthalpy Test Facilities Simulating Spacecraft Atmospheric Entry Planning for Autonomous Spacecraft Using Machine Learning Methods to Enable Onboard Guidance, Navigation…",
+          "url": "https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/early-career-faculty-ecf-2025-awards/",
+          "source": "NASA",
+          "date": "2026-07-10"
         },
         {
           "title": "The biggest problem with solid-state batteries may finally be solved",
@@ -186,11 +186,11 @@
           "date": "2026-07-10"
         },
         {
-          "title": "Scientists used AI to crack one of water's biggest mysteries",
-          "summary": "Water’s odd behavior becomes even more dramatic when it is supercooled, but scientists have struggled to compare the many different ways of describing its microscopic structure. Researchers at the University of Osaka…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260707025047.htm",
-          "source": "Science Daily",
-          "date": "2026-07-08"
+          "title": "Mathematicians put AI to work on Fermat's last theorem",
+          "summary": "At an event in London, mathematicians have made unexpectedly fast progress on formalising Fermat's last theorem using AI",
+          "url": "https://www.newscientist.com/article/2533518-mathematicians-put-ai-to-work-on-fermats-last-theorem/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "source": "New Scientist",
+          "date": "2026-07-10"
         },
         {
           "title": "The 5 must-watch science shows of 2026 so far",
@@ -212,18 +212,18 @@
           "date": "2026-07-09"
         },
         {
-          "title": "The US Space Force just got a new electromagnetic weapon to jam adversary satellites",
-          "summary": "The U.S. Space Force has acquired one of its first publicly acknowledged offensive weapons, one that can blast adversary satellites with electromagnetic radiation.",
-          "url": "https://www.space.com/space-exploration/satellites/the-us-space-force-just-got-a-new-electromagnetic-weapon-to-jam-adversary-satellites",
-          "source": "Space.com",
-          "date": "2026-07-08"
-        },
-        {
           "title": "Heidelberg physicists just united two opposing quantum theories",
           "summary": "A new quantum theory bridges two rival models of how impurities behave inside many-particle systems, resolving a problem that has challenged physicists for decades. The findings could reshape experiments on ultracold…",
           "url": "https://www.sciencedaily.com/releases/2026/07/260708022154.htm",
           "source": "Science Daily",
           "date": "2026-07-09"
+        },
+        {
+          "title": "What is 'social media'? Study highlights public confusion about the term",
+          "summary": "Research from Aston University has shown that the public has no clearly accepted definition for the term \"social media\" or agreement about which websites and platforms are classified as such.",
+          "url": "https://phys.org/news/2026-07-social-media-highlights-term.html",
+          "source": "Phys.org",
+          "date": "2026-07-10"
         },
         {
           "title": "A surprisingly detailed look at the physics of a lugworm's poop",
