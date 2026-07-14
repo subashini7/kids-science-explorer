@@ -1,29 +1,22 @@
 {
-  "updated": "2026-07-13T15:42:51Z",
+  "updated": "2026-07-14T14:51:43Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "Chitosan-based hydrogel membranes as transparent biomaterials for skin regeneration",
-          "summary": "IMDEA Materials Institute has developed mechanically tunable hydrogel membranes that closely mimic the mechanical environment of human skin while remaining highly biocompatible, representing an improved platform for…",
-          "url": "https://phys.org/news/2026-07-chitosan-based-hydrogel-membranes-transparent.html",
+          "title": "Heavy-element exotic dust may solve a neutron star merger mystery",
+          "summary": "When neutron stars merge, they create a powerful explosion called a kilonova that flings out neutron-rich material, some of which decays into heavy elements through a process called the r-process. Recent observations of…",
+          "url": "https://phys.org/news/2026-07-heavy-element-exotic-neutron-star.html",
           "source": "Phys.org",
-          "date": "2026-07-13"
+          "date": "2026-07-14"
         },
         {
-          "title": "Chemists make elusive carbon-bridged sandwich molecule once thought too strained to exist",
-          "summary": "Progress in chemistry is often gradual, with some of its most important advances taking years—sometimes decades—to unfold. A case in point is the discovery of a novel \"ferrocenophane\" from the class of compounds known…",
-          "url": "https://phys.org/news/2026-07-chemists-elusive-carbon-bridged-sandwich.html",
+          "title": "Researcher creates seawater isotope database to improve climate data reconstructions and projections",
+          "summary": "A Florida State University paleoclimatologist led the creation of a global database hosting thousands of seawater isotope measurements collected over almost 50 years that will aid scientists in generating more accurate…",
+          "url": "https://phys.org/news/2026-07-seawater-isotope-database-climate-reconstructions.html",
           "source": "Phys.org",
-          "date": "2026-07-13"
-        },
-        {
-          "title": "Study reports the first detection of a sugar in interstellar space",
-          "summary": "Sugars are key biomolecules in living organisms, as they form the backbone of DNA and RNA and play a fundamental role in metabolic processes. In theories of the origin of life, sugars are also essential for the…",
-          "url": "https://phys.org/news/2026-07-sugar-interstellar-space.html",
-          "source": "Phys.org",
-          "date": "2026-07-13"
+          "date": "2026-07-14"
         },
         {
           "title": "Scientists discover a hidden heart valve risk linked to gum disease",
@@ -38,6 +31,13 @@
           "url": "https://www.sciencedaily.com/releases/2026/07/260711010131.htm",
           "source": "Science Daily",
           "date": "2026-07-12"
+        },
+        {
+          "title": "Physicists finally build a quantum material predicted more than a decade ago",
+          "summary": "Researchers have achieved a major milestone by creating a long-sought two-dimensional quantum material and confirming its unusual conducting edge states. The ability to control these states through strain could make the…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260711010123.htm",
+          "source": "Science Daily",
+          "date": "2026-07-11"
         }
       ]
     },
@@ -59,6 +59,13 @@
           "date": "2026-07-13"
         },
         {
+          "title": "How to watch SpaceX launch Starship Flight 13 on July 16",
+          "summary": "SpaceX's 13th Starship test flight will carry out the first deployment of Starlink V3 satellites while testing booster recovery and upgraded flight systems in a key step toward operational missions.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/how-to-watch-spacex-launch-starship-flight-13-on-july-16",
+          "source": "Space.com",
+          "date": "2026-07-14"
+        },
+        {
           "title": "SpaceX Falcon 9 rocket launches for 35th time, hauls Starlink satellites to orbit (video)",
           "summary": "A SpaceX Falcon 9 rocket flew for the 35th time tonight (July 10), carrying 29 Starlink satellites to low Earth orbit.",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-35th-mission-starlink-launch",
@@ -66,16 +73,9 @@
           "date": "2026-07-11"
         },
         {
-          "title": "Future moon landings could wipe out clues to how life began on Earth",
-          "summary": "A new study suggests spacecraft exhaust could quickly contaminate the moon's most scientifically valuable regions, potentially masking ancient clues about how life began on Earth. Researchers say future lunar missions…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260710003537.htm",
-          "source": "Science Daily",
-          "date": "2026-07-13"
-        },
-        {
-          "title": "The FCC just gave Reflect Orbital permission to launch its 1st space mirror to orbit. Tens of thousands more could follow",
-          "summary": "Reflect Orbital just got approval to launch its first light-directing space mirror, which it plans to do later this year. Tens of thousands more such craft could follow over the next 10 years.",
-          "url": "https://www.space.com/space-exploration/satellites/reflect-orbital-just-got-permission-to-launch-its-1st-space-mirror-to-orbit-tens-of-thousands-more-could-follow",
+          "title": "Russia's launching a NASA astronaut and 2 cosmonauts to the International Space Station on July 14: Watch it live",
+          "summary": "NASA astronaut Anil Menon and two cosmonauts will launch toward the International Space Station atop a Russian rocket on Tuesday (July 14), and you can watch it live.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/soyuz-ms-29-astronaut-launch-international-space-station-anil-menon",
           "source": "Space.com",
           "date": "2026-07-13"
         }
@@ -85,11 +85,25 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "Scientists warn invasive Asian mantises are threatening Europe's wildlife",
-          "summary": "Two striking Asian praying mantis species that have rapidly spread across Europe have now been officially classified as invasive, raising new concerns about their impact on native wildlife. Boosted by climate change and…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260710003540.htm",
+          "title": "This dinosaur fossil captures the final moments of a T. rex attack",
+          "summary": "A fossilized Edmontosaurus skull with a Tyrannosaurus tooth still embedded in its face has given scientists rare evidence of a dramatic predator-prey encounter. The discovery suggests the giant carnivore delivered an…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260713000811.htm",
           "source": "Science Daily",
-          "date": "2026-07-11"
+          "date": "2026-07-14"
+        },
+        {
+          "title": "Disturbance has a greater effect on giant kelp productivity than resource availability",
+          "summary": "Marine scientists at UC Santa Barbara have found that disturbances to giant kelp forests have a major influence on their net primary productivity (NPP)—an indicator of an ecosystem's health and its ability to support…",
+          "url": "https://phys.org/news/2026-07-disturbance-greater-effect-giant-kelp.html",
+          "source": "Phys.org",
+          "date": "2026-07-14"
+        },
+        {
+          "title": "Underwater microphones detect dolphins in Sea of Japan bays about once every ten days",
+          "summary": "When residents of two coastal communities along the Sea of Japan reported observing dolphins in nearby waters, it caught the attention of some scientists. The marine environment has been changing rapidly in the Sea of…",
+          "url": "https://phys.org/news/2026-07-underwater-microphones-dolphins-sea-japan.html",
+          "source": "Phys.org",
+          "date": "2026-07-14"
         },
         {
           "title": "The giraffe weevil: When a beetle grows a giraffe’s neck",
@@ -99,18 +113,11 @@
           "date": "2026-07-13"
         },
         {
-          "title": "Invasive aoudad pose deadly risk to native bighorn sheep",
-          "summary": "An invasive species found across West Texas may pose a greater threat to native bighorn sheep than previously understood.",
-          "url": "https://phys.org/news/2026-07-invasive-aoudad-pose-deadly-native.html",
+          "title": "Six years of drought reshape soil microbiomes in tallgrass prairie, study finds",
+          "summary": "A new study tracking soil microbial communities across six years of experimental drought in a tallgrass prairie finds that prolonged water stress diminishes biodiversity, pushing communities toward less predictable…",
+          "url": "https://phys.org/news/2026-07-years-drought-reshape-soil-microbiomes.html",
           "source": "Phys.org",
-          "date": "2026-07-13"
-        },
-        {
-          "title": "White House appoints Harvard astronomer Avi Loeb to lead new UFO study group",
-          "summary": "Harvard astrophysicist Avi Loeb has been appointed as the head of a new White House group to study UFOs, or unidentified anomalous phenomena, as they're now known.",
-          "url": "https://www.space.com/space-exploration/search-for-life/white-house-appoints-harvard-astronomer-avi-loeb-to-lead-new-ufo-study-group",
-          "source": "Space.com",
-          "date": "2026-07-11"
+          "date": "2026-07-14"
         }
       ]
     },
@@ -118,39 +125,39 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Climate shocks are hitting South Africa's food businesses—study shows what they need to adapt",
-          "summary": "Climate change discussions in southern Africa often focus on farming, where the effects of environmental shocks are most visible. The debate frequently centers on droughts, floods, declining crop productivity and heat…",
-          "url": "https://phys.org/news/2026-07-climate-south-africa-food-businesses.html",
+          "title": "How the built environment can help protect mental health in a changing climate",
+          "summary": "When people think about climate change, they often picture melting glaciers, stronger storms, rising temperatures, or prolonged droughts. These visible consequences dominate headlines and shape public discussions. Yet…",
+          "url": "https://phys.org/news/2026-07-built-environment-mental-health-climate.html",
           "source": "Phys.org",
-          "date": "2026-07-13"
+          "date": "2026-07-14"
         },
         {
-          "title": "As super El Niño draws global attention, the Indian Ocean may hold the key to Mediterranean climate extremes",
-          "summary": "As scientists around the world closely monitor the possible development of a powerful \"Super El Niño,\" a new study suggests that another tropical ocean deserves equal attention. Researchers have found that temperature…",
-          "url": "https://phys.org/news/2026-07-super-el-nio-global-attention.html",
-          "source": "Phys.org",
-          "date": "2026-07-13"
+          "title": "A 37-year soil experiment revealed a hidden climate threat",
+          "summary": "The world's longest-running soil warming experiment has revealed an unexpected climate concern. After nearly four decades, researchers found that warming can cause microbes to break down stable soil carbon that…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260713000809.htm",
+          "source": "Science Daily",
+          "date": "2026-07-14"
         },
         {
-          "title": "Study links sea level to Earth's carbon thermostat",
-          "summary": "Earth has a natural thermostat that has kept the planet habitable for more than 100 million years. Scientists have struggled to fully explain how it works, but new research identifies a missing link between phosphate…",
-          "url": "https://phys.org/news/2026-07-links-sea-earth-carbon-thermostat.html",
-          "source": "Phys.org",
-          "date": "2026-07-13"
-        },
-        {
-          "title": "Where Venezuela’s Earthquakes Shifted the Ground",
-          "summary": "Radar data from the NISAR satellite show that La Guaira and nearby areas experienced significant ground displacement from the June 2026 temblors.",
-          "url": "https://science.nasa.gov/earth/earth-observatory/where-venezuelas-earthquakes-shifted-the-ground/",
+          "title": "Fans of the Arctic",
+          "summary": "Sediment eroded from ice-capped mountains splays out across a broad river valley on Russia’s Severny Island.",
+          "url": "https://science.nasa.gov/earth/earth-observatory/fans-of-the-arctic/",
           "source": "NASA",
-          "date": "2026-07-10"
+          "date": "2026-07-14"
         },
         {
-          "title": "Major earthquakes can affect Southeast Asia sea-level projections",
-          "summary": "Earth scientists at Nanyang Technological University, Singapore (NTU Singapore) have published an international study showing that major earthquakes in Southeast Asia can affect regional relative sea-level projections.",
-          "url": "https://phys.org/news/2026-07-major-earthquakes-affect-southeast-asia.html",
+          "title": "Weather it together: Farmers speaking up about mental health",
+          "summary": "Rain or shine, Aussie farmers and farming communities have always looked out for one another. But when it comes to their own mental health, asking for help hasn't always come easily.",
+          "url": "https://phys.org/news/2026-07-weather-farmers-mental-health.html",
           "source": "Phys.org",
-          "date": "2026-07-13"
+          "date": "2026-07-14"
+        },
+        {
+          "title": "No relief from the heat as many US cities will see record overnight temperatures",
+          "summary": "Another week of blistering heat will bring even more health risks in the coming days, as overnight temperatures won't provide much relief.",
+          "url": "https://phys.org/news/2026-07-relief-cities-overnight-temperatures.html",
+          "source": "Phys.org",
+          "date": "2026-07-14"
         }
       ]
     },
@@ -158,24 +165,38 @@
       "emoji": "🤖",
       "articles": [
         {
+          "title": "Physicists confirm 20-year-old theory that could boost quantum technology",
+          "summary": "Future quantum computing will require correlations between distant modules—a feature known as distributed entanglement. Traditionally, such entanglement has relied on active control and repeated measurements. Now…",
+          "url": "https://phys.org/news/2026-07-physicists-year-theory-boost-quantum.html",
+          "source": "Phys.org",
+          "date": "2026-07-14"
+        },
+        {
+          "title": "Highly filled liquid epoxy for smaller, more reliable chip packaging",
+          "summary": "As computer chips become more powerful and compact, the materials that protect them must perform better than ever. In advanced chip packaging, liquid epoxy is widely used because it can flow into tiny spaces before…",
+          "url": "https://phys.org/news/2026-07-highly-liquid-epoxy-smaller-reliable.html",
+          "source": "Phys.org",
+          "date": "2026-07-14"
+        },
+        {
+          "title": "Lower-skilled workers could earn more in an AI world, research indicates",
+          "summary": "For anyone worried about AI's effects on jobs, here's good news: New research by Stanford economist Lukas Althoff concludes that artificial intelligence is likely to reshape jobs rather than eliminate entire occupations…",
+          "url": "https://phys.org/news/2026-07-skilled-workers-ai-world.html",
+          "source": "Phys.org",
+          "date": "2026-07-14"
+        },
+        {
+          "title": "The US-China AI arms race has taken an unexpected turn",
+          "summary": "Powerful artificial intelligence models built by Chinese companies have gone from inducing widespread panic to being met with a shrug of the shoulders – what changed?",
+          "url": "https://www.newscientist.com/article/2532952-who-is-winning-the-ai-arms-race-between-the-us-and-china/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-07-14"
+        },
+        {
           "title": "Early Career Faculty (ECF) 2025 Awards",
           "summary": "Back to ECF Home Advanced Diagnostics for High-Enthalpy Test Facilities Simulating Spacecraft Atmospheric Entry Planning for Autonomous Spacecraft Using Machine Learning Methods to Enable Onboard Guidance, Navigation…",
           "url": "https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/early-career-faculty-ecf-2025-awards/",
           "source": "NASA",
-          "date": "2026-07-10"
-        },
-        {
-          "title": "The biggest problem with solid-state batteries may finally be solved",
-          "summary": "Researchers solved the mystery of how soft lithium dendrites crack the hard ceramic inside solid-state batteries, triggering short circuits. The breakthrough could help engineers build safer, longer-lasting batteries…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260710003533.htm",
-          "source": "Science Daily",
-          "date": "2026-07-10"
-        },
-        {
-          "title": "Mathematicians put AI to work on Fermat’s last theorem",
-          "summary": "At an event in London, mathematicians have made unexpectedly fast progress on formalising Fermat's last theorem using AI",
-          "url": "https://www.newscientist.com/article/2533518-mathematicians-put-ai-to-work-on-fermats-last-theorem/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
           "date": "2026-07-10"
         }
       ]
@@ -184,11 +205,25 @@
       "emoji": "⚡",
       "articles": [
         {
+          "title": "Researchers define new frontier in quantum materials",
+          "summary": "Researchers at City College of New York physicist Vinod M. Menon's Laboratory for Nano and Micro Photonics (LaNMP) have outlined an emerging frontier in quantum materials: atomically thin systems in which light…",
+          "url": "https://phys.org/news/2026-07-frontier-quantum-materials.html",
+          "source": "Phys.org",
+          "date": "2026-07-14"
+        },
+        {
           "title": "A 200-year-old physics experiment could help build future computers",
           "summary": "Scientists at Nanyang Technological University in Singapore have discovered a surprisingly simple way to create exotic light structures called optical skyrmions using a 200-year-old optical effect known as the Poisson…",
           "url": "https://www.sciencedaily.com/releases/2026/07/260713000755.htm",
           "source": "Science Daily",
           "date": "2026-07-13"
+        },
+        {
+          "title": "New dark matter theory could solve multiple cosmic mysteries at once",
+          "summary": "Dark matter may be far more complicated than scientists once believed. A new study suggests it could consist of at least two different kinds of particles that slowly separate over time, with heavier particles sinking…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260711010128.htm",
+          "source": "Science Daily",
+          "date": "2026-07-14"
         },
         {
           "title": "Deep-sea life has a secret food source scientists never expected",
@@ -203,20 +238,6 @@
           "url": "https://www.sciencedaily.com/releases/2026/07/260711010120.htm",
           "source": "Science Daily",
           "date": "2026-07-12"
-        },
-        {
-          "title": "Hidden fifth dimension could tune dark matter resonance, new theory proposes",
-          "summary": "The mysterious substance that binds galaxies together could naturally be \"in tune\" with a hidden fifth dimension, according to a new University of Sheffield theory aiming to shed light on one of science's biggest…",
-          "url": "https://phys.org/news/2026-07-hidden-dimension-tune-dark-resonance.html",
-          "source": "Phys.org",
-          "date": "2026-07-13"
-        },
-        {
-          "title": "Shifts in the jet stream are behind Europe’s long heatwaves",
-          "summary": "Two types of jet stream patterns seem to be causing persistent heat domes over Europe, with big questions for the future",
-          "url": "https://www.newscientist.com/article/2533887-shifts-in-the-jet-stream-are-behind-europes-long-heatwaves/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-07-13"
         }
       ]
     }
