@@ -1,43 +1,43 @@
 {
-  "updated": "2026-07-15T14:50:50Z",
+  "updated": "2026-07-16T15:02:16Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "The secret to hydrogen's quantum behavior lies in symmetry",
-          "summary": "As interest in clean hydrogen power grows, so does the need for safe storage and transportation materials. One such material, vanadium, is a leading candidate because it readily absorbs hydrogen and allows it to move…",
-          "url": "https://phys.org/news/2026-07-secret-hydrogen-quantum-behavior-symmetry.html",
-          "source": "Phys.org",
-          "date": "2026-07-15"
-        },
-        {
-          "title": "Hard but lightweight ‘bio-metal’ material discovered in sea worm jaws",
-          "summary": "Marine bristle worms have jaws made from a mix of proteins and metal ions that may constitute a whole new kind of material, with possible applications in engineering",
-          "url": "https://www.newscientist.com/article/2579072-hard-but-lightweight-bio-metal-material-discovered-in-sea-worm-jaws/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-07-14"
-        },
-        {
-          "title": "Why have humans collected crystals for 780,000 years? Chimpanzees may hold the answer",
-          "summary": "Chimpanzees showed a remarkable attraction to crystals, choosing them over ordinary stones and studying them with intense curiosity. The results suggest that the same unusual features may have fascinated early humans…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260713000813.htm",
+          "title": "Quantum breakthrough links light and magnetism in atomically thin materials",
+          "summary": "A new review highlights exciting progress in atomically thin quantum materials where light and magnetism work together in ways never before possible. In these materials, light-generated excitons can interact directly…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260715083523.htm",
           "source": "Science Daily",
-          "date": "2026-07-15"
+          "date": "2026-07-16"
         },
         {
-          "title": "Scientists discover a hidden heart valve risk linked to gum disease",
-          "summary": "Researchers found that bacteria linked to gum disease may help drive the development of calcific aortic valve stenosis by triggering inflammation and calcium buildup in the heart valve. The early findings suggest that…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260713000751.htm",
-          "source": "Science Daily",
-          "date": "2026-07-13"
-        },
-        {
-          "title": "New process turns mixed plastic waste directly into hydrogen fuel without sorting",
-          "summary": "Plastic has become a ubiquitous part of modern life—in water bottles, shopping bags and car dashboards. But once discarded, it is among the hardest materials on Earth to recycle. Most recycling processes require…",
-          "url": "https://phys.org/news/2026-07-plastic-hydrogen-fuel.html",
+          "title": "Chemists shrink gallium nitride, the material behind LED lighting, into nanocrystals",
+          "summary": "Nanocrystals are so useful that they formed the basis of the 2023 Nobel Prize in Chemistry. But despite their usefulness, scientists have so far been able to make these microscopic crystals from only a limited palette…",
+          "url": "https://phys.org/news/2026-07-chemists-gallium-nitride-material-nanocrystals.html",
           "source": "Phys.org",
-          "date": "2026-07-15"
+          "date": "2026-07-16"
+        },
+        {
+          "title": "Scientists achieve all-electrical control of single-molecule quantum states",
+          "summary": "Quantum technologies promise revolutionary advances in computing, sensing and information processing. However, controlling individual quantum bits (qubits) at the atomic scale remains a major challenge because…",
+          "url": "https://phys.org/news/2026-07-scientists-electrical-molecule-quantum-states.html",
+          "source": "Phys.org",
+          "date": "2026-07-16"
+        },
+        {
+          "title": "Genetic databases as the key to global benefit-sharing",
+          "summary": "An international research team led by the Science Policy and Internationalization Department at the Leibniz Institute DSMZ-German Collection of Microorganisms and Cell Cultures has published a practical guide in the…",
+          "url": "https://phys.org/news/2026-07-genetic-databases-key-global-benefit.html",
+          "source": "Phys.org",
+          "date": "2026-07-16"
+        },
+        {
+          "title": "Rare mutations are helping dangerous hospital bacteria slip past the last-line antibiotic defense",
+          "summary": "Another last-resort antibiotic has fallen victim to the rapid evolution of drug-resistant superbugs. The powerful antibiotic combination ceftazidime-avibactam (CZA), widely used to treat severe hospital-acquired…",
+          "url": "https://phys.org/news/2026-07-rare-mutations-dangerous-hospital-bacteria.html",
+          "source": "Phys.org",
+          "date": "2026-07-16"
         }
       ]
     },
@@ -45,11 +45,11 @@
       "emoji": "🚀",
       "articles": [
         {
-          "title": "NASA’s Webb Discovers Hidden Planet in Famous Star System",
-          "summary": "Astronomers using NASA’s James Webb Space Telescope have discovered a giant planet outside our solar system, called an exoplanet, hiding within one of the most intensely studied planetary systems in our Milky Way…",
-          "url": "https://science.nasa.gov/missions/webb/nasas-webb-discovers-hidden-planet-in-famous-star-system/",
-          "source": "NASA",
-          "date": "2026-07-15"
+          "title": "Webb telescope discovers hidden planet in famous star system",
+          "summary": "Astronomers using NASA's James Webb Space Telescope have discovered a giant planet outside our solar system, called an exoplanet, hiding within one of the most intensely studied planetary systems in the Milky Way galaxy.",
+          "url": "https://phys.org/news/2026-07-webb-telescope-hidden-planet-famous.html",
+          "source": "Phys.org",
+          "date": "2026-07-16"
         },
         {
           "title": "NASA selects 41 space technologies for future Moon and Mars exploration",
@@ -59,23 +59,23 @@
           "date": "2026-07-15"
         },
         {
-          "title": "The 1st of 10,000 'missing' black holes in the Omega Centauri star cluster has been found by the Hubble and James Webb space telescopes",
-          "summary": "The first of 10,000 missing black holes in the Omega Centauri globular cluster has been found thanks to teamwork by the Hubble and James Webb space telescopes.",
-          "url": "https://www.space.com/astronomy/black-holes/the-1st-of-10-000-missing-black-holes-in-the-omega-centauri-star-cluster-has-been-found-by-the-hubble-and-james-webb-space-telescopes",
+          "title": "SpaceX will launch Starship, the world's largest rocket, on critical Flight 13 test today. Here's what to expect.",
+          "summary": "SpaceX plans to launch Starship Flight 13 today (July 16), a test mission that will send \"V3\" Starlink satellites to space for the first time ever. Here's how to watch it live.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-13-starlink-v3-satellites",
           "source": "Space.com",
-          "date": "2026-07-14"
+          "date": "2026-07-16"
         },
         {
-          "title": "What time is SpaceX's Starship Flight 13 launch on July 16? (Full mission timeline)",
-          "summary": "SpaceX will launch its next Starship, carrying the first V3 Starlink satellites, on the Flight 13 test mission on Thursday, July 16. Here's what time it flies.",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-13-launch-what-time",
+          "title": "'Full steam ahead': NASA ramps up prep for Artemis III astronaut launch in 2027",
+          "summary": "NASA is busy preparing for Artemis III, the next crewed mission of its moon program launching on the massive SLS rocket next year. Hardware is coming together and agency personnel have begun launch scenario sims inside…",
+          "url": "https://www.space.com/space-exploration/artemis/full-steam-ahead-nasa-ramps-up-prep-for-artemis-iii-astronaut-launch-in-2027",
           "source": "Space.com",
           "date": "2026-07-15"
         },
         {
-          "title": "SpaceX launches flight-proven rocket for 600th time, sending Starlink satellites to orbit (video)",
-          "summary": "SpaceX launched Starlink satellites on a pair of Falcon 9 rockets eight hours apart from opposite coasts on July 13-14, 2026. The second launch was the 600th use of a flight-proven booster.",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-15-14-b1093-vsfb-ocisly-10-45-b1080-ccsfs-asog",
+          "title": "The 1st of 10,000 'missing' black holes in the Omega Centauri star cluster has been found by the Hubble and James Webb space telescopes",
+          "summary": "The first of 10,000 missing black holes in the Omega Centauri globular cluster has been found thanks to teamwork by the Hubble and James Webb space telescopes.",
+          "url": "https://www.space.com/astronomy/black-holes/the-1st-of-10-000-missing-black-holes-in-the-omega-centauri-star-cluster-has-been-found-by-the-hubble-and-james-webb-space-telescopes",
           "source": "Space.com",
           "date": "2026-07-14"
         }
@@ -85,18 +85,18 @@
       "emoji": "🐾",
       "articles": [
         {
+          "title": "Tunas and other ocean predators may have evolved more slowly than previous research predicted",
+          "summary": "Today, oceans host a large variety of fast, resilient marine predators, including tunas, mackerels and various other fish species. Many of these fish belong to a lineage known as Scombridae, whose members are…",
+          "url": "https://phys.org/news/2026-07-tunas-ocean-predators-evolved-slowly.html",
+          "source": "Phys.org",
+          "date": "2026-07-16"
+        },
+        {
           "title": "This dinosaur fossil captures the final moments of a T. rex attack",
           "summary": "A fossilized Edmontosaurus skull with a Tyrannosaurus tooth still embedded in its face has given scientists rare evidence of a dramatic predator-prey encounter. The discovery suggests the giant carnivore delivered an…",
           "url": "https://www.sciencedaily.com/releases/2026/07/260713000811.htm",
           "source": "Science Daily",
           "date": "2026-07-14"
-        },
-        {
-          "title": "Mapping the seafloor: How deep can we go?",
-          "summary": "Australia's ocean territory is vast and covers an area more than 1.5 times the nation's landmass. Within these waters is a diversity of resources, marine species and habitats. And they're deep. Excluding Antarctic…",
-          "url": "https://phys.org/news/2026-07-seafloor-deep.html",
-          "source": "Phys.org",
-          "date": "2026-07-15"
         },
         {
           "title": "Are humans really the ultimate super-predator?",
@@ -106,18 +106,18 @@
           "date": "2026-07-15"
         },
         {
-          "title": "Biodiversity boosts productivity most during extreme drought in drier grasslands",
-          "summary": "When extreme drought strikes, drier grasslands receive the greatest productivity benefit from biodiversity. By contrast, forests did not show the same context-dependent pattern under drought, according to a new global…",
-          "url": "https://phys.org/news/2026-07-biodiversity-boosts-productivity-extreme-drought.html",
+          "title": "Rare Australian wattle is on the brink of extinction",
+          "summary": "The spidery wattle (Acacia araneosa) is a national treasure. The plant is named for its spidery, leaflike phyllodes and shares the same iconic golden flowers as Australia's floral emblem, the golden wattle (Acacia…",
+          "url": "https://phys.org/news/2026-07-rare-australian-wattle-brink-extinction.html",
           "source": "Phys.org",
-          "date": "2026-07-15"
+          "date": "2026-07-16"
         },
         {
-          "title": "Chewing bubble gum after beetroot may help lower blood pressure",
-          "summary": "A new study found that chewing sugary gum after eating nitrate-rich vegetables or drinking beetroot juice helped the body produce more beneficial nitrite, leading to a temporary drop in blood pressure. Researchers hope…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260713084904.htm",
-          "source": "Science Daily",
-          "date": "2026-07-15"
+          "title": "Roadless rule helps protect clean drinking water for 25 million Americans, new study shows",
+          "summary": "Approximately 90% of the U.S. population relies on public water systems. A significant portion of the water supplying those systems comes from forested lands, which means policies affecting forests also affect water…",
+          "url": "https://phys.org/news/2026-07-roadless-million-americans.html",
+          "source": "Phys.org",
+          "date": "2026-07-16"
         }
       ]
     },
@@ -132,32 +132,32 @@
           "date": "2026-07-14"
         },
         {
-          "title": "Antarctic change drives slowdown of global ocean circulation",
-          "summary": "New Antarctic research shows the deepest layer of the Southern Ocean is shrinking faster than scientists realized, with the rate of change accelerating over the past decade. This is of worldwide significance because as…",
-          "url": "https://phys.org/news/2026-07-antarctic-slowdown-global-ocean-circulation.html",
+          "title": "Hourly data reveal Alpine 100-year floods could arrive every 45 to 80 years",
+          "summary": "Heavy precipitation becomes more intense with every degree Earth warms. This affects flooding. Using hourly data from 384 rivers in the Alps, researchers from the WSL Institute for Snow and Avalanche Research SLF…",
+          "url": "https://phys.org/news/2026-07-hourly-reveal-alpine-year-years.html",
           "source": "Phys.org",
-          "date": "2026-07-15"
+          "date": "2026-07-16"
         },
         {
-          "title": "Uncovering the hidden impacts of a hurricane on food supply",
-          "summary": "When Hurricanes Helene and Milton struck in 2024, the storms not only left behind a trail of destruction but also exposed an often-overlooked challenge for local emergency responders: how hurricanes can disrupt the food…",
-          "url": "https://phys.org/news/2026-07-uncovering-hidden-impacts-hurricane-food.html",
+          "title": "Climate change makes extreme West Africa rainfall five times likelier, study finds",
+          "summary": "Climate change has made extreme rainfall in West Africa five times more likely than in the late 19th century, scientists said Thursday, after regional floods killed nearly 100 people last month.",
+          "url": "https://phys.org/news/2026-07-climate-extreme-west-africa-rainfall.html",
           "source": "Phys.org",
-          "date": "2026-07-15"
+          "date": "2026-07-16"
         },
         {
-          "title": "Cave reveals influence of Antarctica and El Niño on extreme rainfall in the South of Brazil",
-          "summary": "A cave in the interior of Paraná state in Brazil contains a \"climate archive\" that enabled Brazilian researchers to reconstruct the history of extreme rainfall in Brazil's South Region over the past 7,500 years. Their…",
-          "url": "https://phys.org/news/2026-07-cave-reveals-antarctica-el-nio.html",
-          "source": "Phys.org",
-          "date": "2026-07-15"
+          "title": "Ontario Wildfire Smoke Moves East",
+          "summary": "Canadian wildfires sent plumes of smoke streaming over Ontario, Quebec, and parts of the U.S. Midwest and Northeast.",
+          "url": "https://science.nasa.gov/earth/earth-observatory/ontario-wildfire-smoke-moves-east/",
+          "source": "NASA",
+          "date": "2026-07-16"
         },
         {
-          "title": "Wildfires expose millions in the Midwest and Northeast US to dangerous smoke",
-          "summary": "Heavy smoke from several large wildfires blazing in Canada and Minnesota is expected to engulf large swaths of the Midwest and Northeast U.S. this week, exposing millions of people to dangerous air pollution.",
-          "url": "https://phys.org/news/2026-07-wildfires-expose-millions-midwest-northeast.html",
-          "source": "Phys.org",
-          "date": "2026-07-15"
+          "title": "Wildfire smoke is choking Canada, Great Lakes and Northeast",
+          "summary": "Wildfire smoke is pouring across Canada and into the US in the Great Lakes and Northeast. These areas will continue to see poor air quality into the weekend. The post Wildfire smoke is choking Canada, Great Lakes and…",
+          "url": "https://earthsky.org/earth/wildfire-smoke-canada-great-lakes-northeast-july-2026/",
+          "source": "EarthSky",
+          "date": "2026-07-16"
         }
       ]
     },
@@ -165,32 +165,25 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "Faster quantum computers can learn from their own mistakes",
-          "summary": "Quantum computers promise to solve problems that would take even the fastest conventional supercomputers a vast amount of time, but the quantum information they store and process is extremely sensitive to even tiny…",
-          "url": "https://phys.org/news/2026-07-faster-quantum.html",
+          "title": "Braided, exotic particles could build reliable, universal quantum computers",
+          "summary": "A truly useful quantum computer must be able to run any algorithm, with the same versatility an ordinary laptop offers. Physicists have now shown a new way to give a quantum computer exactly that flexibility, harnessing…",
+          "url": "https://phys.org/news/2026-07-braided-exotic-particles-reliable-universal.html",
           "source": "Phys.org",
-          "date": "2026-07-15"
+          "date": "2026-07-16"
         },
         {
-          "title": "Generative AI's power sparks fears of dumbing humans down",
-          "summary": "Generative AI chatbots capable of writing emails and computer code, translating, organizing a trip or coming up with gift ideas are now readily available, prompting some to ask whether human brainpower could suffer for…",
-          "url": "https://phys.org/news/2026-07-generative-ai-power-dumbing-humans.html",
+          "title": "Study finds LLMs nudge users toward smart savings and investing habits—but the guidance skews",
+          "summary": "Would you trust a large language model to help plan your financial future? Many Americans already do. In a 2025 survey, more than half said they'd asked AI for financial advice. By comparison, about 40% have worked with…",
+          "url": "https://phys.org/news/2026-07-llms-nudge-users-smart-investing.html",
           "source": "Phys.org",
-          "date": "2026-07-15"
+          "date": "2026-07-16"
         },
         {
-          "title": "AI explored as tool for unraveling radicalization's complex drivers",
-          "summary": "Radicalization is a complex process, influenced by many variables that interact to varying degrees. AI scientist Mijke van den Hurk investigated whether artificial intelligence could help unravel this intricate…",
-          "url": "https://phys.org/news/2026-07-ai-explored-tool-unraveling-radicalization.html",
-          "source": "Phys.org",
-          "date": "2026-07-15"
-        },
-        {
-          "title": "The US-China AI arms race has taken an unexpected turn",
-          "summary": "Powerful artificial intelligence models built by Chinese companies have gone from inducing widespread panic to being met with a shrug of the shoulders – what changed?",
-          "url": "https://www.newscientist.com/article/2532952-who-is-winning-the-ai-arms-race-between-the-us-and-china/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "title": "Stealth drone spins so fast that it disappears",
+          "summary": "A drone that spins 25 times a second can avoid being spotted by becoming nothing more than a vague blur – though the creators admit that it can still be easily heard",
+          "url": "https://www.newscientist.com/article/2579564-stealth-drone-spins-so-fast-that-it-disappears/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
-          "date": "2026-07-14"
+          "date": "2026-07-16"
         }
       ]
     },
@@ -198,18 +191,11 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "Elephants turn footsteps into messages through ground and skull vibrations",
-          "summary": "Elephants can communicate with other elephants across distances of up to five kilometers (3 miles) by producing sounds that travel through the air. However, they have a second way of sending signals: seismic waves…",
-          "url": "https://phys.org/news/2026-07-elephants-footsteps-messages-ground-skull.html",
+          "title": "Quantum teleportation could reduce photon loss in long-distance communications",
+          "summary": "Quantum technologies, which leverage the principles of quantum mechanics, have been found to outperform their classical counterparts on specific tasks. Among other things, past studies have highlighted the potential of…",
+          "url": "https://phys.org/news/2026-07-quantum-teleportation-photon-loss-distance.html",
           "source": "Phys.org",
-          "date": "2026-07-15"
-        },
-        {
-          "title": "Heat Dome Broils the Western U.S.",
-          "summary": "A ridge of high pressure fueled record-breaking temperatures in Montana, Utah, and Wyoming on July 12, 2026.",
-          "url": "https://science.nasa.gov/earth/earth-observatory/heat-dome-broils-the-western-u-s/",
-          "source": "NASA",
-          "date": "2026-07-15"
+          "date": "2026-07-16"
         },
         {
           "title": "A 200-year-old physics experiment could help build future computers",
@@ -224,13 +210,6 @@
           "url": "https://www.space.com/astronomy/stars/this-cosmic-lighthouse-is-blazing-a-magnetic-trail-through-the-milky-way",
           "source": "Space.com",
           "date": "2026-07-14"
-        },
-        {
-          "title": "Shifts in the jet stream are behind Europe’s long heatwaves",
-          "summary": "Two types of jet stream patterns seem to be causing persistent heat domes over Europe, with big questions for the future",
-          "url": "https://www.newscientist.com/article/2533887-shifts-in-the-jet-stream-are-behind-europes-long-heatwaves/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-07-13"
         }
       ]
     }
