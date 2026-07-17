@@ -1,9 +1,23 @@
 {
-  "updated": "2026-07-16T15:02:16Z",
+  "updated": "2026-07-17T14:43:36Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
+        {
+          "title": "This sugar-coated therapy boosted survival against deadly brain cancer by 50% in mice",
+          "summary": "A new experimental treatment may have found a way to outsmart glioblastoma’s toughest defense: the blood-brain barrier. Researchers used sugar-coated nanoparticles to ferry genetic instructions that restore a key…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260715083542.htm",
+          "source": "Science Daily",
+          "date": "2026-07-17"
+        },
+        {
+          "title": "Sun-like star caught after eating one of its own planets",
+          "summary": "A distant Sun-like star appears to have devoured one of its planets, leaving behind a surprising chemical fingerprint. Researchers found an unusually high concentration of lithium, a strong sign that planetary material…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260715083538.htm",
+          "source": "Science Daily",
+          "date": "2026-07-16"
+        },
         {
           "title": "Quantum breakthrough links light and magnetism in atomically thin materials",
           "summary": "A new review highlights exciting progress in atomically thin quantum materials where light and magnetism work together in ways never before possible. In these materials, light-generated excitons can interact directly…",
@@ -12,45 +26,24 @@
           "date": "2026-07-16"
         },
         {
-          "title": "Chemists shrink gallium nitride, the material behind LED lighting, into nanocrystals",
-          "summary": "Nanocrystals are so useful that they formed the basis of the 2023 Nobel Prize in Chemistry. But despite their usefulness, scientists have so far been able to make these microscopic crystals from only a limited palette…",
-          "url": "https://phys.org/news/2026-07-chemists-gallium-nitride-material-nanocrystals.html",
-          "source": "Phys.org",
+          "title": "This ancient sea worm has “bio-metal” jaws unlike anything scientists have seen",
+          "summary": "An ancient sea worm may hold the secret to a whole new category of natural materials. Its jaws combine proteins and metal ions in a way that gives them metal-like strength and unusual mechanical behavior, yet they still…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260714225530.htm",
+          "source": "Science Daily",
           "date": "2026-07-16"
         },
         {
-          "title": "Scientists achieve all-electrical control of single-molecule quantum states",
-          "summary": "Quantum technologies promise revolutionary advances in computing, sensing and information processing. However, controlling individual quantum bits (qubits) at the atomic scale remains a major challenge because…",
-          "url": "https://phys.org/news/2026-07-scientists-electrical-molecule-quantum-states.html",
+          "title": "New method makes epigenetic aging clocks accurate and easier to interpret",
+          "summary": "Epigenetic clocks are important tools in modern aging research. Typically, they use characteristic DNA methylation patterns in the genome to precisely predict a person's age and infer conclusions about the individual's…",
+          "url": "https://phys.org/news/2026-07-method-epigenetic-aging-clocks-accurate.html",
           "source": "Phys.org",
-          "date": "2026-07-16"
-        },
-        {
-          "title": "Genetic databases as the key to global benefit-sharing",
-          "summary": "An international research team led by the Science Policy and Internationalization Department at the Leibniz Institute DSMZ-German Collection of Microorganisms and Cell Cultures has published a practical guide in the…",
-          "url": "https://phys.org/news/2026-07-genetic-databases-key-global-benefit.html",
-          "source": "Phys.org",
-          "date": "2026-07-16"
-        },
-        {
-          "title": "Rare mutations are helping dangerous hospital bacteria slip past the last-line antibiotic defense",
-          "summary": "Another last-resort antibiotic has fallen victim to the rapid evolution of drug-resistant superbugs. The powerful antibiotic combination ceftazidime-avibactam (CZA), widely used to treat severe hospital-acquired…",
-          "url": "https://phys.org/news/2026-07-rare-mutations-dangerous-hospital-bacteria.html",
-          "source": "Phys.org",
-          "date": "2026-07-16"
+          "date": "2026-07-17"
         }
       ]
     },
     "Space & Astronomy": {
       "emoji": "🚀",
       "articles": [
-        {
-          "title": "Webb telescope discovers hidden planet in famous star system",
-          "summary": "Astronomers using NASA's James Webb Space Telescope have discovered a giant planet outside our solar system, called an exoplanet, hiding within one of the most intensely studied planetary systems in the Milky Way galaxy.",
-          "url": "https://phys.org/news/2026-07-webb-telescope-hidden-planet-famous.html",
-          "source": "Phys.org",
-          "date": "2026-07-16"
-        },
         {
           "title": "NASA selects 41 space technologies for future Moon and Mars exploration",
           "summary": "NASA has chosen 41 commercial technology projects that could solve critical challenges for future missions to the Moon and Mars. From powering lunar outposts to protecting spacecraft from Moon dust, the innovations are…",
@@ -78,6 +71,13 @@
           "url": "https://www.space.com/astronomy/black-holes/the-1st-of-10-000-missing-black-holes-in-the-omega-centauri-star-cluster-has-been-found-by-the-hubble-and-james-webb-space-telescopes",
           "source": "Space.com",
           "date": "2026-07-14"
+        },
+        {
+          "title": "How NASA’s Artemis III Lander Test Will Pave Way for Moon Landings",
+          "summary": "Before Artemis astronauts land on the Moon’s surface in 2028, NASA will conduct the Artemis III demonstration mission in 2027, allowing teams on Earth and in orbit to practice rendezvous and docking operations between…",
+          "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/how-nasas-artemis-iii-lander-test-will-pave-way-for-moon-landings/",
+          "source": "NASA",
+          "date": "2026-07-15"
         }
       ]
     },
@@ -85,11 +85,11 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "Tunas and other ocean predators may have evolved more slowly than previous research predicted",
-          "summary": "Today, oceans host a large variety of fast, resilient marine predators, including tunas, mackerels and various other fish species. Many of these fish belong to a lineage known as Scombridae, whose members are…",
-          "url": "https://phys.org/news/2026-07-tunas-ocean-predators-evolved-slowly.html",
-          "source": "Phys.org",
-          "date": "2026-07-16"
+          "title": "A Tide-Fueled Trove of Biodiversity in Guinea-Bissau",
+          "summary": "The expansive mudflats, sandy beaches, and mangrove forests of the Bijagós archipelago support an array of migratory shorebirds and large numbers of sea turtles.",
+          "url": "https://science.nasa.gov/earth/earth-observatory/a-tide-fueled-trove-of-biodiversity-in-guinea-bissau/",
+          "source": "NASA",
+          "date": "2026-07-17"
         },
         {
           "title": "This dinosaur fossil captures the final moments of a T. rex attack",
@@ -99,6 +99,13 @@
           "date": "2026-07-14"
         },
         {
+          "title": "Australia's most diverse marsupial predators have been hiding their origins for millions of years",
+          "summary": "When you think of carnivorous marsupials, you probably picture the Tasmanian devil or perhaps a spotted-tailed quoll. But these famous predators are only the largest members of a remarkable family of marsupials called…",
+          "url": "https://phys.org/news/2026-07-australia-diverse-marsupial-predators-millions.html",
+          "source": "Phys.org",
+          "date": "2026-07-17"
+        },
+        {
           "title": "Are humans really the ultimate super-predator?",
           "summary": "Humans are often described as the planet's ultimate \"super-predator,\" but wild animals do not fear every human the same way. After analyzing three decades of research, scientists found that animals become much more…",
           "url": "https://www.sciencedaily.com/releases/2026/07/260714225540.htm",
@@ -106,24 +113,31 @@
           "date": "2026-07-15"
         },
         {
-          "title": "Rare Australian wattle is on the brink of extinction",
-          "summary": "The spidery wattle (Acacia araneosa) is a national treasure. The plant is named for its spidery, leaflike phyllodes and shares the same iconic golden flowers as Australia's floral emblem, the golden wattle (Acacia…",
-          "url": "https://phys.org/news/2026-07-rare-australian-wattle-brink-extinction.html",
+          "title": "What 'Neil the Seal' can teach us about seal behavior: Marine biologist explains",
+          "summary": "Neil the Seal became a social media sensation almost overnight. Neil is a 5-year-old male southern elephant seal who weighs roughly 1 metric ton (1.1 tons). He was born on the Tasman Peninsula in October 2020 and has…",
+          "url": "https://phys.org/news/2026-07-neil-behavior-marine-biologist.html",
           "source": "Phys.org",
-          "date": "2026-07-16"
-        },
-        {
-          "title": "Roadless rule helps protect clean drinking water for 25 million Americans, new study shows",
-          "summary": "Approximately 90% of the U.S. population relies on public water systems. A significant portion of the water supplying those systems comes from forested lands, which means policies affecting forests also affect water…",
-          "url": "https://phys.org/news/2026-07-roadless-million-americans.html",
-          "source": "Phys.org",
-          "date": "2026-07-16"
+          "date": "2026-07-17"
         }
       ]
     },
     "Earth & Climate": {
       "emoji": "🌍",
       "articles": [
+        {
+          "title": "Earth has a natural thermostat and scientists finally know how it works",
+          "summary": "Scientists have identified a hidden feedback loop that may explain how Earth has regulated its climate for tens of millions of years. As sea levels rose and fell, they changed how much phosphate reached the open ocean…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260715083527.htm",
+          "source": "Science Daily",
+          "date": "2026-07-16"
+        },
+        {
+          "title": "How an influx of salt may affect microbial ecosystems in rivers, estuaries and coastal waters worldwide",
+          "summary": "As sea levels rise due to climate change, encroaching seawater will likely make freshwater environments saltier. In a new study, MIT researchers have shown how that increase in salinity might affect microbial ecosystems…",
+          "url": "https://phys.org/news/2026-07-influx-salt-affect-microbial-ecosystems.html",
+          "source": "Phys.org",
+          "date": "2026-07-17"
+        },
         {
           "title": "A 37-year soil experiment revealed a hidden climate threat",
           "summary": "The world's longest-running soil warming experiment has revealed an unexpected climate concern. After nearly four decades, researchers found that warming can cause microbes to break down stable soil carbon that…",
@@ -132,32 +146,18 @@
           "date": "2026-07-14"
         },
         {
-          "title": "Hourly data reveal Alpine 100-year floods could arrive every 45 to 80 years",
-          "summary": "Heavy precipitation becomes more intense with every degree Earth warms. This affects flooding. Using hourly data from 384 rivers in the Alps, researchers from the WSL Institute for Snow and Avalanche Research SLF…",
-          "url": "https://phys.org/news/2026-07-hourly-reveal-alpine-year-years.html",
+          "title": "With climate ambitions in question, EU reforms carbon market",
+          "summary": "The European Union on Friday unveils reforms to its carbon market after fierce wrangling among countries, industry and activists over the pace of the bloc's climate push.",
+          "url": "https://phys.org/news/2026-07-climate-ambitions-eu-reforms-carbon.html",
           "source": "Phys.org",
-          "date": "2026-07-16"
+          "date": "2026-07-17"
         },
         {
-          "title": "Climate change makes extreme West Africa rainfall five times likelier, study finds",
-          "summary": "Climate change has made extreme rainfall in West Africa five times more likely than in the late 19th century, scientists said Thursday, after regional floods killed nearly 100 people last month.",
-          "url": "https://phys.org/news/2026-07-climate-extreme-west-africa-rainfall.html",
+          "title": "UN report offers roadmap for sustainable blue economies",
+          "summary": "A new United Nations report co-authored by researchers at the University of Portsmouth provides governments with a practical roadmap for building sustainable blue economies, as pollution, climate change and biodiversity…",
+          "url": "https://phys.org/news/2026-07-roadmap-sustainable-blue-economies.html",
           "source": "Phys.org",
-          "date": "2026-07-16"
-        },
-        {
-          "title": "Ontario Wildfire Smoke Moves East",
-          "summary": "Canadian wildfires sent plumes of smoke streaming over Ontario, Quebec, and parts of the U.S. Midwest and Northeast.",
-          "url": "https://science.nasa.gov/earth/earth-observatory/ontario-wildfire-smoke-moves-east/",
-          "source": "NASA",
-          "date": "2026-07-16"
-        },
-        {
-          "title": "Wildfire smoke is choking Canada, Great Lakes and Northeast",
-          "summary": "Wildfire smoke is pouring across Canada and into the US in the Great Lakes and Northeast. These areas will continue to see poor air quality into the weekend. The post Wildfire smoke is choking Canada, Great Lakes and…",
-          "url": "https://earthsky.org/earth/wildfire-smoke-canada-great-lakes-northeast-july-2026/",
-          "source": "EarthSky",
-          "date": "2026-07-16"
+          "date": "2026-07-17"
         }
       ]
     },
@@ -165,18 +165,32 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "Braided, exotic particles could build reliable, universal quantum computers",
-          "summary": "A truly useful quantum computer must be able to run any algorithm, with the same versatility an ordinary laptop offers. Physicists have now shown a new way to give a quantum computer exactly that flexibility, harnessing…",
-          "url": "https://phys.org/news/2026-07-braided-exotic-particles-reliable-universal.html",
+          "title": "A scheme to verify gates of a quantum computer without examining devices",
+          "summary": "Quantum computers, systems that process information using the principles of quantum mechanics, could solve some problems that cannot be tackled by the classical computers currently used worldwide. Despite their…",
+          "url": "https://phys.org/news/2026-07-scheme-gates-quantum-devices.html",
           "source": "Phys.org",
-          "date": "2026-07-16"
+          "date": "2026-07-17"
         },
         {
-          "title": "Study finds LLMs nudge users toward smart savings and investing habits—but the guidance skews",
-          "summary": "Would you trust a large language model to help plan your financial future? Many Americans already do. In a 2025 survey, more than half said they'd asked AI for financial advice. By comparison, about 40% have worked with…",
-          "url": "https://phys.org/news/2026-07-llms-nudge-users-smart-investing.html",
+          "title": "EU's AI 'guardrails' cannot absorb rapid changes in technology, study warns",
+          "summary": "\"Guardrails\" built by the EU to govern AI fall short in both ambition and execution and have become too heavy to absorb rapid changes in technology, a new study in Big Data & Society warns.",
+          "url": "https://phys.org/news/2026-07-eu-ai-guardrails-absorb-rapid.html",
           "source": "Phys.org",
-          "date": "2026-07-16"
+          "date": "2026-07-17"
+        },
+        {
+          "title": "PathSay Project uses AI to cross language barriers",
+          "summary": "Thousands of the world's languages remain largely invisible to modern translation technology, but researchers and students at Brigham Young University are working to change that. Through a project called Pathsay…",
+          "url": "https://phys.org/news/2026-07-pathsay-ai-language-barriers.html",
+          "source": "Phys.org",
+          "date": "2026-07-17"
+        },
+        {
+          "title": "Why a Ukrainian cruise missile is flying with hobby drone hardware",
+          "summary": "An open-source flight-control system found in consumer drones has been installed in Ukraine’s latest cruise missile, showing how cheap technology is making military hardware accessible to all",
+          "url": "https://www.newscientist.com/article/2580002-why-a-ukrainian-cruise-missile-is-flying-with-hobby-drone-hardware/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-07-17"
         },
         {
           "title": "Stealth drone spins so fast that it disappears",
@@ -191,25 +205,18 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "Quantum teleportation could reduce photon loss in long-distance communications",
-          "summary": "Quantum technologies, which leverage the principles of quantum mechanics, have been found to outperform their classical counterparts on specific tasks. Among other things, past studies have highlighted the potential of…",
-          "url": "https://phys.org/news/2026-07-quantum-teleportation-photon-loss-distance.html",
-          "source": "Phys.org",
-          "date": "2026-07-16"
-        },
-        {
-          "title": "A 200-year-old physics experiment could help build future computers",
-          "summary": "Scientists at Nanyang Technological University in Singapore have discovered a surprisingly simple way to create exotic light structures called optical skyrmions using a 200-year-old optical effect known as the Poisson…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260713000755.htm",
+          "title": "Scientists built a camera that can track invisible particles in 3D",
+          "summary": "A new particle detector called PLATON could replace millions of tiny detector components with a single block of light-producing material. Using a light-field camera, highly sensitive photon sensors, and AI, it…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260716023610.htm",
           "source": "Science Daily",
-          "date": "2026-07-13"
+          "date": "2026-07-17"
         },
         {
-          "title": "This cosmic 'lighthouse' is blazing a magnetic trail through the Milky Way",
-          "summary": "For the first time, astronomers have directly mapped the magnetic field surrounding one of the Milky Way's most unusual pulsars, confirming a decades-old prediction about how particles stream away from the rapidly…",
-          "url": "https://www.space.com/astronomy/stars/this-cosmic-lighthouse-is-blazing-a-magnetic-trail-through-the-milky-way",
-          "source": "Space.com",
-          "date": "2026-07-14"
+          "title": "At least 12,000 excess deaths in Europe's June heat wave",
+          "summary": "At least 12,000 excess deaths were recorded across nine European countries during June's heat wave, national statistics indicated, a toll that could yet rise as more data are released, according to an AFP analysis.",
+          "url": "https://phys.org/news/2026-07-excess-deaths-europe-june.html",
+          "source": "Phys.org",
+          "date": "2026-07-17"
         }
       ]
     }
