@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T14:43:36Z",
+  "updated": "2026-07-18T14:19:52Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
@@ -33,11 +33,11 @@
           "date": "2026-07-16"
         },
         {
-          "title": "New method makes epigenetic aging clocks accurate and easier to interpret",
-          "summary": "Epigenetic clocks are important tools in modern aging research. Typically, they use characteristic DNA methylation patterns in the genome to precisely predict a person's age and infer conclusions about the individual's…",
-          "url": "https://phys.org/news/2026-07-method-epigenetic-aging-clocks-accurate.html",
+          "title": "How quantum circuits based on neutral atoms could find and fix errors",
+          "summary": "Quantum computers, devices that process information by leveraging the laws of quantum mechanics, have been found to outperform classical computers in some advanced tasks. Instead of storing information in the form of…",
+          "url": "https://phys.org/news/2026-07-quantum-circuits-based-neutral-atoms.html",
           "source": "Phys.org",
-          "date": "2026-07-17"
+          "date": "2026-07-18"
         }
       ]
     },
@@ -45,15 +45,15 @@
       "emoji": "🚀",
       "articles": [
         {
-          "title": "NASA selects 41 space technologies for future Moon and Mars exploration",
-          "summary": "NASA has chosen 41 commercial technology projects that could solve critical challenges for future missions to the Moon and Mars. From powering lunar outposts to protecting spacecraft from Moon dust, the innovations are…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260713084855.htm",
-          "source": "Science Daily",
-          "date": "2026-07-15"
+          "title": "The Growing Crescent of Mars as NASA’s Psyche Mission Approaches",
+          "summary": "Description This composite of images taken by NASA’s Psyche mission shows the crescent of Mars grow as the spacecraft approached the planet for a gravity assist from May 2 to May 15, 2026. The series begins with the…",
+          "url": "https://science.nasa.gov/photojournal/the-growing-crescent-of-mars-as-nasas-psyche-mission-approaches/",
+          "source": "NASA",
+          "date": "2026-07-17"
         },
         {
-          "title": "SpaceX will launch Starship, the world's largest rocket, on critical Flight 13 test today. Here's what to expect.",
-          "summary": "SpaceX plans to launch Starship Flight 13 today (July 16), a test mission that will send \"V3\" Starlink satellites to space for the first time ever. Here's how to watch it live.",
+          "title": "SpaceX will launch Starship, the world's largest rocket, on critical Flight 13 test on July 20. Here's what to expect.",
+          "summary": "SpaceX plans to launch Starship Flight 13 on Monday (July 20), a test mission that will send \"V3\" Starlink satellites to space for the first time ever. Here's how to watch it live.",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-13-starlink-v3-satellites",
           "source": "Space.com",
           "date": "2026-07-16"
@@ -66,18 +66,18 @@
           "date": "2026-07-15"
         },
         {
-          "title": "The 1st of 10,000 'missing' black holes in the Omega Centauri star cluster has been found by the Hubble and James Webb space telescopes",
-          "summary": "The first of 10,000 missing black holes in the Omega Centauri globular cluster has been found thanks to teamwork by the Hubble and James Webb space telescopes.",
-          "url": "https://www.space.com/astronomy/black-holes/the-1st-of-10-000-missing-black-holes-in-the-omega-centauri-star-cluster-has-been-found-by-the-hubble-and-james-webb-space-telescopes",
-          "source": "Space.com",
-          "date": "2026-07-14"
+          "title": "NASA Invites Media to Roman Space Telescope, Crew-13 Launches",
+          "summary": "Media accreditation now is open for the launch of NASA’s Nancy Grace Roman Space Telescope and the agency’s SpaceX Crew-13 missions, both targeting launch in the coming months. The Roman telescope is slated to launch no…",
+          "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-roman-space-telescope-crew-13-launches/",
+          "source": "NASA",
+          "date": "2026-07-17"
         },
         {
-          "title": "How NASA’s Artemis III Lander Test Will Pave Way for Moon Landings",
-          "summary": "Before Artemis astronauts land on the Moon’s surface in 2028, NASA will conduct the Artemis III demonstration mission in 2027, allowing teams on Earth and in orbit to practice rendezvous and docking operations between…",
-          "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/how-nasas-artemis-iii-lander-test-will-pave-way-for-moon-landings/",
+          "title": "NASA’s Psyche Mission Images Details of Martian Surface During Flyby",
+          "summary": "Description Captured by the multispectral imager instrument on NASA’s Psyche mission, this is an enhanced-color mosaic created from four individual images acquired on May 15, 2026, during the spacecraft’s flyby of Mars…",
+          "url": "https://science.nasa.gov/photojournal/nasas-psyche-mission-images-details-of-martian-surface-during-flyby/",
           "source": "NASA",
-          "date": "2026-07-15"
+          "date": "2026-07-17"
         }
       ]
     },
@@ -92,16 +92,9 @@
           "date": "2026-07-17"
         },
         {
-          "title": "This dinosaur fossil captures the final moments of a T. rex attack",
-          "summary": "A fossilized Edmontosaurus skull with a Tyrannosaurus tooth still embedded in its face has given scientists rare evidence of a dramatic predator-prey encounter. The discovery suggests the giant carnivore delivered an…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260713000811.htm",
-          "source": "Science Daily",
-          "date": "2026-07-14"
-        },
-        {
-          "title": "Australia's most diverse marsupial predators have been hiding their origins for millions of years",
-          "summary": "When you think of carnivorous marsupials, you probably picture the Tasmanian devil or perhaps a spotted-tailed quoll. But these famous predators are only the largest members of a remarkable family of marsupials called…",
-          "url": "https://phys.org/news/2026-07-australia-diverse-marsupial-predators-millions.html",
+          "title": "Researchers identify class of 'oddball' meteorite that killed the dinosaurs",
+          "summary": "A rare CO chondrite meteorite was the probable impacter that struck Earth 66 million years ago, wiping out 75% of Earth's species, including nonavian dinosaurs. These findings are published in Science Advances…",
+          "url": "https://phys.org/news/2026-07-class-oddball-meteorite-dinosaurs.html",
           "source": "Phys.org",
           "date": "2026-07-17"
         },
@@ -113,9 +106,16 @@
           "date": "2026-07-15"
         },
         {
-          "title": "What 'Neil the Seal' can teach us about seal behavior: Marine biologist explains",
-          "summary": "Neil the Seal became a social media sensation almost overnight. Neil is a 5-year-old male southern elephant seal who weighs roughly 1 metric ton (1.1 tons). He was born on the Tasman Peninsula in October 2020 and has…",
-          "url": "https://phys.org/news/2026-07-neil-behavior-marine-biologist.html",
+          "title": "'Chainsaw massacre': Europe mulls culls for fish-guzzling cormorant",
+          "summary": "Europe's great cormorant has recovered from near extinction to overabundance in half a century, stoking a long-running debate over population control between fishers troubled by its voracious appetite and…",
+          "url": "https://phys.org/news/2026-07-chainsaw-massacre-europe-mulls-culls.html",
+          "source": "Phys.org",
+          "date": "2026-07-18"
+        },
+        {
+          "title": "Researcher finds several UK mosquito species are potential carriers of avian malaria",
+          "summary": "Mosquitoes are widely known for transmitting diseases such as malaria and dengue fever to humans, but less is known about the diseases they can transmit to wild birds. The Plasmodium parasite that causes avian malaria…",
+          "url": "https://phys.org/news/2026-07-uk-mosquito-species-potential-carriers.html",
           "source": "Phys.org",
           "date": "2026-07-17"
         }
@@ -132,31 +132,31 @@
           "date": "2026-07-16"
         },
         {
-          "title": "How an influx of salt may affect microbial ecosystems in rivers, estuaries and coastal waters worldwide",
-          "summary": "As sea levels rise due to climate change, encroaching seawater will likely make freshwater environments saltier. In a new study, MIT researchers have shown how that increase in salinity might affect microbial ecosystems…",
-          "url": "https://phys.org/news/2026-07-influx-salt-affect-microbial-ecosystems.html",
-          "source": "Phys.org",
-          "date": "2026-07-17"
-        },
-        {
-          "title": "A 37-year soil experiment revealed a hidden climate threat",
-          "summary": "The world's longest-running soil warming experiment has revealed an unexpected climate concern. After nearly four decades, researchers found that warming can cause microbes to break down stable soil carbon that…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260713000809.htm",
+          "title": "Earth’s biggest volcanic event transformed an entire oceanic plate",
+          "summary": "Seismic waves have revealed that the oceanic plate beneath the Ontong Java Plateau was dramatically transformed by the colossal volcanic activity that created it more than 100 million years ago. Researchers found a…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260716023618.htm",
           "source": "Science Daily",
-          "date": "2026-07-14"
+          "date": "2026-07-18"
         },
         {
-          "title": "With climate ambitions in question, EU reforms carbon market",
-          "summary": "The European Union on Friday unveils reforms to its carbon market after fierce wrangling among countries, industry and activists over the pace of the bloc's climate push.",
-          "url": "https://phys.org/news/2026-07-climate-ambitions-eu-reforms-carbon.html",
+          "title": "Astronomers discover 1st atmosphere around a rocky Earth-like planet in the habitable zone",
+          "summary": "\"It's in the habitable zone, which is super exciting for astrobiology and habitability and searching for life.\"",
+          "url": "https://www.space.com/astronomy/exoplanets/astronomers-discover-1st-atmosphere-around-a-rocky-earth-like-planet-in-the-habitable-zone",
+          "source": "Space.com",
+          "date": "2026-07-16"
+        },
+        {
+          "title": "Multiple origin points drive Southeast Asia's catastrophic fires, study finds",
+          "summary": "How do wildfires grow into catastrophic events? By tracing the earliest detectable origins of the devastating 2015 equatorial Southeast Asian fires, researchers found that most large fires had multiple origin points and…",
+          "url": "https://phys.org/news/2026-07-multiple-southeast-asia-catastrophic.html",
           "source": "Phys.org",
           "date": "2026-07-17"
         },
         {
-          "title": "UN report offers roadmap for sustainable blue economies",
-          "summary": "A new United Nations report co-authored by researchers at the University of Portsmouth provides governments with a practical roadmap for building sustainable blue economies, as pollution, climate change and biodiversity…",
-          "url": "https://phys.org/news/2026-07-roadmap-sustainable-blue-economies.html",
-          "source": "Phys.org",
+          "title": "Sun news: Large coronal hole turns toward Earth",
+          "summary": "Sun news July 18, 2026: The sun is entering a lull period. But a large coronal hole, transequatorial, emerged from the east. The post Sun news: Large coronal hole turns toward Earth first appeared on EarthSky .",
+          "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+          "source": "EarthSky",
           "date": "2026-07-17"
         }
       ]
@@ -165,25 +165,25 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "A scheme to verify gates of a quantum computer without examining devices",
-          "summary": "Quantum computers, systems that process information using the principles of quantum mechanics, could solve some problems that cannot be tackled by the classical computers currently used worldwide. Despite their…",
-          "url": "https://phys.org/news/2026-07-scheme-gates-quantum-devices.html",
+          "title": "New optical chip design controls light speed in real time, simulations suggest",
+          "summary": "Seoul National University College of Engineering announced that a joint research team led by Professor Namkyoo Park and Professor Sunkyu Yu of the Department of Electrical and Computer Engineering at SNU, in…",
+          "url": "https://phys.org/news/2026-07-optical-chip-real-simulations.html",
           "source": "Phys.org",
           "date": "2026-07-17"
         },
         {
-          "title": "EU's AI 'guardrails' cannot absorb rapid changes in technology, study warns",
-          "summary": "\"Guardrails\" built by the EU to govern AI fall short in both ambition and execution and have become too heavy to absorb rapid changes in technology, a new study in Big Data & Society warns.",
-          "url": "https://phys.org/news/2026-07-eu-ai-guardrails-absorb-rapid.html",
+          "title": "AI unlocks QLED recipe that doubles efficiency and boosts lifetime 40-fold",
+          "summary": "A technology has been developed that allows artificial intelligence to inversely determine the process conditions for quantum-dot light-emitting diode (QLED) devices—conditions that previously required extensive trial…",
+          "url": "https://phys.org/news/2026-07-ai-qled-recipe-efficiency-boosts.html",
           "source": "Phys.org",
-          "date": "2026-07-17"
+          "date": "2026-07-18"
         },
         {
-          "title": "PathSay Project uses AI to cross language barriers",
-          "summary": "Thousands of the world's languages remain largely invisible to modern translation technology, but researchers and students at Brigham Young University are working to change that. Through a project called Pathsay…",
-          "url": "https://phys.org/news/2026-07-pathsay-ai-language-barriers.html",
+          "title": "Scale can measure university students' confidence in using AI",
+          "summary": "A study conducted at Koç University School of Nursing examined university students' perceived self-efficacy in using artificial intelligence technologies. Led by Associate Professor Remziye Semerci Şahin and Assistant…",
+          "url": "https://phys.org/news/2026-07-scale-university-students-confidence-ai.html",
           "source": "Phys.org",
-          "date": "2026-07-17"
+          "date": "2026-07-18"
         },
         {
           "title": "Why a Ukrainian cruise missile is flying with hobby drone hardware",
@@ -212,11 +212,32 @@
           "date": "2026-07-17"
         },
         {
-          "title": "At least 12,000 excess deaths in Europe's June heat wave",
-          "summary": "At least 12,000 excess deaths were recorded across nine European countries during June's heat wave, national statistics indicated, a toll that could yet rise as more data are released, according to an AFP analysis.",
-          "url": "https://phys.org/news/2026-07-excess-deaths-europe-june.html",
+          "title": "How Gravity from Entropy theory connects the second law of thermodynamics with the emergence of cosmic structure",
+          "summary": "A new study by Queen Mary University of London mathematician Professor Ginestra Bianconi proposes a new perspective on one of the deepest questions in modern physics: How can the universe become increasingly structured…",
+          "url": "https://phys.org/news/2026-07-gravity-entropy-theory-law-thermodynamics.html",
           "source": "Phys.org",
           "date": "2026-07-17"
+        },
+        {
+          "title": "The Large Hadron Collider is being upgraded so that it can unlock the secrets of the Higgs boson",
+          "summary": "Deep beneath the French-Swiss border, the world's largest scientific instrument has fallen silent. After years of smashing protons together at nearly the speed of light, CERN's Large Hadron Collider (LHC) has stopped…",
+          "url": "https://phys.org/news/2026-07-large-hadron-collider-secrets-higgs.html",
+          "source": "Phys.org",
+          "date": "2026-07-17"
+        },
+        {
+          "title": "Heat-stressed cells use nuclear stress bodies to restart RNA splicing, study finds",
+          "summary": "If you want to beat the heat of the summer sun, slowing down and doing less is a good strategy. However, researchers have long asked whether the same occurs at the cellular level. While cellular stress responses have…",
+          "url": "https://phys.org/news/2026-07-stressed-cells-nuclear-stress-bodies.html",
+          "source": "Phys.org",
+          "date": "2026-07-18"
+        },
+        {
+          "title": "How physics and mathematical modeling help us make better clothes",
+          "summary": "A new paper in the journal Nature Physics offers insights into the physics of liquid droplets—and while many people may not appreciate the mathematical accomplishment, they will benefit from the athletic wear and…",
+          "url": "https://phys.org/news/2026-07-physics-mathematical.html",
+          "source": "Phys.org",
+          "date": "2026-07-18"
         }
       ]
     }
