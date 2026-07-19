@@ -1,9 +1,16 @@
 {
-  "updated": "2026-07-18T14:19:52Z",
+  "updated": "2026-07-19T14:23:26Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
+        {
+          "title": "Nanoparticles could remove harmful immune molecules from blood",
+          "summary": "The immune system, the body's defense network against infections and injuries, can sometimes become too active. In these cases, it can produce too many immune mediators, fragments of genetic material or proteins that…",
+          "url": "https://phys.org/news/2026-07-nanoparticles-immune-molecules-blood.html",
+          "source": "Phys.org",
+          "date": "2026-07-18"
+        },
         {
           "title": "This sugar-coated therapy boosted survival against deadly brain cancer by 50% in mice",
           "summary": "A new experimental treatment may have found a way to outsmart glioblastoma’s toughest defense: the blood-brain barrier. Researchers used sugar-coated nanoparticles to ferry genetic instructions that restore a key…",
@@ -31,13 +38,6 @@
           "url": "https://www.sciencedaily.com/releases/2026/07/260714225530.htm",
           "source": "Science Daily",
           "date": "2026-07-16"
-        },
-        {
-          "title": "How quantum circuits based on neutral atoms could find and fix errors",
-          "summary": "Quantum computers, devices that process information by leveraging the laws of quantum mechanics, have been found to outperform classical computers in some advanced tasks. Instead of storing information in the form of…",
-          "url": "https://phys.org/news/2026-07-quantum-circuits-based-neutral-atoms.html",
-          "source": "Phys.org",
-          "date": "2026-07-18"
         }
       ]
     },
@@ -52,6 +52,20 @@
           "date": "2026-07-17"
         },
         {
+          "title": "Image: The growing crescent of Mars as NASA's psyche mission approaches",
+          "summary": "This composite of images taken by NASA's Psyche mission shows the crescent of Mars grow as the spacecraft approached the planet for a gravity assist from May 2 to May 15, 2026.",
+          "url": "https://phys.org/news/2026-07-image-crescent-mars-nasa-psyche.html",
+          "source": "Phys.org",
+          "date": "2026-07-19"
+        },
+        {
+          "title": "NASA's Psyche mission delivers Mars flyby data, time-lapse video",
+          "summary": "The spacecraft aced its encounter with Mars. Now, mission scientists are studying a trove of data from the flyby in preparation for its arrival at asteroid Psyche in 2029.",
+          "url": "https://phys.org/news/2026-07-nasa-psyche-mission-mars-flyby.html",
+          "source": "Phys.org",
+          "date": "2026-07-18"
+        },
+        {
           "title": "SpaceX will launch Starship, the world's largest rocket, on critical Flight 13 test on July 20. Here's what to expect.",
           "summary": "SpaceX plans to launch Starship Flight 13 on Monday (July 20), a test mission that will send \"V3\" Starlink satellites to space for the first time ever. Here's how to watch it live.",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-13-starlink-v3-satellites",
@@ -59,23 +73,9 @@
           "date": "2026-07-16"
         },
         {
-          "title": "'Full steam ahead': NASA ramps up prep for Artemis III astronaut launch in 2027",
-          "summary": "NASA is busy preparing for Artemis III, the next crewed mission of its moon program launching on the massive SLS rocket next year. Hardware is coming together and agency personnel have begun launch scenario sims inside…",
-          "url": "https://www.space.com/space-exploration/artemis/full-steam-ahead-nasa-ramps-up-prep-for-artemis-iii-astronaut-launch-in-2027",
-          "source": "Space.com",
-          "date": "2026-07-15"
-        },
-        {
           "title": "NASA Invites Media to Roman Space Telescope, Crew-13 Launches",
           "summary": "Media accreditation now is open for the launch of NASA’s Nancy Grace Roman Space Telescope and the agency’s SpaceX Crew-13 missions, both targeting launch in the coming months. The Roman telescope is slated to launch no…",
           "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-roman-space-telescope-crew-13-launches/",
-          "source": "NASA",
-          "date": "2026-07-17"
-        },
-        {
-          "title": "NASA’s Psyche Mission Images Details of Martian Surface During Flyby",
-          "summary": "Description Captured by the multispectral imager instrument on NASA’s Psyche mission, this is an enhanced-color mosaic created from four individual images acquired on May 15, 2026, during the spacecraft’s flyby of Mars…",
-          "url": "https://science.nasa.gov/photojournal/nasas-psyche-mission-images-details-of-martian-surface-during-flyby/",
           "source": "NASA",
           "date": "2026-07-17"
         }
@@ -92,18 +92,18 @@
           "date": "2026-07-17"
         },
         {
-          "title": "Researchers identify class of 'oddball' meteorite that killed the dinosaurs",
-          "summary": "A rare CO chondrite meteorite was the probable impacter that struck Earth 66 million years ago, wiping out 75% of Earth's species, including nonavian dinosaurs. These findings are published in Science Advances…",
-          "url": "https://phys.org/news/2026-07-class-oddball-meteorite-dinosaurs.html",
-          "source": "Phys.org",
-          "date": "2026-07-17"
+          "title": "Scientists just discovered a lost branch of Australia’s marsupials",
+          "summary": "Fossils from Queensland suggest a newly recognized marsupial order may have survived in Australia for around 35 million years, rewriting part of the story of how the continent's unique mammals evolved. The discovery…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260715083546.htm",
+          "source": "Science Daily",
+          "date": "2026-07-19"
         },
         {
-          "title": "Are humans really the ultimate super-predator?",
-          "summary": "Humans are often described as the planet's ultimate \"super-predator,\" but wild animals do not fear every human the same way. After analyzing three decades of research, scientists found that animals become much more…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260714225540.htm",
-          "source": "Science Daily",
-          "date": "2026-07-15"
+          "title": "Butterfly experts are planting 15,000 milkweed plants along Florida roadsides to help monarchs",
+          "summary": "If you've driven down two-lane highways in rural parts of North Florida recently, you may have noticed a spate of new signs that designate the grassy knolls bordering the asphalt as wildflower areas. The signs likely…",
+          "url": "https://phys.org/news/2026-07-butterfly-experts-milkweed-florida-roadsides.html",
+          "source": "Phys.org",
+          "date": "2026-07-18"
         },
         {
           "title": "'Chainsaw massacre': Europe mulls culls for fish-guzzling cormorant",
@@ -113,11 +113,11 @@
           "date": "2026-07-18"
         },
         {
-          "title": "Researcher finds several UK mosquito species are potential carriers of avian malaria",
-          "summary": "Mosquitoes are widely known for transmitting diseases such as malaria and dengue fever to humans, but less is known about the diseases they can transmit to wild birds. The Plasmodium parasite that causes avian malaria…",
-          "url": "https://phys.org/news/2026-07-uk-mosquito-species-potential-carriers.html",
+          "title": "Half a century of sightings reveals Ireland remains a haven for endangered basking sharks",
+          "summary": "Ireland's waters continue to provide an important seasonal refuge for the endangered basking shark, according to a new study.",
+          "url": "https://phys.org/news/2026-07-century-sightings-reveals-ireland-haven.html",
           "source": "Phys.org",
-          "date": "2026-07-17"
+          "date": "2026-07-18"
         }
       ]
     },
@@ -146,18 +146,11 @@
           "date": "2026-07-16"
         },
         {
-          "title": "Multiple origin points drive Southeast Asia's catastrophic fires, study finds",
-          "summary": "How do wildfires grow into catastrophic events? By tracing the earliest detectable origins of the devastating 2015 equatorial Southeast Asian fires, researchers found that most large fires had multiple origin points and…",
-          "url": "https://phys.org/news/2026-07-multiple-southeast-asia-catastrophic.html",
+          "title": "New environmental performance index highlights sustainability gains, and the challenges ahead",
+          "summary": "European countries continue to lead the world in environmental performance, according to the 2026 Environmental Performance Index (EPI), a biennial assessment produced by researchers at the Yale Center for Environmental…",
+          "url": "https://phys.org/news/2026-07-environmental-index-highlights-sustainability-gains.html",
           "source": "Phys.org",
-          "date": "2026-07-17"
-        },
-        {
-          "title": "Sun news: Large coronal hole turns toward Earth",
-          "summary": "Sun news July 18, 2026: The sun is entering a lull period. But a large coronal hole, transequatorial, emerged from the east. The post Sun news: Large coronal hole turns toward Earth first appeared on EarthSky .",
-          "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
-          "source": "EarthSky",
-          "date": "2026-07-17"
+          "date": "2026-07-18"
         }
       ]
     },
@@ -165,23 +158,9 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "New optical chip design controls light speed in real time, simulations suggest",
-          "summary": "Seoul National University College of Engineering announced that a joint research team led by Professor Namkyoo Park and Professor Sunkyu Yu of the Department of Electrical and Computer Engineering at SNU, in…",
-          "url": "https://phys.org/news/2026-07-optical-chip-real-simulations.html",
-          "source": "Phys.org",
-          "date": "2026-07-17"
-        },
-        {
           "title": "AI unlocks QLED recipe that doubles efficiency and boosts lifetime 40-fold",
           "summary": "A technology has been developed that allows artificial intelligence to inversely determine the process conditions for quantum-dot light-emitting diode (QLED) devices—conditions that previously required extensive trial…",
           "url": "https://phys.org/news/2026-07-ai-qled-recipe-efficiency-boosts.html",
-          "source": "Phys.org",
-          "date": "2026-07-18"
-        },
-        {
-          "title": "Scale can measure university students' confidence in using AI",
-          "summary": "A study conducted at Koç University School of Nursing examined university students' perceived self-efficacy in using artificial intelligence technologies. Led by Associate Professor Remziye Semerci Şahin and Assistant…",
-          "url": "https://phys.org/news/2026-07-scale-university-students-confidence-ai.html",
           "source": "Phys.org",
           "date": "2026-07-18"
         },
@@ -212,18 +191,11 @@
           "date": "2026-07-17"
         },
         {
-          "title": "How Gravity from Entropy theory connects the second law of thermodynamics with the emergence of cosmic structure",
-          "summary": "A new study by Queen Mary University of London mathematician Professor Ginestra Bianconi proposes a new perspective on one of the deepest questions in modern physics: How can the universe become increasingly structured…",
-          "url": "https://phys.org/news/2026-07-gravity-entropy-theory-law-thermodynamics.html",
+          "title": "More than 2,700 excess deaths estimated in England and Wales during May and June",
+          "summary": "More than 2,700 people are estimated to have died from heat-related causes during the record-breaking May and June 2026 heat waves in England and Wales, according to a new rapid analysis report led by researchers from…",
+          "url": "https://phys.org/news/2026-07-excess-deaths-england-wales-june.html",
           "source": "Phys.org",
-          "date": "2026-07-17"
-        },
-        {
-          "title": "The Large Hadron Collider is being upgraded so that it can unlock the secrets of the Higgs boson",
-          "summary": "Deep beneath the French-Swiss border, the world's largest scientific instrument has fallen silent. After years of smashing protons together at nearly the speed of light, CERN's Large Hadron Collider (LHC) has stopped…",
-          "url": "https://phys.org/news/2026-07-large-hadron-collider-secrets-higgs.html",
-          "source": "Phys.org",
-          "date": "2026-07-17"
+          "date": "2026-07-18"
         },
         {
           "title": "Heat-stressed cells use nuclear stress bodies to restart RNA splicing, study finds",
@@ -231,6 +203,13 @@
           "url": "https://phys.org/news/2026-07-stressed-cells-nuclear-stress-bodies.html",
           "source": "Phys.org",
           "date": "2026-07-18"
+        },
+        {
+          "title": "Energy price shocks slow state economies; spur energy efficiency investments",
+          "summary": "Rising energy prices in the U.S. reduce states' economic output, but they also prompt investments in more efficient equipment and technologies that partially offset those output losses over time, according to a new…",
+          "url": "https://phys.org/news/2026-07-energy-price-state-economies-spur.html",
+          "source": "Phys.org",
+          "date": "2026-07-19"
         },
         {
           "title": "How physics and mathematical modeling help us make better clothes",
