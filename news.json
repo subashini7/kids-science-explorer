@@ -1,15 +1,15 @@
 {
-  "updated": "2026-07-19T14:23:26Z",
+  "updated": "2026-07-20T15:11:19Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "Nanoparticles could remove harmful immune molecules from blood",
-          "summary": "The immune system, the body's defense network against infections and injuries, can sometimes become too active. In these cases, it can produce too many immune mediators, fragments of genetic material or proteins that…",
-          "url": "https://phys.org/news/2026-07-nanoparticles-immune-molecules-blood.html",
-          "source": "Phys.org",
-          "date": "2026-07-18"
+          "title": "A tiny universe in a bottle reveals clues to the origins of life",
+          "summary": "Researchers have created cosmic dust from scratch by recreating space-like conditions inside glass tubes. The dust contains complex carbon-rich molecules built from elements essential to life and produces infrared…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260718010156.htm",
+          "source": "Science Daily",
+          "date": "2026-07-19"
         },
         {
           "title": "This sugar-coated therapy boosted survival against deadly brain cancer by 50% in mice",
@@ -19,25 +19,25 @@
           "date": "2026-07-17"
         },
         {
-          "title": "Sun-like star caught after eating one of its own planets",
-          "summary": "A distant Sun-like star appears to have devoured one of its planets, leaving behind a surprising chemical fingerprint. Researchers found an unusually high concentration of lithium, a strong sign that planetary material…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260715083538.htm",
+          "title": "Scientists found two powerful new ways to destroy forever chemicals",
+          "summary": "Scientists are testing two promising ways to destroy PFAS, the stubborn “forever chemicals” that can accumulate in water and resist normal treatment. One method uses collapsing vapor bubbles to generate extreme heat and…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260718010147.htm",
           "source": "Science Daily",
-          "date": "2026-07-16"
+          "date": "2026-07-20"
         },
         {
-          "title": "Quantum breakthrough links light and magnetism in atomically thin materials",
-          "summary": "A new review highlights exciting progress in atomically thin quantum materials where light and magnetism work together in ways never before possible. In these materials, light-generated excitons can interact directly…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260715083523.htm",
+          "title": "Scientists discover a protein that protects the brain from Alzheimer’s damage",
+          "summary": "A protein called SORLA may act as a powerful defense against the toxic tau tangles involved in Alzheimer’s disease. Mice with extra SORLA had less tau accumulation, less brain atrophy, and healthier connections between…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260718010140.htm",
           "source": "Science Daily",
-          "date": "2026-07-16"
+          "date": "2026-07-20"
         },
         {
-          "title": "This ancient sea worm has “bio-metal” jaws unlike anything scientists have seen",
-          "summary": "An ancient sea worm may hold the secret to a whole new category of natural materials. Its jaws combine proteins and metal ions in a way that gives them metal-like strength and unusual mechanical behavior, yet they still…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260714225530.htm",
+          "title": "New AI blood test predicts heart disease 15 years early",
+          "summary": "A new AI-powered blood test could give people a remarkably early warning of serious heart and circulation problems. Developed by researchers at the University of Hong Kong, CardiOmicScore analyzes thousands of proteins…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260716023603.htm",
           "source": "Science Daily",
-          "date": "2026-07-16"
+          "date": "2026-07-19"
         }
       ]
     },
@@ -52,32 +52,32 @@
           "date": "2026-07-17"
         },
         {
-          "title": "Image: The growing crescent of Mars as NASA's psyche mission approaches",
-          "summary": "This composite of images taken by NASA's Psyche mission shows the crescent of Mars grow as the spacecraft approached the planet for a gravity assist from May 2 to May 15, 2026.",
-          "url": "https://phys.org/news/2026-07-image-crescent-mars-nasa-psyche.html",
-          "source": "Phys.org",
-          "date": "2026-07-19"
-        },
-        {
-          "title": "NASA's Psyche mission delivers Mars flyby data, time-lapse video",
-          "summary": "The spacecraft aced its encounter with Mars. Now, mission scientists are studying a trove of data from the flyby in preparation for its arrival at asteroid Psyche in 2029.",
-          "url": "https://phys.org/news/2026-07-nasa-psyche-mission-mars-flyby.html",
-          "source": "Phys.org",
-          "date": "2026-07-18"
-        },
-        {
-          "title": "SpaceX will launch Starship, the world's largest rocket, on critical Flight 13 test on July 20. Here's what to expect.",
-          "summary": "SpaceX plans to launch Starship Flight 13 on Monday (July 20), a test mission that will send \"V3\" Starlink satellites to space for the first time ever. Here's how to watch it live.",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-13-starlink-v3-satellites",
-          "source": "Space.com",
-          "date": "2026-07-16"
-        },
-        {
           "title": "NASA Invites Media to Roman Space Telescope, Crew-13 Launches",
           "summary": "Media accreditation now is open for the launch of NASA’s Nancy Grace Roman Space Telescope and the agency’s SpaceX Crew-13 missions, both targeting launch in the coming months. The Roman telescope is slated to launch no…",
           "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-roman-space-telescope-crew-13-launches/",
           "source": "NASA",
           "date": "2026-07-17"
+        },
+        {
+          "title": "NASA’s Psyche Mission Images Details of Martian Surface During Flyby",
+          "summary": "Description Captured by the multispectral imager instrument on NASA’s Psyche mission, this is an enhanced-color mosaic created from four individual images acquired on May 15, 2026, during the spacecraft’s flyby of Mars…",
+          "url": "https://science.nasa.gov/photojournal/nasas-psyche-mission-images-details-of-martian-surface-during-flyby/",
+          "source": "NASA",
+          "date": "2026-07-17"
+        },
+        {
+          "title": "'The dawn of a new space era': Vikram-1, India's 1st private orbital rocket, aces debut launch",
+          "summary": "Skyroot Aerospace's Vikram-1 rocket aced its debut mission on Saturday morning (July 18), making India the third nation with a private orbital launch capability.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/skyroot-aerospace-india-first-private-orbital-launch-vikram-1",
+          "source": "Space.com",
+          "date": "2026-07-17"
+        },
+        {
+          "title": "Why AI's environmental footprint won't disappear into orbit",
+          "summary": "AI companies increasingly want to move their operations into space. Elon Musk's SpaceX has applied to launch over a million AI data center satellites and ultimately build them on the moon.",
+          "url": "https://phys.org/news/2026-07-ai-environmental-footprint-wont-orbit.html",
+          "source": "Phys.org",
+          "date": "2026-07-20"
         }
       ]
     },
@@ -85,11 +85,11 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "A Tide-Fueled Trove of Biodiversity in Guinea-Bissau",
-          "summary": "The expansive mudflats, sandy beaches, and mangrove forests of the Bijagós archipelago support an array of migratory shorebirds and large numbers of sea turtles.",
-          "url": "https://science.nasa.gov/earth/earth-observatory/a-tide-fueled-trove-of-biodiversity-in-guinea-bissau/",
-          "source": "NASA",
-          "date": "2026-07-17"
+          "title": "Some dinosaurs could rise like giants until they grew too big",
+          "summary": "Two elephant-sized South American sauropods were unusually well built for standing on their hind legs. Digital tests showed that their robust femurs handled the enormous forces better than those of larger species…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260719231758.htm",
+          "source": "Science Daily",
+          "date": "2026-07-20"
         },
         {
           "title": "Scientists just discovered a lost branch of Australia’s marsupials",
@@ -99,25 +99,25 @@
           "date": "2026-07-19"
         },
         {
-          "title": "Butterfly experts are planting 15,000 milkweed plants along Florida roadsides to help monarchs",
-          "summary": "If you've driven down two-lane highways in rural parts of North Florida recently, you may have noticed a spate of new signs that designate the grassy knolls bordering the asphalt as wildflower areas. The signs likely…",
-          "url": "https://phys.org/news/2026-07-butterfly-experts-milkweed-florida-roadsides.html",
+          "title": "Underwater drones discover coral reefs off Benin, long presumed dead, teeming with life",
+          "summary": "A coral reef, missing and presumed dead, has been found alive and well off the coast of Benin. Surveys in the 1960s, focused on identifying promising fishing areas, flagged a possible deep-water coral reef but assumed…",
+          "url": "https://phys.org/news/2026-07-underwater-drones-coral-reefs-benin.html",
           "source": "Phys.org",
-          "date": "2026-07-18"
+          "date": "2026-07-20"
         },
         {
-          "title": "'Chainsaw massacre': Europe mulls culls for fish-guzzling cormorant",
-          "summary": "Europe's great cormorant has recovered from near extinction to overabundance in half a century, stoking a long-running debate over population control between fishers troubled by its voracious appetite and…",
-          "url": "https://phys.org/news/2026-07-chainsaw-massacre-europe-mulls-culls.html",
+          "title": "Prescribed burns may be lethal for lizards",
+          "summary": "Scientists are calling for wildlife surveys to be conducted within hours of prescribed burns after new research revealed that evidence of animal deaths can disappear in less than two weeks, significantly underestimating…",
+          "url": "https://phys.org/news/2026-07-lethal-lizards.html",
           "source": "Phys.org",
-          "date": "2026-07-18"
+          "date": "2026-07-20"
         },
         {
-          "title": "Half a century of sightings reveals Ireland remains a haven for endangered basking sharks",
-          "summary": "Ireland's waters continue to provide an important seasonal refuge for the endangered basking shark, according to a new study.",
-          "url": "https://phys.org/news/2026-07-century-sightings-reveals-ireland-haven.html",
+          "title": "Wealthier North Carolina neighborhoods may be hotspots for insecticide-resistant tiger mosquitoes",
+          "summary": "The choices people make to control mosquitoes in their own backyards may be helping some of those mosquitoes survive the very insecticides meant to kill them, according to two new studies from North Carolina State…",
+          "url": "https://phys.org/news/2026-07-wealthier-north-carolina-neighborhoods-hotspots.html",
           "source": "Phys.org",
-          "date": "2026-07-18"
+          "date": "2026-07-20"
         }
       ]
     },
@@ -125,11 +125,18 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Earth has a natural thermostat and scientists finally know how it works",
-          "summary": "Scientists have identified a hidden feedback loop that may explain how Earth has regulated its climate for tens of millions of years. As sea levels rose and fell, they changed how much phosphate reached the open ocean…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260715083527.htm",
+          "title": "Earth’s waters are quietly running out of oxygen, scientists warn",
+          "summary": "Oxygen is disappearing from oceans, lakes, rivers, and coastal waters at an alarming rate, threatening aquatic life and weakening the natural processes that help regulate Earth’s climate. Scientists warn that this…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260719035939.htm",
           "source": "Science Daily",
-          "date": "2026-07-16"
+          "date": "2026-07-20"
+        },
+        {
+          "title": "Deep-space CubeSat could stretch solar storm warnings from 15 minutes to 3 hours",
+          "summary": "Space weather warnings could be received hours before Earth is hit rather than minutes with the help of a miniature UK-built instrument soon to be stationed in deep space. MAGIC (MAGnetometer from Imperial College) is…",
+          "url": "https://phys.org/news/2026-07-deep-space-cubesat-solar-storm.html",
+          "source": "Phys.org",
+          "date": "2026-07-20"
         },
         {
           "title": "Earth’s biggest volcanic event transformed an entire oceanic plate",
@@ -139,18 +146,18 @@
           "date": "2026-07-18"
         },
         {
-          "title": "Astronomers discover 1st atmosphere around a rocky Earth-like planet in the habitable zone",
-          "summary": "\"It's in the habitable zone, which is super exciting for astrobiology and habitability and searching for life.\"",
-          "url": "https://www.space.com/astronomy/exoplanets/astronomers-discover-1st-atmosphere-around-a-rocky-earth-like-planet-in-the-habitable-zone",
-          "source": "Space.com",
-          "date": "2026-07-16"
+          "title": "Giving bees a probiotic diet could help protect them from extreme temperatures",
+          "summary": "Honeybees do not like cold weather. When temperatures dip, they can become sluggish and unable to fly. But no matter the conditions in the outside world, they try to keep their hives close to a comfortable 34°C–36°C…",
+          "url": "https://phys.org/news/2026-07-bees-probiotic-diet-extreme-temperatures.html",
+          "source": "Phys.org",
+          "date": "2026-07-20"
         },
         {
-          "title": "New environmental performance index highlights sustainability gains, and the challenges ahead",
-          "summary": "European countries continue to lead the world in environmental performance, according to the 2026 Environmental Performance Index (EPI), a biennial assessment produced by researchers at the Yale Center for Environmental…",
-          "url": "https://phys.org/news/2026-07-environmental-index-highlights-sustainability-gains.html",
+          "title": "5.5 magnitude earthquake hits Peru's Andes region and kills at least 6 people",
+          "summary": "A 5.5 magnitude earthquake shook the Andes region of Peru, killing at least six people, injuring more than 30 and displacing 300, authorities said Sunday.",
+          "url": "https://phys.org/news/2026-07-magnitude-earthquake-peru-andes-region.html",
           "source": "Phys.org",
-          "date": "2026-07-18"
+          "date": "2026-07-20"
         }
       ]
     },
@@ -158,11 +165,11 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "AI unlocks QLED recipe that doubles efficiency and boosts lifetime 40-fold",
-          "summary": "A technology has been developed that allows artificial intelligence to inversely determine the process conditions for quantum-dot light-emitting diode (QLED) devices—conditions that previously required extensive trial…",
-          "url": "https://phys.org/news/2026-07-ai-qled-recipe-efficiency-boosts.html",
-          "source": "Phys.org",
-          "date": "2026-07-18"
+          "title": "An ordinary laptop solved a problem thought to require a quantum computer",
+          "summary": "A quantum problem once described as impossible for classical computers has now been solved using relatively modest hardware. Researchers used tensor networks to compress the overwhelming wave function created by…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260719040000.htm",
+          "source": "Science Daily",
+          "date": "2026-07-20"
         },
         {
           "title": "Why a Ukrainian cruise missile is flying with hobby drone hardware",
@@ -172,11 +179,18 @@
           "date": "2026-07-17"
         },
         {
-          "title": "Stealth drone spins so fast that it disappears",
-          "summary": "A drone that spins 25 times a second can avoid being spotted by becoming nothing more than a vague blur – though the creators admit that it can still be easily heard",
-          "url": "https://www.newscientist.com/article/2579564-stealth-drone-spins-so-fast-that-it-disappears/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-07-16"
+          "title": "AI may not make us stupid, but relying on it could weaken the skills built through practice",
+          "summary": "The worry of becoming stupid isn't new; it dates back to the time of the Greek philosopher Socrates, who insisted that writing would destroy memory and weaken the mind. Then came calculators, GPS and computers, all of…",
+          "url": "https://phys.org/news/2026-07-ai-stupid-weaken-skills-built.html",
+          "source": "Phys.org",
+          "date": "2026-07-20"
+        },
+        {
+          "title": "Should we trust AI in the search for alien life? Scientists aren't so sure",
+          "summary": "New research suggests AI can be repeatedly fooled into mistaking non-life for life.",
+          "url": "https://www.space.com/space-exploration/search-for-life/should-we-trust-ai-in-the-search-for-alien-life-scientists-arent-so-sure",
+          "source": "Space.com",
+          "date": "2026-07-19"
         }
       ]
     },
@@ -191,31 +205,31 @@
           "date": "2026-07-17"
         },
         {
-          "title": "More than 2,700 excess deaths estimated in England and Wales during May and June",
-          "summary": "More than 2,700 people are estimated to have died from heat-related causes during the record-breaking May and June 2026 heat waves in England and Wales, according to a new rapid analysis report led by researchers from…",
-          "url": "https://phys.org/news/2026-07-excess-deaths-england-wales-june.html",
-          "source": "Phys.org",
-          "date": "2026-07-18"
+          "title": "UCLA scientists develop mineral sunscreen without the chalky white cast",
+          "summary": "Scientists have redesigned zinc oxide particles to create a mineral sunscreen that protects against ultraviolet radiation without leaving such a noticeable white cast. The SPF 30 formula could make sunscreen easier and…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260718010200.htm",
+          "source": "Science Daily",
+          "date": "2026-07-20"
         },
         {
-          "title": "Heat-stressed cells use nuclear stress bodies to restart RNA splicing, study finds",
-          "summary": "If you want to beat the heat of the summer sun, slowing down and doing less is a good strategy. However, researchers have long asked whether the same occurs at the cellular level. While cellular stress responses have…",
-          "url": "https://phys.org/news/2026-07-stressed-cells-nuclear-stress-bodies.html",
+          "title": "Greece braces for year's first heat wave",
+          "summary": "Greece, which was spared the record heat that ravaged most of Europe in June, is finally bracing for its first heat wave of the year.",
+          "url": "https://phys.org/news/2026-07-greece-braces-year.html",
           "source": "Phys.org",
-          "date": "2026-07-18"
+          "date": "2026-07-20"
         },
         {
-          "title": "Energy price shocks slow state economies; spur energy efficiency investments",
-          "summary": "Rising energy prices in the U.S. reduce states' economic output, but they also prompt investments in more efficient equipment and technologies that partially offset those output losses over time, according to a new…",
-          "url": "https://phys.org/news/2026-07-energy-price-state-economies-spur.html",
-          "source": "Phys.org",
-          "date": "2026-07-19"
+          "title": "Strange paraparticles could be reality’s missing ingredient",
+          "summary": "Neither matter nor force, paraparticles would be something else entirely. Fresh hints that they exist are raising hopes that they could explain reality at its deepest level",
+          "url": "https://www.newscientist.com/article/2533213-strange-paraparticles-could-be-realitys-missing-ingredient/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-07-20"
         },
         {
-          "title": "How physics and mathematical modeling help us make better clothes",
-          "summary": "A new paper in the journal Nature Physics offers insights into the physics of liquid droplets—and while many people may not appreciate the mathematical accomplishment, they will benefit from the athletic wear and…",
-          "url": "https://phys.org/news/2026-07-physics-mathematical.html",
-          "source": "Phys.org",
+          "title": "Beyond the Perseids: 6 meteor showers worth watching this summer",
+          "summary": "The Perseids may steal the spotlight, but six lesser-known meteor showers could also light up summer skies.",
+          "url": "https://www.space.com/stargazing/meteor-showers/beyond-the-perseids-6-meteor-showers-worth-watching-this-summer",
+          "source": "Space.com",
           "date": "2026-07-18"
         }
       ]
