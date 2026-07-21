@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T15:11:19Z",
+  "updated": "2026-07-21T15:03:51Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
@@ -12,32 +12,32 @@
           "date": "2026-07-19"
         },
         {
-          "title": "This sugar-coated therapy boosted survival against deadly brain cancer by 50% in mice",
-          "summary": "A new experimental treatment may have found a way to outsmart glioblastoma’s toughest defense: the blood-brain barrier. Researchers used sugar-coated nanoparticles to ferry genetic instructions that restore a key…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260715083542.htm",
-          "source": "Science Daily",
-          "date": "2026-07-17"
+          "title": "Geophysics brings clarity to the potential of natural hydrogen",
+          "summary": "Natural hydrogen is considered a potential low-carbon energy source. But how much is generated underground—and how quickly? An international research team led by the LIAG Institute for Applied Geophysics in Hannover has…",
+          "url": "https://phys.org/news/2026-07-geophysics-clarity-potential-natural-hydrogen.html",
+          "source": "Phys.org",
+          "date": "2026-07-21"
         },
         {
-          "title": "Scientists found two powerful new ways to destroy forever chemicals",
-          "summary": "Scientists are testing two promising ways to destroy PFAS, the stubborn “forever chemicals” that can accumulate in water and resist normal treatment. One method uses collapsing vapor bubbles to generate extreme heat and…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260718010147.htm",
-          "source": "Science Daily",
+          "title": "Grants",
+          "summary": "*Notice* The Payment Management System (PMS) is currently experiencing issues affecting Federal Financial Report (FFR) generation. Impacted NASA grant recipients will not be considered noncompliant. NASA is working with…",
+          "url": "https://www.nasa.gov/centers-and-facilities/grants-2/",
+          "source": "NASA",
+          "date": "2026-07-21"
+        },
+        {
+          "title": "Establishing Crew Exposure Limits of Martian Dust",
+          "summary": "Background Human exploration of Mars will expose crews to a persistent, fine particulate environment whose physicochemical properties and health implications remain only partly understood. Because no samples of…",
+          "url": "https://www.nasa.gov/general/establishing-crew-exposure-limits-of-martian-dust/",
+          "source": "NASA",
+          "date": "2026-07-21"
+        },
+        {
+          "title": "NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration",
+          "summary": "An aircraft powered by a megawatt-class hybrid-electric engine developed in collaboration with NASA and built by GE Aerospace, demonstrated flight of an innovation that can inform new generations of fuel-saving aircraft…",
+          "url": "https://www.nasa.gov/directorates/rtmd/nasa-ge-hybrid-electric-flight/",
+          "source": "NASA",
           "date": "2026-07-20"
-        },
-        {
-          "title": "Scientists discover a protein that protects the brain from Alzheimer’s damage",
-          "summary": "A protein called SORLA may act as a powerful defense against the toxic tau tangles involved in Alzheimer’s disease. Mice with extra SORLA had less tau accumulation, less brain atrophy, and healthier connections between…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260718010140.htm",
-          "source": "Science Daily",
-          "date": "2026-07-20"
-        },
-        {
-          "title": "New AI blood test predicts heart disease 15 years early",
-          "summary": "A new AI-powered blood test could give people a remarkably early warning of serious heart and circulation problems. Developed by researchers at the University of Hong Kong, CardiOmicScore analyzes thousands of proteins…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260716023603.htm",
-          "source": "Science Daily",
-          "date": "2026-07-19"
         }
       ]
     },
@@ -45,38 +45,38 @@
       "emoji": "🚀",
       "articles": [
         {
-          "title": "The Growing Crescent of Mars as NASA’s Psyche Mission Approaches",
-          "summary": "Description This composite of images taken by NASA’s Psyche mission shows the crescent of Mars grow as the spacecraft approached the planet for a gravity assist from May 2 to May 15, 2026. The series begins with the…",
-          "url": "https://science.nasa.gov/photojournal/the-growing-crescent-of-mars-as-nasas-psyche-mission-approaches/",
-          "source": "NASA",
-          "date": "2026-07-17"
-        },
-        {
-          "title": "NASA Invites Media to Roman Space Telescope, Crew-13 Launches",
-          "summary": "Media accreditation now is open for the launch of NASA’s Nancy Grace Roman Space Telescope and the agency’s SpaceX Crew-13 missions, both targeting launch in the coming months. The Roman telescope is slated to launch no…",
-          "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-roman-space-telescope-crew-13-launches/",
-          "source": "NASA",
-          "date": "2026-07-17"
-        },
-        {
-          "title": "NASA’s Psyche Mission Images Details of Martian Surface During Flyby",
-          "summary": "Description Captured by the multispectral imager instrument on NASA’s Psyche mission, this is an enhanced-color mosaic created from four individual images acquired on May 15, 2026, during the spacecraft’s flyby of Mars…",
-          "url": "https://science.nasa.gov/photojournal/nasas-psyche-mission-images-details-of-martian-surface-during-flyby/",
-          "source": "NASA",
-          "date": "2026-07-17"
-        },
-        {
-          "title": "'The dawn of a new space era': Vikram-1, India's 1st private orbital rocket, aces debut launch",
-          "summary": "Skyroot Aerospace's Vikram-1 rocket aced its debut mission on Saturday morning (July 18), making India the third nation with a private orbital launch capability.",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/skyroot-aerospace-india-first-private-orbital-launch-vikram-1",
+          "title": "Four astronauts, 3 spacecraft, 2 weeks in orbit: Artemis III will be NASA's most complicated mission ever",
+          "summary": "NASA's Artemis III mission is shaping up to be NASA's most complex mission in history, coordinating the launch and rendezvous of three different spacecraft.",
+          "url": "https://www.space.com/space-exploration/artemis/four-astronauts-3-spacecraft-2-weeks-in-orbit-artemis-iii-will-be-nasas-most-complicated-mission-ever",
           "source": "Space.com",
-          "date": "2026-07-17"
+          "date": "2026-07-20"
         },
         {
-          "title": "Why AI's environmental footprint won't disappear into orbit",
-          "summary": "AI companies increasingly want to move their operations into space. Elon Musk's SpaceX has applied to launch over a million AI data center satellites and ultimately build them on the moon.",
-          "url": "https://phys.org/news/2026-07-ai-environmental-footprint-wont-orbit.html",
+          "title": "SpaceX will launch a satellite repair drone with robot arms to Earth orbit today: How to watch it live",
+          "summary": "SpaceX will launch a trailblazing satellite-servicing mission today (July 21), and you can watch the action live.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-northrop-grumman-mrv-mep-satellite-servicing-mission",
+          "source": "Space.com",
+          "date": "2026-07-21"
+        },
+        {
+          "title": "Psyche Approaches Mars",
+          "summary": "This composite photo released on July 17, 2026, shows the&#160;crescent of Mars&#160;grow as NASA’s Psyche spacecraft approached the planet for a gravity assist. Psyche flew by Mars on May 15, 2026, using the planet’s…",
+          "url": "https://www.nasa.gov/image-article/psyche-approaches-mars/",
+          "source": "NASA",
+          "date": "2026-07-21"
+        },
+        {
+          "title": "New NASA Earth missions gear up to start science flights",
+          "summary": "Landslides in Alaska. Air quality in Atlanta. Fire clouds out West. From the Arctic fringes to farm country, NASA's newest class of suborbital Earth Venture missions is gearing up to deliver science that will benefit…",
+          "url": "https://phys.org/news/2026-07-nasa-earth-missions-gear-science.html",
           "source": "Phys.org",
+          "date": "2026-07-21"
+        },
+        {
+          "title": "50 years after Viking 1's historic Mars landing, NASA is looking to the Red Planet's skies",
+          "summary": "NASA's Viking 1 mission blazed a crucial trail with its Mars landing on July 20, 1976. Now, half a century later, that trail leads up into the Red Planet's skies.",
+          "url": "https://www.space.com/astronomy/mars/50-years-after-viking-1s-historic-mars-landing-nasa-is-looking-to-the-red-planets-skies",
+          "source": "Space.com",
           "date": "2026-07-20"
         }
       ]
@@ -92,32 +92,32 @@
           "date": "2026-07-20"
         },
         {
-          "title": "Scientists just discovered a lost branch of Australia’s marsupials",
-          "summary": "Fossils from Queensland suggest a newly recognized marsupial order may have survived in Australia for around 35 million years, rewriting part of the story of how the continent's unique mammals evolved. The discovery…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260715083546.htm",
+          "title": "Scientists found mystery bacteria inside one of the ocean’s most elusive whales",
+          "summary": "Scientists studying decades of pygmy sperm whale strandings have uncovered three previously unknown types of Helicobacter bacteria hiding in the animals’ stomachs. All four infected whales showed serious digestive…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260721000847.htm",
           "source": "Science Daily",
-          "date": "2026-07-19"
+          "date": "2026-07-21"
         },
         {
-          "title": "Underwater drones discover coral reefs off Benin, long presumed dead, teeming with life",
-          "summary": "A coral reef, missing and presumed dead, has been found alive and well off the coast of Benin. Surveys in the 1960s, focused on identifying promising fishing areas, flagged a possible deep-water coral reef but assumed…",
-          "url": "https://phys.org/news/2026-07-underwater-drones-coral-reefs-benin.html",
+          "title": "New wasp species named after Ernest Hemingway amid efforts to control destructive sugar beet pest",
+          "summary": "Earth remains full of undiscovered species and unexplored interactions that continue to fascinate us, including, in the most ordinary places, the fields where our food is grown.",
+          "url": "https://phys.org/news/2026-07-wasp-species-ernest-hemingway-efforts.html",
           "source": "Phys.org",
-          "date": "2026-07-20"
+          "date": "2026-07-21"
         },
         {
-          "title": "Prescribed burns may be lethal for lizards",
-          "summary": "Scientists are calling for wildlife surveys to be conducted within hours of prescribed burns after new research revealed that evidence of animal deaths can disappear in less than two weeks, significantly underestimating…",
-          "url": "https://phys.org/news/2026-07-lethal-lizards.html",
+          "title": "Triassic inferno: Fires raged across Europe for millennia during past global warming",
+          "summary": "The end-Triassic mass extinction, 201 million years ago, is linked to volcanism that resulted from the break-up of Pangea and which pumped out vast amounts of CO2 into the atmosphere, causing extreme global warming of 5…",
+          "url": "https://phys.org/news/2026-07-triassic-inferno-raged-europe-millennia.html",
           "source": "Phys.org",
-          "date": "2026-07-20"
+          "date": "2026-07-21"
         },
         {
-          "title": "Wealthier North Carolina neighborhoods may be hotspots for insecticide-resistant tiger mosquitoes",
-          "summary": "The choices people make to control mosquitoes in their own backyards may be helping some of those mosquitoes survive the very insecticides meant to kill them, according to two new studies from North Carolina State…",
-          "url": "https://phys.org/news/2026-07-wealthier-north-carolina-neighborhoods-hotspots.html",
+          "title": "New 'demon' cavefish lineage discovered in Alabama cave",
+          "summary": "For decades, scientists have crawled through Bobcat Cave on Redstone Arsenal in Huntsville, searching its dark pools and underground passages for rare life. The cave is home to the endangered Alabama cave shrimp, making…",
+          "url": "https://phys.org/news/2026-07-demon-cavefish-lineage-alabama-cave.html",
           "source": "Phys.org",
-          "date": "2026-07-20"
+          "date": "2026-07-21"
         }
       ]
     },
@@ -132,13 +132,6 @@
           "date": "2026-07-20"
         },
         {
-          "title": "Deep-space CubeSat could stretch solar storm warnings from 15 minutes to 3 hours",
-          "summary": "Space weather warnings could be received hours before Earth is hit rather than minutes with the help of a miniature UK-built instrument soon to be stationed in deep space. MAGIC (MAGnetometer from Imperial College) is…",
-          "url": "https://phys.org/news/2026-07-deep-space-cubesat-solar-storm.html",
-          "source": "Phys.org",
-          "date": "2026-07-20"
-        },
-        {
           "title": "Earth’s biggest volcanic event transformed an entire oceanic plate",
           "summary": "Seismic waves have revealed that the oceanic plate beneath the Ontong Java Plateau was dramatically transformed by the colossal volcanic activity that created it more than 100 million years ago. Researchers found a…",
           "url": "https://www.sciencedaily.com/releases/2026/07/260716023618.htm",
@@ -146,18 +139,25 @@
           "date": "2026-07-18"
         },
         {
-          "title": "Giving bees a probiotic diet could help protect them from extreme temperatures",
-          "summary": "Honeybees do not like cold weather. When temperatures dip, they can become sluggish and unable to fly. But no matter the conditions in the outside world, they try to keep their hives close to a comfortable 34°C–36°C…",
-          "url": "https://phys.org/news/2026-07-bees-probiotic-diet-extreme-temperatures.html",
-          "source": "Phys.org",
-          "date": "2026-07-20"
+          "title": "Ancient mystery on K’gari as world’s largest sand island lakes dried up during rainy era",
+          "summary": "Ancient sediment reveals that some of K’gari’s deepest lakes vanished around 7,500 years ago, despite unusually heavy rainfall. The surprising discovery suggests changing winds and future climate shifts could threaten…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260719231654.htm",
+          "source": "Science Daily",
+          "date": "2026-07-21"
         },
         {
-          "title": "5.5 magnitude earthquake hits Peru's Andes region and kills at least 6 people",
-          "summary": "A 5.5 magnitude earthquake shook the Andes region of Peru, killing at least six people, injuring more than 30 and displacing 300, authorities said Sunday.",
-          "url": "https://phys.org/news/2026-07-magnitude-earthquake-peru-andes-region.html",
+          "title": "The best way to measure fire risk might be underground",
+          "summary": "When fire risk is high, Arizonans know the major warning signs: hot temperatures, low humidity and lots of wind.",
+          "url": "https://phys.org/news/2026-07-underground.html",
           "source": "Phys.org",
-          "date": "2026-07-20"
+          "date": "2026-07-21"
+        },
+        {
+          "title": "Great Barrier Reef at risk of 'collapse', scientists warn",
+          "summary": "Australia's Great Barrier Reef is at very high risk of extreme and widespread bleaching and \"ecosystem collapse\" linked to this year's El Niño weather phenomenon, leading scientists warned Tuesday.",
+          "url": "https://phys.org/news/2026-07-great-barrier-reef-collapse-scientists.html",
+          "source": "Phys.org",
+          "date": "2026-07-21"
         }
       ]
     },
@@ -172,18 +172,11 @@
           "date": "2026-07-20"
         },
         {
-          "title": "Why a Ukrainian cruise missile is flying with hobby drone hardware",
-          "summary": "An open-source flight-control system found in consumer drones has been installed in Ukraine’s latest cruise missile, showing how cheap technology is making military hardware accessible to all",
-          "url": "https://www.newscientist.com/article/2580002-why-a-ukrainian-cruise-missile-is-flying-with-hobby-drone-hardware/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-07-17"
-        },
-        {
-          "title": "AI may not make us stupid, but relying on it could weaken the skills built through practice",
-          "summary": "The worry of becoming stupid isn't new; it dates back to the time of the Greek philosopher Socrates, who insisted that writing would destroy memory and weaken the mind. Then came calculators, GPS and computers, all of…",
-          "url": "https://phys.org/news/2026-07-ai-stupid-weaken-skills-built.html",
+          "title": "AI agent helps prepare synchrotron X-ray experimental measurements, paving the way for autonomous operation",
+          "summary": "Artificial intelligence (AI) models are now used daily by many people worldwide, both for professional and personal purposes. Over the past decades, scientists specialized in various disciplines have also started using…",
+          "url": "https://phys.org/news/2026-07-ai-agent-synchrotron-ray-experimental.html",
           "source": "Phys.org",
-          "date": "2026-07-20"
+          "date": "2026-07-21"
         },
         {
           "title": "Should we trust AI in the search for alien life? Scientists aren't so sure",
@@ -198,11 +191,18 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "Scientists built a camera that can track invisible particles in 3D",
-          "summary": "A new particle detector called PLATON could replace millions of tiny detector components with a single block of light-producing material. Using a light-field camera, highly sensitive photon sensors, and AI, it…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260716023610.htm",
+          "title": "New quantum gravity theory links entropy, dark energy, and life",
+          "summary": "A new theoretical study offers a possible explanation for how the Universe can grow more complex without violating the second law of thermodynamics. Using a quantum gravity framework called Gravity from Entropy…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260719035947.htm",
           "source": "Science Daily",
-          "date": "2026-07-17"
+          "date": "2026-07-21"
+        },
+        {
+          "title": "Aligned graphite particles unlock stable levitation above magnets, study finds",
+          "summary": "A diamagnetic substance is slightly repelled by magnetic fields. With a strong enough magnet, the diamagnetic force can override gravity, and the substance will float in the air. Graphite, the main component of pencil…",
+          "url": "https://phys.org/news/2026-07-aligned-graphite-particles-stable-levitation.html",
+          "source": "Phys.org",
+          "date": "2026-07-21"
         },
         {
           "title": "UCLA scientists develop mineral sunscreen without the chalky white cast",
@@ -212,25 +212,18 @@
           "date": "2026-07-20"
         },
         {
-          "title": "Greece braces for year's first heat wave",
-          "summary": "Greece, which was spared the record heat that ravaged most of Europe in June, is finally bracing for its first heat wave of the year.",
-          "url": "https://phys.org/news/2026-07-greece-braces-year.html",
-          "source": "Phys.org",
-          "date": "2026-07-20"
+          "title": "Large Hadron Collider upgrade could demystify Higgs boson",
+          "summary": "An ongoing Large Hadron Collider upgrade could transform the machine's capability, helping it unlock the secrets of the Higgs boson particle. The post Large Hadron Collider upgrade could demystify Higgs boson first…",
+          "url": "https://earthsky.org/human-world/large-hadron-collider-upgrade-could-demystify-higgs-boson/",
+          "source": "EarthSky",
+          "date": "2026-07-21"
         },
         {
-          "title": "Strange paraparticles could be reality’s missing ingredient",
-          "summary": "Neither matter nor force, paraparticles would be something else entirely. Fresh hints that they exist are raising hopes that they could explain reality at its deepest level",
-          "url": "https://www.newscientist.com/article/2533213-strange-paraparticles-could-be-realitys-missing-ingredient/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "title": "How to unlock unlimited geothermal energy, anywhere we want",
+          "summary": "Earth contains more than enough heat to power humanity many times over, but so far only a few lucky places have been able to exploit it. Now we may have a way to tap this vast clean energy source almost anywhere",
+          "url": "https://www.newscientist.com/article/2533209-how-to-unlock-unlimited-geothermal-energy-anywhere-we-want/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
-          "date": "2026-07-20"
-        },
-        {
-          "title": "Beyond the Perseids: 6 meteor showers worth watching this summer",
-          "summary": "The Perseids may steal the spotlight, but six lesser-known meteor showers could also light up summer skies.",
-          "url": "https://www.space.com/stargazing/meteor-showers/beyond-the-perseids-6-meteor-showers-worth-watching-this-summer",
-          "source": "Space.com",
-          "date": "2026-07-18"
+          "date": "2026-07-21"
         }
       ]
     }
