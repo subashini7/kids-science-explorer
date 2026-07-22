@@ -1,9 +1,16 @@
 {
-  "updated": "2026-07-21T15:03:51Z",
+  "updated": "2026-07-22T15:03:58Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
+        {
+          "title": "Scientists revive a powerful antibiotic that superbugs had defeated",
+          "summary": "Scientists have found a way to revive vancomycin, a powerful antibiotic that some dangerous bacteria have learned to resist. Instead of creating an entirely new drug, researchers paired vancomycin with a small molecule…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260722032108.htm",
+          "source": "Science Daily",
+          "date": "2026-07-22"
+        },
         {
           "title": "A tiny universe in a bottle reveals clues to the origins of life",
           "summary": "Researchers have created cosmic dust from scratch by recreating space-like conditions inside glass tubes. The dust contains complex carbon-rich molecules built from elements essential to life and produces infrared…",
@@ -12,32 +19,25 @@
           "date": "2026-07-19"
         },
         {
-          "title": "Geophysics brings clarity to the potential of natural hydrogen",
-          "summary": "Natural hydrogen is considered a potential low-carbon energy source. But how much is generated underground—and how quickly? An international research team led by the LIAG Institute for Applied Geophysics in Hannover has…",
-          "url": "https://phys.org/news/2026-07-geophysics-clarity-potential-natural-hydrogen.html",
+          "title": "Genetically distinct avocados discovered in Nicaragua",
+          "summary": "A team of scientists led by researchers at the Smithsonian's National Museum of Natural History and Texas A&amp;M University recently uncovered genetic traces of ancient migration in DNA from avocados growing in…",
+          "url": "https://phys.org/news/2026-07-genetically-distinct-avocados-nicaragua.html",
           "source": "Phys.org",
-          "date": "2026-07-21"
+          "date": "2026-07-22"
         },
         {
-          "title": "Grants",
-          "summary": "*Notice* The Payment Management System (PMS) is currently experiencing issues affecting Federal Financial Report (FFR) generation. Impacted NASA grant recipients will not be considered noncompliant. NASA is working with…",
-          "url": "https://www.nasa.gov/centers-and-facilities/grants-2/",
+          "title": "Precision Astrometry Using Optically Independent Spacecraft for Graviational Wave Detection",
+          "summary": "Paul StankusBrookhaven Science Associates&#160; The scientific goal is to enable a new method for observing gravitational waves at low frequencies, based on the astrometric GW signature &#8212; gravitational waves…",
+          "url": "https://www.nasa.gov/directorates/stmd/niac/niac-studies/precision-astrometry-using-optically-independent-spacecraft-for-graviational-wave-detection/",
           "source": "NASA",
           "date": "2026-07-21"
         },
         {
-          "title": "Establishing Crew Exposure Limits of Martian Dust",
-          "summary": "Background Human exploration of Mars will expose crews to a persistent, fine particulate environment whose physicochemical properties and health implications remain only partly understood. Because no samples of…",
-          "url": "https://www.nasa.gov/general/establishing-crew-exposure-limits-of-martian-dust/",
-          "source": "NASA",
+          "title": "New molecular map reveals how the flu virus hijacks human cells",
+          "summary": "Scientists uncovered how influenza A commandeers human cells, including a surprising strategy that dissolves tiny structures in the nucleus and releases proteins the virus may use to reproduce. The detailed molecular…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260721000816.htm",
+          "source": "Science Daily",
           "date": "2026-07-21"
-        },
-        {
-          "title": "NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration",
-          "summary": "An aircraft powered by a megawatt-class hybrid-electric engine developed in collaboration with NASA and built by GE Aerospace, demonstrated flight of an innovation that can inform new generations of fuel-saving aircraft…",
-          "url": "https://www.nasa.gov/directorates/rtmd/nasa-ge-hybrid-electric-flight/",
-          "source": "NASA",
-          "date": "2026-07-20"
         }
       ]
     },
@@ -52,32 +52,32 @@
           "date": "2026-07-20"
         },
         {
-          "title": "SpaceX will launch a satellite repair drone with robot arms to Earth orbit today: How to watch it live",
-          "summary": "SpaceX will launch a trailblazing satellite-servicing mission today (July 21), and you can watch the action live.",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-northrop-grumman-mrv-mep-satellite-servicing-mission",
+          "title": "James Webb Space Telescope discovers the secrets of cosmic 'factories' that filled the early universe with stardust",
+          "summary": "Using the James Webb Space Telescope, astronomers have discovered the secrets of early galaxies that pumped the infant cosmos full of dust, but by studying a much closer and modern galaxy.",
+          "url": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-discovers-the-secrets-of-cosmic-factories-that-filled-the-early-universe-with-stardust",
           "source": "Space.com",
           "date": "2026-07-21"
         },
         {
-          "title": "Psyche Approaches Mars",
-          "summary": "This composite photo released on July 17, 2026, shows the&#160;crescent of Mars&#160;grow as NASA’s Psyche spacecraft approached the planet for a gravity assist. Psyche flew by Mars on May 15, 2026, using the planet’s…",
-          "url": "https://www.nasa.gov/image-article/psyche-approaches-mars/",
+          "title": "Artemis III astronauts will beam 4k video from Orion to Earth using SpaceX Starlink lasers",
+          "summary": "NASA is partnering with SpaceX to outfit the Artemis III Orion spacecraft with Starlink laser communications terminals to assist with high-definition video transmissions and data-heavy mission downlinks.",
+          "url": "https://www.space.com/space-exploration/artemis/artemis-iii-astronauts-will-beam-4k-video-from-orion-to-earth-using-spacex-starlink-lasers",
+          "source": "Space.com",
+          "date": "2026-07-21"
+        },
+        {
+          "title": "NASA to Host Media Briefing on Roman Telescope, Launching Next Month",
+          "summary": "Media are invited to join NASA for a virtual news conference at 2 p.m. EDT, Wednesday, July 29, to preview the Nancy Grace Roman Space Telescope mission, scheduled to launch from the agency’s Kennedy Space Center in…",
+          "url": "https://www.nasa.gov/news-release/nasa-to-host-media-briefing-on-roman-telescope-launching-next-month/",
           "source": "NASA",
           "date": "2026-07-21"
         },
         {
-          "title": "New NASA Earth missions gear up to start science flights",
-          "summary": "Landslides in Alaska. Air quality in Atlanta. Fire clouds out West. From the Arctic fringes to farm country, NASA's newest class of suborbital Earth Venture missions is gearing up to deliver science that will benefit…",
-          "url": "https://phys.org/news/2026-07-nasa-earth-missions-gear-science.html",
-          "source": "Phys.org",
-          "date": "2026-07-21"
-        },
-        {
-          "title": "50 years after Viking 1's historic Mars landing, NASA is looking to the Red Planet's skies",
-          "summary": "NASA's Viking 1 mission blazed a crucial trail with its Mars landing on July 20, 1976. Now, half a century later, that trail leads up into the Red Planet's skies.",
-          "url": "https://www.space.com/astronomy/mars/50-years-after-viking-1s-historic-mars-landing-nasa-is-looking-to-the-red-planets-skies",
+          "title": "SpaceX Falcon 9 rocket sends Starlink satellites to orbit a day after rare launch abort",
+          "summary": "A SpaceX Falcon 9 rocket carrying 24 Starlink satellites launched from Vandenberg Space Force Base in California on Tuesday (July 21), a day after aborting its first liftoff attempt.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-39-b1082-vsfb-ocisly",
           "source": "Space.com",
-          "date": "2026-07-20"
+          "date": "2026-07-21"
         }
       ]
     },
@@ -92,6 +92,13 @@
           "date": "2026-07-20"
         },
         {
+          "title": "Ancient ferns turned Triassic Europe into a wildfire inferno",
+          "summary": "Ancient fern savannahs may have transformed parts of Europe into a wildfire-prone inferno during the end-Triassic mass extinction. New fossil evidence suggests the ferns repeatedly regrew after fires, creating fresh…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260722032105.htm",
+          "source": "Science Daily",
+          "date": "2026-07-22"
+        },
+        {
           "title": "Scientists found mystery bacteria inside one of the ocean’s most elusive whales",
           "summary": "Scientists studying decades of pygmy sperm whale strandings have uncovered three previously unknown types of Helicobacter bacteria hiding in the animals’ stomachs. All four infected whales showed serious digestive…",
           "url": "https://www.sciencedaily.com/releases/2026/07/260721000847.htm",
@@ -99,25 +106,18 @@
           "date": "2026-07-21"
         },
         {
-          "title": "New wasp species named after Ernest Hemingway amid efforts to control destructive sugar beet pest",
-          "summary": "Earth remains full of undiscovered species and unexplored interactions that continue to fascinate us, including, in the most ordinary places, the fields where our food is grown.",
-          "url": "https://phys.org/news/2026-07-wasp-species-ernest-hemingway-efforts.html",
+          "title": "Scientists warn of potential global marine invasive species event linked to idle ships in the Strait of Hormuz",
+          "summary": "New research from an international team of 24 marine scientists, led by the University of Maryland Center for Environmental Science (UMCES) and including the Woods Hole Oceanographic Institution (WHOI), cautions that…",
+          "url": "https://phys.org/news/2026-07-scientists-potential-global-marine-invasive.html",
           "source": "Phys.org",
-          "date": "2026-07-21"
+          "date": "2026-07-22"
         },
         {
-          "title": "Triassic inferno: Fires raged across Europe for millennia during past global warming",
-          "summary": "The end-Triassic mass extinction, 201 million years ago, is linked to volcanism that resulted from the break-up of Pangea and which pumped out vast amounts of CO2 into the atmosphere, causing extreme global warming of 5…",
-          "url": "https://phys.org/news/2026-07-triassic-inferno-raged-europe-millennia.html",
-          "source": "Phys.org",
-          "date": "2026-07-21"
-        },
-        {
-          "title": "New 'demon' cavefish lineage discovered in Alabama cave",
-          "summary": "For decades, scientists have crawled through Bobcat Cave on Redstone Arsenal in Huntsville, searching its dark pools and underground passages for rare life. The cave is home to the endangered Alabama cave shrimp, making…",
-          "url": "https://phys.org/news/2026-07-demon-cavefish-lineage-alabama-cave.html",
-          "source": "Phys.org",
-          "date": "2026-07-21"
+          "title": "Our galaxy flipped after a collision, say astronomers",
+          "summary": "Our galaxy flipped after a collision with a dwarf galaxy 10 billion years ago, changing the Milky Way's evolution, new simulations suggest. The post Our galaxy flipped after a collision, say astronomers first appeared…",
+          "url": "https://earthsky.org/space/milky-way-galaxy-flipped-disk-collision-gaia-sausage/",
+          "source": "EarthSky",
+          "date": "2026-07-22"
         }
       ]
     },
@@ -132,11 +132,11 @@
           "date": "2026-07-20"
         },
         {
-          "title": "Earth’s biggest volcanic event transformed an entire oceanic plate",
-          "summary": "Seismic waves have revealed that the oceanic plate beneath the Ontong Java Plateau was dramatically transformed by the colossal volcanic activity that created it more than 100 million years ago. Researchers found a…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260716023618.htm",
-          "source": "Science Daily",
-          "date": "2026-07-18"
+          "title": "A Week of Smoky Skies Across North America",
+          "summary": "Brown carbon, emitted by wildland fires and tracked over the span of a week in July 2026, worsened air quality in parts of the U.S. and Canada.",
+          "url": "https://science.nasa.gov/earth/earth-observatory/a-week-of-smoky-skies-across-north-america/",
+          "source": "NASA",
+          "date": "2026-07-22"
         },
         {
           "title": "Ancient mystery on K’gari as world’s largest sand island lakes dried up during rainy era",
@@ -146,17 +146,10 @@
           "date": "2026-07-21"
         },
         {
-          "title": "The best way to measure fire risk might be underground",
-          "summary": "When fire risk is high, Arizonans know the major warning signs: hot temperatures, low humidity and lots of wind.",
-          "url": "https://phys.org/news/2026-07-underground.html",
-          "source": "Phys.org",
-          "date": "2026-07-21"
-        },
-        {
-          "title": "Great Barrier Reef at risk of 'collapse', scientists warn",
-          "summary": "Australia's Great Barrier Reef is at very high risk of extreme and widespread bleaching and \"ecosystem collapse\" linked to this year's El Niño weather phenomenon, leading scientists warned Tuesday.",
-          "url": "https://phys.org/news/2026-07-great-barrier-reef-collapse-scientists.html",
-          "source": "Phys.org",
+          "title": "A massive crater was spotted on Google Earth. It could be a scar from an ancient meteorite impact",
+          "summary": "While getting ready for a camping trip, an amateur astronomer spotted a possible crater. It appears to be a match, pending microscopic results.",
+          "url": "https://www.space.com/astronomy/earth/a-massive-crater-was-spotted-on-google-earth-it-could-be-a-scar-from-an-ancient-meteorite-impact",
+          "source": "Space.com",
           "date": "2026-07-21"
         }
       ]
@@ -165,6 +158,27 @@
       "emoji": "🤖",
       "articles": [
         {
+          "title": "New programmable photonic chip can control how fast light moves",
+          "summary": "Scientists have created a programmable optical chip that can slow light on demand, giving engineers far greater control over how optical signals propagate through a circuit. The technology could provide the delays…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260718010149.htm",
+          "source": "Science Daily",
+          "date": "2026-07-22"
+        },
+        {
+          "title": "Researchers expand simulation tool to help design the next generation of photonic and quantum devices",
+          "summary": "Many modern technologies, from optical communications and artificial intelligence (AI) hardware to advanced sensors and medical imaging, depend on photonic and semiconductor devices that precisely control the…",
+          "url": "https://phys.org/news/2026-07-simulation-tool-generation-photonic-quantum.html",
+          "source": "Phys.org",
+          "date": "2026-07-22"
+        },
+        {
+          "title": "MIT’s new lidar chip could give self-driving cars a wider view",
+          "summary": "MIT engineers have found a way to give chip-based lidar a wider, clearer view without relying on moving parts. Their design uses differently shaped antennas that can sit close together without scrambling one another’s…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260722032127.htm",
+          "source": "Science Daily",
+          "date": "2026-07-22"
+        },
+        {
           "title": "An ordinary laptop solved a problem thought to require a quantum computer",
           "summary": "A quantum problem once described as impossible for classical computers has now been solved using relatively modest hardware. Researchers used tensor networks to compress the overwhelming wave function created by…",
           "url": "https://www.sciencedaily.com/releases/2026/07/260719040000.htm",
@@ -172,18 +186,11 @@
           "date": "2026-07-20"
         },
         {
-          "title": "AI agent helps prepare synchrotron X-ray experimental measurements, paving the way for autonomous operation",
-          "summary": "Artificial intelligence (AI) models are now used daily by many people worldwide, both for professional and personal purposes. Over the past decades, scientists specialized in various disciplines have also started using…",
-          "url": "https://phys.org/news/2026-07-ai-agent-synchrotron-ray-experimental.html",
-          "source": "Phys.org",
-          "date": "2026-07-21"
-        },
-        {
-          "title": "Should we trust AI in the search for alien life? Scientists aren't so sure",
-          "summary": "New research suggests AI can be repeatedly fooled into mistaking non-life for life.",
-          "url": "https://www.space.com/space-exploration/search-for-life/should-we-trust-ai-in-the-search-for-alien-life-scientists-arent-so-sure",
-          "source": "Space.com",
-          "date": "2026-07-19"
+          "title": "China is trying to regulate relationships with AI – can it work?",
+          "summary": "China is the first country to enact substantial legislation on AI relationships in an effort to protect people from the worst aspects of digital companions",
+          "url": "https://www.newscientist.com/article/2580736-china-is-trying-to-regulate-relationships-with-ai-can-it-work/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-07-22"
         }
       ]
     },
@@ -198,11 +205,11 @@
           "date": "2026-07-21"
         },
         {
-          "title": "Aligned graphite particles unlock stable levitation above magnets, study finds",
-          "summary": "A diamagnetic substance is slightly repelled by magnetic fields. With a strong enough magnet, the diamagnetic force can override gravity, and the substance will float in the air. Graphite, the main component of pencil…",
-          "url": "https://phys.org/news/2026-07-aligned-graphite-particles-stable-levitation.html",
-          "source": "Phys.org",
-          "date": "2026-07-21"
+          "title": "A strange quantum effect dramatically boosts energy transfer",
+          "summary": "Researchers discovered a proton-assisted mechanism that greatly improves how triplet energy moves between quantum dots and nearby molecules. The proton briefly shifts position, helps coordinate electron movement, and…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260722032130.htm",
+          "source": "Science Daily",
+          "date": "2026-07-22"
         },
         {
           "title": "UCLA scientists develop mineral sunscreen without the chalky white cast",
