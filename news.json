@@ -1,9 +1,30 @@
 {
-  "updated": "2026-07-23T15:08:47Z",
+  "updated": "2026-07-24T14:54:43Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
+        {
+          "title": "Recoverable molecular helper guides synthesis of highly pure chiral rotaxanes",
+          "summary": "Chiral molecules can exist in left- and right-handed forms. Although these mirror-image forms may look almost identical, they can behave very differently in chemical reactions, biological systems and advanced materials…",
+          "url": "https://phys.org/news/2026-07-recoverable-molecular-helper-synthesis-highly.html",
+          "source": "Phys.org",
+          "date": "2026-07-24"
+        },
+        {
+          "title": "Combining AI protein design with laboratory evolution improves engineered enzymes",
+          "summary": "When scientists want to create a protein that can potentially treat disease, one approach is to begin with a different protein and evolve it in the lab, selecting over many generations for versions with a new, desired…",
+          "url": "https://phys.org/news/2026-07-combining-ai-protein-laboratory-evolution.html",
+          "source": "Phys.org",
+          "date": "2026-07-24"
+        },
+        {
+          "title": "Scientists discover a compound that could supercharge aging muscle repair",
+          "summary": "A sulfur-based compound called LASSS appears to protect and supercharge a key protein involved in repairing damaged muscle. The discovery could eventually lead to new ways to slow muscle loss and preserve strength as…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260724061432.htm",
+          "source": "Science Daily",
+          "date": "2026-07-24"
+        },
         {
           "title": "Scientists revive a powerful antibiotic that superbugs had defeated",
           "summary": "Scientists have found a way to revive vancomycin, a powerful antibiotic that some dangerous bacteria have learned to resist. Instead of creating an entirely new drug, researchers paired vancomycin with a small molecule…",
@@ -12,32 +33,11 @@
           "date": "2026-07-22"
         },
         {
-          "title": "Fig-leaf enzyme turns tannery waste into high-value collagen",
-          "summary": "Tanneries generate large quantities of skin trimmings before hides are tanned. These trimmings contain collagen but are commonly treated as low-value waste. An international research team has developed a method that…",
-          "url": "https://phys.org/news/2026-07-fig-leaf-enzyme-tannery-high.html",
+          "title": "Vegan dog and cat food generally well digested",
+          "summary": "A new scientific review has found that nutritionally sound vegan dog food, vegan cat food and vegetarian pet diets are generally well digested and broadly comparable to conventional meat-based diets.",
+          "url": "https://phys.org/news/2026-07-vegan-dog-cat-food-generally.html",
           "source": "Phys.org",
-          "date": "2026-07-23"
-        },
-        {
-          "title": "Genome tool places large genetic sequences precisely in rice and tobacco without DNA breaks",
-          "summary": "Researchers at King Abdullah University of Science and Technology (KAUST) have developed a new way to add large pieces of genetic information to plants, overcoming a challenge that has limited plant biotechnology for…",
-          "url": "https://phys.org/news/2026-07-genome-tool-large-genetic-sequences.html",
-          "source": "Phys.org",
-          "date": "2026-07-22"
-        },
-        {
-          "title": "Natural compound may fight rheumatoid arthritis at its source",
-          "summary": "A plant-derived compound reduced swelling, inflammation, and joint damage in rats with rheumatoid arthritis. It also helped rebalance immune activity and improve the way certain fats were processed in the body…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260721000845.htm",
-          "source": "Science Daily",
-          "date": "2026-07-23"
-        },
-        {
-          "title": "New molecular map reveals how the flu virus hijacks human cells",
-          "summary": "Scientists uncovered how influenza A commandeers human cells, including a surprising strategy that dissolves tiny structures in the nucleus and releases proteins the virus may use to reproduce. The detailed molecular…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260721000816.htm",
-          "source": "Science Daily",
-          "date": "2026-07-21"
+          "date": "2026-07-24"
         }
       ]
     },
@@ -45,11 +45,25 @@
       "emoji": "🚀",
       "articles": [
         {
+          "title": "Should scientists have research 'reserves' on the moon?",
+          "summary": "The worlds of the solar system are exciting and, so far, mostly pristine places for planetary scientists to study. As space missions continue to travel to Mars, Europa, asteroids and other worlds, questions arise about…",
+          "url": "https://phys.org/news/2026-07-scientists-reserves-moon.html",
+          "source": "Phys.org",
+          "date": "2026-07-24"
+        },
+        {
           "title": "Robotic Servicing Mission Launches with NASA Support",
           "summary": "Following its liftoff from Cape Canaveral on July 21 aboard a SpaceX Falcon 9 rocket, the Mission Robotic Vehicle (MRV) hosting the NASA-supported Robotic Servicing of Geosynchronous Satellites (RSGS) payload is now en…",
           "url": "https://www.nasa.gov/technology/robotic-servicing-mission-launches-with-nasa-support/",
           "source": "NASA",
           "date": "2026-07-22"
+        },
+        {
+          "title": "Vulcan Centaur swapped out again: NASA goes with SpaceX Falcon Heavy rocket for launch of space weather mission",
+          "summary": "NASA's SunRISE mission has been assigned a new launch vehicle: It will now be delivered to orbit by a SpaceX Falcon Heavy rocket rather than a United Launch Alliance Vulcan Centaur.",
+          "url": "https://www.space.com/space-exploration/missions/vulcan-centaur-swapped-out-again-nasa-goes-with-spacex-falcon-heavy-rocket-for-launch-of-space-weather-mission",
+          "source": "Space.com",
+          "date": "2026-07-23"
         },
         {
           "title": "China's record-breaking Gravity-1 rocket launches 9 satellites from a ship at sea (video)",
@@ -64,20 +78,6 @@
           "url": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-discovers-the-secrets-of-cosmic-factories-that-filled-the-early-universe-with-stardust",
           "source": "Space.com",
           "date": "2026-07-21"
-        },
-        {
-          "title": "Artemis III astronauts will beam 4k video from Orion to Earth using SpaceX Starlink lasers",
-          "summary": "NASA is partnering with SpaceX to outfit the Artemis III Orion spacecraft with Starlink laser communications terminals to assist with high-definition video transmissions and data-heavy mission downlinks.",
-          "url": "https://www.space.com/space-exploration/artemis/artemis-iii-astronauts-will-beam-4k-video-from-orion-to-earth-using-spacex-starlink-lasers",
-          "source": "Space.com",
-          "date": "2026-07-21"
-        },
-        {
-          "title": "NASA's Roman Space Telescope could reveal black holes ripping up stars. It's set to launch Aug. 30",
-          "summary": "NASA's next super telescope, the Nancy Grace Roman Space Telescope, may leave nowhere to hide for black holes that violently murder and devour stars, not even cosmic noon.",
-          "url": "https://www.space.com/astronomy/black-holes/nasas-roman-space-telescope-could-reveal-black-holes-ripping-up-stars-its-set-to-launch-aug-30",
-          "source": "Space.com",
-          "date": "2026-07-22"
         }
       ]
     },
@@ -85,25 +85,18 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "Orcas filmed ramming one of the world's heaviest fish so hard it explodes, possibly for fun",
-          "summary": "Orcas are known to be smart and ruthless hunters. They've been observed hunting a variety of prey, with some species, such as whales, larger than themselves. They use a wide range of strategies to hunt and kill prey…",
-          "url": "https://phys.org/news/2026-07-orcas-ramming-world-heaviest-fish.html",
-          "source": "Phys.org",
-          "date": "2026-07-23"
-        },
-        {
-          "title": "Some dinosaurs could rise like giants until they grew too big",
-          "summary": "Two elephant-sized South American sauropods were unusually well built for standing on their hind legs. Digital tests showed that their robust femurs handled the enormous forces better than those of larger species…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260719231758.htm",
+          "title": "New giant salamander species discovered in 3.5-million-year-old fossils",
+          "summary": "Fossils discovered in Japan more than two decades ago have finally been identified as a new genus and species of giant salamander. Limnospondylus ajimuensis lived around 3.5 million years ago in a warmer, wetter Kyushu…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260722032119.htm",
           "source": "Science Daily",
-          "date": "2026-07-20"
+          "date": "2026-07-24"
         },
         {
-          "title": "Florida researchers bring endangered elkhorn coral ashore to protect them",
-          "summary": "Scientists working to save a coral species from extinction transported 30 pieces from nurseries off the Florida coast to a hatchery on land Wednesday, fearing that warming waters could trigger a mass bleaching event…",
-          "url": "https://phys.org/news/2026-07-florida-endangered-elkhorn-coral-ashore.html",
-          "source": "Phys.org",
-          "date": "2026-07-23"
+          "title": "Ancient ape fossil in Egypt challenges the story of human origins",
+          "summary": "A newly identified fossil ape from northern Egypt is reshaping ideas about where the ancestors of modern apes first emerged. Analyses place it closer to living apes than any known East African species of the same age…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260723084852.htm",
+          "source": "Science Daily",
+          "date": "2026-07-24"
         },
         {
           "title": "Ancient ferns turned Triassic Europe into a wildfire inferno",
@@ -118,6 +111,13 @@
           "url": "https://www.sciencedaily.com/releases/2026/07/260721000847.htm",
           "source": "Science Daily",
           "date": "2026-07-21"
+        },
+        {
+          "title": "Fossilized wood reveals 300 million years of Earth's history",
+          "summary": "Many people are familiar with fossilized wood as a decorative item from a museum shop. However, the fact that it can preserve the geological history of entire regions spanning millions of years is a new discovery. A…",
+          "url": "https://phys.org/news/2026-07-fossilized-wood-reveals-million-years.html",
+          "source": "Phys.org",
+          "date": "2026-07-24"
         }
       ]
     },
@@ -125,11 +125,18 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Earth’s waters are quietly running out of oxygen, scientists warn",
-          "summary": "Oxygen is disappearing from oceans, lakes, rivers, and coastal waters at an alarming rate, threatening aquatic life and weakening the natural processes that help regulate Earth’s climate. Scientists warn that this…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260719035939.htm",
-          "source": "Science Daily",
-          "date": "2026-07-20"
+          "title": "Plumage reflectance framework offers new insight into how birds evolved heat-controlling feathers",
+          "summary": "Birds can inhabit various environments with different climates and temperatures, ranging from cold polar regions to scorching hot deserts. To survive and thrive in these very different environments, they need to…",
+          "url": "https://phys.org/news/2026-07-plumage-framework-insight-birds-evolved.html",
+          "source": "Phys.org",
+          "date": "2026-07-24"
+        },
+        {
+          "title": "Young rift flanks suggest Venus remains tectonically active",
+          "summary": "Venus is an inhospitable place, with temperatures soaring to several hundred degrees Celsius (hundreds of degrees Fahrenheit) and no oceans like those on Earth. Planetary scientists long believed Venus was geologically…",
+          "url": "https://phys.org/news/2026-07-young-rift-flanks-venus-tectonically.html",
+          "source": "Phys.org",
+          "date": "2026-07-24"
         },
         {
           "title": "Antarctica may give the world decades to prepare for rising seas",
@@ -139,31 +146,38 @@
           "date": "2026-07-23"
         },
         {
-          "title": "Soil organic carbon increases crop yield but can't help with extreme drought",
-          "summary": "In cases of extreme drought, soil organic carbon does not improve crop yields, Colorado State University research has found. The finding contradicts the commonly held belief that soil organic carbon benefits yields most…",
-          "url": "https://phys.org/news/2026-07-soil-carbon-crop-yield-extreme.html",
+          "title": "Can ocean chemistry be altered to absorb carbon? The pros and cons",
+          "summary": "As the planet warms, countries around the world are racing to meet their net-zero targets set out in the 2015 Paris Agreement.",
+          "url": "https://phys.org/news/2026-07-ocean-chemistry-absorb-carbon-pros.html",
           "source": "Phys.org",
-          "date": "2026-07-23"
+          "date": "2026-07-24"
         },
         {
-          "title": "Climate change making Europe drought 'more severe': study",
-          "summary": "Human-caused climate change has intensified a drought across Europe, with extreme heat rather than low rainfall driving the exceptionally dry conditions, a team of international scientists said Thursday.",
-          "url": "https://phys.org/news/2026-07-climate-europe-drought-severe.html",
+          "title": "Protecting your pets from heat stress: Expert advice",
+          "summary": "Warm weather often means more time outside with your pets, but higher temperatures also increase the risk of heat stress, which occurs when an animal's body cannot properly cool itself, causing its core temperature to…",
+          "url": "https://phys.org/news/2026-07-pets-stress-expert-advice.html",
           "source": "Phys.org",
-          "date": "2026-07-23"
-        },
-        {
-          "title": "Ancient mystery on K’gari as world’s largest sand island lakes dried up during rainy era",
-          "summary": "Ancient sediment reveals that some of K’gari’s deepest lakes vanished around 7,500 years ago, despite unusually heavy rainfall. The surprising discovery suggests changing winds and future climate shifts could threaten…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260719231654.htm",
-          "source": "Science Daily",
-          "date": "2026-07-21"
+          "date": "2026-07-24"
         }
       ]
     },
     "Technology & Inventions": {
       "emoji": "🤖",
       "articles": [
+        {
+          "title": "World's first 'zinc oxide spin qubit' could advance scalable quantum devices",
+          "summary": "A research team led by SKKU professor Hosung Seo of the Department of Quantum Information Engineering and the SKKU Advanced Institute of Nanotechnology, working with the University of Wisconsin–Madison and the…",
+          "url": "https://phys.org/news/2026-07-world-zinc-oxide-qubit-advance.html",
+          "source": "Phys.org",
+          "date": "2026-07-24"
+        },
+        {
+          "title": "Researchers explore classroom applications of AI new learning platforms",
+          "summary": "Artificial intelligence (AI) is increasingly embedded in classroom practice in Hong Kong, following the Education Bureau's release of the Blueprint for Digital Education Development in Primary and Secondary Schools and…",
+          "url": "https://phys.org/news/2026-07-explore-classroom-applications-ai-platforms.html",
+          "source": "Phys.org",
+          "date": "2026-07-24"
+        },
         {
           "title": "MIT’s new lidar chip could give self-driving cars a wider view",
           "summary": "MIT engineers have found a way to give chip-based lidar a wider, clearer view without relying on moving parts. Their design uses differently shaped antennas that can sit close together without scrambling one another’s…",
@@ -172,45 +186,24 @@
           "date": "2026-07-22"
         },
         {
-          "title": "An ordinary laptop solved a problem thought to require a quantum computer",
-          "summary": "A quantum problem once described as impossible for classical computers has now been solved using relatively modest hardware. Researchers used tensor networks to compress the overwhelming wave function created by…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260719040000.htm",
-          "source": "Science Daily",
-          "date": "2026-07-20"
-        },
-        {
-          "title": "Would you trust AI for ethical advice?",
-          "summary": "Most people would not prefer to take ethical advice from a computer, but a new Wharton study shows how attitudes change when users see how good AI guidance can be.",
-          "url": "https://phys.org/news/2026-07-ai-ethical-advice.html",
+          "title": "How researchers are using AI to speed up drug discovery and development: Q&A",
+          "summary": "Drug development is among the slowest, most failure-prone processes in modern science, with about 90% of drug candidates never reaching the market. Today, artificial intelligence methods have accelerated the first…",
+          "url": "https://phys.org/news/2026-07-ai-drug-discovery-qa.html",
           "source": "Phys.org",
-          "date": "2026-07-23"
+          "date": "2026-07-24"
         },
         {
-          "title": "How much should you reveal about yourself on your dating profile? Scientists have found the 'sweet spot'",
-          "summary": "Dating has entered a new era in which finding a potential soulmate is increasingly shaped by the digital world and, often, by algorithms. On dating apps, the way people present themselves through their profiles can…",
-          "url": "https://phys.org/news/2026-07-reveal-dating-profile-scientists-sweet.html",
-          "source": "Phys.org",
-          "date": "2026-07-23"
-        },
-        {
-          "title": "Why open-source software can be both good and bad",
-          "summary": "Software that is free to use creates many opportunities – not all of which are good",
-          "url": "https://www.newscientist.com/article/2580504-why-open-source-software-can-be-both-good-and-bad/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "title": "Extremely basic AI prompt cracks decades-old maths problem",
+          "summary": "For the second time in a week, a long-standing conjecture has been disproved by artificial intelligence, highlighting the advanced mathematical capabilities of ChatGPT and its ilk",
+          "url": "https://www.newscientist.com/article/2580932-extremely-basic-ai-prompt-cracks-decades-old-maths-problem/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
-          "date": "2026-07-22"
+          "date": "2026-07-23"
         }
       ]
     },
     "Physics": {
       "emoji": "⚡",
       "articles": [
-        {
-          "title": "New quantum gravity theory links entropy, dark energy, and life",
-          "summary": "A new theoretical study offers a possible explanation for how the Universe can grow more complex without violating the second law of thermodynamics. Using a quantum gravity framework called Gravity from Entropy…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260719035947.htm",
-          "source": "Science Daily",
-          "date": "2026-07-21"
-        },
         {
           "title": "A strange quantum effect dramatically boosts energy transfer",
           "summary": "Researchers discovered a proton-assisted mechanism that greatly improves how triplet energy moves between quantum dots and nearby molecules. The proton briefly shifts position, helps coordinate electron movement, and…",
@@ -219,25 +212,18 @@
           "date": "2026-07-22"
         },
         {
-          "title": "Shaking atoms to bring black-hole quantum chaos into the lab",
-          "summary": "Physicists have discovered a surprisingly simple way to reproduce one of the most fascinating models in modern physics—linked to black holes, quantum chaos and exotic electronic materials—using ultracold atoms trapped…",
-          "url": "https://phys.org/news/2026-07-atoms-black-hole-quantum-chaos.html",
-          "source": "Phys.org",
-          "date": "2026-07-23"
-        },
-        {
-          "title": "Molecular clock transitions tune out the noise in the hunt for new physics",
-          "summary": "Heavy polar molecules are some of the most sensitive tools physicists have for probing what lies beyond the Standard Model, the theory that describes the particles and forces we know about. But turning that sensitivity…",
-          "url": "https://phys.org/news/2026-07-molecular-clock-transitions-tune-noise.html",
-          "source": "Phys.org",
-          "date": "2026-07-23"
-        },
-        {
-          "title": "Sunshine can help with some serious health problems, argues a new book",
-          "summary": "While Europe’s heatwave makes us run for shade, the intriguing In Defense of Sunlight reveals sunlight’s health-giving effects – in moderation, says David Robson",
-          "url": "https://www.newscientist.com/article/2580341-sunshine-can-help-with-some-serious-health-problems-argues-a-new-book/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
+          "title": "'Terminator 2: Judgment Day' is time-travelling back into theaters next month for a 35th anniversary re-release",
+          "summary": "Grab your clothes, your boots, and your motorcycle because it's time to party like it’s the summer of 1991.",
+          "url": "https://www.space.com/entertainment/space-movies-shows/terminator-2-judgment-day-is-time-travelling-back-into-theaters-next-month-for-a-35th-anniversary-re-release",
+          "source": "Space.com",
           "date": "2026-07-22"
+        },
+        {
+          "title": "Fields medal 2026: Work on unifying laws of physics wins maths prize",
+          "summary": "Mathematicians who helped unify laws of physics and cracked decades-old problems in geometry are among this year's recipients of the Fields medal",
+          "url": "https://www.newscientist.com/article/2580296-fields-medal-2026-work-on-unifying-laws-of-physics-wins-maths-prize/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-07-23"
         }
       ]
     }
