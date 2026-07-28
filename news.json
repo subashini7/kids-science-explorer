@@ -1,9 +1,16 @@
 {
-  "updated": "2026-07-27T15:42:07Z",
+  "updated": "2026-07-28T15:21:19Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
+        {
+          "title": "Dynamic 'breathing' in nanopore structures can maximize efficiency of molecule separation and diffusion",
+          "summary": "Nanoporous material-based separation technology is vital in many applications because it can precisely distinguish between and separate nearly identical chemical or biochemical molecules.",
+          "url": "https://phys.org/news/2026-07-dynamic-nanopore-maximize-efficiency-molecule.html",
+          "source": "Phys.org",
+          "date": "2026-07-28"
+        },
         {
           "title": "Hidden genetic diversity helped inbred brown tree snakes conquer guam",
           "summary": "A notorious snake invasion that devastated Guam’s native birds may have succeeded because the reptiles carried hidden genetic advantages. Using advanced long-read DNA sequencing, researchers uncovered more than 19,000…",
@@ -12,32 +19,25 @@
           "date": "2026-07-26"
         },
         {
-          "title": "Scientists discover a compound that could supercharge aging muscle repair",
-          "summary": "A sulfur-based compound called LASSS appears to protect and supercharge a key protein involved in repairing damaged muscle. The discovery could eventually lead to new ways to slow muscle loss and preserve strength as…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260724061432.htm",
-          "source": "Science Daily",
-          "date": "2026-07-24"
+          "title": "New research shows how 'hot electrons' can reshape metals in billionths of a second",
+          "summary": "Researchers at The University of Manchester have revealed how intense electronic excitation can trigger rapid structural changes in metals—without heating the atomic lattice—offering new insight into ultrafast materials…",
+          "url": "https://phys.org/news/2026-07-hot-electrons-reshape-metals-billionths.html",
+          "source": "Phys.org",
+          "date": "2026-07-28"
         },
         {
-          "title": "Why the same DNA damage causes cancer in some people but not others",
-          "summary": "A controlled mouse study has provided direct evidence that inherited genetics can steer how cancer begins and evolves after DNA damage. The discovery could eventually help doctors better predict cancer risk and tailor…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260727012123.htm",
-          "source": "Science Daily",
-          "date": "2026-07-27"
+          "title": "A new kind of drug will help fight previously untreatable conditions",
+          "summary": "The first of a new generation of drugs that works in a completely different way to existing ones has been approved. Columnist Michael Le Page says this approach could transform treatments for all kinds of conditions",
+          "url": "https://www.newscientist.com/article/2581300-an-entirely-new-kind-of-drug-will-help-us-treat-the-untreatable/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-07-28"
         },
         {
-          "title": "Oral GLP-1 drugs may quiet the brain’s food craving circuit",
-          "summary": "Newer oral drugs related to semaglutide medications such as Ozempic reduced pleasure-driven eating in mice by quieting a deep brain reward circuit. The finding could open new avenues for understanding food cravings and…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260724061439.htm",
+          "title": "Misfolded insulin may be quietly driving diabetes",
+          "summary": "Researchers found that insulin-producing cells depend on a team of helper proteins to keep insulin production on track. When one key partner was missing, damaged proteins built up and the cells made less insulin…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260727214616.htm",
           "source": "Science Daily",
-          "date": "2026-07-25"
-        },
-        {
-          "title": "APOE2 may protect the brain from Alzheimer’s and aging",
-          "summary": "The longevity-linked APOE2 gene appears to protect brain cells by reducing DNA damage and helping neurons recover from stress. The finding could open a new path toward treatments that mimic APOE2’s defenses in people at…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260723084856.htm",
-          "source": "Science Daily",
-          "date": "2026-07-24"
+          "date": "2026-07-28"
         }
       ]
     },
@@ -45,11 +45,11 @@
       "emoji": "🚀",
       "articles": [
         {
-          "title": "NASA Announces New Spacecraft Technology Demonstration Mission at Moon",
-          "summary": "NASA is working with industry to advance the next phase of cislunar infrastructure for the agency’s Artemis program and Moon Base, including orbital assets and demonstrations. Under a contract awarded to Advanced Space…",
-          "url": "https://www.nasa.gov/directorates/armd/nasa-announces-new-spacecraft-technology-demonstration-mission-at-moon/",
-          "source": "NASA",
-          "date": "2026-07-24"
+          "title": "Rocket Lab to start launching missile-defense missions from Alaska under $266 million Space Force deal",
+          "summary": "Rocket Lab just inked a $266 million deal with the U.S. Space Force to launch up to 18 suborbital missile-defense missions, most of them from Alaska's Pacific Spaceport Complex.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-to-start-launching-missile-defense-missions-from-alaska-under-usd266-million-space-force-deal",
+          "source": "Space.com",
+          "date": "2026-07-27"
         },
         {
           "title": "NASA Astronaut Chris Williams, Crewmates Return from Space Station",
@@ -59,25 +59,25 @@
           "date": "2026-07-26"
         },
         {
-          "title": "NASA’s ESCAPADE Snaps Family Portrait of Earth, Moon",
-          "summary": "On July 3, one of NASA’s two Mars-destined ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft captured photos of Earth and the Moon in visible and thermal infrared light. At the time, the…",
-          "url": "https://science.nasa.gov/image-article/centers-and-facilities/goddard/nasas-escapade-snaps-family-portrait-of-earth-moon/",
-          "source": "NASA",
-          "date": "2026-07-24"
-        },
-        {
-          "title": "After 241 days in orbit this NASA astronaut is finally home",
-          "summary": "NASA astronaut Chris Williams and two Roscosmos cosmonauts are back on Earth after spending 241 days aboard the International Space Station. Their journey covered more than 102 million miles and included 3,856 trips…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260727012131.htm",
+          "title": "NASA’s Psyche spacecraft aces Mars flyby capturing stunning timelapse video",
+          "summary": "NASA’s Psyche spacecraft aced its Mars flyby, using the planet’s gravity to speed toward its 2029 encounter with a metal-rich asteroid. The spacecraft tested its cameras, magnetometer, and particle-detecting…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260727214612.htm",
           "source": "Science Daily",
-          "date": "2026-07-27"
+          "date": "2026-07-28"
         },
         {
-          "title": "SpaceX's Starship megarocket makes the 'softest splashdown' ever after launching next-gen Starlink satellites in Flight 13 test (video)",
-          "summary": "SpaceX launched Starship, the world's most powerful rocket, on a critical 13th test flight on July 24, a stunning test flight that notched big success and ended with a huge surprise.",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-makes-the-softest-splashdown-ever-after-launching-next-gen-starlink-satellites-in-flight-13-test-video",
+          "title": "Tabby's star may be orbited by a planetary-mass companion",
+          "summary": "By analyzing data from NASA's Transiting Exoplanet Survey Satellite (TESS) and conducting new radial velocity measurements, U.K. and French astronomers have found evidence that the mysterious Tabby's star may be orbited…",
+          "url": "https://phys.org/news/2026-07-tabby-star-orbited-planetary-mass.html",
+          "source": "Phys.org",
+          "date": "2026-07-28"
+        },
+        {
+          "title": "SpaceX launches 24 Starlink satellites to orbit in wake of Starship test flight (video)",
+          "summary": "A SpaceX Falcon 9 rocket carrying 24 Starlink satellites lifted off from Vandenberg Space Force Base in California on Saturday, July 25, 2026.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-51-b1100-vsfb-ocisly",
           "source": "Space.com",
-          "date": "2026-07-25"
+          "date": "2026-07-28"
         }
       ]
     },
@@ -92,20 +92,6 @@
           "date": "2026-07-27"
         },
         {
-          "title": "New snail species bolster case for protecting Montenegro's biodiversity",
-          "summary": "The descriptions of the two new additions to the European snail fauna, named Cochlostoma komarnica and Cochlostoma dobrido, have been published in the open-access Biodiversity Data Journal.",
-          "url": "https://phys.org/news/2026-07-snail-species-bolster-case-montenegro.html",
-          "source": "Phys.org",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "Virtual reality fish platform offers insights into the impact of artificial light on aquatic life",
-          "summary": "A virtual reality (VR) platform has given researchers new insights into how artificial light at night alters the way coral reef fish respond to predators. The study brings together, for the first time, the metabolic…",
-          "url": "https://phys.org/news/2026-07-virtual-reality-fish-platform-insights.html",
-          "source": "Phys.org",
-          "date": "2026-07-27"
-        },
-        {
           "title": "Scientists trace the shocking origin of human eyes to an ancient “cyclops”",
           "summary": "Researchers say a tiny one-eyed ancestor that lived nearly 600 million years ago may have shaped the evolution of every vertebrate eye, including our own. They also found that its ancient median eye lives on today as…",
           "url": "https://www.sciencedaily.com/releases/2026/07/260725105554.htm",
@@ -113,11 +99,25 @@
           "date": "2026-07-26"
         },
         {
-          "title": "Ancient ape fossil in Egypt challenges the story of human origins",
-          "summary": "A newly identified fossil ape from northern Egypt is reshaping ideas about where the ancestors of modern apes first emerged. Analyses place it closer to living apes than any known East African species of the same age…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260723084852.htm",
+          "title": "Chicxulub's lingering dust may have turned falling debris into a global firestorm",
+          "summary": "Sixty-six million years ago, the six-mile-wide (10-kilometer-wide) Chicxulub asteroid crash-landed in Mexico's Yucatán Peninsula and changed life on Earth forever. The reign of the dinosaurs ended, and only creatures…",
+          "url": "https://phys.org/news/2026-07-chicxulub-lingering-falling-debris-global.html",
+          "source": "Phys.org",
+          "date": "2026-07-28"
+        },
+        {
+          "title": "An island has been waging a war on rats. They think they’ve finally won",
+          "summary": "Rats are a scourge on island wildlife all over the world. But an island off the coast of Ireland is showing how to successfully gain the upper hand",
+          "url": "https://www.newscientist.com/article/2579731-an-island-has-been-waging-a-war-on-rats-they-think-theyve-finally-won/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-07-28"
+        },
+        {
+          "title": "500,000-year-old elephant bone hammer shows ancient humans were master toolmakers",
+          "summary": "Early humans in England crafted a rare piece of elephant bone into a reusable hammer for sharpening stone tools nearly 500,000 years ago. The extraordinary find reveals that ancient toolmakers were resourceful, skilled…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260726015301.htm",
           "source": "Science Daily",
-          "date": "2026-07-24"
+          "date": "2026-07-27"
         }
       ]
     },
@@ -125,11 +125,11 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "How do scientists know if climate change made a heat wave, extreme storm or wildfire worse?",
-          "summary": "When a devastating heat wave, hurricane, flood or wildfire strikes, people often want to know: How much did human-caused climate change influence this event, if at all?",
-          "url": "https://phys.org/news/2026-07-scientists-climate-extreme-storm-wildfire.html",
-          "source": "Phys.org",
-          "date": "2026-07-27"
+          "title": "A slowing Atlantic current could unleash stronger California storms",
+          "summary": "A weakening Atlantic current could supercharge California’s atmospheric rivers while leaving Greenland with fewer snow-producing storms. The changes could raise flood risks, strain infrastructure, and reshape water…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260727214626.htm",
+          "source": "Science Daily",
+          "date": "2026-07-28"
         },
         {
           "title": "Scientists put the “recycling is a distraction” claim to the test",
@@ -139,25 +139,25 @@
           "date": "2026-07-25"
         },
         {
-          "title": "Sun news: Sun-stuff could reach Earth today",
-          "summary": "Sun news July 27, 2026: An M3.2 flare erupted from restless region AR4494, while a July 24 CME closes in for a glancing blow. G1 storms possible tonight! The post Sun news: Sun-stuff could reach Earth today first…",
-          "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+          "title": "Climate change and social concerns could drive more radical protests",
+          "summary": "Around the world, hundreds of thousands of people engage in conventional protests—and sometimes more radical forms of action—in the face of environmental change, harms to animals and nature, and climate inaction.",
+          "url": "https://phys.org/news/2026-07-climate-social-radical-protests.html",
+          "source": "Phys.org",
+          "date": "2026-07-28"
+        },
+        {
+          "title": "Record snow drought drives water-hauling crisis for Rocky Mountain ranchers",
+          "summary": "As water shot into an open stock tank atop a high-country mesa, a trickle soaked the dusty earth below. Scott Snyder rose from the shade to fasten a hose and stop the spillage.",
+          "url": "https://phys.org/news/2026-07-drought-hauling-crisis-rocky-mountain.html",
+          "source": "Phys.org",
+          "date": "2026-07-28"
+        },
+        {
+          "title": "Earthquake in Japan triggers mall collapse in Kumamoto",
+          "summary": "Japan earthquake triggers mall collapse in Kumamoto The Japan Meteorological Agency (JMA) reported an earthquake registering a magnitude 7.1 in... The post Earthquake in Japan triggers mall collapse in Kumamoto first…",
+          "url": "https://earthsky.org/earth/earthquake-in-japan-6-8-mall-collapse-in-kumamoto/",
           "source": "EarthSky",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "Earth is heating up faster than at any time in its history",
-          "summary": "To understand where climate change is heading, we have to look at the planet’s distant past and appreciate the disturbing uniqueness of our situation, says Bill McGuire",
-          "url": "https://www.newscientist.com/article/2581280-earth-is-heating-up-faster-than-at-any-time-in-its-history/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-07-24"
-        },
-        {
-          "title": "Curiosity Blog, Sols 4954–4960: Celebrating Our Rover Engineers Past and Present",
-          "summary": "Written by Lucy Thompson, Senior Research Scientist, University of New Brunswick, Canada Earth planning date: Friday, July 17, 2026 As an APXS uplink lead and strategic planner, I have the privilege of working with the…",
-          "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4954-4960-celebrating-our-rover-engineers-past-and-present/",
-          "source": "NASA",
-          "date": "2026-07-24"
+          "date": "2026-07-28"
         }
       ]
     },
@@ -165,18 +165,11 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "AI and robotics accelerate search for better gut microbiome therapies",
-          "summary": "Biomedical engineers at Duke University have demonstrated a method for systematically developing novel, complex combinations of probiotics and prebiotics to more effectively maintain gut health and treat various…",
-          "url": "https://phys.org/news/2026-07-ai-robotics-gut-microbiome-therapies.html",
+          "title": "A way to read quantum bits faster and with less hardware",
+          "summary": "Quantum computers process information in a fundamentally different way from conventional computers, using quantum bits, or qubits, that can exist in multiple states at once. This could allow them to tackle problems…",
+          "url": "https://phys.org/news/2026-07-quantum-bits-faster-hardware.html",
           "source": "Phys.org",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "Quantum neural networks get their first hardware test",
-          "summary": "Neural networks have transformed how machines find patterns in data, from recognizing faces in photos to predicting the shapes of proteins. So far, all of this progress has been made on ordinary classical computers, but…",
-          "url": "https://phys.org/news/2026-07-quantum-neural-networks-hardware.html",
-          "source": "Phys.org",
-          "date": "2026-07-27"
+          "date": "2026-07-28"
         },
         {
           "title": "Your AI calorie-tracking app may be off by 345 calories",
@@ -184,6 +177,13 @@
           "url": "https://www.sciencedaily.com/releases/2026/07/260726015237.htm",
           "source": "Science Daily",
           "date": "2026-07-26"
+        },
+        {
+          "title": "Scientists repair damaged plastics at the molecular level, boosting recycling potential",
+          "summary": "Plastic recycling could become far more effective thanks to a new technique that restores the strength of damaged engineering plastics by repairing them at the molecular level.",
+          "url": "https://phys.org/news/2026-07-scientists-plastics-molecular-boosting-recycling.html",
+          "source": "Phys.org",
+          "date": "2026-07-28"
         }
       ]
     },
@@ -191,18 +191,25 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "Physicists capture first direct evidence of a Floquet topological state",
-          "summary": "A new study published in Nature Physics reports the first direct experimental evidence of a Floquet topological state, a novel light-induced phase of matter that, until now, has existed only on paper and in simulations…",
-          "url": "https://phys.org/news/2026-07-physicists-capture-evidence-floquet-topological.html",
-          "source": "Phys.org",
-          "date": "2026-07-27"
+          "title": "Scientists create an “electron lighthouse” with laser light",
+          "summary": "Scientists have created an “electron lighthouse” that uses laser light to launch and steer electrons through a semiconductor without an applied electrical field. The quantum effect could eventually improve optical…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260727214601.htm",
+          "source": "Science Daily",
+          "date": "2026-07-28"
         },
         {
-          "title": "Wildfires in Spain and France: 200,000 forced to flee",
-          "summary": "Raging wildfires in Spain and France have forced over 200,000 to evacuate or shelter as extreme heat and winds push uncontained blazes across both regions. The post Wildfires in Spain and France: 200,000 forced to flee…",
-          "url": "https://earthsky.org/earth/wildfires-in-spain-and-france-200000-forced-to-flee/",
+          "title": "Twisted laser light can tell mirror-image molecules apart",
+          "summary": "Scientists have created twisted laser beams that interact differently with right-handed and left-handed molecules, revealing their identity through the fragments they produce. The approach could provide a faster…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260727214557.htm",
+          "source": "Science Daily",
+          "date": "2026-07-28"
+        },
+        {
+          "title": "What’s an airplane glory? Here’s how to spot one",
+          "summary": "An airplane glory is easy to see, if you watch for it. It's the plane's shadow cast on a cloud, or the ground, surrounded by a halo of light. The post What’s an airplane glory? Here’s how to spot one first appeared on…",
+          "url": "https://earthsky.org/earth/what-is-an-airplane-glory/",
           "source": "EarthSky",
-          "date": "2026-07-25"
+          "date": "2026-07-28"
         }
       ]
     }
