@@ -1,15 +1,15 @@
 {
-  "updated": "2026-07-28T15:21:19Z",
+  "updated": "2026-07-29T15:30:47Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "Dynamic 'breathing' in nanopore structures can maximize efficiency of molecule separation and diffusion",
-          "summary": "Nanoporous material-based separation technology is vital in many applications because it can precisely distinguish between and separate nearly identical chemical or biochemical molecules.",
-          "url": "https://phys.org/news/2026-07-dynamic-nanopore-maximize-efficiency-molecule.html",
+          "title": "A successful, sustainable catalyst for ethanol dehydrogenation",
+          "summary": "Ethanol is an alcohol used in a vast number of industrial and household applications. When dehydrogenated—in this case, stripped of some of its hydrogen atoms—it yields another important compound: acetaldehyde, which is…",
+          "url": "https://phys.org/news/2026-07-successful-sustainable-catalyst-ethanol-dehydrogenation.html",
           "source": "Phys.org",
-          "date": "2026-07-28"
+          "date": "2026-07-29"
         },
         {
           "title": "Hidden genetic diversity helped inbred brown tree snakes conquer guam",
@@ -19,24 +19,24 @@
           "date": "2026-07-26"
         },
         {
-          "title": "New research shows how 'hot electrons' can reshape metals in billionths of a second",
-          "summary": "Researchers at The University of Manchester have revealed how intense electronic excitation can trigger rapid structural changes in metals—without heating the atomic lattice—offering new insight into ultrafast materials…",
-          "url": "https://phys.org/news/2026-07-hot-electrons-reshape-metals-billionths.html",
+          "title": "Two attosecond flashes capture electrons in motion",
+          "summary": "Electronic motion sets the stage for virtually every light-induced process in nature, from the first step of a chemical reaction to the flow of charge in a solid. Yet these processes unfold so rapidly that they can be…",
+          "url": "https://phys.org/news/2026-07-attosecond-capture-electrons-motion.html",
           "source": "Phys.org",
-          "date": "2026-07-28"
+          "date": "2026-07-29"
+        },
+        {
+          "title": "Pill that lowers oxygen levels in brain may ease Parkinson’s symptoms",
+          "summary": "A pill that induces hypoxia in the brain has been linked to improved symptoms of three neurodegenerative conditions when tested in mice",
+          "url": "https://www.newscientist.com/article/2582191-hypoxia-in-a-pill-may-ease-neurodegeneration-by-lowering-oxygen-in-the-brain/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-07-29"
         },
         {
           "title": "A new kind of drug will help fight previously untreatable conditions",
           "summary": "The first of a new generation of drugs that works in a completely different way to existing ones has been approved. Columnist Michael Le Page says this approach could transform treatments for all kinds of conditions",
           "url": "https://www.newscientist.com/article/2581300-an-entirely-new-kind-of-drug-will-help-us-treat-the-untreatable/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
-          "date": "2026-07-28"
-        },
-        {
-          "title": "Misfolded insulin may be quietly driving diabetes",
-          "summary": "Researchers found that insulin-producing cells depend on a team of helper proteins to keep insulin production on track. When one key partner was missing, damaged proteins built up and the cells made less insulin…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260727214616.htm",
-          "source": "Science Daily",
           "date": "2026-07-28"
         }
       ]
@@ -52,13 +52,6 @@
           "date": "2026-07-27"
         },
         {
-          "title": "NASA Astronaut Chris Williams, Crewmates Return from Space Station",
-          "summary": "Concluding an eight-month science mission aboard the International Space Station, NASA astronaut Chris Williams returned to Earth on Sunday alongside Roscosmos cosmonauts Sergey Kud-Sverchkov and Sergei Mikaev. The crew…",
-          "url": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-crewmates-return-from-space-station/",
-          "source": "NASA",
-          "date": "2026-07-26"
-        },
-        {
           "title": "NASA’s Psyche spacecraft aces Mars flyby capturing stunning timelapse video",
           "summary": "NASA’s Psyche spacecraft aced its Mars flyby, using the planet’s gravity to speed toward its 2029 encounter with a metal-rich asteroid. The spacecraft tested its cameras, magnetometer, and particle-detecting…",
           "url": "https://www.sciencedaily.com/releases/2026/07/260727214612.htm",
@@ -66,11 +59,11 @@
           "date": "2026-07-28"
         },
         {
-          "title": "Tabby's star may be orbited by a planetary-mass companion",
-          "summary": "By analyzing data from NASA's Transiting Exoplanet Survey Satellite (TESS) and conducting new radial velocity measurements, U.K. and French astronomers have found evidence that the mysterious Tabby's star may be orbited…",
-          "url": "https://phys.org/news/2026-07-tabby-star-orbited-planetary-mass.html",
+          "title": "ESCAPADE's cameras capture Earth and moon",
+          "summary": "In November 2025, NASA's Mars-bound ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft launched from Cape Canaveral with special cargo on board: two camera systems designed and built by faculty…",
+          "url": "https://phys.org/news/2026-07-escapade-cameras-capture-earth-moon.html",
           "source": "Phys.org",
-          "date": "2026-07-28"
+          "date": "2026-07-29"
         },
         {
           "title": "SpaceX launches 24 Starlink satellites to orbit in wake of Starship test flight (video)",
@@ -78,12 +71,26 @@
           "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-51-b1100-vsfb-ocisly",
           "source": "Space.com",
           "date": "2026-07-28"
+        },
+        {
+          "title": "NASA Astronaut Chris Williams to Discuss Space Station Mission",
+          "summary": "NASA astronaut Chris Williams will recap his recent eight-month mission aboard the International Space Station during a news conference at 2:45 p.m. EDT Tuesday, Aug. 4, from the agency’s Johnson Space Center in…",
+          "url": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission/",
+          "source": "NASA",
+          "date": "2026-07-27"
         }
       ]
     },
     "Animals & Nature": {
       "emoji": "🐾",
       "articles": [
+        {
+          "title": "Gobi fossil reveals 6-inch 'Cretaceous rabbit' belonged to a different mammal branch",
+          "summary": "A remarkably preserved fossil from Mongolia's Gobi Desert is reshaping scientists' understanding of mammal evolution during the age of dinosaurs.",
+          "url": "https://phys.org/news/2026-07-gobi-fossil-reveals-inch-cretaceous.html",
+          "source": "Phys.org",
+          "date": "2026-07-29"
+        },
         {
           "title": "These insect submariners survive depths that should crush them",
           "summary": "Lake fly larvae plunge more than 200 meters into Lake Malawi each day to hide from predators, using tiny air sacs to control their depth. A rubber-like material called resilin lets them expand or shrink the sacs by…",
@@ -92,38 +99,38 @@
           "date": "2026-07-27"
         },
         {
-          "title": "Scientists trace the shocking origin of human eyes to an ancient “cyclops”",
-          "summary": "Researchers say a tiny one-eyed ancestor that lived nearly 600 million years ago may have shaped the evolution of every vertebrate eye, including our own. They also found that its ancient median eye lives on today as…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260725105554.htm",
-          "source": "Science Daily",
-          "date": "2026-07-26"
-        },
-        {
-          "title": "Chicxulub's lingering dust may have turned falling debris into a global firestorm",
-          "summary": "Sixty-six million years ago, the six-mile-wide (10-kilometer-wide) Chicxulub asteroid crash-landed in Mexico's Yucatán Peninsula and changed life on Earth forever. The reign of the dinosaurs ended, and only creatures…",
-          "url": "https://phys.org/news/2026-07-chicxulub-lingering-falling-debris-global.html",
-          "source": "Phys.org",
-          "date": "2026-07-28"
-        },
-        {
-          "title": "An island has been waging a war on rats. They think they’ve finally won",
-          "summary": "Rats are a scourge on island wildlife all over the world. But an island off the coast of Ireland is showing how to successfully gain the upper hand",
-          "url": "https://www.newscientist.com/article/2579731-an-island-has-been-waging-a-war-on-rats-they-think-theyve-finally-won/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "title": "Extraordinary ichthyosaur fossil shows its last meal was a pterosaur",
+          "summary": "The remains of an orca-sized ichthyosaur include evidence of what it ate – before it too got eaten by an even bigger marine predator",
+          "url": "https://www.newscientist.com/article/2582125-extraordinary-ichthyosaur-fossil-shows-its-last-meal-was-a-pterosaur/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
-          "date": "2026-07-28"
+          "date": "2026-07-29"
         },
         {
-          "title": "500,000-year-old elephant bone hammer shows ancient humans were master toolmakers",
-          "summary": "Early humans in England crafted a rare piece of elephant bone into a reusable hammer for sharpening stone tools nearly 500,000 years ago. The extraordinary find reveals that ancient toolmakers were resourceful, skilled…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260726015301.htm",
+          "title": "Why are so many dead bumblebees appearing on sidewalks?",
+          "summary": "Bumblebees naturally have short lives, but extreme heat and human activity are making survival harder. Pesticides can poison bees or destroy the flowers they depend on, while habitat loss leaves them with fewer safe…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260727012134.htm",
           "source": "Science Daily",
-          "date": "2026-07-27"
+          "date": "2026-07-29"
+        },
+        {
+          "title": "Oil beetle larvae smell like flowers to manipulate bees and sneak into their nests",
+          "summary": "For the first time, a research team from the Max Planck Institute for Chemical Ecology and Friedrich Schiller University in Jena, Germany, has demonstrated that insects can mimic floral scents to manipulate pollinators.",
+          "url": "https://phys.org/news/2026-07-oil-beetle-larvae-bees.html",
+          "source": "Phys.org",
+          "date": "2026-07-29"
         }
       ]
     },
     "Earth & Climate": {
       "emoji": "🌍",
       "articles": [
+        {
+          "title": "Earth’s hidden “gold kitchen” lies beneath the seafloor",
+          "summary": "Deep beneath submarine volcanoes, Earth may be running a natural “gold kitchen.” By analyzing volcanic glass from the Kermadec island arc north of New Zealand, researchers found that water-rich mantle repeatedly melts…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260727214628.htm",
+          "source": "Science Daily",
+          "date": "2026-07-29"
+        },
         {
           "title": "A slowing Atlantic current could unleash stronger California storms",
           "summary": "A weakening Atlantic current could supercharge California’s atmospheric rivers while leaving Greenland with fewer snow-producing storms. The changes could raise flood risks, strain infrastructure, and reshape water…",
@@ -132,32 +139,25 @@
           "date": "2026-07-28"
         },
         {
-          "title": "Scientists put the “recycling is a distraction” claim to the test",
-          "summary": "Recycling, greener diets, and other personal climate choices do not seem to distract people from supporting major environmental reforms. A four-year study of nearly 2,800 Australians found that these habits neither…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260724061437.htm",
-          "source": "Science Daily",
-          "date": "2026-07-25"
-        },
-        {
-          "title": "Climate change and social concerns could drive more radical protests",
-          "summary": "Around the world, hundreds of thousands of people engage in conventional protests—and sometimes more radical forms of action—in the face of environmental change, harms to animals and nature, and climate inaction.",
-          "url": "https://phys.org/news/2026-07-climate-social-radical-protests.html",
+          "title": "Antarctic storms are becoming more frequent and intense, affecting sea ice",
+          "summary": "Winters in Antarctica's Ross Sea have become stormier in recent decades, affecting sea-ice conditions and field operations, new University of Otago—Ōtākou Whakaihu Waka research shows.",
+          "url": "https://phys.org/news/2026-07-antarctic-storms-frequent-intense-affecting.html",
           "source": "Phys.org",
-          "date": "2026-07-28"
+          "date": "2026-07-29"
         },
         {
-          "title": "Record snow drought drives water-hauling crisis for Rocky Mountain ranchers",
-          "summary": "As water shot into an open stock tank atop a high-country mesa, a trickle soaked the dusty earth below. Scott Snyder rose from the shade to fasten a hose and stop the spillage.",
-          "url": "https://phys.org/news/2026-07-drought-hauling-crisis-rocky-mountain.html",
-          "source": "Phys.org",
-          "date": "2026-07-28"
+          "title": "On this day in space! July 29, 1982: Soviet Salyut 6 space station falls to Earth",
+          "summary": "On July 29, 1982, the Salyut 6 space station fell out of space and safely burned up in Earth's atmosphere along the way. Here's why it mattered.",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-july-29-2026",
+          "source": "Space.com",
+          "date": "2026-07-29"
         },
         {
-          "title": "Earthquake in Japan triggers mall collapse in Kumamoto",
-          "summary": "Japan earthquake triggers mall collapse in Kumamoto The Japan Meteorological Agency (JMA) reported an earthquake registering a magnitude 7.1 in... The post Earthquake in Japan triggers mall collapse in Kumamoto first…",
-          "url": "https://earthsky.org/earth/earthquake-in-japan-6-8-mall-collapse-in-kumamoto/",
+          "title": "Meteotsunami hits Lake Winnebago after Wisconsin tornado",
+          "summary": "A meteotsunami occurs when a weather system causes the entire body of water to oscillate, creating sudden changes in water level along the shore. The post Meteotsunami hits Lake Winnebago after Wisconsin tornado first…",
+          "url": "https://earthsky.org/earth/what-is-a-meteotsunami/",
           "source": "EarthSky",
-          "date": "2026-07-28"
+          "date": "2026-07-29"
         }
       ]
     },
@@ -165,25 +165,11 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "A way to read quantum bits faster and with less hardware",
-          "summary": "Quantum computers process information in a fundamentally different way from conventional computers, using quantum bits, or qubits, that can exist in multiple states at once. This could allow them to tackle problems…",
-          "url": "https://phys.org/news/2026-07-quantum-bits-faster-hardware.html",
-          "source": "Phys.org",
-          "date": "2026-07-28"
-        },
-        {
           "title": "Your AI calorie-tracking app may be off by 345 calories",
           "summary": "Popular AI-powered food apps may make calorie counting easier, but they may also leave out a surprisingly large part of the meal. Four apps underestimated calories and fat by about one-third when tested against…",
           "url": "https://www.sciencedaily.com/releases/2026/07/260726015237.htm",
           "source": "Science Daily",
           "date": "2026-07-26"
-        },
-        {
-          "title": "Scientists repair damaged plastics at the molecular level, boosting recycling potential",
-          "summary": "Plastic recycling could become far more effective thanks to a new technique that restores the strength of damaged engineering plastics by repairing them at the molecular level.",
-          "url": "https://phys.org/news/2026-07-scientists-plastics-molecular-boosting-recycling.html",
-          "source": "Phys.org",
-          "date": "2026-07-28"
         }
       ]
     },
@@ -198,6 +184,20 @@
           "date": "2026-07-28"
         },
         {
+          "title": "Can’t sleep in the heat? These 8 tricks could save your night",
+          "summary": "Sleeping well during a heatwave starts with stopping the home from overheating. Close blinds against strong sunlight, ventilate when the air outside becomes cooler, and avoid using heat-producing appliances during the…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260729010722.htm",
+          "source": "Science Daily",
+          "date": "2026-07-29"
+        },
+        {
+          "title": "New microwave frying method could make french fries much healthier",
+          "summary": "A new cooking method could make French fries crispier in less time while significantly limiting how much oil they absorb. Researchers propose combining microwave heating, which keeps oil out, with conventional frying…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260729044048.htm",
+          "source": "Science Daily",
+          "date": "2026-07-29"
+        },
+        {
           "title": "Twisted laser light can tell mirror-image molecules apart",
           "summary": "Scientists have created twisted laser beams that interact differently with right-handed and left-handed molecules, revealing their identity through the fragments they produce. The approach could provide a faster…",
           "url": "https://www.sciencedaily.com/releases/2026/07/260727214557.htm",
@@ -205,11 +205,11 @@
           "date": "2026-07-28"
         },
         {
-          "title": "What’s an airplane glory? Here’s how to spot one",
-          "summary": "An airplane glory is easy to see, if you watch for it. It's the plane's shadow cast on a cloud, or the ground, surrounded by a halo of light. The post What’s an airplane glory? Here’s how to spot one first appeared on…",
-          "url": "https://earthsky.org/earth/what-is-an-airplane-glory/",
-          "source": "EarthSky",
-          "date": "2026-07-28"
+          "title": "Bringing complex field physics to the tabletop: A photonic stage for non-Abelian gauge fields",
+          "summary": "For most theories in physics, the order of operations has little impact on the result. When setting a dial to a certain position, for example, it doesn't matter whether it's turned clockwise or counterclockwise—the…",
+          "url": "https://phys.org/news/2026-07-complex-field-physics-tabletop-photonic.html",
+          "source": "Phys.org",
+          "date": "2026-07-29"
         }
       ]
     }
