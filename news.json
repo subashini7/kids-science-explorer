@@ -1,43 +1,43 @@
 {
-  "updated": "2026-07-29T15:30:47Z",
+  "updated": "2026-07-30T15:10:10Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "A successful, sustainable catalyst for ethanol dehydrogenation",
-          "summary": "Ethanol is an alcohol used in a vast number of industrial and household applications. When dehydrogenated—in this case, stripped of some of its hydrogen atoms—it yields another important compound: acetaldehyde, which is…",
-          "url": "https://phys.org/news/2026-07-successful-sustainable-catalyst-ethanol-dehydrogenation.html",
-          "source": "Phys.org",
-          "date": "2026-07-29"
-        },
-        {
-          "title": "Hidden genetic diversity helped inbred brown tree snakes conquer guam",
-          "summary": "A notorious snake invasion that devastated Guam’s native birds may have succeeded because the reptiles carried hidden genetic advantages. Using advanced long-read DNA sequencing, researchers uncovered more than 19,000…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260726015236.htm",
+          "title": "Rice bran compound may help ease irritable bowel symptoms",
+          "summary": "A compound in rice bran may help calm an overactive gut by reducing the calcium signals that cause intestinal muscles to contract. Ferulic acid suppressed contractions triggered by several chemical messengers in…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260729010742.htm",
           "source": "Science Daily",
-          "date": "2026-07-26"
+          "date": "2026-07-30"
         },
         {
-          "title": "Two attosecond flashes capture electrons in motion",
-          "summary": "Electronic motion sets the stage for virtually every light-induced process in nature, from the first step of a chemical reaction to the flow of charge in a solid. Yet these processes unfold so rapidly that they can be…",
-          "url": "https://phys.org/news/2026-07-attosecond-capture-electrons-motion.html",
+          "title": "Ultrafast X-rays capture chemistry unfolding atom by atom",
+          "summary": "Ultrafast X-rays revealed how a molecule converts absorbed light into motion in just trillionths of a second. Individual atoms recorded different stages of the process, opening a powerful new window into light-driven…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260729010726.htm",
+          "source": "Science Daily",
+          "date": "2026-07-30"
+        },
+        {
+          "title": "New research shows the Golgi complex is involved in DNA repair control",
+          "summary": "Our DNA is under constant threat. Chemicals, radiation and the everyday errors of cell division all damage it, and if left unrepaired, this can lead to diseases such as cancer. Cells invest heavily in finding and fixing…",
+          "url": "https://phys.org/news/2026-07-golgi-complex-involved-dna.html",
           "source": "Phys.org",
-          "date": "2026-07-29"
+          "date": "2026-07-30"
         },
         {
-          "title": "Pill that lowers oxygen levels in brain may ease Parkinson’s symptoms",
-          "summary": "A pill that induces hypoxia in the brain has been linked to improved symptoms of three neurodegenerative conditions when tested in mice",
-          "url": "https://www.newscientist.com/article/2582191-hypoxia-in-a-pill-may-ease-neurodegeneration-by-lowering-oxygen-in-the-brain/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-07-29"
-        },
-        {
-          "title": "A new kind of drug will help fight previously untreatable conditions",
-          "summary": "The first of a new generation of drugs that works in a completely different way to existing ones has been approved. Columnist Michael Le Page says this approach could transform treatments for all kinds of conditions",
-          "url": "https://www.newscientist.com/article/2581300-an-entirely-new-kind-of-drug-will-help-us-treat-the-untreatable/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
+          "title": "Misfolded insulin may be quietly driving diabetes",
+          "summary": "Researchers found that insulin-producing cells depend on a team of helper proteins to keep insulin production on track. When one key partner was missing, damaged proteins built up and the cells made less insulin…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260727214616.htm",
+          "source": "Science Daily",
           "date": "2026-07-28"
+        },
+        {
+          "title": "Why the same DNA damage causes cancer in some people but not others",
+          "summary": "A controlled mouse study has provided direct evidence that inherited genetics can steer how cancer begins and evolves after DNA damage. The discovery could eventually help doctors better predict cancer risk and tailor…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260727012123.htm",
+          "source": "Science Daily",
+          "date": "2026-07-27"
         }
       ]
     },
@@ -45,11 +45,25 @@
       "emoji": "🚀",
       "articles": [
         {
+          "title": "NASA launched this spacecraft to save a satellite. Now, it needs saving too",
+          "summary": "NASA launched the Swift Boost mission earlier this month to try and save one of its aging science observatories, but the rescue spacecraft is now experiencing control issues.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/nasa-launched-this-spacecraft-to-save-a-satellite-now-it-needs-saving-too",
+          "source": "Space.com",
+          "date": "2026-07-29"
+        },
+        {
           "title": "Rocket Lab to start launching missile-defense missions from Alaska under $266 million Space Force deal",
           "summary": "Rocket Lab just inked a $266 million deal with the U.S. Space Force to launch up to 18 suborbital missile-defense missions, most of them from Alaska's Pacific Spaceport Complex.",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-to-start-launching-missile-defense-missions-from-alaska-under-usd266-million-space-force-deal",
           "source": "Space.com",
           "date": "2026-07-27"
+        },
+        {
+          "title": "Starburst Galaxy Centaurus A",
+          "summary": "In this July 6, 2026, image, NASA’s James Webb Space Telescope’s Mid-Infrared Instrument (MIRI) reveals the nearby galaxy Centaurus A, exposing the dusty structures and hidden activity that shape this unusual system…",
+          "url": "https://www.nasa.gov/image-article/starburst-galaxy-centaurus-a/",
+          "source": "NASA",
+          "date": "2026-07-30"
         },
         {
           "title": "NASA’s Psyche spacecraft aces Mars flyby capturing stunning timelapse video",
@@ -59,25 +73,11 @@
           "date": "2026-07-28"
         },
         {
-          "title": "ESCAPADE's cameras capture Earth and moon",
-          "summary": "In November 2025, NASA's Mars-bound ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft launched from Cape Canaveral with special cargo on board: two camera systems designed and built by faculty…",
-          "url": "https://phys.org/news/2026-07-escapade-cameras-capture-earth-moon.html",
+          "title": "Neptune's inner moons may be shattered remains of ancient icy worlds",
+          "summary": "In 1989, the Voyager 2 mission discovered six new moons orbiting Neptune, including five tiny ones that orbit just outside the planet's main rings. Because of their small sizes and locations, these satellites have been…",
+          "url": "https://phys.org/news/2026-07-neptune-moons-shattered-ancient-icy.html",
           "source": "Phys.org",
-          "date": "2026-07-29"
-        },
-        {
-          "title": "SpaceX launches 24 Starlink satellites to orbit in wake of Starship test flight (video)",
-          "summary": "A SpaceX Falcon 9 rocket carrying 24 Starlink satellites lifted off from Vandenberg Space Force Base in California on Saturday, July 25, 2026.",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-51-b1100-vsfb-ocisly",
-          "source": "Space.com",
-          "date": "2026-07-28"
-        },
-        {
-          "title": "NASA Astronaut Chris Williams to Discuss Space Station Mission",
-          "summary": "NASA astronaut Chris Williams will recap his recent eight-month mission aboard the International Space Station during a news conference at 2:45 p.m. EDT Tuesday, Aug. 4, from the agency’s Johnson Space Center in…",
-          "url": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission/",
-          "source": "NASA",
-          "date": "2026-07-27"
+          "date": "2026-07-30"
         }
       ]
     },
@@ -85,39 +85,39 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "Gobi fossil reveals 6-inch 'Cretaceous rabbit' belonged to a different mammal branch",
-          "summary": "A remarkably preserved fossil from Mongolia's Gobi Desert is reshaping scientists' understanding of mammal evolution during the age of dinosaurs.",
-          "url": "https://phys.org/news/2026-07-gobi-fossil-reveals-inch-cretaceous.html",
-          "source": "Phys.org",
-          "date": "2026-07-29"
-        },
-        {
-          "title": "These insect submariners survive depths that should crush them",
-          "summary": "Lake fly larvae plunge more than 200 meters into Lake Malawi each day to hide from predators, using tiny air sacs to control their depth. A rubber-like material called resilin lets them expand or shrink the sacs by…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260726015241.htm",
-          "source": "Science Daily",
-          "date": "2026-07-27"
-        },
-        {
-          "title": "Extraordinary ichthyosaur fossil shows its last meal was a pterosaur",
-          "summary": "The remains of an orca-sized ichthyosaur include evidence of what it ate – before it too got eaten by an even bigger marine predator",
-          "url": "https://www.newscientist.com/article/2582125-extraordinary-ichthyosaur-fossil-shows-its-last-meal-was-a-pterosaur/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "title": "Spectacular fossil preserves internal organs of ancient marine reptile",
+          "summary": "A stunningly intact marine reptile named Austronaga minuta that lived around 245 million years ago may have looked like a miniature version of more famous later ocean predators, like plesiosaurs",
+          "url": "https://www.newscientist.com/article/2582138-spectacular-fossil-preserves-internal-organs-of-ancient-marine-reptile/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
           "date": "2026-07-29"
         },
         {
-          "title": "Why are so many dead bumblebees appearing on sidewalks?",
-          "summary": "Bumblebees naturally have short lives, but extreme heat and human activity are making survival harder. Pesticides can poison bees or destroy the flowers they depend on, while habitat loss leaves them with fewer safe…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260727012134.htm",
-          "source": "Science Daily",
-          "date": "2026-07-29"
+          "title": "Two Arctic charr populations evolved in less than a century, study finds",
+          "summary": "Evolution, the process through which animals and other living organisms change their inherited traits over time, typically unfolds slowly over thousands or even millions of years. Some species, however, can adapt at a…",
+          "url": "https://phys.org/news/2026-07-arctic-charr-populations-evolved-century.html",
+          "source": "Phys.org",
+          "date": "2026-07-30"
         },
         {
-          "title": "Oil beetle larvae smell like flowers to manipulate bees and sneak into their nests",
-          "summary": "For the first time, a research team from the Max Planck Institute for Chemical Ecology and Friedrich Schiller University in Jena, Germany, has demonstrated that insects can mimic floral scents to manipulate pollinators.",
-          "url": "https://phys.org/news/2026-07-oil-beetle-larvae-bees.html",
+          "title": "A forgotten fossil just revealed a new Triassic predator from 210 million years ago",
+          "summary": "A fossil overlooked for nearly 80 years has revealed a previously unknown crocodile relative that lived 210 million years ago in what is now New Mexico. Named Eosphorosuchus lacrimosa, the jackal-sized predator had a…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260729010732.htm",
+          "source": "Science Daily",
+          "date": "2026-07-30"
+        },
+        {
+          "title": "Mapping endangered habitats with the help of citizen scientists and satellite data",
+          "summary": "As biodiversity declines and many of the UK's most important habitats become smaller and more fragmented, conservation organizations need accurate, up-to-date maps to protect wildlife and restore nature. However…",
+          "url": "https://phys.org/news/2026-07-endangered-habitats-citizen-scientists-satellite.html",
           "source": "Phys.org",
-          "date": "2026-07-29"
+          "date": "2026-07-30"
+        },
+        {
+          "title": "New Zealand’s Southern Wilderness",
+          "summary": "Stewart Island/Rakiura, New Zealand’s third-largest island, is known for its vibrant birdlife, unique forests, wilderness beaches, and views of the night sky.",
+          "url": "https://science.nasa.gov/earth/earth-observatory/new-zealands-southern-wilderness/",
+          "source": "NASA",
+          "date": "2026-07-30"
         }
       ]
     },
@@ -139,13 +139,6 @@
           "date": "2026-07-28"
         },
         {
-          "title": "Antarctic storms are becoming more frequent and intense, affecting sea ice",
-          "summary": "Winters in Antarctica's Ross Sea have become stormier in recent decades, affecting sea-ice conditions and field operations, new University of Otago—Ōtākou Whakaihu Waka research shows.",
-          "url": "https://phys.org/news/2026-07-antarctic-storms-frequent-intense-affecting.html",
-          "source": "Phys.org",
-          "date": "2026-07-29"
-        },
-        {
           "title": "On this day in space! July 29, 1982: Soviet Salyut 6 space station falls to Earth",
           "summary": "On July 29, 1982, the Salyut 6 space station fell out of space and safely burned up in Earth's atmosphere along the way. Here's why it mattered.",
           "url": "https://www.space.com/space-exploration/on-this-day-in-space-july-29-2026",
@@ -158,6 +151,13 @@
           "url": "https://earthsky.org/earth/what-is-a-meteotsunami/",
           "source": "EarthSky",
           "date": "2026-07-29"
+        },
+        {
+          "title": "One LED produces four stable colors at room temperature",
+          "summary": "Full-color displays normally require separate red, green and blue light emitters. A team from the University of Osaka and Ritsumeikan University has demonstrated another approach: a single light-emitting layer that…",
+          "url": "https://phys.org/news/2026-07-stable-room-temperature.html",
+          "source": "Phys.org",
+          "date": "2026-07-30"
         }
       ]
     },
@@ -165,11 +165,11 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "Your AI calorie-tracking app may be off by 345 calories",
-          "summary": "Popular AI-powered food apps may make calorie counting easier, but they may also leave out a surprisingly large part of the meal. Four apps underestimated calories and fat by about one-third when tested against…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260726015237.htm",
-          "source": "Science Daily",
-          "date": "2026-07-26"
+          "title": "Quantum computers are starting to become useful as scientific tools",
+          "summary": "Three problems that are out of reach for conventional computers have been cracked by quantum computers and show how important the machines could become for scientific research",
+          "url": "https://www.newscientist.com/article/2582048-quantum-computers-are-starting-to-become-useful-as-scientific-tools/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-07-30"
         }
       ]
     },
@@ -184,6 +184,13 @@
           "date": "2026-07-28"
         },
         {
+          "title": "Quantum in the palm of your hand: The evolution of superconducting qubits",
+          "summary": "Electrons zipping through transistors, powering the screens on our smartphones. Light zooming from distant stars to Earth, moving faster than anything else in the universe. Protons enabling MRI machines to analyze…",
+          "url": "https://phys.org/news/2026-07-quantum-palm-evolution-superconducting-qubits.html",
+          "source": "Phys.org",
+          "date": "2026-07-30"
+        },
+        {
           "title": "Can’t sleep in the heat? These 8 tricks could save your night",
           "summary": "Sleeping well during a heatwave starts with stopping the home from overheating. Close blinds against strong sunlight, ventilate when the air outside becomes cooler, and avoid using heat-producing appliances during the…",
           "url": "https://www.sciencedaily.com/releases/2026/07/260729010722.htm",
@@ -191,24 +198,17 @@
           "date": "2026-07-29"
         },
         {
+          "title": "Hiroshima blast debris reveals a previously unknown alloy",
+          "summary": "The Hiroshima blast on Aug. 6, 1945, was one of the most devastating events in human history. Like all nuclear detonations, it created fleeting moments of extreme heat, pressure, mixing and cooling. These conditions can…",
+          "url": "https://phys.org/news/2026-07-hiroshima-blast-debris-reveals-previously.html",
+          "source": "Phys.org",
+          "date": "2026-07-30"
+        },
+        {
           "title": "New microwave frying method could make french fries much healthier",
           "summary": "A new cooking method could make French fries crispier in less time while significantly limiting how much oil they absorb. Researchers propose combining microwave heating, which keeps oil out, with conventional frying…",
           "url": "https://www.sciencedaily.com/releases/2026/07/260729044048.htm",
           "source": "Science Daily",
-          "date": "2026-07-29"
-        },
-        {
-          "title": "Twisted laser light can tell mirror-image molecules apart",
-          "summary": "Scientists have created twisted laser beams that interact differently with right-handed and left-handed molecules, revealing their identity through the fragments they produce. The approach could provide a faster…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260727214557.htm",
-          "source": "Science Daily",
-          "date": "2026-07-28"
-        },
-        {
-          "title": "Bringing complex field physics to the tabletop: A photonic stage for non-Abelian gauge fields",
-          "summary": "For most theories in physics, the order of operations has little impact on the result. When setting a dial to a certain position, for example, it doesn't matter whether it's turned clockwise or counterclockwise—the…",
-          "url": "https://phys.org/news/2026-07-complex-field-physics-tabletop-photonic.html",
-          "source": "Phys.org",
           "date": "2026-07-29"
         }
       ]
