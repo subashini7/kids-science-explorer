@@ -1,9 +1,16 @@
 {
-  "updated": "2026-07-30T15:10:10Z",
+  "updated": "2026-07-31T15:19:24Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
+        {
+          "title": "Randomly mixed atoms arranged in rows and columns for sustainable catalysis",
+          "summary": "The energy system of the future will require sustainable catalysts that, for example, enable the efficient production of green hydrogen. Materials consisting of mixtures of five chemical elements show great promise for…",
+          "url": "https://phys.org/news/2026-07-randomly-atoms-rows-columns-sustainable.html",
+          "source": "Phys.org",
+          "date": "2026-07-31"
+        },
         {
           "title": "Rice bran compound may help ease irritable bowel symptoms",
           "summary": "A compound in rice bran may help calm an overactive gut by reducing the calcium signals that cause intestinal muscles to contract. Ferulic acid suppressed contractions triggered by several chemical messengers in…",
@@ -19,13 +26,6 @@
           "date": "2026-07-30"
         },
         {
-          "title": "New research shows the Golgi complex is involved in DNA repair control",
-          "summary": "Our DNA is under constant threat. Chemicals, radiation and the everyday errors of cell division all damage it, and if left unrepaired, this can lead to diseases such as cancer. Cells invest heavily in finding and fixing…",
-          "url": "https://phys.org/news/2026-07-golgi-complex-involved-dna.html",
-          "source": "Phys.org",
-          "date": "2026-07-30"
-        },
-        {
           "title": "Misfolded insulin may be quietly driving diabetes",
           "summary": "Researchers found that insulin-producing cells depend on a team of helper proteins to keep insulin production on track. When one key partner was missing, damaged proteins built up and the cells made less insulin…",
           "url": "https://www.sciencedaily.com/releases/2026/07/260727214616.htm",
@@ -33,11 +33,11 @@
           "date": "2026-07-28"
         },
         {
-          "title": "Why the same DNA damage causes cancer in some people but not others",
-          "summary": "A controlled mouse study has provided direct evidence that inherited genetics can steer how cancer begins and evolves after DNA damage. The discovery could eventually help doctors better predict cancer risk and tailor…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260727012123.htm",
-          "source": "Science Daily",
-          "date": "2026-07-27"
+          "title": "Why bad health information can seem so convincing–and five ways to resist it",
+          "summary": "Recent reports have highlighted AI-generated \"doctors\" spreading dubious health advice to millions of social media users. Fabricated wellness trends can travel just as quickly. A supposed \"pink jelly\" weight-loss…",
+          "url": "https://phys.org/news/2026-07-bad-health-convincingand-ways-resist.html",
+          "source": "Phys.org",
+          "date": "2026-07-31"
         }
       ]
     },
@@ -45,18 +45,18 @@
       "emoji": "🚀",
       "articles": [
         {
-          "title": "NASA launched this spacecraft to save a satellite. Now, it needs saving too",
+          "title": "NASA Assigns Astronaut Deniz Burnham to First Space Station Mission",
+          "summary": "NASA astronaut Deniz Burnham will embark on her first mission to the International Space Station, serving as an Expedition 76 flight engineer. Burnham will launch aboard the Roscosmos Soyuz MS-30 spacecraft with…",
+          "url": "https://www.nasa.gov/news-release/nasa-assigns-astronaut-deniz-burnham-to-first-space-station-mission/",
+          "source": "NASA",
+          "date": "2026-07-30"
+        },
+        {
+          "title": "NASA launched this spacecraft to save a space telescope. Now, it needs saving too",
           "summary": "NASA launched the Swift Boost mission earlier this month to try and save one of its aging science observatories, but the rescue spacecraft is now experiencing control issues.",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/nasa-launched-this-spacecraft-to-save-a-satellite-now-it-needs-saving-too",
           "source": "Space.com",
           "date": "2026-07-29"
-        },
-        {
-          "title": "Rocket Lab to start launching missile-defense missions from Alaska under $266 million Space Force deal",
-          "summary": "Rocket Lab just inked a $266 million deal with the U.S. Space Force to launch up to 18 suborbital missile-defense missions, most of them from Alaska's Pacific Spaceport Complex.",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-to-start-launching-missile-defense-missions-from-alaska-under-usd266-million-space-force-deal",
-          "source": "Space.com",
-          "date": "2026-07-27"
         },
         {
           "title": "Starburst Galaxy Centaurus A",
@@ -73,31 +73,17 @@
           "date": "2026-07-28"
         },
         {
-          "title": "Neptune's inner moons may be shattered remains of ancient icy worlds",
-          "summary": "In 1989, the Voyager 2 mission discovered six new moons orbiting Neptune, including five tiny ones that orbit just outside the planet's main rings. Because of their small sizes and locations, these satellites have been…",
-          "url": "https://phys.org/news/2026-07-neptune-moons-shattered-ancient-icy.html",
-          "source": "Phys.org",
-          "date": "2026-07-30"
+          "title": "SpaceX launches 24 Starlink satellites to orbit in wake of Starship test flight (video)",
+          "summary": "A SpaceX Falcon 9 rocket carrying 24 Starlink satellites lifted off from Vandenberg Space Force Base in California on Saturday, July 25, 2026.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-51-b1100-vsfb-ocisly",
+          "source": "Space.com",
+          "date": "2026-07-28"
         }
       ]
     },
     "Animals & Nature": {
       "emoji": "🐾",
       "articles": [
-        {
-          "title": "Spectacular fossil preserves internal organs of ancient marine reptile",
-          "summary": "A stunningly intact marine reptile named Austronaga minuta that lived around 245 million years ago may have looked like a miniature version of more famous later ocean predators, like plesiosaurs",
-          "url": "https://www.newscientist.com/article/2582138-spectacular-fossil-preserves-internal-organs-of-ancient-marine-reptile/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-07-29"
-        },
-        {
-          "title": "Two Arctic charr populations evolved in less than a century, study finds",
-          "summary": "Evolution, the process through which animals and other living organisms change their inherited traits over time, typically unfolds slowly over thousands or even millions of years. Some species, however, can adapt at a…",
-          "url": "https://phys.org/news/2026-07-arctic-charr-populations-evolved-century.html",
-          "source": "Phys.org",
-          "date": "2026-07-30"
-        },
         {
           "title": "A forgotten fossil just revealed a new Triassic predator from 210 million years ago",
           "summary": "A fossil overlooked for nearly 80 years has revealed a previously unknown crocodile relative that lived 210 million years ago in what is now New Mexico. Named Eosphorosuchus lacrimosa, the jackal-sized predator had a…",
@@ -106,11 +92,11 @@
           "date": "2026-07-30"
         },
         {
-          "title": "Mapping endangered habitats with the help of citizen scientists and satellite data",
-          "summary": "As biodiversity declines and many of the UK's most important habitats become smaller and more fragmented, conservation organizations need accurate, up-to-date maps to protect wildlife and restore nature. However…",
-          "url": "https://phys.org/news/2026-07-endangered-habitats-citizen-scientists-satellite.html",
+          "title": "New research: Wetlands are crucial food baskets for NZ's native eels",
+          "summary": "Conservation projects often focus on protecting a threatened species from predators and habitat destruction. But as our research shows, restoring food webs can be as important to supporting ongoing recovery.",
+          "url": "https://phys.org/news/2026-07-wetlands-crucial-food-baskets-nz.html",
           "source": "Phys.org",
-          "date": "2026-07-30"
+          "date": "2026-07-31"
         },
         {
           "title": "New Zealand’s Southern Wilderness",
@@ -118,12 +104,47 @@
           "url": "https://science.nasa.gov/earth/earth-observatory/new-zealands-southern-wilderness/",
           "source": "NASA",
           "date": "2026-07-30"
+        },
+        {
+          "title": "Scientists found evolution repeating itself in the Galápagos Islands",
+          "summary": "More than 150 years after Darwin’s finches helped reshape biology, Galápagos plants are exposing another evolutionary surprise. Giant daisies repeatedly developed similar heat-tolerant leaf shapes, but each lineage used…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260729051537.htm",
+          "source": "Science Daily",
+          "date": "2026-07-30"
+        },
+        {
+          "title": "AI reveals explosive bursts in bird evolution",
+          "summary": "Songbirds appear to have evolved through rare explosions of change separated by long periods of slower development. Many of those bursts lined up with major climate shifts, suggesting that environmental upheaval can…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260729010709.htm",
+          "source": "Science Daily",
+          "date": "2026-07-30"
         }
       ]
     },
     "Earth & Climate": {
       "emoji": "🌍",
       "articles": [
+        {
+          "title": "The Arctic Ocean keeps permafrost carbon firmly locked",
+          "summary": "Permafrost in the Arctic stores large quantities of organic carbon. When frozen ground thaws or coastal sections erode, this carbon can enter the sea, where microorganisms can break it down and convert it into…",
+          "url": "https://phys.org/news/2026-07-arctic-ocean-permafrost-carbon-firmly.html",
+          "source": "Phys.org",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "Destructive Fires Char Western Europe",
+          "summary": "Raging wildfires disrupted summer in Spain and France amid sweltering heat waves and prolonged drought.",
+          "url": "https://science.nasa.gov/earth/earth-observatory/destructive-fires-char-western-europe/",
+          "source": "NASA",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "Students Take on Airborne Field Research with NASA",
+          "summary": "The gusty wind didn’t make it easy to hold tight to a balloon so large. The balloon, a scientific instrument called an ozonesonde, was about to be released into the atmosphere above the Texas Gulf Coast by students from…",
+          "url": "https://science.nasa.gov/earth/students-take-on-airborne-field-research-with-nasa/",
+          "source": "NASA",
+          "date": "2026-07-30"
+        },
         {
           "title": "Earth’s hidden “gold kitchen” lies beneath the seafloor",
           "summary": "Deep beneath submarine volcanoes, Earth may be running a natural “gold kitchen.” By analyzing volcanic glass from the Kermadec island arc north of New Zealand, researchers found that water-rich mantle repeatedly melts…",
@@ -137,27 +158,6 @@
           "url": "https://www.sciencedaily.com/releases/2026/07/260727214626.htm",
           "source": "Science Daily",
           "date": "2026-07-28"
-        },
-        {
-          "title": "On this day in space! July 29, 1982: Soviet Salyut 6 space station falls to Earth",
-          "summary": "On July 29, 1982, the Salyut 6 space station fell out of space and safely burned up in Earth's atmosphere along the way. Here's why it mattered.",
-          "url": "https://www.space.com/space-exploration/on-this-day-in-space-july-29-2026",
-          "source": "Space.com",
-          "date": "2026-07-29"
-        },
-        {
-          "title": "Meteotsunami hits Lake Winnebago after Wisconsin tornado",
-          "summary": "A meteotsunami occurs when a weather system causes the entire body of water to oscillate, creating sudden changes in water level along the shore. The post Meteotsunami hits Lake Winnebago after Wisconsin tornado first…",
-          "url": "https://earthsky.org/earth/what-is-a-meteotsunami/",
-          "source": "EarthSky",
-          "date": "2026-07-29"
-        },
-        {
-          "title": "One LED produces four stable colors at room temperature",
-          "summary": "Full-color displays normally require separate red, green and blue light emitters. A team from the University of Osaka and Ritsumeikan University has demonstrated another approach: a single light-emitting layer that…",
-          "url": "https://phys.org/news/2026-07-stable-room-temperature.html",
-          "source": "Phys.org",
-          "date": "2026-07-30"
         }
       ]
     },
@@ -165,11 +165,18 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "Quantum computers are starting to become useful as scientific tools",
-          "summary": "Three problems that are out of reach for conventional computers have been cracked by quantum computers and show how important the machines could become for scientific research",
-          "url": "https://www.newscientist.com/article/2582048-quantum-computers-are-starting-to-become-useful-as-scientific-tools/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "title": "Two independent studies push semiconductor qubits towards practical scales",
+          "summary": "Semiconductor spin qubits are one of the most promising building blocks for future quantum computers, but turning them into a working, large-scale quantum computer has so far proven difficult. For now, two big questions…",
+          "url": "https://phys.org/news/2026-07-independent-semiconductor-qubits-scales.html",
+          "source": "Phys.org",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "Why full-fledged quantum computers might always be five years away",
+          "summary": "To predict when we’ll have a truly useful quantum computer, we need to know precisely what one is. Columnist Karmela Padavic-Callaghan finds that’s harder to pin down than you might think",
+          "url": "https://www.newscientist.com/article/2582565-why-full-fledged-quantum-computers-might-always-be-five-years-away/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
-          "date": "2026-07-30"
+          "date": "2026-07-31"
         }
       ]
     },
@@ -184,13 +191,6 @@
           "date": "2026-07-28"
         },
         {
-          "title": "Quantum in the palm of your hand: The evolution of superconducting qubits",
-          "summary": "Electrons zipping through transistors, powering the screens on our smartphones. Light zooming from distant stars to Earth, moving faster than anything else in the universe. Protons enabling MRI machines to analyze…",
-          "url": "https://phys.org/news/2026-07-quantum-palm-evolution-superconducting-qubits.html",
-          "source": "Phys.org",
-          "date": "2026-07-30"
-        },
-        {
           "title": "Can’t sleep in the heat? These 8 tricks could save your night",
           "summary": "Sleeping well during a heatwave starts with stopping the home from overheating. Close blinds against strong sunlight, ventilate when the air outside becomes cooler, and avoid using heat-producing appliances during the…",
           "url": "https://www.sciencedaily.com/releases/2026/07/260729010722.htm",
@@ -198,11 +198,11 @@
           "date": "2026-07-29"
         },
         {
-          "title": "Hiroshima blast debris reveals a previously unknown alloy",
-          "summary": "The Hiroshima blast on Aug. 6, 1945, was one of the most devastating events in human history. Like all nuclear detonations, it created fleeting moments of extreme heat, pressure, mixing and cooling. These conditions can…",
-          "url": "https://phys.org/news/2026-07-hiroshima-blast-debris-reveals-previously.html",
+          "title": "New photonic platform offers a four-lane highway for light",
+          "summary": "Topological photonics can force propagating light to travel in a single direction—allowing researchers to route optical signals around corners and past defects without any of it scattering backward. So far, however…",
+          "url": "https://phys.org/news/2026-07-photonic-platform-lane-highway.html",
           "source": "Phys.org",
-          "date": "2026-07-30"
+          "date": "2026-07-31"
         },
         {
           "title": "New microwave frying method could make french fries much healthier",
@@ -210,6 +210,13 @@
           "url": "https://www.sciencedaily.com/releases/2026/07/260729044048.htm",
           "source": "Science Daily",
           "date": "2026-07-29"
+        },
+        {
+          "title": "Twisted laser light can tell mirror-image molecules apart",
+          "summary": "Scientists have created twisted laser beams that interact differently with right-handed and left-handed molecules, revealing their identity through the fragments they produce. The approach could provide a faster…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260727214557.htm",
+          "source": "Science Daily",
+          "date": "2026-07-28"
         }
       ]
     }
