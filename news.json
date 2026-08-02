@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T14:25:56Z",
+  "updated": "2026-08-02T14:28:32Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
@@ -12,25 +12,11 @@
           "date": "2026-07-30"
         },
         {
-          "title": "Ultrafast X-rays capture chemistry unfolding atom by atom",
-          "summary": "Ultrafast X-rays revealed how a molecule converts absorbed light into motion in just trillionths of a second. Individual atoms recorded different stages of the process, opening a powerful new window into light-driven…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260729010726.htm",
-          "source": "Science Daily",
-          "date": "2026-07-30"
-        },
-        {
-          "title": "Isotopic analysis may help police combat illegal timber trade in Amazon",
-          "summary": "A map showing the distribution of isotopes in Amazonian tree wood can help identify illegally harvested timber. By analyzing the ratio of different isotopes of elements such as oxygen, carbon, nitrogen and strontium…",
-          "url": "https://phys.org/news/2026-07-isotopic-analysis-police-combat-illegal.html",
+          "title": "Pine bark and sponge compounds could counter drug-resistant malaria and babesiosis",
+          "summary": "As parasites become increasingly resistant to existing drugs, researchers at the University of California, Riverside, are working to develop a new generation of treatments for two serious infectious diseases: malaria…",
+          "url": "https://phys.org/news/2026-07-bark-sponge-compounds-counter-drug.html",
           "source": "Phys.org",
-          "date": "2026-07-31"
-        },
-        {
-          "title": "A single RNA-based therapeutics approach against multiple types of RNA viruses",
-          "summary": "The high frequency of RNA virus mutations and outbreaks of emerging RNA viral infections are challenging public health issues. Developing a drug that can overcome viral mutations with broad-spectrum antiviral activity…",
-          "url": "https://phys.org/news/2026-07-rna-based-therapeutics-approach-multiple.html",
-          "source": "Phys.org",
-          "date": "2026-07-31"
+          "date": "2026-08-02"
         },
         {
           "title": "Scientists found two mysterious ‘ghost’ ancestors hiding in our DNA",
@@ -38,19 +24,26 @@
           "url": "https://www.sciencedaily.com/releases/2026/07/260731034139.htm",
           "source": "Science Daily",
           "date": "2026-08-01"
+        },
+        {
+          "title": "Scientists discover why poor sleep may harm some brains more",
+          "summary": "A gene involved in the brain’s overnight cleaning system may change how strongly poor sleep affects Alzheimer’s-related brain changes. The findings point toward more personalized prevention strategies based on both…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260729051529.htm",
+          "source": "Science Daily",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "New process turns plastic waste into hydrogen fuel while trapping the carbon",
+          "summary": "A new chemical process can transform three of the most common plastics into high-purity hydrogen without sorting them first. The technique operates at much lower temperatures than traditional gasification and captures…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260729051521.htm",
+          "source": "Science Daily",
+          "date": "2026-07-31"
         }
       ]
     },
     "Space & Astronomy": {
       "emoji": "🚀",
       "articles": [
-        {
-          "title": "NASA launched this spacecraft to save a space telescope. Now, it needs saving too",
-          "summary": "NASA launched the Swift Boost mission earlier this month to try and save one of its aging science observatories, but the rescue spacecraft is now experiencing control issues.",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/nasa-launched-this-spacecraft-to-save-a-satellite-now-it-needs-saving-too",
-          "source": "Space.com",
-          "date": "2026-07-29"
-        },
         {
           "title": "NASA, SpaceX Advance Wind Tunnel Tests for Starship Rocket",
           "summary": "NASA and its industry partners are preparing for next year’s Artemis III demonstration mission by completing new wind tunnel tests on SpaceX’s Super Heavy Version 3 rocket booster. The tests, conducted at NASA’s Ames…",
@@ -66,11 +59,18 @@
           "date": "2026-08-01"
         },
         {
-          "title": "Laying odds on the potential for Martian water near future landing zones",
-          "summary": "We know Mars has water ice in its polar regions, but astronauts (and their solar-powered equipment!) would much rather experience life closer to Mars' equator. As NASA looks toward landing humans on the red planet, the…",
-          "url": "https://phys.org/news/2026-07-laying-odds-potential-martian-future.html",
-          "source": "Phys.org",
-          "date": "2026-07-31"
+          "title": "On this day in space! Aug. 2, 1971: Apollo 15 makes 1st-ever televised liftoff from the moon",
+          "summary": "On Aug. 2, 1971, a lunar liftoff was televised for the first time on NASA's Apollo 15 mission, one giant leap for live TV from the moon.",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-2-2026",
+          "source": "Space.com",
+          "date": "2026-08-02"
+        },
+        {
+          "title": "Rocket issue delays 1st orbital rocket launch from the UK",
+          "summary": "While testing a rocket on the launch pad at the U.K.'s SaxaVord Spaceport, RFA found 'an issue with the vehicle that requires further investigation.'",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-issue-delays-1st-orbital-rocket-launch-from-the-uk",
+          "source": "Space.com",
+          "date": "2026-08-02"
         },
         {
           "title": "On this day in space! Aug. 1, 1968: NASA ends production of Saturn V moon rocket",
@@ -85,13 +85,6 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "A forgotten fossil just revealed a new Triassic predator from 210 million years ago",
-          "summary": "A fossil overlooked for nearly 80 years has revealed a previously unknown crocodile relative that lived 210 million years ago in what is now New Mexico. Named Eosphorosuchus lacrimosa, the jackal-sized predator had a…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260729010732.htm",
-          "source": "Science Daily",
-          "date": "2026-07-30"
-        },
-        {
           "title": "Scientists found evolution repeating itself in the Galápagos Islands",
           "summary": "More than 150 years after Darwin’s finches helped reshape biology, Galápagos plants are exposing another evolutionary surprise. Giant daisies repeatedly developed similar heat-tolerant leaf shapes, but each lineage used…",
           "url": "https://www.sciencedaily.com/releases/2026/07/260729051537.htm",
@@ -99,25 +92,18 @@
           "date": "2026-07-30"
         },
         {
-          "title": "AI reveals explosive bursts in bird evolution",
-          "summary": "Songbirds appear to have evolved through rare explosions of change separated by long periods of slower development. Many of those bursts lined up with major climate shifts, suggesting that environmental upheaval can…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260729010709.htm",
-          "source": "Science Daily",
-          "date": "2026-07-30"
+          "title": "How new informatics tools help turn biodiversity data into policy insights",
+          "summary": "Biodiversity loss has been among the central topics in public, policy and scientific debate for several decades. While its accelerating pace and impacts are well recognized, translating the vast amounts of biodiversity…",
+          "url": "https://phys.org/news/2026-07-informatics-tools-biodiversity-policy-insights.html",
+          "source": "Phys.org",
+          "date": "2026-08-01"
         },
         {
-          "title": "Shark finning regulations have not significantly changed global trade, new analysis finds",
-          "summary": "Much like caviar, shark fins are a luxury product and delicacy in parts of the world. And like wild caviar, demand for shark fins has posed an incredible threat to species that can't reproduce quickly enough to keep up.",
-          "url": "https://phys.org/news/2026-07-shark-finning-significantly-global-analysis.html",
+          "title": "Moonlight-like fur and feathers may explain Egyptian god Thoth's two animal forms",
+          "summary": "The ancient Egyptian god of the moon had two very different faces: a crescent-beaked white bird and a silver-coated baboon. Now, researchers think they may have found the common thread connecting them all.",
+          "url": "https://phys.org/news/2026-07-moonlight-fur-feathers-egyptian-god.html",
           "source": "Phys.org",
-          "date": "2026-07-31"
-        },
-        {
-          "title": "Technical flaws may inflate Australia's forest carbon credits",
-          "summary": "AFPA has echoed serious concerns raised by Forestry Australia over the federal government's controversial new carbon credit method, warning it undermines the integrity and credibility of Australia's carbon market.",
-          "url": "https://phys.org/news/2026-07-technical-flaws-inflate-australia-forest.html",
-          "source": "Phys.org",
-          "date": "2026-07-31"
+          "date": "2026-08-01"
         }
       ]
     },
@@ -128,6 +114,13 @@
           "title": "A rollercoaster of weather extremes: Drought and heat waves are creating UK's climate whiplash",
           "summary": "The UK is bouncing from one type of extreme weather to another this year. This is climate whiplash. Caused by changes in the fast-moving body of air high in the atmosphere called the jet stream, climate whiplash has…",
           "url": "https://phys.org/news/2026-07-rollercoaster-weather-extremes-drought-uk.html",
+          "source": "Phys.org",
+          "date": "2026-08-01"
+        },
+        {
+          "title": "Four ways wildfires generate tornadoes, lightning and other extreme weather, sometimes miles from the flames",
+          "summary": "Thick smoke from massive wildfires has been spreading in North America and Europe once again in 2026. The health impacts of breathing this particle-filled air are becoming well known, but wildfires' influence on the…",
+          "url": "https://phys.org/news/2026-07-ways-wildfires-generate-tornadoes-lightning.html",
           "source": "Phys.org",
           "date": "2026-08-01"
         },
@@ -146,18 +139,11 @@
           "date": "2026-08-01"
         },
         {
-          "title": "From research to policy: Study turns EU wildfire assessments into a tool for better governance",
-          "summary": "Climate change, land-use change and socioeconomic pressures are turning wildfires from a primarily ecological process into a complex, systemic risk that cuts across ecosystems, infrastructure, public health, water…",
-          "url": "https://phys.org/news/2026-07-policy-eu-wildfire-tool.html",
-          "source": "Phys.org",
-          "date": "2026-07-31"
-        },
-        {
-          "title": "Lake Powell is shrinking toward ‘dead pool’ levels",
-          "summary": "Lake Powell is the 2nd-largest reservoir in the U.S. But with climate and usage stresses, the lake is shrinking. It could reach dead pool by spring 2027. The post Lake Powell is shrinking toward ‘dead pool’ levels first…",
-          "url": "https://earthsky.org/earth/lake-powell-is-shrinking-dead-pool-2026/",
+          "title": "Sun news: CME bearing down on Earth as storm watch begins",
+          "summary": "Sun news August 2, 2026: The big CME from July 30 arrives today. G1-G2 storms are likely, with a slight chance of G3. Auroras could reach as far south as NYC! The post Sun news: CME bearing down on Earth as storm watch…",
+          "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
           "source": "EarthSky",
-          "date": "2026-07-31"
+          "date": "2026-08-02"
         }
       ]
     },
@@ -179,13 +165,6 @@
           "date": "2026-08-01"
         },
         {
-          "title": "Smarter fish farms could cut electricity use and CO₂ while keeping fish safe",
-          "summary": "Recirculating aquaculture systems (RAS) are attracting growing attention as a sustainable aquaculture technology that can reduce water use, control rearing conditions and lower environmental impacts by filtering and…",
-          "url": "https://phys.org/news/2026-07-smarter-fish-farms-electricity-safe.html",
-          "source": "Phys.org",
-          "date": "2026-07-31"
-        },
-        {
           "title": "Why full-fledged quantum computers might always be five years away",
           "summary": "To predict when we’ll have a truly useful quantum computer, we need to know precisely what one is. Columnist Karmela Padavic-Callaghan finds that’s harder to pin down than you might think",
           "url": "https://www.newscientist.com/article/2582565-why-full-fledged-quantum-computers-might-always-be-five-years-away/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
@@ -205,11 +184,11 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "Can’t sleep in the heat? These 8 tricks could save your night",
-          "summary": "Sleeping well during a heatwave starts with stopping the home from overheating. Close blinds against strong sunlight, ventilate when the air outside becomes cooler, and avoid using heat-producing appliances during the…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260729010722.htm",
+          "title": "Dark matter’s secret force does the opposite of what scientists expected",
+          "summary": "Dark matter particles may exert a hidden force on one another, but its effects are stranger than expected. An extra attraction helps the particles cluster, yet it also makes dark matter effectively lighter as the…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260801042822.htm",
           "source": "Science Daily",
-          "date": "2026-07-29"
+          "date": "2026-08-02"
         },
         {
           "title": "Hungary to shut nuclear plant as heatwave hits central Europe",
@@ -219,6 +198,13 @@
           "date": "2026-08-01"
         },
         {
+          "title": "Mysterious Milky Way object accelerates protons beyond one quadrillion electron volts",
+          "summary": "Scientists have identified LHAASO J1912+1014u as a cosmic accelerator that can push protons beyond one quadrillion electron volts. The finding may help reveal where the Milky Way’s most energetic cosmic rays come from…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260731034150.htm",
+          "source": "Science Daily",
+          "date": "2026-08-02"
+        },
+        {
           "title": "World-first photonic time crystal opens a new era of light control",
           "summary": "Scientists have built the first all-optical photonic time crystal, allowing them to reshape the behavior of terahertz light at extraordinary speeds. The breakthrough could open the door to ultrafast computing, smarter…",
           "url": "https://www.sciencedaily.com/releases/2026/07/260731034131.htm",
@@ -226,18 +212,11 @@
           "date": "2026-07-31"
         },
         {
-          "title": "New microwave frying method could make french fries much healthier",
-          "summary": "A new cooking method could make French fries crispier in less time while significantly limiting how much oil they absorb. Researchers propose combining microwave heating, which keeps oil out, with conventional frying…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260729044048.htm",
-          "source": "Science Daily",
-          "date": "2026-07-29"
-        },
-        {
-          "title": "Eating one avocado a day may lower heart disease risk",
-          "summary": "A daily avocado may help lower heart disease risk in adults with obesity by reducing the number of LDL particles circulating in the blood. After six months, participants who ate an avocado each day experienced a decline…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260731034155.htm",
-          "source": "Science Daily",
-          "date": "2026-08-01"
+          "title": "Double digits! Air-launched 'Talon A' hypersonic vehicle notches big flight milestone",
+          "summary": "Stratolaunch has now conducted more than 10 flights with its Talon-A hypersonic vehicle, an autonomous, air-launched craft that can travel five times the speed of sound.",
+          "url": "https://www.space.com/technology/double-digits-air-launched-talon-a-hypersonic-vehicle-notches-big-flight-milestone",
+          "source": "Space.com",
+          "date": "2026-08-02"
         }
       ]
     }
