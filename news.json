@@ -1,22 +1,29 @@
 {
-  "updated": "2026-08-02T14:28:32Z",
+  "updated": "2026-08-03T15:43:12Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "Rice bran compound may help ease irritable bowel symptoms",
-          "summary": "A compound in rice bran may help calm an overactive gut by reducing the calcium signals that cause intestinal muscles to contract. Ferulic acid suppressed contractions triggered by several chemical messengers in…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260729010742.htm",
+          "title": "A simple supplement could help the immune system fight cancer and viruses",
+          "summary": "Low arginine levels may allow cancer cells and viruses to slip past the immune system by reducing production of a crucial cellular warning protein. In mice, arginine-rich diets led to fewer colon tumors and milder viral…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260802223417.htm",
           "source": "Science Daily",
-          "date": "2026-07-30"
+          "date": "2026-08-03"
         },
         {
-          "title": "Pine bark and sponge compounds could counter drug-resistant malaria and babesiosis",
-          "summary": "As parasites become increasingly resistant to existing drugs, researchers at the University of California, Riverside, are working to develop a new generation of treatments for two serious infectious diseases: malaria…",
-          "url": "https://phys.org/news/2026-07-bark-sponge-compounds-counter-drug.html",
-          "source": "Phys.org",
-          "date": "2026-08-02"
+          "title": "Scientists twist crystal layers and reshape matter from within",
+          "summary": "Researchers have found a way to build much larger “twisted” oxide materials while precisely controlling how their atomic layers line up. Because these materials can be made over large areas and transferred onto…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260801042819.htm",
+          "source": "Science Daily",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "Two deadly flowers could inspire powerful new medicines",
+          "summary": "Scientists have figured out how two famously poisonous plants create chemicals with surprising medical potential. After tracking thousands of genes in wolfsbane and larkspur, they identified six enzymes needed to build…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260801042818.htm",
+          "source": "Science Daily",
+          "date": "2026-08-03"
         },
         {
           "title": "Scientists found two mysterious ‘ghost’ ancestors hiding in our DNA",
@@ -26,18 +33,11 @@
           "date": "2026-08-01"
         },
         {
-          "title": "Scientists discover why poor sleep may harm some brains more",
-          "summary": "A gene involved in the brain’s overnight cleaning system may change how strongly poor sleep affects Alzheimer’s-related brain changes. The findings point toward more personalized prevention strategies based on both…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260729051529.htm",
-          "source": "Science Daily",
-          "date": "2026-07-31"
-        },
-        {
-          "title": "New process turns plastic waste into hydrogen fuel while trapping the carbon",
-          "summary": "A new chemical process can transform three of the most common plastics into high-purity hydrogen without sorting them first. The technique operates at much lower temperatures than traditional gasification and captures…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260729051521.htm",
-          "source": "Science Daily",
-          "date": "2026-07-31"
+          "title": "Genetic analysis identifies a distinct Risso's dolphin population around British Isles",
+          "summary": "Risso's dolphins around the British Isles are part of a single population—genetically distinct from those elsewhere in the Atlantic, new research shows. Scientists studied the DNA of dolphins that stranded in England…",
+          "url": "https://phys.org/news/2026-08-genetic-analysis-distinct-risso-dolphin.html",
+          "source": "Phys.org",
+          "date": "2026-08-03"
         }
       ]
     },
@@ -45,14 +45,14 @@
       "emoji": "🚀",
       "articles": [
         {
-          "title": "NASA, SpaceX Advance Wind Tunnel Tests for Starship Rocket",
-          "summary": "NASA and its industry partners are preparing for next year’s Artemis III demonstration mission by completing new wind tunnel tests on SpaceX’s Super Heavy Version 3 rocket booster. The tests, conducted at NASA’s Ames…",
-          "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-spacex-advance-wind-tunnel-tests-for-starship-rocket/",
-          "source": "NASA",
-          "date": "2026-07-31"
+          "title": "On this day in space! Aug. 3, 2004: NASA launches MESSENGER spacecraft to orbit Mercury",
+          "summary": "NASA's MESSENGER spacecraft aimed to orbit Mercury for the first time to hunt for clues of water on the tiny, innermost planet.",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-3-2026",
+          "source": "Space.com",
+          "date": "2026-08-03"
         },
         {
-          "title": "SpaceX launches 24 Starlink satellites to orbit from California (photos)",
+          "title": "SpaceX launches 24 Starlink satellites to orbit from California (video, photos)",
           "summary": "A SpaceX Falcon 9 rocket launched 24 more of the company's Starlink internet satellites from California's central coast late on Friday night (July 31).",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-falcon-9-launch-group-17-52-ocisly-vandenberg",
           "source": "Space.com",
@@ -85,25 +85,39 @@
       "emoji": "🐾",
       "articles": [
         {
+          "title": "AI reveals a massive algae boom across the world’s oceans",
+          "summary": "An AI analysis of 1.2 million satellite images shows that floating algae blooms are spreading across the global ocean. The rapid growth of massive seaweed mats could reshape marine habitats while bringing foul-smelling…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260801042834.htm",
+          "source": "Science Daily",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "How the brain helps protect fertility from heat-induced damage",
+          "summary": "As global temperatures continue to rise, scientists are racing to understand why heat so profoundly threatens fertility across the animal kingdom. A new study from the Hebrew University of Jerusalem and collaborators…",
+          "url": "https://phys.org/news/2026-08-brain-fertility.html",
+          "source": "Phys.org",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "Gears of War: E-Day: Release date, platforms & everything else we know about Marcus Fenix's return",
+          "summary": "Return to Gears of War's roots this year with a gritty prequel that's been built from scratch.",
+          "url": "https://www.space.com/entertainment/space-games/gears-of-war-e-day-release-date-platforms-and-everything-else-we-know-about-marcus-fenixs-return",
+          "source": "Space.com",
+          "date": "2026-08-02"
+        },
+        {
+          "title": "Are beef-liver or standard iron supplements better for boosting iron?",
+          "summary": "Beef-liver supplements are said to be more effective at raising iron levels than standard tablets, but is it true? Columnist Alice Klein looks into the evidence behind the claims",
+          "url": "https://www.newscientist.com/article/2582573-are-beef-liver-or-standard-iron-supplements-better-for-boosting-iron/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-08-03"
+        },
+        {
           "title": "Scientists found evolution repeating itself in the Galápagos Islands",
           "summary": "More than 150 years after Darwin’s finches helped reshape biology, Galápagos plants are exposing another evolutionary surprise. Giant daisies repeatedly developed similar heat-tolerant leaf shapes, but each lineage used…",
           "url": "https://www.sciencedaily.com/releases/2026/07/260729051537.htm",
           "source": "Science Daily",
           "date": "2026-07-30"
-        },
-        {
-          "title": "How new informatics tools help turn biodiversity data into policy insights",
-          "summary": "Biodiversity loss has been among the central topics in public, policy and scientific debate for several decades. While its accelerating pace and impacts are well recognized, translating the vast amounts of biodiversity…",
-          "url": "https://phys.org/news/2026-07-informatics-tools-biodiversity-policy-insights.html",
-          "source": "Phys.org",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "Moonlight-like fur and feathers may explain Egyptian god Thoth's two animal forms",
-          "summary": "The ancient Egyptian god of the moon had two very different faces: a crescent-beaked white bird and a silver-coated baboon. Now, researchers think they may have found the common thread connecting them all.",
-          "url": "https://phys.org/news/2026-07-moonlight-fur-feathers-egyptian-god.html",
-          "source": "Phys.org",
-          "date": "2026-08-01"
         }
       ]
     },
@@ -111,39 +125,39 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "A rollercoaster of weather extremes: Drought and heat waves are creating UK's climate whiplash",
-          "summary": "The UK is bouncing from one type of extreme weather to another this year. This is climate whiplash. Caused by changes in the fast-moving body of air high in the atmosphere called the jet stream, climate whiplash has…",
-          "url": "https://phys.org/news/2026-07-rollercoaster-weather-extremes-drought-uk.html",
-          "source": "Phys.org",
-          "date": "2026-08-01"
+          "title": "Ancient Arctic carbon is pouring into the sea, but the seabed captures most of it",
+          "summary": "Thawing Arctic permafrost is releasing ancient carbon into the ocean, raising fears that microbes could turn it into greenhouse gases and accelerate climate change. But sediment cores collected near Canada’s Herschel…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260802223424.htm",
+          "source": "Science Daily",
+          "date": "2026-08-03"
         },
         {
-          "title": "Four ways wildfires generate tornadoes, lightning and other extreme weather, sometimes miles from the flames",
-          "summary": "Thick smoke from massive wildfires has been spreading in North America and Europe once again in 2026. The health impacts of breathing this particle-filled air are becoming well known, but wildfires' influence on the…",
-          "url": "https://phys.org/news/2026-07-ways-wildfires-generate-tornadoes-lightning.html",
+          "title": "Rising seas are inundating US coastal wetlands, putting many on track to become open water",
+          "summary": "Along the three coasts of the contiguous United States, a silent race unfolds. Fueled by climate change, sea levels rise faster than at any time in recent geologic history. Meanwhile, coastal wetlands cling to a slim…",
+          "url": "https://phys.org/news/2026-07-seas-inundating-coastal-wetlands-track.html",
           "source": "Phys.org",
-          "date": "2026-08-01"
+          "date": "2026-08-03"
         },
         {
-          "title": "Pacific cloud brightening could weaken El Nino, but models reveal risks for Europe and Asia",
-          "summary": "A brewing \"super\" El Nino cycle is poised to unleash heat waves, floods and drought worldwide, with the effects amplified by long-term human-caused climate change.",
-          "url": "https://phys.org/news/2026-07-pacific-cloud-brightening-weaken-el.html",
+          "title": "Wildfires: Why disposable BBQs are being banned from some parks and beaches",
+          "summary": "There's something almost comic about the modern British summer ritual: As soon as the mercury climbs, we head to the nearest park, sit cross-legged on scorched grass and hunch over a flimsy foil tray to sear sausages…",
+          "url": "https://phys.org/news/2026-08-wildfires-disposable-bbqs-beaches.html",
           "source": "Phys.org",
-          "date": "2026-08-01"
+          "date": "2026-08-03"
         },
         {
-          "title": "Ancient diamond preserves evidence of water-bearing mineral deep in Earth's mantle",
-          "summary": "A team of Brazilian researchers discovered the first direct evidence that goethite—the mineral responsible for the brown color of soils—can withstand extreme pressures and temperatures all the way to the planet's…",
-          "url": "https://phys.org/news/2026-08-ancient-diamond-evidence-mineral-deep.html",
+          "title": "'What's in it for me?' People more likely to help the environment when it benefits them",
+          "summary": "People might be more inclined to keep their community clean if they believe it benefits them personally, according to new research from the University of Georgia published in Environment and Behavior. The study found…",
+          "url": "https://phys.org/news/2026-08-people-environment-benefits.html",
           "source": "Phys.org",
-          "date": "2026-08-01"
+          "date": "2026-08-03"
         },
         {
-          "title": "Sun news: CME bearing down on Earth as storm watch begins",
-          "summary": "Sun news August 2, 2026: The big CME from July 30 arrives today. G1-G2 storms are likely, with a slight chance of G3. Auroras could reach as far south as NYC! The post Sun news: CME bearing down on Earth as storm watch…",
-          "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
-          "source": "EarthSky",
-          "date": "2026-08-02"
+          "title": "Over 100 South American lakes could become climate-change early-warning observatories",
+          "summary": "More than 100 shallow lakes stretching over 1,000 kilometers (620 miles) along the Atlantic coast of southern Brazil and Uruguay could become one of the world's most important natural laboratories for understanding how…",
+          "url": "https://phys.org/news/2026-08-south-american-lakes-climate-early.html",
+          "source": "Phys.org",
+          "date": "2026-08-03"
         }
       ]
     },
@@ -151,25 +165,11 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "Sensor-embedded 3D-printed repairs could help preserve ancient pottery",
-          "summary": "Koç University researchers have developed a conservation method that combines photogrammetry, digital modeling, 3D printing and embedded sensors to replace missing sections of archaeological amphorae. The customized…",
-          "url": "https://phys.org/news/2026-07-sensor-embedded-3d-ancient-pottery.html",
+          "title": "At colleges, the AI boom means everyone wants to dabble in computer science",
+          "summary": "With no background in coding, Faith Maeba, a psychology major, was reluctant when her mother first suggested she enroll in classes on artificial intelligence.",
+          "url": "https://phys.org/news/2026-08-colleges-ai-boom-dabble-science.html",
           "source": "Phys.org",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "Quantum computer completes verified task beyond practical reach of classical simulations",
-          "summary": "IBM and researchers from the University of Chicago announced a demonstration in quantum computing that meets the fundamental criteria for \"quantum advantage\"—the point where quantum computers can be confirmed to have…",
-          "url": "https://phys.org/news/2026-07-quantum-task-classical-simulations.html",
-          "source": "Phys.org",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "Why full-fledged quantum computers might always be five years away",
-          "summary": "To predict when we’ll have a truly useful quantum computer, we need to know precisely what one is. Columnist Karmela Padavic-Callaghan finds that’s harder to pin down than you might think",
-          "url": "https://www.newscientist.com/article/2582565-why-full-fledged-quantum-computers-might-always-be-five-years-away/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-07-31"
+          "date": "2026-08-03"
         },
         {
           "title": "AI can tell if your brain is aging faster than you are",
@@ -177,6 +177,13 @@
           "url": "https://www.sciencedaily.com/releases/2026/07/260729051540.htm",
           "source": "Science Daily",
           "date": "2026-07-31"
+        },
+        {
+          "title": "Will a new kind of AI that understands physical reality change the world again?",
+          "summary": "AI chatbots can describe reality in words, but don’t truly understand cause and effect in the real world. Now, a fresh kind of machine intelligence that does just that is emerging",
+          "url": "https://www.newscientist.com/article/2580566-will-a-new-kind-of-ai-that-understands-physical-reality-change-the-world-again/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-08-03"
         }
       ]
     },
@@ -189,13 +196,6 @@
           "url": "https://www.sciencedaily.com/releases/2026/08/260801042822.htm",
           "source": "Science Daily",
           "date": "2026-08-02"
-        },
-        {
-          "title": "Hungary to shut nuclear plant as heatwave hits central Europe",
-          "summary": "Hungary's sole nuclear power plant will be shut down next week because of low water levels in the Danube, Prime Minister Peter Magyar said Friday as central Europe slogs through the latest in a series of heat waves.",
-          "url": "https://phys.org/news/2026-08-hungary-nuclear-heatwave-central-europe.html",
-          "source": "Phys.org",
-          "date": "2026-08-01"
         },
         {
           "title": "Mysterious Milky Way object accelerates protons beyond one quadrillion electron volts",
@@ -217,6 +217,13 @@
           "url": "https://www.space.com/technology/double-digits-air-launched-talon-a-hypersonic-vehicle-notches-big-flight-milestone",
           "source": "Space.com",
           "date": "2026-08-02"
+        },
+        {
+          "title": "Eating one avocado a day may lower heart disease risk",
+          "summary": "A daily avocado may help lower heart disease risk in adults with obesity by reducing the number of LDL particles circulating in the blood. After six months, participants who ate an avocado each day experienced a decline…",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260731034155.htm",
+          "source": "Science Daily",
+          "date": "2026-08-01"
         }
       ]
     }
