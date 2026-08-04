@@ -1,9 +1,23 @@
 {
-  "updated": "2026-08-03T15:43:12Z",
+  "updated": "2026-08-04T15:23:57Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
+        {
+          "title": "Magnetic dopants help quantum dots use light for chemical reactions",
+          "summary": "Scientists at Los Alamos National Laboratory have demonstrated a new quantum-dot mechanism that could significantly expand the reach of light-driven chemistry. By introducing magnetic manganese dopants into…",
+          "url": "https://phys.org/news/2026-08-magnetic-dopants-quantum-dots-chemical.html",
+          "source": "Phys.org",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "This hydrogen turbine turns controlled explosions into electricity",
+          "summary": "Scientists have successfully generated electricity with a hydrogen turbine that produces its own pressure through detonation waves instead of relying on a mechanical compressor. The breakthrough could unlock…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260803080919.htm",
+          "source": "Science Daily",
+          "date": "2026-08-04"
+        },
         {
           "title": "A simple supplement could help the immune system fight cancer and viruses",
           "summary": "Low arginine levels may allow cancer cells and viruses to slip past the immune system by reducing production of a crucial cellular warning protein. In mice, arginine-rich diets led to fewer colon tumors and milder viral…",
@@ -24,26 +38,26 @@
           "url": "https://www.sciencedaily.com/releases/2026/08/260801042818.htm",
           "source": "Science Daily",
           "date": "2026-08-03"
-        },
-        {
-          "title": "Scientists found two mysterious ‘ghost’ ancestors hiding in our DNA",
-          "summary": "Modern humans carry DNA from two mysterious extinct lineages in addition to Neanderthals and Denisovans. Their hidden genetic legacy shows that our evolutionary past was shaped by repeated mixing among many different…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260731034139.htm",
-          "source": "Science Daily",
-          "date": "2026-08-01"
-        },
-        {
-          "title": "Genetic analysis identifies a distinct Risso's dolphin population around British Isles",
-          "summary": "Risso's dolphins around the British Isles are part of a single population—genetically distinct from those elsewhere in the Atlantic, new research shows. Scientists studied the DNA of dolphins that stranded in England…",
-          "url": "https://phys.org/news/2026-08-genetic-analysis-distinct-risso-dolphin.html",
-          "source": "Phys.org",
-          "date": "2026-08-03"
         }
       ]
     },
     "Space & Astronomy": {
       "emoji": "🚀",
       "articles": [
+        {
+          "title": "On this day in space! Aug. 4, 2007: NASA launches Phoenix Mars lander to Red Planet",
+          "summary": "On Aug. 4, 2007, NASA launched its Phoenix Mars Lander on a mission to touch down in the Martian arctic for the first time. Here's why it mattered.",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-4-2026",
+          "source": "Space.com",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "Asteroid Nysa's rare three-lobed structure challenges formation models",
+          "summary": "Named for the mythical valley where the god Dionysus was raised in secret by nymphs, the asteroid 44 Nysa inhabits the asteroid belt between Mars and Jupiter. Through observations by the Hubble Space Telescope…",
+          "url": "https://phys.org/news/2026-08-asteroid-nysa-rare-lobed-formation.html",
+          "source": "Phys.org",
+          "date": "2026-08-04"
+        },
         {
           "title": "On this day in space! Aug. 3, 2004: NASA launches MESSENGER spacecraft to orbit Mercury",
           "summary": "NASA's MESSENGER spacecraft aimed to orbit Mercury for the first time to hunt for clues of water on the tiny, innermost planet.",
@@ -59,31 +73,31 @@
           "date": "2026-08-01"
         },
         {
-          "title": "On this day in space! Aug. 2, 1971: Apollo 15 makes 1st-ever televised liftoff from the moon",
-          "summary": "On Aug. 2, 1971, a lunar liftoff was televised for the first time on NASA's Apollo 15 mission, one giant leap for live TV from the moon.",
-          "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-2-2026",
-          "source": "Space.com",
-          "date": "2026-08-02"
-        },
-        {
-          "title": "Rocket issue delays 1st orbital rocket launch from the UK",
-          "summary": "While testing a rocket on the launch pad at the U.K.'s SaxaVord Spaceport, RFA found 'an issue with the vehicle that requires further investigation.'",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-issue-delays-1st-orbital-rocket-launch-from-the-uk",
-          "source": "Space.com",
-          "date": "2026-08-02"
-        },
-        {
-          "title": "On this day in space! Aug. 1, 1968: NASA ends production of Saturn V moon rocket",
-          "summary": "On Aug. 1, 1968, NASA canceled the production of its Saturn V moon rocket, one year before the historic Apollo 11 moon landing, spelling the end of the Apollo program due to budget concerns.",
-          "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-1-2026",
-          "source": "Space.com",
-          "date": "2026-08-01"
+          "title": "APOD: August 4, 2026 – Curious Cometary Knots in the Helix Nebula",
+          "summary": "APOD Science APOD APOD: August 4, 2026 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
+          "url": "https://science.nasa.gov/image-article/apod-august-4-2026-curious-cometary-knots-in-the-helix-nebula/",
+          "source": "NASA",
+          "date": "2026-08-04"
         }
       ]
     },
     "Animals & Nature": {
       "emoji": "🐾",
       "articles": [
+        {
+          "title": "Tiger shark caught off Massachusetts could be sign of warming waters",
+          "summary": "Nate Rouette and his brother Nelson went shark fishing on Cape Cod hoping for an exciting catch, but were shocked by what they reeled in—a tropical species of shark with a reputation for eating everything it can swallow.",
+          "url": "https://phys.org/news/2026-08-tiger-shark-caught-massachusetts.html",
+          "source": "Phys.org",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "DNA on the Shroud of Turin reveals centuries of hidden history",
+          "summary": "DNA traces in the Shroud of Turin reveal a remarkable mixture of human lineages, microbes, plants, animals, and coral accumulated through centuries of handling and travel. The findings do not prove its age or…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260803080859.htm",
+          "source": "Science Daily",
+          "date": "2026-08-04"
+        },
         {
           "title": "AI reveals a massive algae boom across the world’s oceans",
           "summary": "An AI analysis of 1.2 million satellite images shows that floating algae blooms are spreading across the global ocean. The rapid growth of massive seaweed mats could reshape marine habitats while bringing foul-smelling…",
@@ -92,32 +106,18 @@
           "date": "2026-08-03"
         },
         {
-          "title": "How the brain helps protect fertility from heat-induced damage",
-          "summary": "As global temperatures continue to rise, scientists are racing to understand why heat so profoundly threatens fertility across the animal kingdom. A new study from the Hebrew University of Jerusalem and collaborators…",
-          "url": "https://phys.org/news/2026-08-brain-fertility.html",
+          "title": "A resilient native seagrass species could help reshape coastal restoration",
+          "summary": "Seagrasses are among the most important foundation species in coastal ecosystems, providing habitat for marine life, stabilizing sediments and helping improve water quality. Yet nearly 20% of the world's historic…",
+          "url": "https://phys.org/news/2026-08-resilient-native-seagrass-species-reshape.html",
           "source": "Phys.org",
-          "date": "2026-08-03"
+          "date": "2026-08-04"
         },
         {
-          "title": "Gears of War: E-Day: Release date, platforms & everything else we know about Marcus Fenix's return",
-          "summary": "Return to Gears of War's roots this year with a gritty prequel that's been built from scratch.",
-          "url": "https://www.space.com/entertainment/space-games/gears-of-war-e-day-release-date-platforms-and-everything-else-we-know-about-marcus-fenixs-return",
-          "source": "Space.com",
-          "date": "2026-08-02"
-        },
-        {
-          "title": "Are beef-liver or standard iron supplements better for boosting iron?",
-          "summary": "Beef-liver supplements are said to be more effective at raising iron levels than standard tablets, but is it true? Columnist Alice Klein looks into the evidence behind the claims",
-          "url": "https://www.newscientist.com/article/2582573-are-beef-liver-or-standard-iron-supplements-better-for-boosting-iron/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "title": "Darwin proved right about gnat-trapping carnivorous plant",
+          "summary": "Botanists have finally proved what Charles Darwin was unable to nail down – that a genus of plants known to catch insects also digests them, suggesting the extent of plant carnivory has been underestimated",
+          "url": "https://www.newscientist.com/article/2583122-darwin-proved-right-about-gnat-trapping-carnivorous-plant/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
-          "date": "2026-08-03"
-        },
-        {
-          "title": "Scientists found evolution repeating itself in the Galápagos Islands",
-          "summary": "More than 150 years after Darwin’s finches helped reshape biology, Galápagos plants are exposing another evolutionary surprise. Giant daisies repeatedly developed similar heat-tolerant leaf shapes, but each lineage used…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260729051537.htm",
-          "source": "Science Daily",
-          "date": "2026-07-30"
+          "date": "2026-08-04"
         }
       ]
     },
@@ -132,32 +132,25 @@
           "date": "2026-08-03"
         },
         {
-          "title": "Rising seas are inundating US coastal wetlands, putting many on track to become open water",
-          "summary": "Along the three coasts of the contiguous United States, a silent race unfolds. Fueled by climate change, sea levels rise faster than at any time in recent geologic history. Meanwhile, coastal wetlands cling to a slim…",
-          "url": "https://phys.org/news/2026-07-seas-inundating-coastal-wetlands-track.html",
+          "title": "Mechanical shortcut' rapidly carries organic particles into the deep ocean",
+          "summary": "The processes that capture carbon from the atmosphere and store it on the seabed are crucial for climate balance. However, assessing these mechanisms is often complicated because it requires measurements ranging from…",
+          "url": "https://phys.org/news/2026-08-mechanical-shortcut-rapidly-particles-deep.html",
           "source": "Phys.org",
           "date": "2026-08-03"
         },
         {
-          "title": "Wildfires: Why disposable BBQs are being banned from some parks and beaches",
-          "summary": "There's something almost comic about the modern British summer ritual: As soon as the mercury climbs, we head to the nearest park, sit cross-legged on scorched grass and hunch over a flimsy foil tray to sear sausages…",
-          "url": "https://phys.org/news/2026-08-wildfires-disposable-bbqs-beaches.html",
+          "title": "US Northwest battles wildfires after Spokane neighborhoods scorched",
+          "summary": "Wildfires supercharged by drought and intense heat tore through the northwestern U.S. city of Spokane, forcing the evacuation of 65,000 people and reducing hundreds of buildings to cinders as firefighters raced Monday…",
+          "url": "https://phys.org/news/2026-08-northwest-wildfires-spokane-neighborhoods.html",
           "source": "Phys.org",
-          "date": "2026-08-03"
+          "date": "2026-08-04"
         },
         {
-          "title": "'What's in it for me?' People more likely to help the environment when it benefits them",
-          "summary": "People might be more inclined to keep their community clean if they believe it benefits them personally, according to new research from the University of Georgia published in Environment and Behavior. The study found…",
-          "url": "https://phys.org/news/2026-08-people-environment-benefits.html",
-          "source": "Phys.org",
-          "date": "2026-08-03"
-        },
-        {
-          "title": "Over 100 South American lakes could become climate-change early-warning observatories",
-          "summary": "More than 100 shallow lakes stretching over 1,000 kilometers (620 miles) along the Atlantic coast of southern Brazil and Uruguay could become one of the world's most important natural laboratories for understanding how…",
-          "url": "https://phys.org/news/2026-08-south-american-lakes-climate-early.html",
-          "source": "Phys.org",
-          "date": "2026-08-03"
+          "title": "Venus rings found high above the planet’s thick clouds",
+          "summary": "New analysis of images taken in 2010 reveals giant Venus rings high in the planet's atmosphere, hidden from normal view. The post Venus rings found high above the planet’s thick clouds first appeared on EarthSky .",
+          "url": "https://earthsky.org/space/venus-rings-found-high-above-the-planets-thick-clouds/",
+          "source": "EarthSky",
+          "date": "2026-08-04"
         }
       ]
     },
@@ -165,18 +158,11 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "At colleges, the AI boom means everyone wants to dabble in computer science",
-          "summary": "With no background in coding, Faith Maeba, a psychology major, was reluctant when her mother first suggested she enroll in classes on artificial intelligence.",
-          "url": "https://phys.org/news/2026-08-colleges-ai-boom-dabble-science.html",
-          "source": "Phys.org",
+          "title": "Why winner of biggest prize in maths has decided to work on AI instead",
+          "summary": "Jacob Tsimerman won a Fields medal last month – now he is leaving mathematics to work on AI safety",
+          "url": "https://www.newscientist.com/article/2582780-why-winner-of-biggest-prize-in-maths-has-decided-to-work-on-ai-instead/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
           "date": "2026-08-03"
-        },
-        {
-          "title": "AI can tell if your brain is aging faster than you are",
-          "summary": "A person’s sleeping brain may reveal warning signs of dementia long before memory problems begin. Researchers used machine learning to analyze EEG recordings from about 7,000 adults and found that an older-than-expected…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260729051540.htm",
-          "source": "Science Daily",
-          "date": "2026-07-31"
         },
         {
           "title": "Will a new kind of AI that understands physical reality change the world again?",
@@ -198,18 +184,18 @@
           "date": "2026-08-02"
         },
         {
-          "title": "Mysterious Milky Way object accelerates protons beyond one quadrillion electron volts",
-          "summary": "Scientists have identified LHAASO J1912+1014u as a cosmic accelerator that can push protons beyond one quadrillion electron volts. The finding may help reveal where the Milky Way’s most energetic cosmic rays come from…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260731034150.htm",
+          "title": "Strange quantum experiment shows “negative time” is more than an illusion",
+          "summary": "Photons traveling through a cloud of atoms can emerge so early that they appear to have spent a negative amount of time inside. Researchers tested whether this was merely a misleading feature of the light pulse by…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260803080904.htm",
           "source": "Science Daily",
-          "date": "2026-08-02"
+          "date": "2026-08-04"
         },
         {
-          "title": "World-first photonic time crystal opens a new era of light control",
-          "summary": "Scientists have built the first all-optical photonic time crystal, allowing them to reshape the behavior of terahertz light at extraordinary speeds. The breakthrough could open the door to ultrafast computing, smarter…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260731034131.htm",
-          "source": "Science Daily",
-          "date": "2026-07-31"
+          "title": "New approach to cleaning the inner walls of a fusion system removes another obstacle to near-endless energy",
+          "summary": "Fusion systems need inner walls that can withstand extreme heat. One promising solution uses liquid lithium to protect the walls, held like water in a sponge made of the exceptionally strong metal tungsten. An advanced…",
+          "url": "https://phys.org/news/2026-08-approach-walls-fusion-obstacle-endless.html",
+          "source": "Phys.org",
+          "date": "2026-08-04"
         },
         {
           "title": "Double digits! Air-launched 'Talon A' hypersonic vehicle notches big flight milestone",
@@ -217,13 +203,6 @@
           "url": "https://www.space.com/technology/double-digits-air-launched-talon-a-hypersonic-vehicle-notches-big-flight-milestone",
           "source": "Space.com",
           "date": "2026-08-02"
-        },
-        {
-          "title": "Eating one avocado a day may lower heart disease risk",
-          "summary": "A daily avocado may help lower heart disease risk in adults with obesity by reducing the number of LDL particles circulating in the blood. After six months, participants who ate an avocado each day experienced a decline…",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260731034155.htm",
-          "source": "Science Daily",
-          "date": "2026-08-01"
         }
       ]
     }
