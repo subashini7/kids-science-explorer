@@ -1,28 +1,21 @@
 {
-  "updated": "2026-08-05T15:13:24Z",
+  "updated": "2026-08-06T15:13:24Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
+          "title": "A drug already used for osteoporosis blocked spinal damage in a new study",
+          "summary": "Genetic changes may set off a chain reaction that causes the spine’s natural shock absorbers to harden and deteriorate. Zebrafish with a faulty collagen-related gene developed mineral buildup and spinal fusion similar…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260806051943.htm",
+          "source": "Science Daily",
+          "date": "2026-08-06"
+        },
+        {
           "title": "Scientists catch a “jumping gene” mid-leap between species",
           "summary": "Scientists have uncovered a surprising way that “jumping genes” may move between species and speed up evolution. While these mobile genetic elements were thought to travel mainly inside viruses or plasmids, researchers…",
           "url": "https://www.sciencedaily.com/releases/2026/08/260803080911.htm",
           "source": "Science Daily",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "Backpack lab finds wastewater contamination and drug-resistant bacteria in Galápagos waters",
-          "summary": "From routine surgeries to cancer treatment, modern medicine depends on drugs that can fight infections caused by microbes such as bacteria, viruses, fungi and parasites. But some microbes are becoming resistant to the…",
-          "url": "https://phys.org/news/2026-08-backpack-lab-wastewater-contamination-drug.html",
-          "source": "Phys.org",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "Noisy bubbles hinder ultrasound-boosted chemical reactions, sonochemistry model shows",
-          "summary": "Ultrasound is a powerful way to drive chemical reactions. When high-frequency sound waves pass through a liquid, tiny bubbles form and then violently collapse in a process called acoustic cavitation. During this…",
-          "url": "https://phys.org/news/2026-08-noisy-hinder-ultrasound-boosted-chemical.html",
-          "source": "Phys.org",
           "date": "2026-08-05"
         },
         {
@@ -33,11 +26,18 @@
           "date": "2026-08-04"
         },
         {
-          "title": "A simple supplement could help the immune system fight cancer and viruses",
-          "summary": "Low arginine levels may allow cancer cells and viruses to slip past the immune system by reducing production of a crucial cellular warning protein. In mice, arginine-rich diets led to fewer colon tumors and milder viral…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260802223417.htm",
+          "title": "Cell-inspired nanoreactor turns sunlight into hydrogen peroxide",
+          "summary": "A new hollow nanoreactor mimics living cells to make hydrogen peroxide more efficiently using visible light. Its light-trapping cavity and proton-shuttling shell could open new possibilities for cleaner chemical…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034642.htm",
           "source": "Science Daily",
-          "date": "2026-08-03"
+          "date": "2026-08-06"
+        },
+        {
+          "title": "World’s most-used weedkiller disrupts honeybee brains",
+          "summary": "Glyphosate was long thought to be safe for honeybees because they lack the enzyme the chemical targets in weeds. However, researchers found that exposed bees foraged 13 percent less after only three days and showed…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034638.htm",
+          "source": "Science Daily",
+          "date": "2026-08-06"
         }
       ]
     },
@@ -50,13 +50,6 @@
           "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-5-2026",
           "source": "Space.com",
           "date": "2026-08-05"
-        },
-        {
-          "title": "NASA Will Attempt to Observe Rocket Part’s Lunar Impact",
-          "summary": "Using ground-based telescopes and space-based assets, NASA and SpaceX are tracking a used Falcon 9 upper stage from a commercial mission expected to impact the Moon on Wednesday, Aug. 5, near the Einstein and Bell…",
-          "url": "https://www.nasa.gov/humans-in-space/commercial-space/nasa-will-attempt-to-observe-rocket-parts-lunar-impact/",
-          "source": "NASA",
-          "date": "2026-08-04"
         },
         {
           "title": "On this day in space! Aug. 4, 2007: NASA launches Phoenix Mars lander to Red Planet",
@@ -78,6 +71,13 @@
           "url": "https://www.space.com/space-exploration/international-space-station/a-very-busy-mission-spacex-on-track-to-launch-4-astronauts-to-the-iss-on-sept-12",
           "source": "Space.com",
           "date": "2026-08-04"
+        },
+        {
+          "title": "APOD: 2026 August 5 – Spokes on Saturn’s B Ring",
+          "summary": "APODScienceAPODAPOD: 2026 August 5 – Spokes…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of…",
+          "url": "https://science.nasa.gov/image-article/apod-2026-august-5-spokes-on-saturns-b-ring/",
+          "source": "NASA",
+          "date": "2026-08-05"
         }
       ]
     },
@@ -85,25 +85,18 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "Ancient armored fish that narrowly avoided meteorite strike reveals life before Earth's largest mass extinction",
-          "summary": "A rare fossil discovered near South America's largest known meteorite crater has been named a new species. Initially mistaken for a frog by locals, Leolepis matogrossensis is actually a species of ancient ray-finned…",
-          "url": "https://phys.org/news/2026-08-ancient-armored-fish-narrowly-meteorite.html",
-          "source": "Phys.org",
-          "date": "2026-08-05"
+          "title": "Forget the sperm race: Fertilization may depend on teamwork",
+          "summary": "Millions of sperm do not always compete alone—some species send them into action as coordinated teams. A sweeping evolutionary study found that this cooperation is widespread among arthropods and has repeatedly emerged…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260805082455.htm",
+          "source": "Science Daily",
+          "date": "2026-08-06"
         },
         {
-          "title": "Ways to help protect Australia's birds and mammals from bird flu",
-          "summary": "The deadly H5N1 strain of bird flu has now spread from migratory birds to infect resident Australian birds. Clusters of dead birds have been found in several locations. The virus will inevitably infect other wildlife…",
-          "url": "https://phys.org/news/2026-08-ways-australia-birds-mammals-bird.html",
-          "source": "Phys.org",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "Bird flu decimated South America's marine mammals. What can Australia do differently?",
-          "summary": "Australia is now confronting an outbreak of a deadly bird flu strain. As of Monday, the highly pathogenic H5N1 virus had been detected in 78 wild birds across mainland Australia. Until now, there had been no evidence of…",
-          "url": "https://phys.org/news/2026-08-bird-flu-decimated-south-america.html",
-          "source": "Phys.org",
-          "date": "2026-08-05"
+          "title": "567-million-year-old fossils rewrite the dawn of animal life",
+          "summary": "A spectacular fossil site in Canada contains 567-million-year-old creatures that may represent some of the earliest animals to move, reproduce sexually, and develop recognizable body plans. The discovery pushes key…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034644.htm",
+          "source": "Science Daily",
+          "date": "2026-08-06"
         },
         {
           "title": "80-million-year-old snake brain reveals a surprising evolutionary secret",
@@ -118,6 +111,13 @@
           "url": "https://www.sciencedaily.com/releases/2026/08/260803080859.htm",
           "source": "Science Daily",
           "date": "2026-08-04"
+        },
+        {
+          "title": "Did T. rex leave these 66-million-year-old bite marks?",
+          "summary": "Fossilized dinosaur bones from Wyoming are offering a rare glimpse into the feeding behavior of Tyrannosaurus rex. Researchers examined more than 3,000 bones dating back 72 to 66 million years and found just 12 with…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260803080854.htm",
+          "source": "Science Daily",
+          "date": "2026-08-05"
         }
       ]
     },
@@ -125,39 +125,39 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Ancient Arctic carbon is pouring into the sea, but the seabed captures most of it",
-          "summary": "Thawing Arctic permafrost is releasing ancient carbon into the ocean, raising fears that microbes could turn it into greenhouse gases and accelerate climate change. But sediment cores collected near Canada’s Herschel…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260802223424.htm",
-          "source": "Science Daily",
-          "date": "2026-08-03"
-        },
-        {
-          "title": "Study finds climate-driven greening is reshaping East Asia's air pollution",
-          "summary": "The effects of climate change extend far beyond rising temperatures. As forests and other vegetation respond to a warming world, they also change the amount of biogenic emissions released into the atmosphere…",
-          "url": "https://phys.org/news/2026-08-climate-driven-greening-reshaping-east.html",
+          "title": "Climate change contributed to big Canada fires, study says as Trump blames mismanagement",
+          "summary": "Human-caused climate change doubled the likelihood of the tinderbox weather conditions that sparked Canada's massive summer wildfires and in turn angered U.S. President Donald Trump, according to a study released…",
+          "url": "https://phys.org/news/2026-08-climate-contributed-big-canada-trump.html",
           "source": "Phys.org",
-          "date": "2026-08-05"
+          "date": "2026-08-06"
         },
         {
-          "title": "Melting sea ice combines with Arctic sea to make clouds",
-          "summary": "Scientists have uncovered a previously unknown natural process that dramatically increases the number of cloud-forming particles in the Arctic atmosphere—potentially altering cloud cover, sunlight reflection and future…",
-          "url": "https://phys.org/news/2026-08-sea-ice-combines-arctic-clouds.html",
+          "title": "Coupled AI and physics model improves typhoon-wave height forecasting",
+          "summary": "Typhoons pose significant threats, with sudden, dangerous waves that endanger ships, offshore platforms and coastal infrastructure in the northwest Pacific Ocean. Current typhoon forecasting methods sometimes…",
+          "url": "https://phys.org/news/2026-08-coupled-ai-physics-typhoon-height.html",
           "source": "Phys.org",
-          "date": "2026-08-05"
+          "date": "2026-08-06"
         },
         {
-          "title": "This summer isn't breaking heat records—yet. Wait until El Nino kicks in, scientists say",
-          "summary": "Wildfires are burning in North America and Europe. Deadly heat waves have parked over cities and the world's oceans are the hottest ever recorded for this time of year. A strengthening El Niño is forecast to be…",
-          "url": "https://phys.org/news/2026-08-summer-isnt-el-nino-scientists.html",
-          "source": "Phys.org",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "Why the Spokane wildfires became so catastrophic",
-          "summary": "A rare combination of drought, dry fuels, high winds and development in fire-prone landscapes turned the Spokane wildfires into a catastrophic event. The post Why the Spokane wildfires became so catastrophic first…",
-          "url": "https://earthsky.org/earth/why-the-spokane-wildfires-became-so-catastrophic/",
+          "title": "Sun news: Multiple bursts of sun-stuff approaching Earth",
+          "summary": "Sun news August 6, 2026: Confirmed! Bursts of solar material are approaching Earth, arriving August 7-9. Expect active levels and G1 storm chances. The post Sun news: Multiple bursts of sun-stuff approaching Earth first…",
+          "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
           "source": "EarthSky",
+          "date": "2026-08-06"
+        },
+        {
+          "title": "We must adapt to climate change while also tackling the root cause",
+          "summary": "The devastating wildfires in Europe demand urgent measures to make landscapes more resilient, but without action to reduce use of fossil fuels, the danger is only going to increase",
+          "url": "https://www.newscientist.com/article/2583095-we-must-adapt-to-climate-change-while-also-tackling-the-root-cause/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
           "date": "2026-08-05"
+        },
+        {
+          "title": "How the Tide Turns at the Mouth of the Elbe",
+          "summary": "The ocean’s ebbs and flows reveal dynamic tidal flats and a well-traveled shipping route along the coast of Germany.",
+          "url": "https://science.nasa.gov/earth/earth-observatory/how-the-tide-turns-at-the-mouth-of-the-elbe/",
+          "source": "NASA",
+          "date": "2026-08-06"
         }
       ]
     },
@@ -165,17 +165,38 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "Most people prefer AI-written stories – and can’t tell when they are made by humans",
-          "summary": "People appear to prefer short stories created by AI over those written by humans. They are also no better than chance at telling which is which",
-          "url": "https://www.newscientist.com/article/2583065-most-people-prefer-stories-written-by-ai-and-cant-tell-it-apart-from-human-work/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "title": "Claude Fable 5 AI finds a tiny formula that topples an 87-year-old math conjecture",
+          "summary": "A mathematician working at Anthropic says he used the AI model Claude Fable 5 to uncover a remarkably simple counterexample to the Jacobian conjecture, a famous problem that has resisted mathematicians for more than a…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034634.htm",
+          "source": "Science Daily",
+          "date": "2026-08-06"
+        },
+        {
+          "title": "DeepMind AI gives an extra day of warning ahead of deadly cyclones",
+          "summary": "An AI model from DeepMind can predict cyclones three days ahead with a level of accuracy that previous models can only hit a day later",
+          "url": "https://www.newscientist.com/article/2583547-deepmind-ai-gives-an-extra-day-of-warning-ahead-of-deadly-cyclones/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
-          "date": "2026-08-04"
+          "date": "2026-08-06"
         }
       ]
     },
     "Physics": {
       "emoji": "⚡",
       "articles": [
+        {
+          "title": "Sunlight-powered setup generates quantum entanglement",
+          "summary": "Today's quantum technologies rely on energy-intensive lasers, raising concerns that scaling them up could further increase energy demands. In new work, researchers have demonstrated that quantum entanglement between…",
+          "url": "https://phys.org/news/2026-08-sunlight-powered-setup-generates-quantum.html",
+          "source": "Phys.org",
+          "date": "2026-08-06"
+        },
+        {
+          "title": "Miniaturized laser technology paves the way for fundamental physics experiments in space",
+          "summary": "An international team of researchers has succeeded in producing atomic quantum gas mixtures with an unprecedented particle flux. In the journal Nature Communications, the scientists report on experiments conducted with…",
+          "url": "https://phys.org/news/2026-08-miniaturized-laser-technology-paves-fundamental.html",
+          "source": "Phys.org",
+          "date": "2026-08-05"
+        },
         {
           "title": "Strange quantum experiment shows “negative time” is more than an illusion",
           "summary": "Photons traveling through a cloud of atoms can emerge so early that they appear to have spent a negative amount of time inside. Researchers tested whether this was merely a misleading feature of the light pulse by…",
@@ -184,18 +205,18 @@
           "date": "2026-08-04"
         },
         {
-          "title": "The once-impossible black holes that could break thermodynamics",
-          "summary": "The laws of physics seemed to forbid a strange variety of black holes that could have zero temperature. Columnist Jacklin Kwan explores research that shows these strange behemoths can really exist – and how they could…",
-          "url": "https://www.newscientist.com/article/2582580-the-once-impossible-black-holes-that-could-break-thermodynamics/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-08-04"
+          "title": "Repurposing deep-Earth tools in the hunt for practical superconductors",
+          "summary": "If scientists could find a material that acts as a superconductor—that is, one that transmits energy with zero resistance—at normal pressures and relatively high temperatures, it would open up a vast number of…",
+          "url": "https://phys.org/news/2026-08-repurposing-deep-earth-tools-superconductors.html",
+          "source": "Phys.org",
+          "date": "2026-08-06"
         },
         {
-          "title": "Act now on microplastic risks, businesses urged",
-          "summary": "A new white paper released by experts at the UTS Business School highlights the risks businesses face if they ignore growing scientific evidence and consumer awareness of the dangers posed by microplastics.",
-          "url": "https://phys.org/news/2026-08-microplastic-businesses-urged.html",
+          "title": "Spacecraft observations may conceal how particles really move through near-Earth space",
+          "summary": "High-energy particles in Earth's radiation belt can appear to spread out randomly, even when they are moving in a \"predictable\" way. This is because spacecraft observations naturally blur the fine-scale structure of the…",
+          "url": "https://phys.org/news/2026-08-spacecraft-conceal-particles-earth-space.html",
           "source": "Phys.org",
-          "date": "2026-08-05"
+          "date": "2026-08-06"
         }
       ]
     }
