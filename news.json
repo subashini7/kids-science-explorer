@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T15:13:24Z",
+  "updated": "2026-08-07T14:12:46Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
@@ -12,13 +12,6 @@
           "date": "2026-08-06"
         },
         {
-          "title": "Scientists catch a “jumping gene” mid-leap between species",
-          "summary": "Scientists have uncovered a surprising way that “jumping genes” may move between species and speed up evolution. While these mobile genetic elements were thought to travel mainly inside viruses or plasmids, researchers…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260803080911.htm",
-          "source": "Science Daily",
-          "date": "2026-08-05"
-        },
-        {
           "title": "This hydrogen turbine turns controlled explosions into electricity",
           "summary": "Scientists have successfully generated electricity with a hydrogen turbine that produces its own pressure through detonation waves instead of relying on a mechanical compressor. The breakthrough could unlock…",
           "url": "https://www.sciencedaily.com/releases/2026/08/260803080919.htm",
@@ -26,16 +19,23 @@
           "date": "2026-08-04"
         },
         {
-          "title": "Cell-inspired nanoreactor turns sunlight into hydrogen peroxide",
-          "summary": "A new hollow nanoreactor mimics living cells to make hydrogen peroxide more efficiently using visible light. Its light-trapping cavity and proton-shuttling shell could open new possibilities for cleaner chemical…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260804034642.htm",
-          "source": "Science Daily",
+          "title": "Decoding the North American bison's genome to better inform conservation efforts",
+          "summary": "A new study by ancient DNA researchers at the University of California, Santa Cruz, used paleogenomics to create a genetic roadmap to help guide the restoration of another iconic species once on the brink of extinction…",
+          "url": "https://phys.org/news/2026-08-decoding-north-american-bison-genome.html",
+          "source": "Phys.org",
           "date": "2026-08-06"
         },
         {
-          "title": "World’s most-used weedkiller disrupts honeybee brains",
-          "summary": "Glyphosate was long thought to be safe for honeybees because they lack the enzyme the chemical targets in weeds. However, researchers found that exposed bees foraged 13 percent less after only three days and showed…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260804034638.htm",
+          "title": "Wearable ultrasound patch boosts REM sleep without drugs or surgery",
+          "summary": "A new wearable patch may help people reach REM sleep faster and remain there longer without medication or surgery. In a study of 28 participants, the device shortened the time to REM by 43 minutes and extended it by…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260806050709.htm",
+          "source": "Science Daily",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "Cell-inspired nanoreactor turns sunlight into hydrogen peroxide",
+          "summary": "A new hollow nanoreactor mimics living cells to make hydrogen peroxide more efficiently using visible light. Its light-trapping cavity and proton-shuttling shell could open new possibilities for cleaner chemical…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034642.htm",
           "source": "Science Daily",
           "date": "2026-08-06"
         }
@@ -52,13 +52,6 @@
           "date": "2026-08-05"
         },
         {
-          "title": "On this day in space! Aug. 4, 2007: NASA launches Phoenix Mars lander to Red Planet",
-          "summary": "On Aug. 4, 2007, NASA launched its Phoenix Mars Lander on a mission to touch down in the Martian arctic for the first time. Here's why it mattered.",
-          "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-4-2026",
-          "source": "Space.com",
-          "date": "2026-08-04"
-        },
-        {
           "title": "SpaceX launches Starlink satellites on 90th Falcon 9 flight of the year (video)",
           "summary": "SpaceX launched 24 more of its Starlink internet satellites to low Earth orbit today (Aug. 4), on the 90th Falcon 9 rocket flight of 2026.",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-launch-group-17-53-ocisly",
@@ -73,17 +66,31 @@
           "date": "2026-08-04"
         },
         {
-          "title": "APOD: 2026 August 5 – Spokes on Saturn’s B Ring",
-          "summary": "APODScienceAPODAPOD: 2026 August 5 – Spokes…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of…",
-          "url": "https://science.nasa.gov/image-article/apod-2026-august-5-spokes-on-saturns-b-ring/",
+          "title": "I Am Artemis: Tom Percy",
+          "summary": "As NASA sets its sights on long-term exploration of the Moon and Mars, the agency is increasing the cadence of its Artemis missions. Helping bring these plans to fruition is Tom Percy, manager of systems engineering and…",
+          "url": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-tom-percy/",
           "source": "NASA",
-          "date": "2026-08-05"
+          "date": "2026-08-06"
+        },
+        {
+          "title": "'One more step': NASA astronauts conduct 6.5-hour spacewalk to prep ISS for solar array upgrade",
+          "summary": "Jessica Meir and Anil Menon completed a 6.5-hour spacewalk to install solar array mounting hardware outside of the International Space Station on Thursday, Aug. 6, 2026.",
+          "url": "https://www.space.com/space-exploration/international-space-station/1-more-step-nasa-astronauts-conduct-6-5-hour-spacewalk-to-prep-iss-for-solar-array-upgrade",
+          "source": "Space.com",
+          "date": "2026-08-06"
         }
       ]
     },
     "Animals & Nature": {
       "emoji": "🐾",
       "articles": [
+        {
+          "title": "Scientists rediscover lost Megalodon fossils—and reveal a 79-foot giant",
+          "summary": "Several enormous Megalodon vertebrae thought to have been destroyed in 1989 were found sitting unnoticed on a museum shelf. Their analysis strengthens evidence that the giant shark could exceed 24 meters (79 feet) in…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260805082500.htm",
+          "source": "Science Daily",
+          "date": "2026-08-07"
+        },
         {
           "title": "Forget the sperm race: Fertilization may depend on teamwork",
           "summary": "Millions of sperm do not always compete alone—some species send them into action as coordinated teams. A sweeping evolutionary study found that this cooperation is widespread among arthropods and has repeatedly emerged…",
@@ -106,18 +113,11 @@
           "date": "2026-08-05"
         },
         {
-          "title": "DNA on the Shroud of Turin reveals centuries of hidden history",
-          "summary": "DNA traces in the Shroud of Turin reveal a remarkable mixture of human lineages, microbes, plants, animals, and coral accumulated through centuries of handling and travel. The findings do not prove its age or…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260803080859.htm",
-          "source": "Science Daily",
-          "date": "2026-08-04"
-        },
-        {
-          "title": "Did T. rex leave these 66-million-year-old bite marks?",
-          "summary": "Fossilized dinosaur bones from Wyoming are offering a rare glimpse into the feeding behavior of Tyrannosaurus rex. Researchers examined more than 3,000 bones dating back 72 to 66 million years and found just 12 with…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260803080854.htm",
-          "source": "Science Daily",
-          "date": "2026-08-05"
+          "title": "Officials will not release cool water from a Colorado River reservoir to protect threatened fish",
+          "summary": "Federal officials said Thursday they will not release cool water this year from one of the Colorado River's major reservoirs, which would have protected a threatened native fish downstream but put more strain on already…",
+          "url": "https://phys.org/news/2026-08-cool-colorado-river-reservoir-threatened.html",
+          "source": "Phys.org",
+          "date": "2026-08-07"
         }
       ]
     },
@@ -125,39 +125,25 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Climate change contributed to big Canada fires, study says as Trump blames mismanagement",
-          "summary": "Human-caused climate change doubled the likelihood of the tinderbox weather conditions that sparked Canada's massive summer wildfires and in turn angered U.S. President Donald Trump, according to a study released…",
-          "url": "https://phys.org/news/2026-08-climate-contributed-big-canada-trump.html",
+          "title": "One-third of agricultural land accounts for two-thirds of global impact, study reveals",
+          "summary": "Agriculture covers more than 40% of Earth's habitable land and plays a central role in both climate change and biodiversity loss. Yet the impact of agriculture is far from evenly distributed across space.",
+          "url": "https://phys.org/news/2026-08-agricultural-accounts-thirds-global-impact.html",
           "source": "Phys.org",
           "date": "2026-08-06"
         },
         {
-          "title": "Coupled AI and physics model improves typhoon-wave height forecasting",
-          "summary": "Typhoons pose significant threats, with sudden, dangerous waves that endanger ships, offshore platforms and coastal infrastructure in the northwest Pacific Ocean. Current typhoon forecasting methods sometimes…",
-          "url": "https://phys.org/news/2026-08-coupled-ai-physics-typhoon-height.html",
-          "source": "Phys.org",
-          "date": "2026-08-06"
-        },
-        {
-          "title": "Sun news: Multiple bursts of sun-stuff approaching Earth",
-          "summary": "Sun news August 6, 2026: Confirmed! Bursts of solar material are approaching Earth, arriving August 7-9. Expect active levels and G1 storm chances. The post Sun news: Multiple bursts of sun-stuff approaching Earth first…",
-          "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+          "title": "Best deep-sky photos of July 2026 from EarthSky community",
+          "summary": "Enjoy this gallery of deep-sky photos from July 2026 by our EarthSky community. If you have a great photo to share, we'd love to see it! The post Best deep-sky photos of July 2026 from EarthSky community first appeared…",
+          "url": "https://earthsky.org/todays-image/best-deep-sky-photos-of-july-2026-from-earthsky-community/",
           "source": "EarthSky",
           "date": "2026-08-06"
         },
         {
-          "title": "We must adapt to climate change while also tackling the root cause",
-          "summary": "The devastating wildfires in Europe demand urgent measures to make landscapes more resilient, but without action to reduce use of fossil fuels, the danger is only going to increase",
-          "url": "https://www.newscientist.com/article/2583095-we-must-adapt-to-climate-change-while-also-tackling-the-root-cause/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "title": "Could geoengineering ‘ice arches’ help preserve Arctic sea ice?",
+          "summary": "Researchers are investigating whether artificially thickening ice blockages between Canada and Greenland could prevent huge amounts of sea ice from flowing south to melt",
+          "url": "https://www.newscientist.com/article/2583296-could-geoengineering-ice-arches-help-preserve-arctic-sea-ice/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "How the Tide Turns at the Mouth of the Elbe",
-          "summary": "The ocean’s ebbs and flows reveal dynamic tidal flats and a well-traveled shipping route along the coast of Germany.",
-          "url": "https://science.nasa.gov/earth/earth-observatory/how-the-tide-turns-at-the-mouth-of-the-elbe/",
-          "source": "NASA",
-          "date": "2026-08-06"
+          "date": "2026-08-07"
         }
       ]
     },
@@ -169,6 +155,20 @@
           "summary": "A mathematician working at Anthropic says he used the AI model Claude Fable 5 to uncover a remarkably simple counterexample to the Jacobian conjecture, a famous problem that has resisted mathematicians for more than a…",
           "url": "https://www.sciencedaily.com/releases/2026/08/260804034634.htm",
           "source": "Science Daily",
+          "date": "2026-08-06"
+        },
+        {
+          "title": "Social robots may support learning and reduce teachers' workload, pilot trial finds",
+          "summary": "When Pepper the social robot was given the chance to try its hand as a teaching assistant, it showed that it can be even better than a human teacher at motivating pupils and helping them learn.",
+          "url": "https://phys.org/news/2026-08-social-robots-teachers-workload-trial.html",
+          "source": "Phys.org",
+          "date": "2026-08-06"
+        },
+        {
+          "title": "Single-shot phase imaging technique can reconstruct transparent objects",
+          "summary": "A KAIST research team led by professor Mooseok Jang from the Department of Bio and Brain Engineering has developed a single-shot phase imaging technique that reconstructs a phase object—a transparent object such as…",
+          "url": "https://phys.org/news/2026-08-shot-phase-imaging-technique-reconstruct.html",
+          "source": "Phys.org",
           "date": "2026-08-06"
         },
         {
@@ -184,37 +184,37 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "Sunlight-powered setup generates quantum entanglement",
-          "summary": "Today's quantum technologies rely on energy-intensive lasers, raising concerns that scaling them up could further increase energy demands. In new work, researchers have demonstrated that quantum entanglement between…",
-          "url": "https://phys.org/news/2026-08-sunlight-powered-setup-generates-quantum.html",
-          "source": "Phys.org",
-          "date": "2026-08-06"
+          "title": "Drought and heat push Europe’s power grid to breaking point",
+          "summary": "High temperatures and low water levels have forced several countries to shut down nuclear reactors just as citizens turn up their air conditioning, forcing energy prices to spike and raising the threat of blackouts",
+          "url": "https://www.newscientist.com/article/2583740-drought-and-heat-push-europes-power-grid-to-breaking-point/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-08-07"
         },
         {
-          "title": "Miniaturized laser technology paves the way for fundamental physics experiments in space",
-          "summary": "An international team of researchers has succeeded in producing atomic quantum gas mixtures with an unprecedented particle flux. In the journal Nature Communications, the scientists report on experiments conducted with…",
-          "url": "https://phys.org/news/2026-08-miniaturized-laser-technology-paves-fundamental.html",
-          "source": "Phys.org",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "Strange quantum experiment shows “negative time” is more than an illusion",
-          "summary": "Photons traveling through a cloud of atoms can emerge so early that they appear to have spent a negative amount of time inside. Researchers tested whether this was merely a misleading feature of the light pulse by…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260803080904.htm",
+          "title": "UCLA scientists discover how to guide heat like light at room temperature",
+          "summary": "Scientists have demonstrated that heat can move through a crystal in focused, wave-like rays at room temperature instead of spreading randomly. The breakthrough could make it possible to route heat around sensitive…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260805082506.htm",
           "source": "Science Daily",
-          "date": "2026-08-04"
+          "date": "2026-08-07"
         },
         {
-          "title": "Repurposing deep-Earth tools in the hunt for practical superconductors",
-          "summary": "If scientists could find a material that acts as a superconductor—that is, one that transmits energy with zero resistance—at normal pressures and relatively high temperatures, it would open up a vast number of…",
-          "url": "https://phys.org/news/2026-08-repurposing-deep-earth-tools-superconductors.html",
+          "title": "New quantum microscopy trick quadruples microscope resolution",
+          "summary": "Three years after a team of Caltech scientists showed that pairs of entangled photons could double the resolution of a light microscope, the same lab has figured out a way to double down on that improvement. They have…",
+          "url": "https://phys.org/news/2026-08-quantum-microscopy-quadruples-microscope-resolution.html",
           "source": "Phys.org",
           "date": "2026-08-06"
         },
         {
-          "title": "Spacecraft observations may conceal how particles really move through near-Earth space",
-          "summary": "High-energy particles in Earth's radiation belt can appear to spread out randomly, even when they are moving in a \"predictable\" way. This is because spacecraft observations naturally blur the fine-scale structure of the…",
-          "url": "https://phys.org/news/2026-08-spacecraft-conceal-particles-earth-space.html",
+          "title": "The electromagnetic spectrum: It’s more than visible light",
+          "summary": "The light our eyes can detect is only a sliver of the light out there. The electromagnetic spectrum describes all the wavelengths of light, seen and unseen. The post The electromagnetic spectrum: It’s more than visible…",
+          "url": "https://earthsky.org/space/what-is-the-electromagnetic-spectrum/",
+          "source": "EarthSky",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "An elegant modification doubles the range of low-noise 'white lasers' in a single fiber",
+          "summary": "Supercontinuum light sources—often called \"white lasers\" because they emit a broad, continuous rainbow of colors—are essential tools for everything from advanced medical imaging to environmental gas detection. However…",
+          "url": "https://phys.org/news/2026-08-elegant-modification-range-noise-white.html",
           "source": "Phys.org",
           "date": "2026-08-06"
         }
