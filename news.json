@@ -1,9 +1,23 @@
 {
-  "updated": "2026-08-07T14:12:46Z",
+  "updated": "2026-08-08T13:45:24Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
+        {
+          "title": "Silver nanocatalysts switch reaction sites between power generation and hydrogen production",
+          "summary": "For the first time, researchers have discovered that the same silver (Ag) nanocatalyst operates at different reaction sites depending on whether a solid oxide cell is generating electricity or producing hydrogen. This…",
+          "url": "https://phys.org/news/2026-08-silver-nanocatalysts-reaction-sites-power.html",
+          "source": "Phys.org",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "New platform speeds bacterial gene mapping for better biotech design",
+          "summary": "Scientists at the Department of Energy's Oak Ridge National Laboratory have created a platform that pinpoints genetic triggers that turn microbes into efficient factories for new chemicals and materials. The method…",
+          "url": "https://phys.org/news/2026-08-platform-bacterial-gene-biotech.html",
+          "source": "Phys.org",
+          "date": "2026-08-07"
+        },
         {
           "title": "A drug already used for osteoporosis blocked spinal damage in a new study",
           "summary": "Genetic changes may set off a chain reaction that causes the spine’s natural shock absorbers to harden and deteriorate. Zebrafish with a faulty collagen-related gene developed mineral buildup and spinal fusion similar…",
@@ -12,32 +26,18 @@
           "date": "2026-08-06"
         },
         {
-          "title": "This hydrogen turbine turns controlled explosions into electricity",
-          "summary": "Scientists have successfully generated electricity with a hydrogen turbine that produces its own pressure through detonation waves instead of relying on a mechanical compressor. The breakthrough could unlock…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260803080919.htm",
-          "source": "Science Daily",
-          "date": "2026-08-04"
-        },
-        {
-          "title": "Decoding the North American bison's genome to better inform conservation efforts",
-          "summary": "A new study by ancient DNA researchers at the University of California, Santa Cruz, used paleogenomics to create a genetic roadmap to help guide the restoration of another iconic species once on the brink of extinction…",
-          "url": "https://phys.org/news/2026-08-decoding-north-american-bison-genome.html",
+          "title": "Creating cleaner chemical reactions that run on oxygen and produce only water as waste",
+          "summary": "Oxygen provides the driving force for many vital chemical reactions. Two well-known examples include respiration, the process that allows living things to break down food to release its energy, and combustion, reactions…",
+          "url": "https://phys.org/news/2026-08-cleaner-chemical-reactions-oxygen.html",
           "source": "Phys.org",
-          "date": "2026-08-06"
-        },
-        {
-          "title": "Wearable ultrasound patch boosts REM sleep without drugs or surgery",
-          "summary": "A new wearable patch may help people reach REM sleep faster and remain there longer without medication or surgery. In a study of 28 participants, the device shortened the time to REM by 43 minutes and extended it by…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260806050709.htm",
-          "source": "Science Daily",
           "date": "2026-08-07"
         },
         {
-          "title": "Cell-inspired nanoreactor turns sunlight into hydrogen peroxide",
-          "summary": "A new hollow nanoreactor mimics living cells to make hydrogen peroxide more efficiently using visible light. Its light-trapping cavity and proton-shuttling shell could open new possibilities for cleaner chemical…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260804034642.htm",
-          "source": "Science Daily",
-          "date": "2026-08-06"
+          "title": "Photocatalytic method cleaves strong C–H bonds while preserving weaker C–Si bonds",
+          "summary": "α-Silyl alcohols are unique organosilicon compounds bearing a silyl group and a hydroxy group on the same carbon atom. Because these compounds serve as precursors to reactive species, such as carbanions and carbon…",
+          "url": "https://phys.org/news/2026-08-photocatalytic-method-cleaves-strong-ch.html",
+          "source": "Phys.org",
+          "date": "2026-08-07"
         }
       ]
     },
@@ -52,18 +52,11 @@
           "date": "2026-08-05"
         },
         {
-          "title": "SpaceX launches Starlink satellites on 90th Falcon 9 flight of the year (video)",
-          "summary": "SpaceX launched 24 more of its Starlink internet satellites to low Earth orbit today (Aug. 4), on the 90th Falcon 9 rocket flight of 2026.",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-launch-group-17-53-ocisly",
+          "title": "On this day in space! Aug. 7, 1980: NASA's Viking 1 Mars orbiter shuts down 4 years into a 90-day mission",
+          "summary": "On Aug. 7, 1980, NASA's Viking 1 spacecraft orbiting Mars ended its epic and historic mission to the Red Planet. Here's why it mattered.",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-7-2026",
           "source": "Space.com",
-          "date": "2026-08-04"
-        },
-        {
-          "title": "'A very busy mission': SpaceX on track to launch 4 astronauts to the ISS on Sept. 12",
-          "summary": "NASA and SpaceX officials, together with the four members of Crew-13, spoke to the media on Aug. 3, providing an update on their preparations for launch.",
-          "url": "https://www.space.com/space-exploration/international-space-station/a-very-busy-mission-spacex-on-track-to-launch-4-astronauts-to-the-iss-on-sept-12",
-          "source": "Space.com",
-          "date": "2026-08-04"
+          "date": "2026-08-07"
         },
         {
           "title": "I Am Artemis: Tom Percy",
@@ -71,6 +64,13 @@
           "url": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-tom-percy/",
           "source": "NASA",
           "date": "2026-08-06"
+        },
+        {
+          "title": "Engineers race to save stricken LINK rescue spacecraft before it's too late",
+          "summary": "The private LINK spacecraft, which launched last month to save a NASA space telescope, now needs saving, too —and teams are making progress on that front.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/engineers-race-to-save-stricken-link-rescue-spacecraft-before-its-too-late",
+          "source": "Space.com",
+          "date": "2026-08-07"
         },
         {
           "title": "'One more step': NASA astronauts conduct 6.5-hour spacewalk to prep ISS for solar array upgrade",
@@ -113,9 +113,9 @@
           "date": "2026-08-05"
         },
         {
-          "title": "Officials will not release cool water from a Colorado River reservoir to protect threatened fish",
-          "summary": "Federal officials said Thursday they will not release cool water this year from one of the Colorado River's major reservoirs, which would have protected a threatened native fish downstream but put more strain on already…",
-          "url": "https://phys.org/news/2026-08-cool-colorado-river-reservoir-threatened.html",
+          "title": "One million years without sex fails to erase stick insects' unused biological system",
+          "summary": "Scientists have made a surprising finding about how an asexually reproducing stick insect has evolved. Research led by Dr. Darren Parker, lecturer in evolutionary biology at Bangor University, studied the genes of…",
+          "url": "https://phys.org/news/2026-08-million-years-sex-erase-insects.html",
           "source": "Phys.org",
           "date": "2026-08-07"
         }
@@ -125,11 +125,32 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "One-third of agricultural land accounts for two-thirds of global impact, study reveals",
-          "summary": "Agriculture covers more than 40% of Earth's habitable land and plays a central role in both climate change and biodiversity loss. Yet the impact of agriculture is far from evenly distributed across space.",
-          "url": "https://phys.org/news/2026-08-agricultural-accounts-thirds-global-impact.html",
+          "title": "Hydraulic traits reveal why some mountain trees move uphill while others shift downhill",
+          "summary": "As global temperatures rise, scientists have largely assumed that mountain tree species will move uphill in search of cooler conditions. A new study published in Nature Climate Change reveals a more complex reality…",
+          "url": "https://phys.org/news/2026-08-hydraulic-traits-reveal-mountain-trees.html",
           "source": "Phys.org",
-          "date": "2026-08-06"
+          "date": "2026-08-07"
+        },
+        {
+          "title": "Oil dispersants reshape Arctic sea-ice microbes but do not markedly accelerate oil breakdown",
+          "summary": "By making the Arctic less ice-covered, climate warming has increased both shipping traffic and the risk of oil spills in the region. Changing ice conditions may, however, affect the effectiveness of currently available…",
+          "url": "https://phys.org/news/2026-08-oil-dispersants-reshape-arctic-sea.html",
+          "source": "Phys.org",
+          "date": "2026-08-07"
+        },
+        {
+          "title": "Sun news: Is a CME striking Earth now?",
+          "summary": "Sun news August 8, 2026: The expected CMEs arrived late, but the solar wind and IMF ticked up this morning. Active conditions and isolated G1 storms are possible. The post Sun news: Is a CME striking Earth now? first…",
+          "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+          "source": "EarthSky",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "Tiny floating magnet detects ultrafaint magnetic fields at room temperature",
+          "summary": "Measuring faint magnetic fields is useful in a number of areas, including mapping brain activity, monitoring hearts and probing fundamental physics. Typically, picking up such weak signals requires expensive or bulky…",
+          "url": "https://phys.org/news/2026-08-tiny-magnet-ultrafaint-magnetic-fields.html",
+          "source": "Phys.org",
+          "date": "2026-08-07"
         },
         {
           "title": "Best deep-sky photos of July 2026 from EarthSky community",
@@ -137,13 +158,6 @@
           "url": "https://earthsky.org/todays-image/best-deep-sky-photos-of-july-2026-from-earthsky-community/",
           "source": "EarthSky",
           "date": "2026-08-06"
-        },
-        {
-          "title": "Could geoengineering ‘ice arches’ help preserve Arctic sea ice?",
-          "summary": "Researchers are investigating whether artificially thickening ice blockages between Canada and Greenland could prevent huge amounts of sea ice from flowing south to melt",
-          "url": "https://www.newscientist.com/article/2583296-could-geoengineering-ice-arches-help-preserve-arctic-sea-ice/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-08-07"
         }
       ]
     },
@@ -158,18 +172,11 @@
           "date": "2026-08-06"
         },
         {
-          "title": "Social robots may support learning and reduce teachers' workload, pilot trial finds",
-          "summary": "When Pepper the social robot was given the chance to try its hand as a teaching assistant, it showed that it can be even better than a human teacher at motivating pupils and helping them learn.",
-          "url": "https://phys.org/news/2026-08-social-robots-teachers-workload-trial.html",
+          "title": "Swarms of tiny robots remove microplastics from soil and water",
+          "summary": "Microplastics, which are plastic particles under 5 millimeters, are a major and growing threat in both soil and water. They damage soil fertility, disrupt nutrient cycling, harm aquatic and terrestrial life, and can…",
+          "url": "https://phys.org/news/2026-08-swarms-tiny-robots-microplastics-soil.html",
           "source": "Phys.org",
-          "date": "2026-08-06"
-        },
-        {
-          "title": "Single-shot phase imaging technique can reconstruct transparent objects",
-          "summary": "A KAIST research team led by professor Mooseok Jang from the Department of Bio and Brain Engineering has developed a single-shot phase imaging technique that reconstructs a phase object—a transparent object such as…",
-          "url": "https://phys.org/news/2026-08-shot-phase-imaging-technique-reconstruct.html",
-          "source": "Phys.org",
-          "date": "2026-08-06"
+          "date": "2026-08-08"
         },
         {
           "title": "DeepMind AI gives an extra day of warning ahead of deadly cyclones",
@@ -183,6 +190,20 @@
     "Physics": {
       "emoji": "⚡",
       "articles": [
+        {
+          "title": "Sunlight creates quantum entanglement once thought to require lasers",
+          "summary": "Scientists have generated quantum entanglement directly from sunlight, potentially offering a lower-energy alternative to the lasers normally used in quantum technology. Their outdoor experiment produced entangled…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260807035133.htm",
+          "source": "Science Daily",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "New 'shape-shifting' architecture brings versatility to photonic quantum computing",
+          "summary": "Using light to process quantum information is one of the most promising approaches to building future quantum computers. Light particles, known as photons, are excellent carriers of quantum information, but their lack…",
+          "url": "https://phys.org/news/2026-08-shifting-architecture-versatility-photonic-quantum.html",
+          "source": "Phys.org",
+          "date": "2026-08-07"
+        },
         {
           "title": "Drought and heat push Europe’s power grid to breaking point",
           "summary": "High temperatures and low water levels have forced several countries to shut down nuclear reactors just as citizens turn up their air conditioning, forcing energy prices to spike and raising the threat of blackouts",
@@ -198,25 +219,11 @@
           "date": "2026-08-07"
         },
         {
-          "title": "New quantum microscopy trick quadruples microscope resolution",
-          "summary": "Three years after a team of Caltech scientists showed that pairs of entangled photons could double the resolution of a light microscope, the same lab has figured out a way to double down on that improvement. They have…",
-          "url": "https://phys.org/news/2026-08-quantum-microscopy-quadruples-microscope-resolution.html",
-          "source": "Phys.org",
-          "date": "2026-08-06"
-        },
-        {
           "title": "The electromagnetic spectrum: It’s more than visible light",
           "summary": "The light our eyes can detect is only a sliver of the light out there. The electromagnetic spectrum describes all the wavelengths of light, seen and unseen. The post The electromagnetic spectrum: It’s more than visible…",
           "url": "https://earthsky.org/space/what-is-the-electromagnetic-spectrum/",
           "source": "EarthSky",
           "date": "2026-08-07"
-        },
-        {
-          "title": "An elegant modification doubles the range of low-noise 'white lasers' in a single fiber",
-          "summary": "Supercontinuum light sources—often called \"white lasers\" because they emit a broad, continuous rainbow of colors—are essential tools for everything from advanced medical imaging to environmental gas detection. However…",
-          "url": "https://phys.org/news/2026-08-elegant-modification-range-noise-white.html",
-          "source": "Phys.org",
-          "date": "2026-08-06"
         }
       ]
     }
