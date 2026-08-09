@@ -1,9 +1,16 @@
 {
-  "updated": "2026-08-08T13:45:24Z",
+  "updated": "2026-08-09T13:49:38Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
+        {
+          "title": "Chemists set electrons free and break a decades-old chemistry barrier",
+          "summary": "Chemists have developed a catalyst that breaks a long-standing rule governing which molecules receive electrons during chemical reactions. By releasing electrons directly into solution, the technique could unlock…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260807035147.htm",
+          "source": "Science Daily",
+          "date": "2026-08-09"
+        },
         {
           "title": "Silver nanocatalysts switch reaction sites between power generation and hydrogen production",
           "summary": "For the first time, researchers have discovered that the same silver (Ag) nanocatalyst operates at different reaction sites depending on whether a solid oxide cell is generating electricity or producing hydrogen. This…",
@@ -31,26 +38,12 @@
           "url": "https://phys.org/news/2026-08-cleaner-chemical-reactions-oxygen.html",
           "source": "Phys.org",
           "date": "2026-08-07"
-        },
-        {
-          "title": "Photocatalytic method cleaves strong C–H bonds while preserving weaker C–Si bonds",
-          "summary": "α-Silyl alcohols are unique organosilicon compounds bearing a silyl group and a hydroxy group on the same carbon atom. Because these compounds serve as precursors to reactive species, such as carbanions and carbon…",
-          "url": "https://phys.org/news/2026-08-photocatalytic-method-cleaves-strong-ch.html",
-          "source": "Phys.org",
-          "date": "2026-08-07"
         }
       ]
     },
     "Space & Astronomy": {
       "emoji": "🚀",
       "articles": [
-        {
-          "title": "On this day in space! Aug. 5, 2011: NASA's Juno spacecraft launches to Jupiter",
-          "summary": "On Aug. 5, 2011, NASA launched the Juno spacecraft on a mission to study Jupiter, the largest planet in the solar system. Here's why it mattered.",
-          "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-5-2026",
-          "source": "Space.com",
-          "date": "2026-08-05"
-        },
         {
           "title": "On this day in space! Aug. 7, 1980: NASA's Viking 1 Mars orbiter shuts down 4 years into a 90-day mission",
           "summary": "On Aug. 7, 1980, NASA's Viking 1 spacecraft orbiting Mars ended its epic and historic mission to the Red Planet. Here's why it mattered.",
@@ -64,6 +57,13 @@
           "url": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-tom-percy/",
           "source": "NASA",
           "date": "2026-08-06"
+        },
+        {
+          "title": "SpaceX launches 24 Starlink satellites to orbit from California (video)",
+          "summary": "SpaceX launched another batch of its Starlink internet satellites to orbit today (Aug. 8) from California's scenic central coast.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-launch-starlink-group-17-38-ocisly",
+          "source": "Space.com",
+          "date": "2026-08-08"
         },
         {
           "title": "Engineers race to save stricken LINK rescue spacecraft before it's too late",
@@ -85,32 +85,11 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "Scientists rediscover lost Megalodon fossils—and reveal a 79-foot giant",
-          "summary": "Several enormous Megalodon vertebrae thought to have been destroyed in 1989 were found sitting unnoticed on a museum shelf. Their analysis strengthens evidence that the giant shark could exceed 24 meters (79 feet) in…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260805082500.htm",
-          "source": "Science Daily",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "Forget the sperm race: Fertilization may depend on teamwork",
-          "summary": "Millions of sperm do not always compete alone—some species send them into action as coordinated teams. A sweeping evolutionary study found that this cooperation is widespread among arthropods and has repeatedly emerged…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260805082455.htm",
-          "source": "Science Daily",
-          "date": "2026-08-06"
-        },
-        {
-          "title": "567-million-year-old fossils rewrite the dawn of animal life",
-          "summary": "A spectacular fossil site in Canada contains 567-million-year-old creatures that may represent some of the earliest animals to move, reproduce sexually, and develop recognizable body plans. The discovery pushes key…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260804034644.htm",
-          "source": "Science Daily",
-          "date": "2026-08-06"
-        },
-        {
-          "title": "80-million-year-old snake brain reveals a surprising evolutionary secret",
-          "summary": "An exceptionally preserved snake fossil from Brazil reveals that early snakes were far more diverse than scientists once thought. Detailed brain reconstructions show that Tametara mirim was adapted for burrowing, while…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260804034619.htm",
-          "source": "Science Daily",
-          "date": "2026-08-05"
+          "title": "Dodo birds more clever than we thought",
+          "summary": "The Mauritian dodo—a global symbol of human-caused extinction and one of the world's largest pigeons—may not have deserved its reputation as a silly simpleton and may have been the only member of its group to live in…",
+          "url": "https://phys.org/news/2026-08-dodo-birds-clever-thought.html",
+          "source": "Phys.org",
+          "date": "2026-08-08"
         },
         {
           "title": "One million years without sex fails to erase stick insects' unused biological system",
@@ -118,12 +97,40 @@
           "url": "https://phys.org/news/2026-08-million-years-sex-erase-insects.html",
           "source": "Phys.org",
           "date": "2026-08-07"
+        },
+        {
+          "title": "Dinosaurs became giants — so why did they never become tiny?",
+          "summary": "Dinosaurs conquered the land at enormous sizes, but strangely, they almost never evolved into truly tiny animals. New research suggests that physiology alone can’t explain this missing miniature end of the dinosaur…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260807035137.htm",
+          "source": "Science Daily",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "Butterfly ranges shift worldwide amid climate change, with most species expanding their reach",
+          "summary": "A global analysis of range-shift records for 1,758 butterfly species—10% of known butterfly species—found that 80% had expanded their range and that 79% of all recorded range shifts were linked to climate change and…",
+          "url": "https://phys.org/news/2026-08-butterfly-ranges-shift-worldwide-climate.html",
+          "source": "Phys.org",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "Wine, beer, or spirits? Massive study finds a surprising health divide",
+          "summary": "A study tracking more than 340,000 adults for over a decade found that heavy drinking increased the risk of death regardless of beverage type. At lower levels, however, the picture became more surprising: beer, cider…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260808235008.htm",
+          "source": "Science Daily",
+          "date": "2026-08-09"
         }
       ]
     },
     "Earth & Climate": {
       "emoji": "🌍",
       "articles": [
+        {
+          "title": "Pulsed radiofrequency magnetic fields may disorient migratory birds, experiments suggest",
+          "summary": "Every year, millions of migratory birds travel between different geographical regions on Earth to find food, escape cold weather or reach safe environments to raise chicks. To determine which direction to fly, these…",
+          "url": "https://phys.org/news/2026-08-pulsed-radiofrequency-magnetic-fields-disorient.html",
+          "source": "Phys.org",
+          "date": "2026-08-08"
+        },
         {
           "title": "Hydraulic traits reveal why some mountain trees move uphill while others shift downhill",
           "summary": "As global temperatures rise, scientists have largely assumed that mountain tree species will move uphill in search of cooler conditions. A new study published in Nature Climate Change reveals a more complex reality…",
@@ -132,18 +139,18 @@
           "date": "2026-08-07"
         },
         {
-          "title": "Oil dispersants reshape Arctic sea-ice microbes but do not markedly accelerate oil breakdown",
-          "summary": "By making the Arctic less ice-covered, climate warming has increased both shipping traffic and the risk of oil spills in the region. Changing ice conditions may, however, affect the effectiveness of currently available…",
-          "url": "https://phys.org/news/2026-08-oil-dispersants-reshape-arctic-sea.html",
-          "source": "Phys.org",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "Sun news: Is a CME striking Earth now?",
-          "summary": "Sun news August 8, 2026: The expected CMEs arrived late, but the solar wind and IMF ticked up this morning. Active conditions and isolated G1 storms are possible. The post Sun news: Is a CME striking Earth now? first…",
+          "title": "Sun news: Sun blast sweeps Earth, sparking auroras",
+          "summary": "Sun news August 9, 2026: The August 4 CME finally arrived, driving a G2 storm with auroras. The post Sun news: Sun blast sweeps Earth, sparking auroras first appeared on EarthSky .",
           "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
           "source": "EarthSky",
-          "date": "2026-08-08"
+          "date": "2026-08-09"
+        },
+        {
+          "title": "Stress can scramble your brain’s internal GPS, MRI study finds",
+          "summary": "Stress may literally scramble the brain’s internal GPS. Researchers found that cortisol, a hormone released during stress, made people significantly worse at navigating a virtual environment and disrupted the precise…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260807035151.htm",
+          "source": "Science Daily",
+          "date": "2026-08-09"
         },
         {
           "title": "Tiny floating magnet detects ultrafaint magnetic fields at room temperature",
@@ -151,13 +158,6 @@
           "url": "https://phys.org/news/2026-08-tiny-magnet-ultrafaint-magnetic-fields.html",
           "source": "Phys.org",
           "date": "2026-08-07"
-        },
-        {
-          "title": "Best deep-sky photos of July 2026 from EarthSky community",
-          "summary": "Enjoy this gallery of deep-sky photos from July 2026 by our EarthSky community. If you have a great photo to share, we'd love to see it! The post Best deep-sky photos of July 2026 from EarthSky community first appeared…",
-          "url": "https://earthsky.org/todays-image/best-deep-sky-photos-of-july-2026-from-earthsky-community/",
-          "source": "EarthSky",
-          "date": "2026-08-06"
         }
       ]
     },
@@ -165,11 +165,11 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "Claude Fable 5 AI finds a tiny formula that topples an 87-year-old math conjecture",
-          "summary": "A mathematician working at Anthropic says he used the AI model Claude Fable 5 to uncover a remarkably simple counterexample to the Jacobian conjecture, a famous problem that has resisted mathematicians for more than a…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260804034634.htm",
+          "title": "A 0.42-nanometer breakthrough could push transistors beyond silicon",
+          "summary": "Atomically thin semiconductors could enable dramatically smaller and more efficient chips, but a stubborn problem at the boundary between materials has limited their performance. Researchers have now engineered that…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260808234943.htm",
           "source": "Science Daily",
-          "date": "2026-08-06"
+          "date": "2026-08-09"
         },
         {
           "title": "Swarms of tiny robots remove microplastics from soil and water",
@@ -190,6 +190,13 @@
     "Physics": {
       "emoji": "⚡",
       "articles": [
+        {
+          "title": "'Flying focus' laser overcomes key limitation in plasma-based particle accelerators",
+          "summary": "In a new Nature Physics study, researchers accelerated electrons to more than twice the energy predicted by the traditional dephasing limit for laser-plasma accelerators operating over the same distance. This was made…",
+          "url": "https://phys.org/news/2026-08-flying-focus-laser-key-limitation.html",
+          "source": "Phys.org",
+          "date": "2026-08-08"
+        },
         {
           "title": "Sunlight creates quantum entanglement once thought to require lasers",
           "summary": "Scientists have generated quantum entanglement directly from sunlight, potentially offering a lower-energy alternative to the lasers normally used in quantum technology. Their outdoor experiment produced entangled…",
@@ -216,13 +223,6 @@
           "summary": "Scientists have demonstrated that heat can move through a crystal in focused, wave-like rays at room temperature instead of spreading randomly. The breakthrough could make it possible to route heat around sensitive…",
           "url": "https://www.sciencedaily.com/releases/2026/08/260805082506.htm",
           "source": "Science Daily",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "The electromagnetic spectrum: It’s more than visible light",
-          "summary": "The light our eyes can detect is only a sliver of the light out there. The electromagnetic spectrum describes all the wavelengths of light, seen and unseen. The post The electromagnetic spectrum: It’s more than visible…",
-          "url": "https://earthsky.org/space/what-is-the-electromagnetic-spectrum/",
-          "source": "EarthSky",
           "date": "2026-08-07"
         }
       ]
