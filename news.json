@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T13:49:38Z",
+  "updated": "2026-08-10T14:19:32Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
@@ -12,32 +12,32 @@
           "date": "2026-08-09"
         },
         {
-          "title": "Silver nanocatalysts switch reaction sites between power generation and hydrogen production",
-          "summary": "For the first time, researchers have discovered that the same silver (Ag) nanocatalyst operates at different reaction sites depending on whether a solid oxide cell is generating electricity or producing hydrogen. This…",
-          "url": "https://phys.org/news/2026-08-silver-nanocatalysts-reaction-sites-power.html",
+          "title": "New catalyst with 75% less platinum promises to reduce the cost of hydrogen fuel cells",
+          "summary": "The high cost of platinum is one of the main barriers to the wider adoption of hydrogen fuel cells. Now, researchers at IMDEA Materials Institute have developed a catalyst that delivers the same performance while using…",
+          "url": "https://phys.org/news/2026-08-catalyst-platinum-hydrogen-fuel-cells.html",
           "source": "Phys.org",
+          "date": "2026-08-09"
+        },
+        {
+          "title": "Meteorite that smashed through a New Jersey roof reveals clues to life’s origins",
+          "summary": "A rare meteorite that crashed through a New Jersey roof contains evidence of ancient salty fluids, organic compounds, and amino acids from a primitive asteroid. Its pristine chemistry could offer new clues about how…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260807035145.htm",
+          "source": "Science Daily",
           "date": "2026-08-08"
         },
         {
-          "title": "New platform speeds bacterial gene mapping for better biotech design",
-          "summary": "Scientists at the Department of Energy's Oak Ridge National Laboratory have created a platform that pinpoints genetic triggers that turn microbes into efficient factories for new chemicals and materials. The method…",
-          "url": "https://phys.org/news/2026-08-platform-bacterial-gene-biotech.html",
-          "source": "Phys.org",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "A drug already used for osteoporosis blocked spinal damage in a new study",
-          "summary": "Genetic changes may set off a chain reaction that causes the spine’s natural shock absorbers to harden and deteriorate. Zebrafish with a faulty collagen-related gene developed mineral buildup and spinal fusion similar…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260806051943.htm",
+          "title": "This tiny gold crystal could bring quantum technology out of the deep freeze",
+          "summary": "Scientists have created the first quantum material that can sort and transport different quantum states of light at room temperature, potentially removing the need for bulky, ultra-cold refrigeration systems. Built from…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260806050706.htm",
           "source": "Science Daily",
-          "date": "2026-08-06"
+          "date": "2026-08-08"
         },
         {
-          "title": "Creating cleaner chemical reactions that run on oxygen and produce only water as waste",
-          "summary": "Oxygen provides the driving force for many vital chemical reactions. Two well-known examples include respiration, the process that allows living things to break down food to release its energy, and combustion, reactions…",
-          "url": "https://phys.org/news/2026-08-cleaner-chemical-reactions-oxygen.html",
+          "title": "Sixteen AI-designed viruses offer a new route against drug-resistant bacteria",
+          "summary": "In a world first, scientists led by a team from Stanford University have created 16 viable viruses that do not exist in nature and were designed by AI. Their experiment, which is published in Science, could help in the…",
+          "url": "https://phys.org/news/2026-08-sixteen-ai-viruses-route-drug.html",
           "source": "Phys.org",
-          "date": "2026-08-07"
+          "date": "2026-08-10"
         }
       ]
     },
@@ -52,11 +52,25 @@
           "date": "2026-08-07"
         },
         {
-          "title": "I Am Artemis: Tom Percy",
-          "summary": "As NASA sets its sights on long-term exploration of the Moon and Mars, the agency is increasing the cadence of its Artemis missions. Helping bring these plans to fruition is Tom Percy, manager of systems engineering and…",
-          "url": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-tom-percy/",
-          "source": "NASA",
-          "date": "2026-08-06"
+          "title": "Astronomers find a new object from the early universe using Webb data",
+          "summary": "Since it became operational in 2022, the James Webb Space Telescope (JWST) has released some truly breathtaking views of the cosmos. These images highlight how advancements since the days of the venerable Hubble Space…",
+          "url": "https://phys.org/news/2026-08-astronomers-early-universe-webb.html",
+          "source": "Phys.org",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "NASA mission maps invisible heat loss from Earth's rapidly changing poles",
+          "summary": "At the top and bottom of the planet, the seasons arrive on a schedule all their own. Satellite data from a mission measuring infrared energy reveal just how differently—and how dramatically—surface temperatures swing…",
+          "url": "https://phys.org/news/2026-08-poles-hidden.html",
+          "source": "Phys.org",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "On this day in space! Aug. 9, 1976: Soviet Luna 24 sample return probe launches to the moon",
+          "summary": "On Aug. 9, 1976, the Soviet space program launched its last moon mission. Luna 24 was a robotic sample return mission and the third of its kind.",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-9-2026",
+          "source": "Space.com",
+          "date": "2026-08-09"
         },
         {
           "title": "SpaceX launches 24 Starlink satellites to orbit from California (video)",
@@ -64,20 +78,6 @@
           "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-launch-starlink-group-17-38-ocisly",
           "source": "Space.com",
           "date": "2026-08-08"
-        },
-        {
-          "title": "Engineers race to save stricken LINK rescue spacecraft before it's too late",
-          "summary": "The private LINK spacecraft, which launched last month to save a NASA space telescope, now needs saving, too —and teams are making progress on that front.",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/engineers-race-to-save-stricken-link-rescue-spacecraft-before-its-too-late",
-          "source": "Space.com",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "'One more step': NASA astronauts conduct 6.5-hour spacewalk to prep ISS for solar array upgrade",
-          "summary": "Jessica Meir and Anil Menon completed a 6.5-hour spacewalk to install solar array mounting hardware outside of the International Space Station on Thursday, Aug. 6, 2026.",
-          "url": "https://www.space.com/space-exploration/international-space-station/1-more-step-nasa-astronauts-conduct-6-5-hour-spacewalk-to-prep-iss-for-solar-array-upgrade",
-          "source": "Space.com",
-          "date": "2026-08-06"
         }
       ]
     },
@@ -85,18 +85,18 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "Dodo birds more clever than we thought",
-          "summary": "The Mauritian dodo—a global symbol of human-caused extinction and one of the world's largest pigeons—may not have deserved its reputation as a silly simpleton and may have been the only member of its group to live in…",
-          "url": "https://phys.org/news/2026-08-dodo-birds-clever-thought.html",
+          "title": "Early snakes explored life underground, on land and at sea",
+          "summary": "Snakes are highly modified lizards, with more than 4,000 living species today. The origin of snakes has long been one of evolutionary biology's most debated questions. Their sparse fossil record has made it hard to pin…",
+          "url": "https://phys.org/news/2026-08-early-snakes-explored-life-underground.html",
           "source": "Phys.org",
-          "date": "2026-08-08"
+          "date": "2026-08-09"
         },
         {
-          "title": "One million years without sex fails to erase stick insects' unused biological system",
-          "summary": "Scientists have made a surprising finding about how an asexually reproducing stick insect has evolved. Research led by Dr. Darren Parker, lecturer in evolutionary biology at Bangor University, studied the genes of…",
-          "url": "https://phys.org/news/2026-08-million-years-sex-erase-insects.html",
+          "title": "Australia has pledged to restore nature. But could we ever bring back lost ecosystems?",
+          "summary": "Nature is not doing well in Australia. Many unique mammals, birds and insects are struggling. Entire ecosystems are collapsing.",
+          "url": "https://phys.org/news/2026-08-australia-pledged-nature-lost-ecosystems.html",
           "source": "Phys.org",
-          "date": "2026-08-07"
+          "date": "2026-08-09"
         },
         {
           "title": "Dinosaurs became giants — so why did they never become tiny?",
@@ -106,18 +106,18 @@
           "date": "2026-08-09"
         },
         {
+          "title": "Over half of people are unaware of the environmental effects of sunscreen",
+          "summary": "This summer, millions of people across the country have been digging out sunscreen to protect themselves from a record-breaking series of heat waves.",
+          "url": "https://phys.org/news/2026-08-people-unaware-environmental-effects-sunscreen.html",
+          "source": "Phys.org",
+          "date": "2026-08-09"
+        },
+        {
           "title": "Butterfly ranges shift worldwide amid climate change, with most species expanding their reach",
           "summary": "A global analysis of range-shift records for 1,758 butterfly species—10% of known butterfly species—found that 80% had expanded their range and that 79% of all recorded range shifts were linked to climate change and…",
           "url": "https://phys.org/news/2026-08-butterfly-ranges-shift-worldwide-climate.html",
           "source": "Phys.org",
           "date": "2026-08-08"
-        },
-        {
-          "title": "Wine, beer, or spirits? Massive study finds a surprising health divide",
-          "summary": "A study tracking more than 340,000 adults for over a decade found that heavy drinking increased the risk of death regardless of beverage type. At lower levels, however, the picture became more surprising: beer, cider…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260808235008.htm",
-          "source": "Science Daily",
-          "date": "2026-08-09"
         }
       ]
     },
@@ -125,25 +125,25 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Pulsed radiofrequency magnetic fields may disorient migratory birds, experiments suggest",
-          "summary": "Every year, millions of migratory birds travel between different geographical regions on Earth to find food, escape cold weather or reach safe environments to raise chicks. To determine which direction to fly, these…",
-          "url": "https://phys.org/news/2026-08-pulsed-radiofrequency-magnetic-fields-disorient.html",
+          "title": "Western Europe experienced hottest June-July on record: EU monitor",
+          "summary": "Western Europe experienced its hottest June–July on record as climate change fuels a historic summer of heat, drought and wildfires across the region, the EU's global warming monitor said Monday.",
+          "url": "https://phys.org/news/2026-08-western-europe-experienced-hottest-june.html",
           "source": "Phys.org",
-          "date": "2026-08-08"
+          "date": "2026-08-10"
         },
         {
-          "title": "Hydraulic traits reveal why some mountain trees move uphill while others shift downhill",
-          "summary": "As global temperatures rise, scientists have largely assumed that mountain tree species will move uphill in search of cooler conditions. A new study published in Nature Climate Change reveals a more complex reality…",
-          "url": "https://phys.org/news/2026-08-hydraulic-traits-reveal-mountain-trees.html",
+          "title": "Hong Kong weather observatory posts record high temperature",
+          "summary": "Hong Kong's weather observatory posted a record high temperature of 36.9°C (98°F) on Sunday as Typhoon Dolphin swept warm air over the city, the meteorological service said.",
+          "url": "https://phys.org/news/2026-08-hong-kong-weather-observatory-high.html",
           "source": "Phys.org",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "Sun news: Sun blast sweeps Earth, sparking auroras",
-          "summary": "Sun news August 9, 2026: The August 4 CME finally arrived, driving a G2 storm with auroras. The post Sun news: Sun blast sweeps Earth, sparking auroras first appeared on EarthSky .",
-          "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
-          "source": "EarthSky",
           "date": "2026-08-09"
+        },
+        {
+          "title": "Pluto's atmosphere is collapsing as it drifts away from the sun into a deep freeze",
+          "summary": "As Pluto edges further away from the sun, the chilly temperatures are causing its atmosphere to condense onto its barren surface as frost.",
+          "url": "https://www.space.com/astronomy/pluto/plutos-atmosphere-is-collapsing-as-it-drifts-away-from-the-sun-into-a-deep-freeze",
+          "source": "Space.com",
+          "date": "2026-08-10"
         },
         {
           "title": "Stress can scramble your brain’s internal GPS, MRI study finds",
@@ -153,11 +153,11 @@
           "date": "2026-08-09"
         },
         {
-          "title": "Tiny floating magnet detects ultrafaint magnetic fields at room temperature",
-          "summary": "Measuring faint magnetic fields is useful in a number of areas, including mapping brain activity, monitoring hearts and probing fundamental physics. Typically, picking up such weak signals requires expensive or bulky…",
-          "url": "https://phys.org/news/2026-08-tiny-magnet-ultrafaint-magnetic-fields.html",
-          "source": "Phys.org",
-          "date": "2026-08-07"
+          "title": "Sun news: Quiet sun has a slight uptick in flares",
+          "summary": "Sun news August 10, 2026: Newcomer AR4505 burst onto the scene, firing 14 of the day's 18 flares. Watch for geomagnetic storming around August 11-12. The post Sun news: Quiet sun has a slight uptick in flares first…",
+          "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+          "source": "EarthSky",
+          "date": "2026-08-10"
         }
       ]
     },
@@ -172,18 +172,11 @@
           "date": "2026-08-09"
         },
         {
-          "title": "Swarms of tiny robots remove microplastics from soil and water",
-          "summary": "Microplastics, which are plastic particles under 5 millimeters, are a major and growing threat in both soil and water. They damage soil fertility, disrupt nutrient cycling, harm aquatic and terrestrial life, and can…",
-          "url": "https://phys.org/news/2026-08-swarms-tiny-robots-microplastics-soil.html",
+          "title": "A major Quebec survey finds 5 flaws in the 'augmented work' myth",
+          "summary": "We're being promised a revolution. Artificial intelligence is said to make work both more productive and more enjoyable by freeing us from tedious tasks and allowing us to devote more time to what really matters. This…",
+          "url": "https://phys.org/news/2026-08-major-quebec-survey-flaws-augmented.html",
           "source": "Phys.org",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "DeepMind AI gives an extra day of warning ahead of deadly cyclones",
-          "summary": "An AI model from DeepMind can predict cyclones three days ahead with a level of accuracy that previous models can only hit a day later",
-          "url": "https://www.newscientist.com/article/2583547-deepmind-ai-gives-an-extra-day-of-warning-ahead-of-deadly-cyclones/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-08-06"
+          "date": "2026-08-10"
         }
       ]
     },
@@ -205,13 +198,6 @@
           "date": "2026-08-08"
         },
         {
-          "title": "New 'shape-shifting' architecture brings versatility to photonic quantum computing",
-          "summary": "Using light to process quantum information is one of the most promising approaches to building future quantum computers. Light particles, known as photons, are excellent carriers of quantum information, but their lack…",
-          "url": "https://phys.org/news/2026-08-shifting-architecture-versatility-photonic-quantum.html",
-          "source": "Phys.org",
-          "date": "2026-08-07"
-        },
-        {
           "title": "Drought and heat push Europe’s power grid to breaking point",
           "summary": "High temperatures and low water levels have forced several countries to shut down nuclear reactors just as citizens turn up their air conditioning, forcing energy prices to spike and raising the threat of blackouts",
           "url": "https://www.newscientist.com/article/2583740-drought-and-heat-push-europes-power-grid-to-breaking-point/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
@@ -224,6 +210,13 @@
           "url": "https://www.sciencedaily.com/releases/2026/08/260805082506.htm",
           "source": "Science Daily",
           "date": "2026-08-07"
+        },
+        {
+          "title": "Controlled cracking technique prints quantum dots into tiny pixels for sharper displays",
+          "summary": "Recent technological advances have enabled the development of increasingly sophisticated, sharper displays for electronic devices. Many modern displays use light-emitting diodes, or LEDs, tiny semiconductor-based…",
+          "url": "https://phys.org/news/2026-08-technique-quantum-dots-tiny-pixels.html",
+          "source": "Phys.org",
+          "date": "2026-08-09"
         }
       ]
     }
