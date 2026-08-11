@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T14:19:32Z",
+  "updated": "2026-08-11T14:19:27Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
@@ -12,11 +12,25 @@
           "date": "2026-08-09"
         },
         {
-          "title": "New catalyst with 75% less platinum promises to reduce the cost of hydrogen fuel cells",
-          "summary": "The high cost of platinum is one of the main barriers to the wider adoption of hydrogen fuel cells. Now, researchers at IMDEA Materials Institute have developed a catalyst that delivers the same performance while using…",
-          "url": "https://phys.org/news/2026-08-catalyst-platinum-hydrogen-fuel-cells.html",
+          "title": "Scientists discover a hidden switch inside silver nanocatalysts",
+          "summary": "Silver nanocatalysts have been found to switch where they perform their most important reactions depending on whether a solid oxide cell is making electricity or hydrogen. The discovery could enable smarter catalyst…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260810015714.htm",
+          "source": "Science Daily",
+          "date": "2026-08-10"
+        },
+        {
+          "title": "DNA repair enzymes favor specific sequences, shaping mutation patterns in the human genome",
+          "summary": "When a wound does not heal properly, it leaves a scar. Similarly, mutations—which are permanent changes to genetic code—are often the result of damaged DNA that has not been properly repaired. Mutations can impede the…",
+          "url": "https://phys.org/news/2026-08-dna-enzymes-favor-specific-sequences.html",
           "source": "Phys.org",
-          "date": "2026-08-09"
+          "date": "2026-08-10"
+        },
+        {
+          "title": "Potatoes may have given Indigenous Andeans a digestive superpower",
+          "summary": "The rise of the potato in the Andes appears to have left a lasting mark on human DNA. Indigenous Peruvians carry exceptionally high numbers of a starch-digestion gene, likely because people with more copies gained an…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260808235005.htm",
+          "source": "Science Daily",
+          "date": "2026-08-10"
         },
         {
           "title": "Meteorite that smashed through a New Jersey roof reveals clues to life’s origins",
@@ -24,20 +38,6 @@
           "url": "https://www.sciencedaily.com/releases/2026/08/260807035145.htm",
           "source": "Science Daily",
           "date": "2026-08-08"
-        },
-        {
-          "title": "This tiny gold crystal could bring quantum technology out of the deep freeze",
-          "summary": "Scientists have created the first quantum material that can sort and transport different quantum states of light at room temperature, potentially removing the need for bulky, ultra-cold refrigeration systems. Built from…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260806050706.htm",
-          "source": "Science Daily",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "Sixteen AI-designed viruses offer a new route against drug-resistant bacteria",
-          "summary": "In a world first, scientists led by a team from Stanford University have created 16 viable viruses that do not exist in nature and were designed by AI. Their experiment, which is published in Science, could help in the…",
-          "url": "https://phys.org/news/2026-08-sixteen-ai-viruses-route-drug.html",
-          "source": "Phys.org",
-          "date": "2026-08-10"
         }
       ]
     },
@@ -45,39 +45,39 @@
       "emoji": "🚀",
       "articles": [
         {
-          "title": "On this day in space! Aug. 7, 1980: NASA's Viking 1 Mars orbiter shuts down 4 years into a 90-day mission",
-          "summary": "On Aug. 7, 1980, NASA's Viking 1 spacecraft orbiting Mars ended its epic and historic mission to the Red Planet. Here's why it mattered.",
-          "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-7-2026",
-          "source": "Space.com",
-          "date": "2026-08-07"
-        },
-        {
-          "title": "Astronomers find a new object from the early universe using Webb data",
-          "summary": "Since it became operational in 2022, the James Webb Space Telescope (JWST) has released some truly breathtaking views of the cosmos. These images highlight how advancements since the days of the venerable Hubble Space…",
-          "url": "https://phys.org/news/2026-08-astronomers-early-universe-webb.html",
-          "source": "Phys.org",
+          "title": "Lion Nebula Roars to Life With NASA’s Webb",
+          "summary": "Observing across the starry “plains” of space, NASA’s James Webb Space Telescope has taken new images of NGC 2392, nicknamed the Lion Nebula. NASA’s Hubble Space Telescope previously viewed this planetary nebula in…",
+          "url": "https://science.nasa.gov/missions/webb/lion-nebula-roars-to-life-with-nasas-webb/",
+          "source": "NASA",
           "date": "2026-08-10"
         },
         {
-          "title": "NASA mission maps invisible heat loss from Earth's rapidly changing poles",
-          "summary": "At the top and bottom of the planet, the seasons arrive on a schedule all their own. Satellite data from a mission measuring infrared energy reveal just how differently—and how dramatically—surface temperatures swing…",
-          "url": "https://phys.org/news/2026-08-poles-hidden.html",
-          "source": "Phys.org",
+          "title": "NASA Shares Station Research Today Supporting Moon, Mars Tomorrow",
+          "summary": "The International Space Station has been busy throughout 2026, as it continues to be a bustling workspace for astronauts conducting a variety of scientific experiments that lay the groundwork for missions to the Moon…",
+          "url": "https://www.nasa.gov/missions/station/iss-research/nasa-shares-station-research-today-supporting-moon-mars-tomorrow/",
+          "source": "NASA",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "Japanese H3 rocket launches 10,800-pound navigation satellite to high Earth orbit (video)",
+          "summary": "Japan's H3 rocket sent the Michibiki 7 navigation satellite aloft this afternoon (Aug. 10), on the ninth-ever mission for the launch vehicle.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/japan-h3-rocket-launch-navigation-satellite-michibiki-7",
+          "source": "Space.com",
           "date": "2026-08-10"
         },
         {
-          "title": "On this day in space! Aug. 9, 1976: Soviet Luna 24 sample return probe launches to the moon",
-          "summary": "On Aug. 9, 1976, the Soviet space program launched its last moon mission. Luna 24 was a robotic sample return mission and the third of its kind.",
-          "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-9-2026",
-          "source": "Space.com",
-          "date": "2026-08-09"
+          "title": "APOD: 2026 August 11 – Six Moons of Saturn",
+          "summary": "APOD Science APOD APOD: 2026 August 11 – Six… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
+          "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-11-six-moons-of-saturn/",
+          "source": "NASA",
+          "date": "2026-08-11"
         },
         {
-          "title": "SpaceX launches 24 Starlink satellites to orbit from California (video)",
-          "summary": "SpaceX launched another batch of its Starlink internet satellites to orbit today (Aug. 8) from California's scenic central coast.",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-launch-starlink-group-17-38-ocisly",
+          "title": "SpaceX wants to put 1 million AI satellites in orbit. What would that do to Earth's climate?",
+          "summary": "Operating a million or more data centers in space would mean a massive increase in air pollution from rocket launches and concentrations of toxic ash from reentering satellites.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-wants-to-put-1-million-ai-satellites-in-orbit-what-would-that-do-to-earths-climate",
           "source": "Space.com",
-          "date": "2026-08-08"
+          "date": "2026-08-11"
         }
       ]
     },
@@ -85,18 +85,11 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "Early snakes explored life underground, on land and at sea",
-          "summary": "Snakes are highly modified lizards, with more than 4,000 living species today. The origin of snakes has long been one of evolutionary biology's most debated questions. Their sparse fossil record has made it hard to pin…",
-          "url": "https://phys.org/news/2026-08-early-snakes-explored-life-underground.html",
-          "source": "Phys.org",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "Australia has pledged to restore nature. But could we ever bring back lost ecosystems?",
-          "summary": "Nature is not doing well in Australia. Many unique mammals, birds and insects are struggling. Entire ecosystems are collapsing.",
-          "url": "https://phys.org/news/2026-08-australia-pledged-nature-lost-ecosystems.html",
-          "source": "Phys.org",
-          "date": "2026-08-09"
+          "title": "240-million-year-old reptile fossil reveals a lost chapter before dinosaurs and crocodiles",
+          "summary": "A 240-million-year-old reptile discovered in Brazil is revealing what evolution looked like just before the rise of dinosaurs and crocodiles. The small predator had unusually positioned legs that may have allowed it to…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260808234956.htm",
+          "source": "Science Daily",
+          "date": "2026-08-10"
         },
         {
           "title": "Dinosaurs became giants — so why did they never become tiny?",
@@ -106,18 +99,25 @@
           "date": "2026-08-09"
         },
         {
-          "title": "Over half of people are unaware of the environmental effects of sunscreen",
-          "summary": "This summer, millions of people across the country have been digging out sunscreen to protect themselves from a record-breaking series of heat waves.",
-          "url": "https://phys.org/news/2026-08-people-unaware-environmental-effects-sunscreen.html",
+          "title": "Decoding smell: Study reveals how wind transforms odor signals",
+          "summary": "Humans trust dogs to help find missing people, and bees to pollinate their crops. But scientists still don't fully understand how these animals use their extraordinary sense of smell to locate the source of an odor.",
+          "url": "https://phys.org/news/2026-08-decoding-reveals-odor.html",
           "source": "Phys.org",
-          "date": "2026-08-09"
+          "date": "2026-08-11"
         },
         {
-          "title": "Butterfly ranges shift worldwide amid climate change, with most species expanding their reach",
-          "summary": "A global analysis of range-shift records for 1,758 butterfly species—10% of known butterfly species—found that 80% had expanded their range and that 79% of all recorded range shifts were linked to climate change and…",
-          "url": "https://phys.org/news/2026-08-butterfly-ranges-shift-worldwide-climate.html",
+          "title": "Who are the secret gardeners of a parasitic plant?",
+          "summary": "In the coastal forests of a tropical Japanese island near Okinawa grows an inconspicuous plant that is easy to mistake for a mushroom. It is a non-green parasite that feeds on the roots of other plants and produces up…",
+          "url": "https://phys.org/news/2026-08-secret-gardeners-parasitic.html",
           "source": "Phys.org",
-          "date": "2026-08-08"
+          "date": "2026-08-11"
+        },
+        {
+          "title": "Scientific advancement has never been more prolific—so why has trust in science plummeted?",
+          "summary": "From genome editing to quantum computing, scientific progress is accelerating at an unprecedented pace, yet public faith in science is collapsing. Our species has mapped the human genome, created powerful computers that…",
+          "url": "https://phys.org/news/2026-08-scientific-advancement-prolific-science-plummeted.html",
+          "source": "Phys.org",
+          "date": "2026-08-10"
         }
       ]
     },
@@ -125,18 +125,25 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Western Europe experienced hottest June-July on record: EU monitor",
-          "summary": "Western Europe experienced its hottest June–July on record as climate change fuels a historic summer of heat, drought and wildfires across the region, the EU's global warming monitor said Monday.",
-          "url": "https://phys.org/news/2026-08-western-europe-experienced-hottest-june.html",
+          "title": "Report confirms record-high greenhouse gases, global sea level and ocean heat in 2025",
+          "summary": "According to the 36th annual State of the Climate report, greenhouse gas concentrations, global sea level and ocean heat content all reached record highs in 2025.",
+          "url": "https://phys.org/news/2026-08-high-greenhouse-gases-global-sea.html",
           "source": "Phys.org",
           "date": "2026-08-10"
         },
         {
-          "title": "Hong Kong weather observatory posts record high temperature",
-          "summary": "Hong Kong's weather observatory posted a record high temperature of 36.9°C (98°F) on Sunday as Typhoon Dolphin swept warm air over the city, the meteorological service said.",
-          "url": "https://phys.org/news/2026-08-hong-kong-weather-observatory-high.html",
+          "title": "Magnitude 7.4 quake rocks western Colombia, killing at least 111 people",
+          "summary": "A powerful 7.4 magnitude earthquake struck western Colombia on Monday, killing at least 111 people, damaging hundreds of buildings and leaving many trapped under debris while their loved ones and rescue workers searched…",
+          "url": "https://phys.org/news/2026-08-magnitude-quake-western-colombia-people.html",
           "source": "Phys.org",
-          "date": "2026-08-09"
+          "date": "2026-08-11"
+        },
+        {
+          "title": "US had hottest month on record in July",
+          "summary": "July 2026 marked the hottest month on record for the contiguous United States, the National Oceanic and Atmospheric Administration said Monday, continuing a recent trend driven by human-caused climate change.",
+          "url": "https://phys.org/news/2026-08-hottest-month-july.html",
+          "source": "Phys.org",
+          "date": "2026-08-10"
         },
         {
           "title": "Pluto's atmosphere is collapsing as it drifts away from the sun into a deep freeze",
@@ -146,18 +153,11 @@
           "date": "2026-08-10"
         },
         {
-          "title": "Stress can scramble your brain’s internal GPS, MRI study finds",
-          "summary": "Stress may literally scramble the brain’s internal GPS. Researchers found that cortisol, a hormone released during stress, made people significantly worse at navigating a virtual environment and disrupted the precise…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260807035151.htm",
-          "source": "Science Daily",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "Sun news: Quiet sun has a slight uptick in flares",
-          "summary": "Sun news August 10, 2026: Newcomer AR4505 burst onto the scene, firing 14 of the day's 18 flares. Watch for geomagnetic storming around August 11-12. The post Sun news: Quiet sun has a slight uptick in flares first…",
+          "title": "Sun news: Huge sun blast aimed at Earth",
+          "summary": "Sun news August 11, 2026: Plasma from the August 8 prominence is heading our way. G1 and even G2 storms are possible tomorrow. Aurora watchers, get ready! The post Sun news: Huge sun blast aimed at Earth first appeared…",
           "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
           "source": "EarthSky",
-          "date": "2026-08-10"
+          "date": "2026-08-11"
         }
       ]
     },
@@ -172,9 +172,16 @@
           "date": "2026-08-09"
         },
         {
-          "title": "A major Quebec survey finds 5 flaws in the 'augmented work' myth",
-          "summary": "We're being promised a revolution. Artificial intelligence is said to make work both more productive and more enjoyable by freeing us from tedious tasks and allowing us to devote more time to what really matters. This…",
-          "url": "https://phys.org/news/2026-08-major-quebec-survey-flaws-augmented.html",
+          "title": "Color-sensing yeast could make biofactories more programmable and precise",
+          "summary": "Baker's yeast is one of biotechnology's most important microorganisms. It has long been used to leaven bread and ferment beer. More recently, advances in synthetic biology have enabled engineered yeast to convert sugar…",
+          "url": "https://phys.org/news/2026-08-yeast-biofactories-programmable-precise.html",
+          "source": "Phys.org",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "Machine learning predicts forest soil fungal diversity from drone images",
+          "summary": "Combining drone data and machine learning can help cover more ground in monitoring forest soil health, University of Alberta research shows. The findings are published in the journal Forest Ecology and Management. Using…",
+          "url": "https://phys.org/news/2026-08-machine-forest-soil-fungal-diversity.html",
           "source": "Phys.org",
           "date": "2026-08-10"
         }
@@ -184,13 +191,6 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "'Flying focus' laser overcomes key limitation in plasma-based particle accelerators",
-          "summary": "In a new Nature Physics study, researchers accelerated electrons to more than twice the energy predicted by the traditional dephasing limit for laser-plasma accelerators operating over the same distance. This was made…",
-          "url": "https://phys.org/news/2026-08-flying-focus-laser-key-limitation.html",
-          "source": "Phys.org",
-          "date": "2026-08-08"
-        },
-        {
           "title": "Sunlight creates quantum entanglement once thought to require lasers",
           "summary": "Scientists have generated quantum entanglement directly from sunlight, potentially offering a lower-energy alternative to the lasers normally used in quantum technology. Their outdoor experiment produced entangled…",
           "url": "https://www.sciencedaily.com/releases/2026/08/260807035133.htm",
@@ -198,25 +198,32 @@
           "date": "2026-08-08"
         },
         {
-          "title": "Drought and heat push Europe’s power grid to breaking point",
-          "summary": "High temperatures and low water levels have forced several countries to shut down nuclear reactors just as citizens turn up their air conditioning, forcing energy prices to spike and raising the threat of blackouts",
-          "url": "https://www.newscientist.com/article/2583740-drought-and-heat-push-europes-power-grid-to-breaking-point/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "title": "The proton is more quantum than we thought",
+          "summary": "Our understanding of the internal structure of protons is largely based on classical physics, but data compiled from accelerator experiments has uncovered quantum behaviour that has never been seen before",
+          "url": "https://www.newscientist.com/article/2583917-the-proton-is-more-quantum-than-we-thought/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
-          "date": "2026-08-07"
+          "date": "2026-08-11"
         },
         {
-          "title": "UCLA scientists discover how to guide heat like light at room temperature",
-          "summary": "Scientists have demonstrated that heat can move through a crystal in focused, wave-like rays at room temperature instead of spreading randomly. The breakthrough could make it possible to route heat around sensitive…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260805082506.htm",
+          "title": "The sun is covered in tiny whirlpools we’ve never seen before",
+          "summary": "Scientists have discovered incredibly tiny plasma whirlpools swirling across the Sun’s surface, some just 20 kilometers wide. These previously invisible vortices may twist magnetic fields and help build up the energy…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260807035142.htm",
           "source": "Science Daily",
-          "date": "2026-08-07"
+          "date": "2026-08-08"
         },
         {
-          "title": "Controlled cracking technique prints quantum dots into tiny pixels for sharper displays",
-          "summary": "Recent technological advances have enabled the development of increasingly sophisticated, sharper displays for electronic devices. Many modern displays use light-emitting diodes, or LEDs, tiny semiconductor-based…",
-          "url": "https://phys.org/news/2026-08-technique-quantum-dots-tiny-pixels.html",
-          "source": "Phys.org",
-          "date": "2026-08-09"
+          "title": "Could we eliminate any particles from the standard model of physics?",
+          "summary": "The standard model of physics is one of the most successful scientific theories in existence, but do we need it all? Columnist Chanda Prescod-Weinstein explores whether it’s carrying any excess baggage",
+          "url": "https://www.newscientist.com/article/2582036-could-we-eliminate-any-particles-from-the-standard-model-of-physics/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "The shock revelation that light bulbs are wrecking your metabolism",
+          "summary": "Since the 2000s, our light exposure has changed drastically as we make our buildings more energy-efficient. Now, we’re discovering how this may mess with our mitochondria, contributing to diabetes, dementia and more",
+          "url": "https://www.newscientist.com/article/2582914-the-shock-revelation-that-light-bulbs-are-wrecking-your-metabolism/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-08-10"
         }
       ]
     }
