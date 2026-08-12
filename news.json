@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T14:19:27Z",
+  "updated": "2026-08-12T14:20:50Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
@@ -19,11 +19,11 @@
           "date": "2026-08-10"
         },
         {
-          "title": "DNA repair enzymes favor specific sequences, shaping mutation patterns in the human genome",
-          "summary": "When a wound does not heal properly, it leaves a scar. Similarly, mutations—which are permanent changes to genetic code—are often the result of damaged DNA that has not been properly repaired. Mutations can impede the…",
-          "url": "https://phys.org/news/2026-08-dna-enzymes-favor-specific-sequences.html",
-          "source": "Phys.org",
-          "date": "2026-08-10"
+          "title": "CRISPR-armed phages help treat severe superbug infection",
+          "summary": "Bacteria-killing phage viruses souped up with DNA-destroying CRISPR appear to have helped clear up a very serious infection caused by antibiotic-resistant E. coli",
+          "url": "https://www.newscientist.com/article/2584196-crispr-armed-phages-help-treat-severe-superbug-infection/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-08-11"
         },
         {
           "title": "Potatoes may have given Indigenous Andeans a digestive superpower",
@@ -33,11 +33,11 @@
           "date": "2026-08-10"
         },
         {
-          "title": "Meteorite that smashed through a New Jersey roof reveals clues to life’s origins",
-          "summary": "A rare meteorite that crashed through a New Jersey roof contains evidence of ancient salty fluids, organic compounds, and amino acids from a primitive asteroid. Its pristine chemistry could offer new clues about how…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260807035145.htm",
-          "source": "Science Daily",
-          "date": "2026-08-08"
+          "title": "Genetic neighborhoods distinguish harmful poultry bacteria from harmless strains",
+          "summary": "When it comes to identifying harmful bacteria, it helps to look at the company their genes keep. Researchers with the Arkansas Agricultural Experiment Station, the research arm of the University of Arkansas Division of…",
+          "url": "https://phys.org/news/2026-08-genetic-neighborhoods-distinguish-poultry-bacteria.html",
+          "source": "Phys.org",
+          "date": "2026-08-11"
         }
       ]
     },
@@ -45,16 +45,23 @@
       "emoji": "🚀",
       "articles": [
         {
-          "title": "Lion Nebula Roars to Life With NASA’s Webb",
-          "summary": "Observing across the starry “plains” of space, NASA’s James Webb Space Telescope has taken new images of NGC 2392, nicknamed the Lion Nebula. NASA’s Hubble Space Telescope previously viewed this planetary nebula in…",
-          "url": "https://science.nasa.gov/missions/webb/lion-nebula-roars-to-life-with-nasas-webb/",
-          "source": "NASA",
-          "date": "2026-08-10"
-        },
-        {
           "title": "NASA Shares Station Research Today Supporting Moon, Mars Tomorrow",
           "summary": "The International Space Station has been busy throughout 2026, as it continues to be a bustling workspace for astronauts conducting a variety of scientific experiments that lay the groundwork for missions to the Moon…",
           "url": "https://www.nasa.gov/missions/station/iss-research/nasa-shares-station-research-today-supporting-moon-mars-tomorrow/",
+          "source": "NASA",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "On this day in space! Aug. 12, 2005: Mars Reconnaissance Orbiter launched",
+          "summary": "On Aug. 12, 2005, NASA launched its Mars Reconnaissance Orbiter (MRO) mission.",
+          "url": "https://www.space.com/space-exploration/missions/on-this-day-in-space-aug-12-2005-mars-reconnaissance-orbiter-launched",
+          "source": "Space.com",
+          "date": "2026-08-12"
+        },
+        {
+          "title": "Lion Nebula Roars in Webb’s Sights",
+          "summary": "Observing across the starry “plains” of space, NASA’s James Webb Space Telescope has taken new images of NGC 2392, nicknamed the Lion Nebula. The nebula&#8217;s &#8220;mane&#8221; is clear and detailed in this image…",
+          "url": "https://www.nasa.gov/image-article/lion-nebula-roars-in-webbs-sights/",
           "source": "NASA",
           "date": "2026-08-11"
         },
@@ -66,18 +73,11 @@
           "date": "2026-08-10"
         },
         {
-          "title": "APOD: 2026 August 11 – Six Moons of Saturn",
-          "summary": "APOD Science APOD APOD: 2026 August 11 – Six… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
-          "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-11-six-moons-of-saturn/",
-          "source": "NASA",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "SpaceX wants to put 1 million AI satellites in orbit. What would that do to Earth's climate?",
-          "summary": "Operating a million or more data centers in space would mean a massive increase in air pollution from rocket launches and concentrations of toxic ash from reentering satellites.",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-wants-to-put-1-million-ai-satellites-in-orbit-what-would-that-do-to-earths-climate",
-          "source": "Space.com",
-          "date": "2026-08-11"
+          "title": "Mission to save NASA telescope back on track after loss of control",
+          "summary": "Katalyst’s LINK spacecraft might still be able to save NASA’s ailing Swift telescope from doom, despite a significant mishap",
+          "url": "https://www.newscientist.com/article/2584337-mission-to-save-nasa-telescope-back-on-track-after-loss-of-control/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-08-12"
         }
       ]
     },
@@ -99,25 +99,25 @@
           "date": "2026-08-09"
         },
         {
-          "title": "Decoding smell: Study reveals how wind transforms odor signals",
-          "summary": "Humans trust dogs to help find missing people, and bees to pollinate their crops. But scientists still don't fully understand how these animals use their extraordinary sense of smell to locate the source of an odor.",
-          "url": "https://phys.org/news/2026-08-decoding-reveals-odor.html",
+          "title": "How to design a space habitat that supports its residents' mental health",
+          "summary": "In extreme environments, habitats are built for survival. Submarines, Antarctic bases and post-disaster dwellings are designed to prioritize health and safety. This is especially the case for habitats in space, where…",
+          "url": "https://phys.org/news/2026-08-space-habitat-residents-mental-health.html",
           "source": "Phys.org",
-          "date": "2026-08-11"
+          "date": "2026-08-12"
         },
         {
-          "title": "Who are the secret gardeners of a parasitic plant?",
-          "summary": "In the coastal forests of a tropical Japanese island near Okinawa grows an inconspicuous plant that is easy to mistake for a mushroom. It is a non-green parasite that feeds on the roots of other plants and produces up…",
-          "url": "https://phys.org/news/2026-08-secret-gardeners-parasitic.html",
+          "title": "Genomics used to find endangered fish populations most vulnerable to climate change",
+          "summary": "Scientists have shown that genomics can help identify which wild populations are most vulnerable to climate change—offering practical guidance for conserving threatened species before declines become irreversible.",
+          "url": "https://phys.org/news/2026-08-genomics-endangered-fish-populations-vulnerable.html",
           "source": "Phys.org",
-          "date": "2026-08-11"
+          "date": "2026-08-12"
         },
         {
-          "title": "Scientific advancement has never been more prolific—so why has trust in science plummeted?",
-          "summary": "From genome editing to quantum computing, scientific progress is accelerating at an unprecedented pace, yet public faith in science is collapsing. Our species has mapped the human genome, created powerful computers that…",
-          "url": "https://phys.org/news/2026-08-scientific-advancement-prolific-science-plummeted.html",
-          "source": "Phys.org",
-          "date": "2026-08-10"
+          "title": "Wine, beer, or spirits? Massive study finds a surprising health divide",
+          "summary": "A study tracking more than 340,000 adults for over a decade found that heavy drinking increased the risk of death regardless of beverage type. At lower levels, however, the picture became more surprising: beer, cider…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260808235008.htm",
+          "source": "Science Daily",
+          "date": "2026-08-09"
         }
       ]
     },
@@ -125,39 +125,39 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Report confirms record-high greenhouse gases, global sea level and ocean heat in 2025",
-          "summary": "According to the 36th annual State of the Climate report, greenhouse gas concentrations, global sea level and ocean heat content all reached record highs in 2025.",
-          "url": "https://phys.org/news/2026-08-high-greenhouse-gases-global-sea.html",
+          "title": "Arctic cyclone clusters batter sea ice, leaving coasts more exposed to storms",
+          "summary": "In the Arctic, weather plays a key role in determining how much ice covers the ocean. Arctic cyclones are one weather phenomenon with a significant influence, causing unusually warm and stormy conditions that typically…",
+          "url": "https://phys.org/news/2026-08-arctic-cyclone-clusters-batter-sea.html",
           "source": "Phys.org",
-          "date": "2026-08-10"
+          "date": "2026-08-12"
         },
         {
-          "title": "Magnitude 7.4 quake rocks western Colombia, killing at least 111 people",
-          "summary": "A powerful 7.4 magnitude earthquake struck western Colombia on Monday, killing at least 111 people, damaging hundreds of buildings and leaving many trapped under debris while their loved ones and rescue workers searched…",
-          "url": "https://phys.org/news/2026-08-magnitude-quake-western-colombia-people.html",
+          "title": "The way trees sway may communicate water stress",
+          "summary": "The Western U.S. is experiencing periods of increasingly intense drought, and higher temperatures are exacerbating the issue by drawing even more moisture from plants and soils into the atmosphere. The results can be…",
+          "url": "https://phys.org/news/2026-08-trees-sway-communicate-stress.html",
           "source": "Phys.org",
-          "date": "2026-08-11"
+          "date": "2026-08-12"
         },
         {
-          "title": "US had hottest month on record in July",
-          "summary": "July 2026 marked the hottest month on record for the contiguous United States, the National Oceanic and Atmospheric Administration said Monday, continuing a recent trend driven by human-caused climate change.",
-          "url": "https://phys.org/news/2026-08-hottest-month-july.html",
+          "title": "The perfect storm that turbocharged Venezuela's twin quakes",
+          "summary": "A dangerous cocktail of tectonic positioning, loose earth and shoddy construction contributed to the unprecedented damage caused by Venezuela's twin earthquakes, experts say.",
+          "url": "https://phys.org/news/2026-08-storm-turbocharged-venezuela-twin-quakes.html",
           "source": "Phys.org",
-          "date": "2026-08-10"
+          "date": "2026-08-12"
         },
         {
-          "title": "Pluto's atmosphere is collapsing as it drifts away from the sun into a deep freeze",
-          "summary": "As Pluto edges further away from the sun, the chilly temperatures are causing its atmosphere to condense onto its barren surface as frost.",
-          "url": "https://www.space.com/astronomy/pluto/plutos-atmosphere-is-collapsing-as-it-drifts-away-from-the-sun-into-a-deep-freeze",
-          "source": "Space.com",
-          "date": "2026-08-10"
+          "title": "A transferable framework for evaluating the potential for forecast-informed reservoir operations in watersheds",
+          "summary": "With extreme weather increasing around the world, scientists are working to help critical infrastructure, such as water management systems, adapt. On the U.S. West Coast, where both periods of prolonged drought and…",
+          "url": "https://phys.org/news/2026-08-framework-potential-reservoir-watersheds.html",
+          "source": "Phys.org",
+          "date": "2026-08-12"
         },
         {
-          "title": "Sun news: Huge sun blast aimed at Earth",
-          "summary": "Sun news August 11, 2026: Plasma from the August 8 prominence is heading our way. G1 and even G2 storms are possible tomorrow. Aurora watchers, get ready! The post Sun news: Huge sun blast aimed at Earth first appeared…",
-          "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
-          "source": "EarthSky",
-          "date": "2026-08-11"
+          "title": "Japan's earthquake shows extreme heat can turn one disaster into two",
+          "summary": "Emergency workers attempting to rescue survivors after a recent earthquake in Kyushu, Japan, also had to cope with extreme summer heat.",
+          "url": "https://phys.org/news/2026-08-japan-earthquake-extreme-disaster.html",
+          "source": "Phys.org",
+          "date": "2026-08-12"
         }
       ]
     },
@@ -172,18 +172,11 @@
           "date": "2026-08-09"
         },
         {
-          "title": "Color-sensing yeast could make biofactories more programmable and precise",
-          "summary": "Baker's yeast is one of biotechnology's most important microorganisms. It has long been used to leaven bread and ferment beer. More recently, advances in synthetic biology have enabled engineered yeast to convert sugar…",
-          "url": "https://phys.org/news/2026-08-yeast-biofactories-programmable-precise.html",
+          "title": "Quantum advantage reassessed: More realistic benchmarks for quantum algorithms",
+          "summary": "Quantum advantage refers to the point at which a quantum computer solves a clearly defined task faster or more efficiently than any classical computer—or makes it solvable in the first place. For many practical…",
+          "url": "https://phys.org/news/2026-08-quantum-advantage-reassessed-realistic-benchmarks.html",
           "source": "Phys.org",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "Machine learning predicts forest soil fungal diversity from drone images",
-          "summary": "Combining drone data and machine learning can help cover more ground in monitoring forest soil health, University of Alberta research shows. The findings are published in the journal Forest Ecology and Management. Using…",
-          "url": "https://phys.org/news/2026-08-machine-forest-soil-fungal-diversity.html",
-          "source": "Phys.org",
-          "date": "2026-08-10"
+          "date": "2026-08-12"
         }
       ]
     },
@@ -198,9 +191,23 @@
           "date": "2026-08-08"
         },
         {
-          "title": "The proton is more quantum than we thought",
-          "summary": "Our understanding of the internal structure of protons is largely based on classical physics, but data compiled from accelerator experiments has uncovered quantum behaviour that has never been seen before",
-          "url": "https://www.newscientist.com/article/2583917-the-proton-is-more-quantum-than-we-thought/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "title": "Long-sought Zhang-Rice singlet visualized directly in cuprate superconductor",
+          "summary": "Superconductors are materials that conduct electricity with zero electrical resistance below specific temperatures. Most of these materials become superconducting at very low temperatures, but some also exhibit…",
+          "url": "https://phys.org/news/2026-08-sought-zhang-rice-singlet-visualized.html",
+          "source": "Phys.org",
+          "date": "2026-08-12"
+        },
+        {
+          "title": "UK 'on course' to record warmest summer for second year in a row",
+          "summary": "Britain is \"on course\" to chalk up its warmest summer on record for the second year running, the UK's Met Office weather agency said Tuesday as the country braced for its fifth heat wave of the season.",
+          "url": "https://phys.org/news/2026-08-uk-warmest-summer-year-row.html",
+          "source": "Phys.org",
+          "date": "2026-08-12"
+        },
+        {
+          "title": "Rainbows can be made from sounds – and we’ve created the best ones yet",
+          "summary": "Two research teams have independently created devices within which sound waves could be separated by frequency, creating the most complete sound rainbows yet",
+          "url": "https://www.newscientist.com/article/2584057-weve-now-had-a-good-look-at-a-rainbow-made-from-sound/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
           "date": "2026-08-11"
         },
@@ -210,20 +217,6 @@
           "url": "https://www.sciencedaily.com/releases/2026/08/260807035142.htm",
           "source": "Science Daily",
           "date": "2026-08-08"
-        },
-        {
-          "title": "Could we eliminate any particles from the standard model of physics?",
-          "summary": "The standard model of physics is one of the most successful scientific theories in existence, but do we need it all? Columnist Chanda Prescod-Weinstein explores whether it’s carrying any excess baggage",
-          "url": "https://www.newscientist.com/article/2582036-could-we-eliminate-any-particles-from-the-standard-model-of-physics/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "The shock revelation that light bulbs are wrecking your metabolism",
-          "summary": "Since the 2000s, our light exposure has changed drastically as we make our buildings more energy-efficient. Now, we’re discovering how this may mess with our mitochondria, contributing to diabetes, dementia and more",
-          "url": "https://www.newscientist.com/article/2582914-the-shock-revelation-that-light-bulbs-are-wrecking-your-metabolism/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-08-10"
         }
       ]
     }
