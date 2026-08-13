@@ -1,16 +1,9 @@
 {
-  "updated": "2026-08-12T14:20:50Z",
+  "updated": "2026-08-13T14:21:57Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
-        {
-          "title": "Chemists set electrons free and break a decades-old chemistry barrier",
-          "summary": "Chemists have developed a catalyst that breaks a long-standing rule governing which molecules receive electrons during chemical reactions. By releasing electrons directly into solution, the technique could unlock…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260807035147.htm",
-          "source": "Science Daily",
-          "date": "2026-08-09"
-        },
         {
           "title": "Scientists discover a hidden switch inside silver nanocatalysts",
           "summary": "Silver nanocatalysts have been found to switch where they perform their most important reactions depending on whether a solid oxide cell is making electricity or hydrogen. The discovery could enable smarter catalyst…",
@@ -19,10 +12,24 @@
           "date": "2026-08-10"
         },
         {
-          "title": "CRISPR-armed phages help treat severe superbug infection",
-          "summary": "Bacteria-killing phage viruses souped up with DNA-destroying CRISPR appear to have helped clear up a very serious infection caused by antibiotic-resistant E. coli",
-          "url": "https://www.newscientist.com/article/2584196-crispr-armed-phages-help-treat-severe-superbug-infection/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
+          "title": "Protein-like nanoparticles sort themselves inside growing crystals, enabling controlled release",
+          "summary": "The tiny bones in your fingers withstand countless taps and swipes thanks to a precise blend of materials. Flexible collagen fibers form the framework, reinforced by hard calcium phosphate hydroxyapatite crystals. This…",
+          "url": "https://phys.org/news/2026-08-protein-nanoparticles-crystals-enabling.html",
+          "source": "Phys.org",
+          "date": "2026-08-13"
+        },
+        {
+          "title": "Scientists turn sheep’s wool into a material that helps regrow bone",
+          "summary": "Keratin extracted from sheep’s wool helped damaged bone regenerate in animals, producing tissue that was more organized and structurally similar to healthy bone than tissue grown with conventional collagen scaffolds…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260812015210.htm",
+          "source": "Science Daily",
+          "date": "2026-08-12"
+        },
+        {
+          "title": "“Cannot be explained” – New super steel stuns scientists",
+          "summary": "Scientists have created an unusually corrosion-resistant stainless steel that could replace costly titanium components used to produce green hydrogen. The breakthrough could reduce structural material costs by roughly…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260811052717.htm",
+          "source": "Science Daily",
           "date": "2026-08-11"
         },
         {
@@ -31,26 +38,12 @@
           "url": "https://www.sciencedaily.com/releases/2026/08/260808235005.htm",
           "source": "Science Daily",
           "date": "2026-08-10"
-        },
-        {
-          "title": "Genetic neighborhoods distinguish harmful poultry bacteria from harmless strains",
-          "summary": "When it comes to identifying harmful bacteria, it helps to look at the company their genes keep. Researchers with the Arkansas Agricultural Experiment Station, the research arm of the University of Arkansas Division of…",
-          "url": "https://phys.org/news/2026-08-genetic-neighborhoods-distinguish-poultry-bacteria.html",
-          "source": "Phys.org",
-          "date": "2026-08-11"
         }
       ]
     },
     "Space & Astronomy": {
       "emoji": "🚀",
       "articles": [
-        {
-          "title": "NASA Shares Station Research Today Supporting Moon, Mars Tomorrow",
-          "summary": "The International Space Station has been busy throughout 2026, as it continues to be a bustling workspace for astronauts conducting a variety of scientific experiments that lay the groundwork for missions to the Moon…",
-          "url": "https://www.nasa.gov/missions/station/iss-research/nasa-shares-station-research-today-supporting-moon-mars-tomorrow/",
-          "source": "NASA",
-          "date": "2026-08-11"
-        },
         {
           "title": "On this day in space! Aug. 12, 2005: Mars Reconnaissance Orbiter launched",
           "summary": "On Aug. 12, 2005, NASA launched its Mars Reconnaissance Orbiter (MRO) mission.",
@@ -59,24 +52,31 @@
           "date": "2026-08-12"
         },
         {
-          "title": "Lion Nebula Roars in Webb’s Sights",
-          "summary": "Observing across the starry “plains” of space, NASA’s James Webb Space Telescope has taken new images of NGC 2392, nicknamed the Lion Nebula. The nebula&#8217;s &#8220;mane&#8221; is clear and detailed in this image…",
-          "url": "https://www.nasa.gov/image-article/lion-nebula-roars-in-webbs-sights/",
+          "title": "NASA Upgrades Vertical Motion Simulator for Modern Mission Needs",
+          "summary": "Imagine stepping into a machine that can make you feel like you’re flying a spacecraft, piloting a next generation air taxi, or landing on the Moon, all without leaving the ground. NASA’s Vertical Motion Simulator, the…",
+          "url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-upgrades-vertical-motion-simulator-for-modern-mission-needs/",
           "source": "NASA",
-          "date": "2026-08-11"
+          "date": "2026-08-12"
         },
         {
-          "title": "Japanese H3 rocket launches 10,800-pound navigation satellite to high Earth orbit (video)",
-          "summary": "Japan's H3 rocket sent the Michibiki 7 navigation satellite aloft this afternoon (Aug. 10), on the ninth-ever mission for the launch vehicle.",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/japan-h3-rocket-launch-navigation-satellite-michibiki-7",
+          "title": "NASA Astronaut Mike Fincke Leaves NASA, Career Includes 4 Spaceflights",
+          "summary": "NASA astronaut Mike Fincke is departing the agency on Wednesday after 30 years of service. Throughout his career, he flew four missions, spent 549 days in space, and completed nine spacewalks in support of the…",
+          "url": "https://www.nasa.gov/news-release/nasa-astronaut-mike-fincke-leaves-nasa-career-includes-4-spaceflights/",
+          "source": "NASA",
+          "date": "2026-08-12"
+        },
+        {
+          "title": "Radiation-shielding vest aced Artemis I lunar test, could protect astronauts on moon and Mars missions",
+          "summary": "A radiation-shielding vest aced its Artemis I lunar test in 2022, suggesting that it could protect astronauts on long-duration missions to the moon or Mars.",
+          "url": "https://www.space.com/space-exploration/artemis/artemis-i-radiation-vest-astrorad-protect-astronauts-moon-mars-missions",
           "source": "Space.com",
-          "date": "2026-08-10"
+          "date": "2026-08-12"
         },
         {
-          "title": "Mission to save NASA telescope back on track after loss of control",
-          "summary": "Katalyst’s LINK spacecraft might still be able to save NASA’s ailing Swift telescope from doom, despite a significant mishap",
-          "url": "https://www.newscientist.com/article/2584337-mission-to-save-nasa-telescope-back-on-track-after-loss-of-control/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
+          "title": "Farthest 'black hole star' ever found could help solve the James Webb Space Telescope's little red dot mystery",
+          "summary": "A distant black hole star is providing strong evidence that these objects lie at the hearts of the mysterious little red dots found shortly after the Big Bang by the James Webb Space Telescope.",
+          "url": "https://www.space.com/astronomy/james-webb-space-telescope/farthest-black-hole-star-ever-found-could-help-solve-the-james-webb-space-telescopes-little-red-dot-mystery",
+          "source": "Space.com",
           "date": "2026-08-12"
         }
       ]
@@ -85,39 +85,39 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "240-million-year-old reptile fossil reveals a lost chapter before dinosaurs and crocodiles",
-          "summary": "A 240-million-year-old reptile discovered in Brazil is revealing what evolution looked like just before the rise of dinosaurs and crocodiles. The small predator had unusually positioned legs that may have allowed it to…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260808234956.htm",
-          "source": "Science Daily",
-          "date": "2026-08-10"
+          "title": "A 236-million-year-old fossil challenges the story of mammalian live birth",
+          "summary": "Some cynodonts may have been giving birth to live young much sooner in evolutionary history than previously assumed. A new Frontiers in Mammal Science study has offered the first compelling evidence that cynodonts may…",
+          "url": "https://phys.org/news/2026-08-million-year-fossil-story-mammalian.html",
+          "source": "Phys.org",
+          "date": "2026-08-13"
         },
         {
-          "title": "Dinosaurs became giants — so why did they never become tiny?",
-          "summary": "Dinosaurs conquered the land at enormous sizes, but strangely, they almost never evolved into truly tiny animals. New research suggests that physiology alone can’t explain this missing miniature end of the dinosaur…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260807035137.htm",
+          "title": "Marine heatwaves are harming human health in surprising ways",
+          "summary": "Marine heatwaves are emerging as a threat not just to coral reefs and fisheries, but to human health and well-being. Researchers warn that unusually hot oceans can fuel stronger storms, trigger harmful algal blooms…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260811011127.htm",
           "source": "Science Daily",
-          "date": "2026-08-09"
+          "date": "2026-08-11"
         },
         {
-          "title": "How to design a space habitat that supports its residents' mental health",
-          "summary": "In extreme environments, habitats are built for survival. Submarines, Antarctic bases and post-disaster dwellings are designed to prioritize health and safety. This is especially the case for habitats in space, where…",
-          "url": "https://phys.org/news/2026-08-space-habitat-residents-mental-health.html",
+          "title": "150-million-year-old dinosaur footprints reveal something strange about its walk",
+          "summary": "A spectacular 150-million-year-old trail of more than 130 footprints captures a giant sauropod making a complete loop before continuing on its way. Its uneven stride hints that the long-necked dinosaur may have been…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260810015727.htm",
+          "source": "Science Daily",
+          "date": "2026-08-11"
+        },
+        {
+          "title": "Marine heat waves are cooking our ocean ecosystems—and will only become more common",
+          "summary": "You may have heard reports of fish die-offs or seen photos of hauntingly bleached coral.",
+          "url": "https://phys.org/news/2026-08-marine-cooking-ocean-ecosystems-common.html",
+          "source": "Phys.org",
+          "date": "2026-08-13"
+        },
+        {
+          "title": "African grasslands expanded 5 million year earlier than previously thought, molecular fossils suggest",
+          "summary": "The iconic grassland savannas of Africa are geographically extensive and important for both local fauna and the global climate. But where did they come from, and how will they change in the future? Ongoing warming…",
+          "url": "https://phys.org/news/2026-08-african-grasslands-million-year-earlier.html",
           "source": "Phys.org",
           "date": "2026-08-12"
-        },
-        {
-          "title": "Genomics used to find endangered fish populations most vulnerable to climate change",
-          "summary": "Scientists have shown that genomics can help identify which wild populations are most vulnerable to climate change—offering practical guidance for conserving threatened species before declines become irreversible.",
-          "url": "https://phys.org/news/2026-08-genomics-endangered-fish-populations-vulnerable.html",
-          "source": "Phys.org",
-          "date": "2026-08-12"
-        },
-        {
-          "title": "Wine, beer, or spirits? Massive study finds a surprising health divide",
-          "summary": "A study tracking more than 340,000 adults for over a decade found that heavy drinking increased the risk of death regardless of beverage type. At lower levels, however, the picture became more surprising: beer, cider…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260808235008.htm",
-          "source": "Science Daily",
-          "date": "2026-08-09"
         }
       ]
     },
@@ -125,39 +125,11 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Arctic cyclone clusters batter sea ice, leaving coasts more exposed to storms",
-          "summary": "In the Arctic, weather plays a key role in determining how much ice covers the ocean. Arctic cyclones are one weather phenomenon with a significant influence, causing unusually warm and stormy conditions that typically…",
-          "url": "https://phys.org/news/2026-08-arctic-cyclone-clusters-batter-sea.html",
+          "title": "'Imposing ignorance': US climate science under siege",
+          "summary": "A benchmark U.S. report on the fast-changing state of the Arctic has been canceled. The nation's top research body has removed a chapter on global warming from a reference manual for judges.",
+          "url": "https://phys.org/news/2026-08-imposing-climate-science-siege.html",
           "source": "Phys.org",
-          "date": "2026-08-12"
-        },
-        {
-          "title": "The way trees sway may communicate water stress",
-          "summary": "The Western U.S. is experiencing periods of increasingly intense drought, and higher temperatures are exacerbating the issue by drawing even more moisture from plants and soils into the atmosphere. The results can be…",
-          "url": "https://phys.org/news/2026-08-trees-sway-communicate-stress.html",
-          "source": "Phys.org",
-          "date": "2026-08-12"
-        },
-        {
-          "title": "The perfect storm that turbocharged Venezuela's twin quakes",
-          "summary": "A dangerous cocktail of tectonic positioning, loose earth and shoddy construction contributed to the unprecedented damage caused by Venezuela's twin earthquakes, experts say.",
-          "url": "https://phys.org/news/2026-08-storm-turbocharged-venezuela-twin-quakes.html",
-          "source": "Phys.org",
-          "date": "2026-08-12"
-        },
-        {
-          "title": "A transferable framework for evaluating the potential for forecast-informed reservoir operations in watersheds",
-          "summary": "With extreme weather increasing around the world, scientists are working to help critical infrastructure, such as water management systems, adapt. On the U.S. West Coast, where both periods of prolonged drought and…",
-          "url": "https://phys.org/news/2026-08-framework-potential-reservoir-watersheds.html",
-          "source": "Phys.org",
-          "date": "2026-08-12"
-        },
-        {
-          "title": "Japan's earthquake shows extreme heat can turn one disaster into two",
-          "summary": "Emergency workers attempting to rescue survivors after a recent earthquake in Kyushu, Japan, also had to cope with extreme summer heat.",
-          "url": "https://phys.org/news/2026-08-japan-earthquake-extreme-disaster.html",
-          "source": "Phys.org",
-          "date": "2026-08-12"
+          "date": "2026-08-13"
         }
       ]
     },
@@ -165,17 +137,10 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "A 0.42-nanometer breakthrough could push transistors beyond silicon",
-          "summary": "Atomically thin semiconductors could enable dramatically smaller and more efficient chips, but a stubborn problem at the boundary between materials has limited their performance. Researchers have now engineered that…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260808234943.htm",
-          "source": "Science Daily",
-          "date": "2026-08-09"
-        },
-        {
-          "title": "Quantum advantage reassessed: More realistic benchmarks for quantum algorithms",
-          "summary": "Quantum advantage refers to the point at which a quantum computer solves a clearly defined task faster or more efficiently than any classical computer—or makes it solvable in the first place. For many practical…",
-          "url": "https://phys.org/news/2026-08-quantum-advantage-reassessed-realistic-benchmarks.html",
-          "source": "Phys.org",
+          "title": "We should decide how AI shapes the future, not tech firms",
+          "summary": "OpenAI and its competitors want to dictate the role that artificial intelligence will play in our society – it's time to take back control of the narrative",
+          "url": "https://www.newscientist.com/article/2584064-we-should-decide-how-ai-shapes-the-future-not-tech-firms/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
           "date": "2026-08-12"
         }
       ]
@@ -184,39 +149,32 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "Sunlight creates quantum entanglement once thought to require lasers",
-          "summary": "Scientists have generated quantum entanglement directly from sunlight, potentially offering a lower-energy alternative to the lasers normally used in quantum technology. Their outdoor experiment produced entangled…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260807035133.htm",
+          "title": "A strange crystal made of electrons just revealed its hidden motion",
+          "summary": "Physicists have found a new way to peer inside one of matter’s most elusive quantum states: the Wigner crystal, where electrons stop behaving like independent particles and organize into a crystal-like pattern. By…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260812015156.htm",
           "source": "Science Daily",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "Long-sought Zhang-Rice singlet visualized directly in cuprate superconductor",
-          "summary": "Superconductors are materials that conduct electricity with zero electrical resistance below specific temperatures. Most of these materials become superconducting at very low temperatures, but some also exhibit…",
-          "url": "https://phys.org/news/2026-08-sought-zhang-rice-singlet-visualized.html",
-          "source": "Phys.org",
           "date": "2026-08-12"
         },
         {
-          "title": "UK 'on course' to record warmest summer for second year in a row",
-          "summary": "Britain is \"on course\" to chalk up its warmest summer on record for the second year running, the UK's Met Office weather agency said Tuesday as the country braced for its fifth heat wave of the season.",
-          "url": "https://phys.org/news/2026-08-uk-warmest-summer-year-row.html",
+          "title": "A magnetic path to lower-power computing",
+          "summary": "From smartphones to data centers, modern electronics rely on billions of tiny switches that consume electricity every time they turn on or off. As global demand for computing continues to grow, so does the energy…",
+          "url": "https://phys.org/news/2026-08-magnetic-path-power.html",
           "source": "Phys.org",
-          "date": "2026-08-12"
+          "date": "2026-08-13"
         },
         {
-          "title": "Rainbows can be made from sounds – and we’ve created the best ones yet",
-          "summary": "Two research teams have independently created devices within which sound waves could be separated by frequency, creating the most complete sound rainbows yet",
-          "url": "https://www.newscientist.com/article/2584057-weve-now-had-a-good-look-at-a-rainbow-made-from-sound/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "title": "Germany's dry rivers spark battle over engineering vs. restoration",
+          "summary": "As a heat wave dries Germany's rivers, government ministers are at odds over what to do about it—re-engineer the waterways or restore them to their natural state.",
+          "url": "https://phys.org/news/2026-08-germany-dry-rivers.html",
+          "source": "Phys.org",
+          "date": "2026-08-13"
+        },
+        {
+          "title": "Running with a stroller seems to reduce the risk of injuries",
+          "summary": "Pushing a pram while running may reduce the force produced with each foot strike, decreasing the risk of injuries",
+          "url": "https://www.newscientist.com/article/2584315-running-with-a-pram-seems-to-reduce-the-risk-of-injuries/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
-          "date": "2026-08-11"
-        },
-        {
-          "title": "The sun is covered in tiny whirlpools we’ve never seen before",
-          "summary": "Scientists have discovered incredibly tiny plasma whirlpools swirling across the Sun’s surface, some just 20 kilometers wide. These previously invisible vortices may twist magnetic fields and help build up the energy…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260807035142.htm",
-          "source": "Science Daily",
-          "date": "2026-08-08"
+          "date": "2026-08-12"
         }
       ]
     }
