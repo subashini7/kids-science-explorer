@@ -1,23 +1,9 @@
 {
-  "updated": "2026-08-14T14:15:11Z",
+  "updated": "2026-08-15T13:30:03Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
-        {
-          "title": "Tracer exchange reveals ions can speed up or slow down inside battery solids",
-          "summary": "Understanding how ions diffuse in solid materials is essential for technologies including batteries, electronics and chemical catalysts, but it has been hard for a simple reason: the materials are solids.",
-          "url": "https://phys.org/news/2026-08-tracer-exchange-reveals-ions-battery.html",
-          "source": "Phys.org",
-          "date": "2026-08-13"
-        },
-        {
-          "title": "Mutation hotspots help 'friendly' viruses outmaneuver the bacteria in your gut",
-          "summary": "Every 15 minutes, someone in the U.S. dies from a drug-resistant superbug. A few decades from now, antibiotic-resistant bacterial infections threaten to become the leading cause of death worldwide, outpacing cancer.",
-          "url": "https://phys.org/news/2026-08-mutation-hotspots-friendly-viruses-outmaneuver.html",
-          "source": "Phys.org",
-          "date": "2026-08-13"
-        },
         {
           "title": "Scientists turn sheep’s wool into a material that helps regrow bone",
           "summary": "Keratin extracted from sheep’s wool helped damaged bone regenerate in animals, producing tissue that was more organized and structurally similar to healthy bone than tissue grown with conventional collagen scaffolds…",
@@ -26,31 +12,38 @@
           "date": "2026-08-12"
         },
         {
-          "title": "“Cannot be explained” – New super steel stuns scientists",
-          "summary": "Scientists have created an unusually corrosion-resistant stainless steel that could replace costly titanium components used to produce green hydrogen. The breakthrough could reduce structural material costs by roughly…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260811052717.htm",
-          "source": "Science Daily",
-          "date": "2026-08-11"
+          "title": "Wheat gene behind Hessian fly resistance cloned after 50-year search",
+          "summary": "Researchers at the University of Maryland and their collaborators have cloned a gene that makes wheat resistant to feeding by Hessian fly larvae and demonstrated its direct interaction with a protein produced by the…",
+          "url": "https://phys.org/news/2026-08-wheat-gene-hessian-fly-resistance.html",
+          "source": "Phys.org",
+          "date": "2026-08-14"
         },
         {
-          "title": "Layered nano-biohybrid uses sunlight, air and water to make hydrogen peroxide",
-          "summary": "A research team led by the U.S. Department of Energy's (DOE) Argonne National Laboratory has developed a new material that combines inorganic material with biological components to produce hydrogen peroxide more…",
-          "url": "https://phys.org/news/2026-08-layered-nano-biohybrid-sunlight-air.html",
+          "title": "Cell biochemistry beyond membranes: Condensate physics reveals general rules for chemical responses",
+          "summary": "Basic biology courses teach that cells contain organelles—such as the nucleus, mitochondria and Golgi apparatus—set apart by lipid membranes to get things done. Recent cell biology research has revealed another…",
+          "url": "https://phys.org/news/2026-08-cell-biochemistry-membranes-condensate-physics.html",
           "source": "Phys.org",
-          "date": "2026-08-13"
+          "date": "2026-08-14"
+        },
+        {
+          "title": "Early settlement dynamics in the Pacific revealed through ancient DNA",
+          "summary": "New genetic analyses of ancient human skeletons from western Remote Oceania are shedding light on the complex history of settlement in this vast Pacific region over the past 3,000 years. With island nations such as…",
+          "url": "https://phys.org/news/2026-08-early-settlement-dynamics-pacific-revealed.html",
+          "source": "Phys.org",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "NASA Competition Invites Students to Help Imagine a Future Enabled by Lunar Technologies",
+          "summary": "NASA is asking U.S.-based collegiate teams to&#160;submit&#160;bold, original concepts to the 2027 edition of a student challenge focused on aerospace innovation that could&#160;help the agency envision&#160;a future on…",
+          "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies/",
+          "source": "NASA",
+          "date": "2026-08-14"
         }
       ]
     },
     "Space & Astronomy": {
       "emoji": "🚀",
       "articles": [
-        {
-          "title": "On this day in space! Aug. 12, 2005: Mars Reconnaissance Orbiter launched",
-          "summary": "On Aug. 12, 2005, NASA launched its Mars Reconnaissance Orbiter (MRO) mission.",
-          "url": "https://www.space.com/space-exploration/missions/on-this-day-in-space-aug-12-2005-mars-reconnaissance-orbiter-launched",
-          "source": "Space.com",
-          "date": "2026-08-12"
-        },
         {
           "title": "JWST spots a bizarre “black hole star” 100 billion times brighter than a star",
           "summary": "Astronomers using the James Webb Space Telescope have discovered a bizarre object from just a few hundred million years after the Big Bang that looks like an enormous star but shines far too brightly to actually be one…",
@@ -66,38 +59,31 @@
           "date": "2026-08-13"
         },
         {
-          "title": "Radiation-shielding vest aced Artemis I lunar test, could protect astronauts on moon and Mars missions",
-          "summary": "A radiation-shielding vest aced its Artemis I lunar test in 2022, suggesting that it could protect astronauts on long-duration missions to the moon or Mars.",
-          "url": "https://www.space.com/space-exploration/artemis/artemis-i-radiation-vest-astrorad-protect-astronauts-moon-mars-missions",
-          "source": "Space.com",
-          "date": "2026-08-12"
+          "title": "NASA’s COFFIES Uses AI to Predict Storm-Causing Active Regions on Sun",
+          "summary": "As humanity looks to the Moon and stars for future exploration, predicting space weather — conditions in space primarily driven by the Sun — is more important than ever. Now, a team of astrophysicists and data…",
+          "url": "https://science.nasa.gov/science-research/heliophysics/nasas-coffies-uses-ai-to-predict-storm-causing-active-regions-on-sun/",
+          "source": "NASA",
+          "date": "2026-08-14"
         },
         {
-          "title": "Farthest 'black hole star' ever found could help solve the James Webb Space Telescope's little red dot mystery",
-          "summary": "A distant black hole star is providing strong evidence that these objects lie at the hearts of the mysterious little red dots found shortly after the Big Bang by the James Webb Space Telescope.",
-          "url": "https://www.space.com/astronomy/james-webb-space-telescope/farthest-black-hole-star-ever-found-could-help-solve-the-james-webb-space-telescopes-little-red-dot-mystery",
-          "source": "Space.com",
-          "date": "2026-08-12"
+          "title": "APOD: 2026 August 14 – Total Solar Eclipse from Greenland",
+          "summary": "APOD Science APOD APOD: 2026 August 14 – Total… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
+          "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-14-total-solar-eclipse-from-greenland/",
+          "source": "NASA",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "NASA’s Perseverance rover watches Earth vanish from the surface of Mars",
+          "summary": "NASA’s Perseverance rover caught a striking first from Mars: Earth disappearing behind the tiny moon Phobos. Seen from nearly 195 million miles away, our planet was reduced to a single point of light before briefly…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260812015203.htm",
+          "source": "Science Daily",
+          "date": "2026-08-13"
         }
       ]
     },
     "Animals & Nature": {
       "emoji": "🐾",
       "articles": [
-        {
-          "title": "Safe havens protect Australian mammals from invasive predators. Why aren't they working for other animal groups?",
-          "summary": "Feral cats and foxes now roam across almost all of Australia. These predators are a major reason why many species have been driven to extinction.",
-          "url": "https://phys.org/news/2026-08-safe-havens-australian-mammals-invasive.html",
-          "source": "Phys.org",
-          "date": "2026-08-13"
-        },
-        {
-          "title": "Two oceans, one country—and 20 times more sharks in the prehistoric Pacific",
-          "summary": "How many sharks should a coral reef have? It sounds like a simple question, but almost nowhere on Earth is there a reef that has not at some time been fished or otherwise affected by humans, so there is no yardstick…",
-          "url": "https://phys.org/news/2026-08-oceans-country-sharks-prehistoric-pacific.html",
-          "source": "Phys.org",
-          "date": "2026-08-13"
-        },
         {
           "title": "A 236-million-year-old fossil could rewrite the story of mammalian birth",
           "summary": "Scientists may have uncovered evidence that a mammal ancestor was giving birth to live young 236 million years ago. A fossilized cynodont showed a neonatal growth line and an unusually large birth size that closely…",
@@ -113,10 +99,24 @@
           "date": "2026-08-14"
         },
         {
-          "title": "Crocodiles can't fly. Birds can. Scientists have finally figured out why",
-          "summary": "The closest living relatives of crocodiles and alligators are, perhaps surprisingly, birds. Both are archosauriforms, a group of species that originated about 250 million years ago near the beginning of the Triassic…",
-          "url": "https://phys.org/news/2026-08-crocodiles-fly-birds-scientists-figured.html",
+          "title": "Wildfires have destroyed an area of protected tropical forest twice the size of Wales since 2001, study reveals",
+          "summary": "Over 4 million hectares (9.9 million acres) of protected tropical forest—an area double the size of Wales—have been lost to wildfires since 2001.",
+          "url": "https://phys.org/news/2026-08-wildfires-destroyed-area-tropical-forest.html",
           "source": "Phys.org",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "After commercial whaling nearly erased them, blue and fin whales are slowly reclaiming the southeast Atlantic",
+          "summary": "More than 40 years after the end of commercial whaling, new research reveals a recent increase in sightings of the world's two largest whale species in the southeastern Atlantic. The findings, published in the African…",
+          "url": "https://phys.org/news/2026-04-commercial-whaling-erased-blue-fin.html",
+          "source": "Phys.org",
+          "date": "2026-08-15"
+        },
+        {
+          "title": "Ancient Amazon civilization might have been home to millions",
+          "summary": "Laser surveys have revealed hundreds of earthworks in the Amazon. Researchers estimate the ancient Amazon civilization could have supported 3 million people. The post Ancient Amazon civilization might have been home to…",
+          "url": "https://earthsky.org/human-world/ancient-amazon-civilization-aquiry-earthworks-3-million-people/",
+          "source": "EarthSky",
           "date": "2026-08-14"
         }
       ]
@@ -125,16 +125,16 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Arctic balloon samples trace marine sugars from the ocean to cloud-forming heights",
-          "summary": "Salt and sugar from the sea can rise as far as the free troposphere, thereby influencing both cloud formation and the Arctic climate. This is the finding of balloon measurements carried out by a team of researchers on…",
-          "url": "https://phys.org/news/2026-08-arctic-balloon-samples-marine-sugars.html",
+          "title": "Engineered microbe speeds CO₂ capture and recovers critical metals",
+          "summary": "A genetically engineered bacterium can rapidly break down one of Earth's most abundant minerals, opening a promising new pathway for simultaneously removing carbon dioxide from the atmosphere and recovering critical…",
+          "url": "https://phys.org/news/2026-08-microbe-capture-recovers-critical-metals.html",
           "source": "Phys.org",
           "date": "2026-08-14"
         },
         {
-          "title": "Pacific farmers are reviving traditional knowledge to tackle a changing climate",
-          "summary": "For thousands of years, farmers in the Pacific have lived in harmony with their environment. But rising temperatures, unpredictable rainfall and tired soils are testing even the most experienced hands.",
-          "url": "https://phys.org/news/2026-08-pacific-farmers-reviving-traditional-knowledge.html",
+          "title": "X-band radar data sharpen simulation of westerly weak tornado",
+          "summary": "Tornadoes are among the most destructive weather phenomena on Earth. Their small scale, short life cycle and sudden onset make them extremely difficult to predict. This challenge is amplified for weak tornadoes embedded…",
+          "url": "https://phys.org/news/2026-08-band-radar-sharpen-simulation-westerly.html",
           "source": "Phys.org",
           "date": "2026-08-14"
         },
@@ -146,18 +146,18 @@
           "date": "2026-08-14"
         },
         {
-          "title": "Can 'digital twins' help California manage its growing flood risk?",
-          "summary": "Approximately 1.4 million Californians live in areas at high risk of flooding each year, and climate change is only driving this number up. But flood risk can be a tricky concept for residents and policymakers alike to…",
-          "url": "https://phys.org/news/2026-08-digital-twins-california.html",
+          "title": "Hurricane poised to hit Hawaii as El Niño stirs Pacific",
+          "summary": "A strengthening tropical storm named Lala is set to hit Hawaii's Big Island with hurricane-force gales on Saturday, bringing dangerous winds, rainfall and heavy surf.",
+          "url": "https://phys.org/news/2026-08-hurricane-poised-hawaii-el-nio.html",
           "source": "Phys.org",
-          "date": "2026-08-14"
+          "date": "2026-08-15"
         },
         {
-          "title": "Total solar eclipse August 12: EarthSky livestream and more",
-          "summary": "The Arctic, Greenland, Iceland and Spain will have a total solar eclipse on August 12, 2026. Parts of Europe and North America will see a partial. The post Total solar eclipse August 12: EarthSky livestream and more…",
-          "url": "https://earthsky.org/astronomy-essentials/total-solar-eclipse-visible-august-12-2026/",
-          "source": "EarthSky",
-          "date": "2026-08-12"
+          "title": "Extreme weather is making work difficult for many people. This is what needs to change",
+          "summary": "The UK has experienced several heat waves this summer—heat stress among workers is one of the biggest causes of weather-related sick leave. Very high temperatures can cause symptoms like heat rash and cramps, or even…",
+          "url": "https://phys.org/news/2026-08-extreme-weather-difficult-people.html",
+          "source": "Phys.org",
+          "date": "2026-08-15"
         }
       ]
     },
@@ -172,18 +172,11 @@
           "date": "2026-08-14"
         },
         {
-          "title": "New AI model detects hidden signs of solar eruptions hours before they emerge",
-          "summary": "Long before dark sunspots appear on the sun's surface, a new active region—where powerful solar eruptions can originate—begins showing subtle signs of its formation. Now, researchers say a new artificial intelligence…",
-          "url": "https://phys.org/news/2026-08-ai-hidden-solar-eruptions-hours.html",
+          "title": "Minnesota iron ore could be key to sustainable and lower cost semiconductor",
+          "summary": "For the first time, researchers at the University of Minnesota Twin Cities have demonstrated that the low-purity iron ore prevalent in Minnesota can be used to create semiconductor-quality iron sulfide, also known as…",
+          "url": "https://phys.org/news/2026-08-minnesota-iron-ore-key-sustainable.html",
           "source": "Phys.org",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "Quantum Latin squares cannot solve Euler's 36 officers problem without entanglement",
-          "summary": "Latin squares are arrangements of symbols in a grid in which every symbol appears exactly once in each row and column. These symbol arrangements, which were first studied more than three centuries ago, are now widely…",
-          "url": "https://phys.org/news/2026-08-quantum-latin-squares-euler-officers.html",
-          "source": "Phys.org",
-          "date": "2026-08-14"
+          "date": "2026-08-15"
         },
         {
           "title": "Quantum entanglement is key to solving 250-year-old maths problem",
@@ -198,11 +191,32 @@
       "emoji": "⚡",
       "articles": [
         {
+          "title": "Tungsten may suffer more radiation damage in fusion reactors than expected",
+          "summary": "Fusion reactors, devices that generate energy by fusing light atomic nuclei at extremely high temperatures, could contribute to ongoing efforts aimed at producing electricity more sustainably. The extreme environment…",
+          "url": "https://phys.org/news/2026-08-tungsten-fusion-reactors.html",
+          "source": "Phys.org",
+          "date": "2026-08-15"
+        },
+        {
           "title": "A strange crystal made of electrons just revealed its hidden motion",
           "summary": "Physicists have found a new way to peer inside one of matter’s most elusive quantum states: the Wigner crystal, where electrons stop behaving like independent particles and organize into a crystal-like pattern. By…",
           "url": "https://www.sciencedaily.com/releases/2026/08/260812015156.htm",
           "source": "Science Daily",
           "date": "2026-08-12"
+        },
+        {
+          "title": "Bound gravitational waves inspired by photonic systems",
+          "summary": "When one mentions \"waves,\" we immediately think of a perturbation that propagates. This applies to waves on the shore, sound waves in the air or electromagnetic waves that we use to transmit information via optical…",
+          "url": "https://phys.org/news/2026-08-bound-gravitational-photonic.html",
+          "source": "Phys.org",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "NASA’s 737 Reveals New Paint",
+          "summary": "NASA’s 737 aircraft was painted this week in Oklahoma as it progresses with modifications for use as a reduced gravity test aircraft for the agency. NASA’s Armstrong Flight Research Center in Edwards, California, took…",
+          "url": "https://www.nasa.gov/image-article/nasas-737-reveals-new-paint/",
+          "source": "NASA",
+          "date": "2026-08-13"
         },
         {
           "title": "Scientists detect a nuclear reactor’s ghostly afterglow for the first time",
