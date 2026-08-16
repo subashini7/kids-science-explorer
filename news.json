@@ -1,15 +1,15 @@
 {
-  "updated": "2026-08-15T13:30:03Z",
+  "updated": "2026-08-16T13:31:02Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "Scientists turn sheep’s wool into a material that helps regrow bone",
-          "summary": "Keratin extracted from sheep’s wool helped damaged bone regenerate in animals, producing tissue that was more organized and structurally similar to healthy bone than tissue grown with conventional collagen scaffolds…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260812015210.htm",
-          "source": "Science Daily",
-          "date": "2026-08-12"
+          "title": "Nature has spent billions of years fighting bacteria. AI could help us learn its secrets",
+          "summary": "Tiny viruses that infect bacteria could one day help us tackle infections that antibiotics can no longer treat. But first, scientists need to understand how these viruses work, and artificial intelligence could provide…",
+          "url": "https://phys.org/news/2026-08-nature-spent-billions-years-bacteria.html",
+          "source": "Phys.org",
+          "date": "2026-08-16"
         },
         {
           "title": "Wheat gene behind Hessian fly resistance cloned after 50-year search",
@@ -19,31 +19,38 @@
           "date": "2026-08-14"
         },
         {
-          "title": "Cell biochemistry beyond membranes: Condensate physics reveals general rules for chemical responses",
-          "summary": "Basic biology courses teach that cells contain organelles—such as the nucleus, mitochondria and Golgi apparatus—set apart by lipid membranes to get things done. Recent cell biology research has revealed another…",
-          "url": "https://phys.org/news/2026-08-cell-biochemistry-membranes-condensate-physics.html",
-          "source": "Phys.org",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "Early settlement dynamics in the Pacific revealed through ancient DNA",
-          "summary": "New genetic analyses of ancient human skeletons from western Remote Oceania are shedding light on the complex history of settlement in this vast Pacific region over the past 3,000 years. With island nations such as…",
-          "url": "https://phys.org/news/2026-08-early-settlement-dynamics-pacific-revealed.html",
-          "source": "Phys.org",
-          "date": "2026-08-14"
-        },
-        {
           "title": "NASA Competition Invites Students to Help Imagine a Future Enabled by Lunar Technologies",
           "summary": "NASA is asking U.S.-based collegiate teams to&#160;submit&#160;bold, original concepts to the 2027 edition of a student challenge focused on aerospace innovation that could&#160;help the agency envision&#160;a future on…",
           "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies/",
           "source": "NASA",
           "date": "2026-08-14"
+        },
+        {
+          "title": "This 10-cent heart drug cuts hospitalizations by 25%",
+          "summary": "A centuries-old heart drug costing less than ten cents a day could help keep heart-failure patients out of the hospital. New research suggests low-dose digoxin can reduce heart-failure hospitalizations by about 25%…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260814235858.htm",
+          "source": "Science Daily",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "Common food preservative linked to rising suicide deaths among young people",
+          "summary": "A widely available food-preservation chemical is emerging as a disturbing factor in rising UK suicide deaths, particularly among younger people and men. Researchers say the scale may be underestimated and are calling…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260813045557.htm",
+          "source": "Science Daily",
+          "date": "2026-08-15"
         }
       ]
     },
     "Space & Astronomy": {
       "emoji": "🚀",
       "articles": [
+        {
+          "title": "Swift spacecraft, and a mission to save it, caught on video",
+          "summary": "The Swift space telescope is falling back to Earth. The LINK spacecraft is trying to save it. See both in orbit in a new video. The post Swift spacecraft, and a mission to save it, caught on video first appeared on…",
+          "url": "https://earthsky.org/space/swift-spacecraft-boost-plunging-back-to-earth/",
+          "source": "EarthSky",
+          "date": "2026-08-16"
+        },
         {
           "title": "JWST spots a bizarre “black hole star” 100 billion times brighter than a star",
           "summary": "Astronomers using the James Webb Space Telescope have discovered a bizarre object from just a few hundred million years after the Big Bang that looks like an enormous star but shines far too brightly to actually be one…",
@@ -71,13 +78,6 @@
           "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-14-total-solar-eclipse-from-greenland/",
           "source": "NASA",
           "date": "2026-08-14"
-        },
-        {
-          "title": "NASA’s Perseverance rover watches Earth vanish from the surface of Mars",
-          "summary": "NASA’s Perseverance rover caught a striking first from Mars: Earth disappearing behind the tiny moon Phobos. Seen from nearly 195 million miles away, our planet was reduced to a single point of light before briefly…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260812015203.htm",
-          "source": "Science Daily",
-          "date": "2026-08-13"
         }
       ]
     },
@@ -92,18 +92,11 @@
           "date": "2026-08-13"
         },
         {
-          "title": "Paleontology rocked by organic molecules found in 66-million-year-old dinosaur bones",
-          "summary": "Researchers have found strong evidence that original collagen can survive inside dinosaur fossils for tens of millions of years, overturning a long-standing assumption about fossilization. The discovery could unlock…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260811053042.htm",
+          "title": "A new Ice Age species was hiding in la brea tar pits fossils for decades",
+          "summary": "Scientists have discovered a new extinct amphibian species hiding in the fossil collections of Los Angeles’ La Brea Tar Pits. Named Spea labreae, the Ice Age spadefoot toad is an exceptionally rare find—only one other…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260814235837.htm",
           "source": "Science Daily",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "Wildfires have destroyed an area of protected tropical forest twice the size of Wales since 2001, study reveals",
-          "summary": "Over 4 million hectares (9.9 million acres) of protected tropical forest—an area double the size of Wales—have been lost to wildfires since 2001.",
-          "url": "https://phys.org/news/2026-08-wildfires-destroyed-area-tropical-forest.html",
-          "source": "Phys.org",
-          "date": "2026-08-14"
+          "date": "2026-08-16"
         },
         {
           "title": "After commercial whaling nearly erased them, blue and fin whales are slowly reclaiming the southeast Atlantic",
@@ -118,6 +111,13 @@
           "url": "https://earthsky.org/human-world/ancient-amazon-civilization-aquiry-earthworks-3-million-people/",
           "source": "EarthSky",
           "date": "2026-08-14"
+        },
+        {
+          "title": "Fishers detonate a bomb every hour on one Indonesian coral reef",
+          "summary": "The use of explosives to kill fish is widespread across the tropics, and acoustic monitoring in an Indonesian archipelago detected more than 3500 explosions in 483 days",
+          "url": "https://www.newscientist.com/article/2584701-fishers-detonate-a-bomb-every-hour-on-one-indonesian-coral-reef/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-08-14"
         }
       ]
     },
@@ -125,18 +125,11 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Engineered microbe speeds CO₂ capture and recovers critical metals",
-          "summary": "A genetically engineered bacterium can rapidly break down one of Earth's most abundant minerals, opening a promising new pathway for simultaneously removing carbon dioxide from the atmosphere and recovering critical…",
-          "url": "https://phys.org/news/2026-08-microbe-capture-recovers-critical-metals.html",
-          "source": "Phys.org",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "X-band radar data sharpen simulation of westerly weak tornado",
-          "summary": "Tornadoes are among the most destructive weather phenomena on Earth. Their small scale, short life cycle and sudden onset make them extremely difficult to predict. This challenge is amplified for weak tornadoes embedded…",
-          "url": "https://phys.org/news/2026-08-band-radar-sharpen-simulation-westerly.html",
-          "source": "Phys.org",
-          "date": "2026-08-14"
+          "title": "Scientists detect a surprising shift in human blood as atmospheric CO2 rises",
+          "summary": "Rising carbon dioxide in the atmosphere may be leaving a measurable imprint inside the human body. Researchers analyzing more than two decades of U.S. health data found that blood bicarbonate levels have climbed about…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260814235845.htm",
+          "source": "Science Daily",
+          "date": "2026-08-15"
         },
         {
           "title": "The Atlantic Ocean can handle more warming than expected — with one big catch",
@@ -158,6 +151,13 @@
           "url": "https://phys.org/news/2026-08-extreme-weather-difficult-people.html",
           "source": "Phys.org",
           "date": "2026-08-15"
+        },
+        {
+          "title": "Magnitude 7.7 earthquake strikes off coast of Indonesia and tsunami warning issued",
+          "summary": "A powerful magnitude 7.7 earthquake struck off the coast of Indonesia early Saturday, damaging buildings and homes, and triggering a tsunami warning. Authorities urged people on affected coastlines to move to higher…",
+          "url": "https://phys.org/news/2026-08-magnitude-earthquake-coast-indonesia-tsunami.html",
+          "source": "Phys.org",
+          "date": "2026-08-15"
         }
       ]
     },
@@ -170,6 +170,13 @@
           "url": "https://www.sciencedaily.com/releases/2026/08/260814011041.htm",
           "source": "Science Daily",
           "date": "2026-08-14"
+        },
+        {
+          "title": "Why AI training can backfire for older workers",
+          "summary": "Employers are increasingly investing in training to prepare their employees for artificial intelligence (AI). Training budgets are growing, and \"upskilling\" has become a common response to rapid technological change.",
+          "url": "https://phys.org/news/2026-08-ai-backfire-older-workers.html",
+          "source": "Phys.org",
+          "date": "2026-08-16"
         },
         {
           "title": "Minnesota iron ore could be key to sustainable and lower cost semiconductor",
@@ -198,18 +205,11 @@
           "date": "2026-08-15"
         },
         {
-          "title": "A strange crystal made of electrons just revealed its hidden motion",
-          "summary": "Physicists have found a new way to peer inside one of matter’s most elusive quantum states: the Wigner crystal, where electrons stop behaving like independent particles and organize into a crystal-like pattern. By…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260812015156.htm",
-          "source": "Science Daily",
-          "date": "2026-08-12"
-        },
-        {
-          "title": "Bound gravitational waves inspired by photonic systems",
-          "summary": "When one mentions \"waves,\" we immediately think of a perturbation that propagates. This applies to waves on the shore, sound waves in the air or electromagnetic waves that we use to transmit information via optical…",
-          "url": "https://phys.org/news/2026-08-bound-gravitational-photonic.html",
+          "title": "Early-universe plasma may have stopped dark photons from heating cosmos",
+          "summary": "A new paper published in Physical Review Letters reveals that a leading dark matter candidate—the hypothetical \"dark photon\"—would not have heated the early universe as previously thought. The finding opens a vast…",
+          "url": "https://phys.org/news/2026-08-early-universe-plasma-dark-photons.html",
           "source": "Phys.org",
-          "date": "2026-08-14"
+          "date": "2026-08-15"
         },
         {
           "title": "NASA’s 737 Reveals New Paint",
@@ -224,6 +224,13 @@
           "url": "https://www.sciencedaily.com/releases/2026/08/260814011036.htm",
           "source": "Science Daily",
           "date": "2026-08-14"
+        },
+        {
+          "title": "Centuries-old physics test could help detect millicharged particles",
+          "summary": "Theoretical physicists have long predicted the existence of millicharged particles (mCPs), hypothetical particles that carry a very small electric charge. These particles are expected to interact very weakly with…",
+          "url": "https://phys.org/news/2026-08-centuries-physics-millicharged-particles.html",
+          "source": "Phys.org",
+          "date": "2026-08-16"
         }
       ]
     }
