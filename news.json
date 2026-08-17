@@ -1,22 +1,15 @@
 {
-  "updated": "2026-08-16T13:31:02Z",
+  "updated": "2026-08-17T13:38:36Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "Nature has spent billions of years fighting bacteria. AI could help us learn its secrets",
-          "summary": "Tiny viruses that infect bacteria could one day help us tackle infections that antibiotics can no longer treat. But first, scientists need to understand how these viruses work, and artificial intelligence could provide…",
-          "url": "https://phys.org/news/2026-08-nature-spent-billions-years-bacteria.html",
+          "title": "Radio telescopes help scientists map molecules in space and uncover where and how stars form",
+          "summary": "You may have heard the phrase \"we are made of star-stuff.\" This statement by the astronomer Carl Sagan refers to the fact that elements heavier than hydrogen and helium were forged in the centers of the first stars. But…",
+          "url": "https://phys.org/news/2026-08-radio-telescopes-scientists-molecules-space.html",
           "source": "Phys.org",
           "date": "2026-08-16"
-        },
-        {
-          "title": "Wheat gene behind Hessian fly resistance cloned after 50-year search",
-          "summary": "Researchers at the University of Maryland and their collaborators have cloned a gene that makes wheat resistant to feeding by Hessian fly larvae and demonstrated its direct interaction with a protein produced by the…",
-          "url": "https://phys.org/news/2026-08-wheat-gene-hessian-fly-resistance.html",
-          "source": "Phys.org",
-          "date": "2026-08-14"
         },
         {
           "title": "NASA Competition Invites Students to Help Imagine a Future Enabled by Lunar Technologies",
@@ -26,6 +19,13 @@
           "date": "2026-08-14"
         },
         {
+          "title": "Scientists turn DNA into a memory device that uses 100x less power",
+          "summary": "Researchers combined synthetic DNA with a semiconductor to create an ultra-low-power memory device capable of storing and processing information in the same place. The bio-hybrid technology could eventually help make AI…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260816044853.htm",
+          "source": "Science Daily",
+          "date": "2026-08-17"
+        },
+        {
           "title": "This 10-cent heart drug cuts hospitalizations by 25%",
           "summary": "A centuries-old heart drug costing less than ten cents a day could help keep heart-failure patients out of the hospital. New research suggests low-dose digoxin can reduce heart-failure hospitalizations by about 25%…",
           "url": "https://www.sciencedaily.com/releases/2026/08/260814235858.htm",
@@ -33,17 +33,24 @@
           "date": "2026-08-16"
         },
         {
-          "title": "Common food preservative linked to rising suicide deaths among young people",
-          "summary": "A widely available food-preservation chemical is emerging as a disturbing factor in rising UK suicide deaths, particularly among younger people and men. Researchers say the scale may be underestimated and are calling…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260813045557.htm",
+          "title": "A little-known protein may be fueling Alzheimer’s — and scientists found a way to block it",
+          "summary": "An experimental Alzheimer’s compound prevented damaging protein clumps from forming in the brains of mice, helping nerve cells survive longer and reducing amyloid buildup. The treatment also appeared to improve heart…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260814235856.htm",
           "source": "Science Daily",
-          "date": "2026-08-15"
+          "date": "2026-08-17"
         }
       ]
     },
     "Space & Astronomy": {
       "emoji": "🚀",
       "articles": [
+        {
+          "title": "NASA funds spherical 'Aerobots' that could explore the caves of Saturn's moon Titan",
+          "summary": "An early-stage grant is offering a look at spherical 'Aerobots' that could zoom around the caves of Titan, in a demo mission similar to Mars Ingenuity.",
+          "url": "https://www.space.com/technology/nasa-funds-spherical-aerobots-that-could-explore-the-caves-of-saturns-moon-titan",
+          "source": "Space.com",
+          "date": "2026-08-16"
+        },
         {
           "title": "Swift spacecraft, and a mission to save it, caught on video",
           "summary": "The Swift space telescope is falling back to Earth. The LINK spacecraft is trying to save it. See both in orbit in a new video. The post Swift spacecraft, and a mission to save it, caught on video first appeared on…",
@@ -52,18 +59,11 @@
           "date": "2026-08-16"
         },
         {
-          "title": "JWST spots a bizarre “black hole star” 100 billion times brighter than a star",
-          "summary": "Astronomers using the James Webb Space Telescope have discovered a bizarre object from just a few hundred million years after the Big Bang that looks like an enormous star but shines far too brightly to actually be one…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260813045538.htm",
-          "source": "Science Daily",
-          "date": "2026-08-13"
-        },
-        {
-          "title": "How to image the planets with a telescope and camera",
-          "summary": "Follow our step-by-step tutorial to photographing Jupiter, Saturn, Mars and Venus",
-          "url": "https://www.space.com/stargazing/skywatching-kit/how-to-image-the-planets-with-a-telescope-and-camera",
-          "source": "Space.com",
-          "date": "2026-08-13"
+          "title": "Japan aims for the moons of Mars",
+          "summary": "Japanese scientists are readying a mission to Mars' moons to retrieve samples that may unlock the origins of the solar system and life on Earth, although a rival Chinese mission aims to make it back first.",
+          "url": "https://phys.org/news/2026-08-japan-aims-moons-mars.html",
+          "source": "Phys.org",
+          "date": "2026-08-16"
         },
         {
           "title": "NASA’s COFFIES Uses AI to Predict Storm-Causing Active Regions on Sun",
@@ -73,10 +73,10 @@
           "date": "2026-08-14"
         },
         {
-          "title": "APOD: 2026 August 14 – Total Solar Eclipse from Greenland",
-          "summary": "APOD Science APOD APOD: 2026 August 14 – Total… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
-          "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-14-total-solar-eclipse-from-greenland/",
-          "source": "NASA",
+          "title": "Water can survive surprisingly close to the Milky Way's supermassive black hole, James Webb Space Telescope finds",
+          "summary": "Water and cosmic dust can survive in the harsh environment near Sagittarius A*, new observations reveal.",
+          "url": "https://www.space.com/astronomy/james-webb-space-telescope/water-can-survive-surprisingly-close-to-the-milky-ways-supermassive-black-hole-james-webb-space-telescope-finds",
+          "source": "Space.com",
           "date": "2026-08-14"
         }
       ]
@@ -85,39 +85,39 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "A 236-million-year-old fossil could rewrite the story of mammalian birth",
-          "summary": "Scientists may have uncovered evidence that a mammal ancestor was giving birth to live young 236 million years ago. A fossilized cynodont showed a neonatal growth line and an unusually large birth size that closely…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260813045534.htm",
+          "title": "Tiny 1.7-billion-year-old fossils could reveal how complex life began",
+          "summary": "Scientists are searching some of Earth’s oldest rocks for tiny fossils that could reveal how simple microbial life made the extraordinary leap toward plants, animals, and other complex organisms. Solving that ancient…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260815064811.htm",
           "source": "Science Daily",
-          "date": "2026-08-13"
+          "date": "2026-08-17"
         },
         {
-          "title": "A new Ice Age species was hiding in la brea tar pits fossils for decades",
-          "summary": "Scientists have discovered a new extinct amphibian species hiding in the fossil collections of Los Angeles’ La Brea Tar Pits. Named Spea labreae, the Ice Age spadefoot toad is an exceptionally rare find—only one other…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260814235837.htm",
+          "title": "Animals have been eating nature’s original bioplastic for millions of years",
+          "summary": "Nature invented biodegradable plastic long before humans did—and animals may have been feeding on it for hundreds of millions of years. Researchers discovered that dozens of animal species possess enzymes capable of…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260815064759.htm",
           "source": "Science Daily",
-          "date": "2026-08-16"
+          "date": "2026-08-17"
         },
         {
-          "title": "After commercial whaling nearly erased them, blue and fin whales are slowly reclaiming the southeast Atlantic",
-          "summary": "More than 40 years after the end of commercial whaling, new research reveals a recent increase in sightings of the world's two largest whale species in the southeastern Atlantic. The findings, published in the African…",
-          "url": "https://phys.org/news/2026-04-commercial-whaling-erased-blue-fin.html",
+          "title": "Amber fossil reveals firefly relative with unprecedented antennae",
+          "summary": "Insects rely on a wide range of strategies to sense their surroundings and communicate with their peers. Fireflies (Lampyridae) and some related beetles are known for their ability to produce visible light through…",
+          "url": "https://phys.org/news/2026-08-amber-fossil-reveals-firefly-unprecedented.html",
           "source": "Phys.org",
-          "date": "2026-08-15"
+          "date": "2026-08-17"
         },
         {
-          "title": "Ancient Amazon civilization might have been home to millions",
-          "summary": "Laser surveys have revealed hundreds of earthworks in the Amazon. Researchers estimate the ancient Amazon civilization could have supported 3 million people. The post Ancient Amazon civilization might have been home to…",
-          "url": "https://earthsky.org/human-world/ancient-amazon-civilization-aquiry-earthworks-3-million-people/",
-          "source": "EarthSky",
-          "date": "2026-08-14"
+          "title": "Flightless beetles evolved distinct snail-hunting shapes on Japan's largest island",
+          "summary": "Islands are widely recognized as natural laboratories of evolution. The ocean restricts movement among islands, allowing isolated populations to adapt to different environments and, at times, diverge into new species…",
+          "url": "https://phys.org/news/2026-08-flightless-beetles-evolved-distinct-snail.html",
+          "source": "Phys.org",
+          "date": "2026-08-17"
         },
         {
-          "title": "Fishers detonate a bomb every hour on one Indonesian coral reef",
-          "summary": "The use of explosives to kill fish is widespread across the tropics, and acoustic monitoring in an Indonesian archipelago detected more than 3500 explosions in 483 days",
-          "url": "https://www.newscientist.com/article/2584701-fishers-detonate-a-bomb-every-hour-on-one-indonesian-coral-reef/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-08-14"
+          "title": "Phytophthora dieback linked to habitat loss and lower digging activity among quendas in Western Australia",
+          "summary": "A new study from Murdoch University has found that the introduced plant disease Phytophthora dieback is indirectly hindering quendas in Western Australia's jarrah forests by reducing their habitat quality and…",
+          "url": "https://phys.org/news/2026-08-phytophthora-dieback-linked-habitat-loss.html",
+          "source": "Phys.org",
+          "date": "2026-08-16"
         }
       ]
     },
@@ -139,25 +139,25 @@
           "date": "2026-08-14"
         },
         {
-          "title": "Hurricane poised to hit Hawaii as El Niño stirs Pacific",
-          "summary": "A strengthening tropical storm named Lala is set to hit Hawaii's Big Island with hurricane-force gales on Saturday, bringing dangerous winds, rainfall and heavy surf.",
-          "url": "https://phys.org/news/2026-08-hurricane-poised-hawaii-el-nio.html",
+          "title": "Hawaii recovery efforts begin as Lala is downgraded, moves west",
+          "summary": "Clean-up efforts were underway Sunday as Hurricane Lala, which was downgraded to a tropical storm, rolled past Hawaii's Big Island and dumped heavy rain across the U.S. Pacific state.",
+          "url": "https://phys.org/news/2026-08-hawaii-recovery-efforts-lala-downgraded.html",
           "source": "Phys.org",
-          "date": "2026-08-15"
+          "date": "2026-08-17"
         },
         {
-          "title": "Extreme weather is making work difficult for many people. This is what needs to change",
-          "summary": "The UK has experienced several heat waves this summer—heat stress among workers is one of the biggest causes of weather-related sick leave. Very high temperatures can cause symptoms like heat rash and cramps, or even…",
-          "url": "https://phys.org/news/2026-08-extreme-weather-difficult-people.html",
+          "title": "Hurricane Lala pulls away from Hawaii's Big Island",
+          "summary": "Hurricane Lala was pulling away from Hawaii's Big Island early Sunday as heavy rain and strong winds struck the U.S. Pacific state and officials warned of potentially dangerous flooding.",
+          "url": "https://phys.org/news/2026-08-hurricane-lala-hawaii-big-island.html",
           "source": "Phys.org",
-          "date": "2026-08-15"
+          "date": "2026-08-16"
         },
         {
-          "title": "Magnitude 7.7 earthquake strikes off coast of Indonesia and tsunami warning issued",
-          "summary": "A powerful magnitude 7.7 earthquake struck off the coast of Indonesia early Saturday, damaging buildings and homes, and triggering a tsunami warning. Authorities urged people on affected coastlines to move to higher…",
-          "url": "https://phys.org/news/2026-08-magnitude-earthquake-coast-indonesia-tsunami.html",
+          "title": "Chinese ship sets off for Europe through Arctic, halving travel time",
+          "summary": "A Chinese container vessel has set sail for Europe through the Arctic as part of a new weekly service on a route that cuts shipment times in half but that environmental groups warn could speed up the melting of polar…",
+          "url": "https://phys.org/news/2026-08-chinese-ship-europe-arctic-halving.html",
           "source": "Phys.org",
-          "date": "2026-08-15"
+          "date": "2026-08-16"
         }
       ]
     },
@@ -172,6 +172,13 @@
           "date": "2026-08-14"
         },
         {
+          "title": "Caltech breakthrough brings fiber-optic performance to silicon chips",
+          "summary": "Caltech scientists have created ultra-low-loss optical pathways on silicon chips that approach the efficiency of fiber optics and dramatically outperform existing technology at visible wavelengths. The breakthrough…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260814235905.htm",
+          "source": "Science Daily",
+          "date": "2026-08-17"
+        },
+        {
           "title": "Why AI training can backfire for older workers",
           "summary": "Employers are increasingly investing in training to prepare their employees for artificial intelligence (AI). Training budgets are growing, and \"upskilling\" has become a common response to rapid technological change.",
           "url": "https://phys.org/news/2026-08-ai-backfire-older-workers.html",
@@ -179,45 +186,17 @@
           "date": "2026-08-16"
         },
         {
-          "title": "Minnesota iron ore could be key to sustainable and lower cost semiconductor",
-          "summary": "For the first time, researchers at the University of Minnesota Twin Cities have demonstrated that the low-purity iron ore prevalent in Minnesota can be used to create semiconductor-quality iron sulfide, also known as…",
-          "url": "https://phys.org/news/2026-08-minnesota-iron-ore-key-sustainable.html",
-          "source": "Phys.org",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "Quantum entanglement is key to solving 250-year-old maths problem",
-          "summary": "Analysis of a mathematical puzzle that Leonhard Euler deemed unsolvable in the 1700s reveals that the crucial ingredient for cracking it after all is quantum entanglement",
-          "url": "https://www.newscientist.com/article/2584226-quantum-entanglement-is-key-to-solving-300-year-old-maths-problem/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "title": "Quantum computing may be facing a replication crisis",
+          "summary": "A review of thousands of scientific papers about quantum computers finds that most don’t provide code that can be tested on independent devices or that the code doesn’t work",
+          "url": "https://www.newscientist.com/article/2584476-quantum-computing-may-be-facing-a-replication-crisis/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
-          "date": "2026-08-13"
+          "date": "2026-08-17"
         }
       ]
     },
     "Physics": {
       "emoji": "⚡",
       "articles": [
-        {
-          "title": "Tungsten may suffer more radiation damage in fusion reactors than expected",
-          "summary": "Fusion reactors, devices that generate energy by fusing light atomic nuclei at extremely high temperatures, could contribute to ongoing efforts aimed at producing electricity more sustainably. The extreme environment…",
-          "url": "https://phys.org/news/2026-08-tungsten-fusion-reactors.html",
-          "source": "Phys.org",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "Early-universe plasma may have stopped dark photons from heating cosmos",
-          "summary": "A new paper published in Physical Review Letters reveals that a leading dark matter candidate—the hypothetical \"dark photon\"—would not have heated the early universe as previously thought. The finding opens a vast…",
-          "url": "https://phys.org/news/2026-08-early-universe-plasma-dark-photons.html",
-          "source": "Phys.org",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "NASA’s 737 Reveals New Paint",
-          "summary": "NASA’s 737 aircraft was painted this week in Oklahoma as it progresses with modifications for use as a reduced gravity test aircraft for the agency. NASA’s Armstrong Flight Research Center in Edwards, California, took…",
-          "url": "https://www.nasa.gov/image-article/nasas-737-reveals-new-paint/",
-          "source": "NASA",
-          "date": "2026-08-13"
-        },
         {
           "title": "Scientists detect a nuclear reactor’s ghostly afterglow for the first time",
           "summary": "Nuclear reactors may go dark, but their fuel continues producing a faint antineutrino “glow” long after shutdown. Researchers have now detected that residual signal for the first time, finding it closely matched…",
@@ -226,9 +205,23 @@
           "date": "2026-08-14"
         },
         {
-          "title": "Centuries-old physics test could help detect millicharged particles",
-          "summary": "Theoretical physicists have long predicted the existence of millicharged particles (mCPs), hypothetical particles that carry a very small electric charge. These particles are expected to interact very weakly with…",
-          "url": "https://phys.org/news/2026-08-centuries-physics-millicharged-particles.html",
+          "title": "Dark matter may be gravitationally lensing a likely source of cosmic neutrinos",
+          "summary": "Astronomers have discovered that the jet of a distant blazar has been gravitationally lensed by an unseen source of dark matter. Led by Silke Britzen at the Max Planck Institute for Radio Astronomy in Germany, the…",
+          "url": "https://phys.org/news/2026-08-dark-gravitationally-lensing-source-cosmic.html",
+          "source": "Phys.org",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "Scientists reveal why walking gets so much harder with age",
+          "summary": "As we age, the body appears to sacrifice walking efficiency in exchange for stability. Older adults stiffen the ankle more with each step, which may help prevent falls but also forces the muscles to work harder while…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260815065014.htm",
+          "source": "Science Daily",
+          "date": "2026-08-16"
+        },
+        {
+          "title": "Strain flips Hall signal in altermagnetic manganese telluride, suggesting a path to practical spintronics",
+          "summary": "Time-reversal symmetry is an exotic behavior found in systems whose internal physics looks different when running forward versus backward in time. For some time, physicists have searched for this behavior in systems…",
+          "url": "https://phys.org/news/2026-08-strain-flips-hall-altermagnetic-manganese.html",
           "source": "Phys.org",
           "date": "2026-08-16"
         }
