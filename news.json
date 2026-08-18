@@ -1,22 +1,22 @@
 {
-  "updated": "2026-08-17T13:38:36Z",
+  "updated": "2026-08-18T13:41:31Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "Radio telescopes help scientists map molecules in space and uncover where and how stars form",
-          "summary": "You may have heard the phrase \"we are made of star-stuff.\" This statement by the astronomer Carl Sagan refers to the fact that elements heavier than hydrogen and helium were forged in the centers of the first stars. But…",
-          "url": "https://phys.org/news/2026-08-radio-telescopes-scientists-molecules-space.html",
+          "title": "Molecular electromagnetic sensor may enable remote-controlled gene therapy",
+          "summary": "The deoxyribonucleic acid (DNA) of living organisms contains regulatory elements that control when, where and to what extent specific genes are turned on or off. They can be co-opted to create \"gene switches\" that hold…",
+          "url": "https://phys.org/news/2026-08-molecular-electromagnetic-sensor-enable-remote.html",
           "source": "Phys.org",
-          "date": "2026-08-16"
+          "date": "2026-08-17"
         },
         {
-          "title": "NASA Competition Invites Students to Help Imagine a Future Enabled by Lunar Technologies",
-          "summary": "NASA is asking U.S.-based collegiate teams to&#160;submit&#160;bold, original concepts to the 2027 edition of a student challenge focused on aerospace innovation that could&#160;help the agency envision&#160;a future on…",
-          "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies/",
+          "title": "Next Generation of Planetary Scientists Learn Public Engagement Skills",
+          "summary": "FORCE is a world-class laboratory that uses high-pressure experimental equipment to recreate the extreme conditions found deep within Earth and other planetary bodies, enabling researchers to better understand how…",
+          "url": "https://science.nasa.gov/learning-resources/science-activation/next-generation-of-planetary-scientists-learn-public-engagement-skills/",
           "source": "NASA",
-          "date": "2026-08-14"
+          "date": "2026-08-17"
         },
         {
           "title": "Scientists turn DNA into a memory device that uses 100x less power",
@@ -45,6 +45,20 @@
       "emoji": "🚀",
       "articles": [
         {
+          "title": "Colorful Collage of Tarantula Nebula",
+          "summary": "Data from NASA’s Chandra X-ray Observatory, NASA’s James Webb Space Telescope, and NASA’s Hubble Space Telescope combine to reveal a vibrant view of 30 Doradus, or the Tarantula Nebula, in this Aug. 11, 2026, image…",
+          "url": "https://www.nasa.gov/image-article/colorful-collage-of-tarantula-nebula/",
+          "source": "NASA",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "Scientists find dead star that predicts our sun's future: 'Broken apart and returned to the galaxy'",
+          "summary": "A composite image of data from the Hubble Space Telescope, the Kitt Peak four-meter telescope and MOTHRA reveal the Helix Nebula. We can see the bow shocks, particularly on the left.",
+          "url": "https://www.space.com/astronomy/stars/scientists-find-dead-star-that-predicts-our-suns-future-broken-apart-and-returned-to-the-galaxy",
+          "source": "Space.com",
+          "date": "2026-08-17"
+        },
+        {
           "title": "NASA funds spherical 'Aerobots' that could explore the caves of Saturn's moon Titan",
           "summary": "An early-stage grant is offering a look at spherical 'Aerobots' that could zoom around the caves of Titan, in a demo mission similar to Mars Ingenuity.",
           "url": "https://www.space.com/technology/nasa-funds-spherical-aerobots-that-could-explore-the-caves-of-saturns-moon-titan",
@@ -59,25 +73,11 @@
           "date": "2026-08-16"
         },
         {
-          "title": "Japan aims for the moons of Mars",
-          "summary": "Japanese scientists are readying a mission to Mars' moons to retrieve samples that may unlock the origins of the solar system and life on Earth, although a rival Chinese mission aims to make it back first.",
-          "url": "https://phys.org/news/2026-08-japan-aims-moons-mars.html",
+          "title": "Webb captures clearest image yet of the Lion Nebula",
+          "summary": "The NASA/ESA/CSA James Webb Space Telescope recently imaged NGC 2392 (also known as the Lion Nebula), named for its distinctive appearance, which resembles a lion's face seen head-on.",
+          "url": "https://phys.org/news/2026-08-webb-captures-clearest-image-lion.html",
           "source": "Phys.org",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "NASA’s COFFIES Uses AI to Predict Storm-Causing Active Regions on Sun",
-          "summary": "As humanity looks to the Moon and stars for future exploration, predicting space weather — conditions in space primarily driven by the Sun — is more important than ever. Now, a team of astrophysicists and data…",
-          "url": "https://science.nasa.gov/science-research/heliophysics/nasas-coffies-uses-ai-to-predict-storm-causing-active-regions-on-sun/",
-          "source": "NASA",
-          "date": "2026-08-14"
-        },
-        {
-          "title": "Water can survive surprisingly close to the Milky Way's supermassive black hole, James Webb Space Telescope finds",
-          "summary": "Water and cosmic dust can survive in the harsh environment near Sagittarius A*, new observations reveal.",
-          "url": "https://www.space.com/astronomy/james-webb-space-telescope/water-can-survive-surprisingly-close-to-the-milky-ways-supermassive-black-hole-james-webb-space-telescope-finds",
-          "source": "Space.com",
-          "date": "2026-08-14"
+          "date": "2026-08-18"
         }
       ]
     },
@@ -99,31 +99,38 @@
           "date": "2026-08-17"
         },
         {
-          "title": "Amber fossil reveals firefly relative with unprecedented antennae",
-          "summary": "Insects rely on a wide range of strategies to sense their surroundings and communicate with their peers. Fireflies (Lampyridae) and some related beetles are known for their ability to produce visible light through…",
-          "url": "https://phys.org/news/2026-08-amber-fossil-reveals-firefly-unprecedented.html",
+          "title": "Billions of invasive round goby are in the Great Lakes. Researchers want to stop them from spreading inland",
+          "summary": "For decades, the round goby has been one of the Great Lakes' most destructive invasive species. Scientists estimate its population numbers in the billions, making eradication unrealistic.",
+          "url": "https://phys.org/news/2026-08-billions-invasive-goby-great-lakes.html",
           "source": "Phys.org",
-          "date": "2026-08-17"
+          "date": "2026-08-18"
         },
         {
-          "title": "Flightless beetles evolved distinct snail-hunting shapes on Japan's largest island",
-          "summary": "Islands are widely recognized as natural laboratories of evolution. The ocean restricts movement among islands, allowing isolated populations to adapt to different environments and, at times, diverge into new species…",
-          "url": "https://phys.org/news/2026-08-flightless-beetles-evolved-distinct-snail.html",
-          "source": "Phys.org",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "Phytophthora dieback linked to habitat loss and lower digging activity among quendas in Western Australia",
-          "summary": "A new study from Murdoch University has found that the introduced plant disease Phytophthora dieback is indirectly hindering quendas in Western Australia's jarrah forests by reducing their habitat quality and…",
-          "url": "https://phys.org/news/2026-08-phytophthora-dieback-linked-habitat-loss.html",
-          "source": "Phys.org",
+          "title": "A new Ice Age species was hiding in la brea tar pits fossils for decades",
+          "summary": "Scientists have discovered a new extinct amphibian species hiding in the fossil collections of Los Angeles’ La Brea Tar Pits. Named Spea labreae, the Ice Age spadefoot toad is an exceptionally rare find—only one other…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260814235837.htm",
+          "source": "Science Daily",
           "date": "2026-08-16"
+        },
+        {
+          "title": "How body size and habitat shape the vocal repertoires of primates",
+          "summary": "Biologists, zoologists and psychologists have been trying to trace the origins of human language for centuries. One well-known theory, known as the social brain hypothesis, suggests that increasingly complex social…",
+          "url": "https://phys.org/news/2026-08-body-size-habitat-vocal-repertoires.html",
+          "source": "Phys.org",
+          "date": "2026-08-18"
         }
       ]
     },
     "Earth & Climate": {
       "emoji": "🌍",
       "articles": [
+        {
+          "title": "Aerial imagery maps hurricane wind damage and shows stronger building codes work",
+          "summary": "Massive storms like Hurricane Katrina in 2005, which caused more than $100 billion in damage, were once considered lifetime events. Increasingly, however, they are becoming the norm: a direct result of climate change…",
+          "url": "https://phys.org/news/2026-08-aerial-imagery-hurricane-stronger-codes.html",
+          "source": "Phys.org",
+          "date": "2026-08-18"
+        },
         {
           "title": "Scientists detect a surprising shift in human blood as atmospheric CO2 rises",
           "summary": "Rising carbon dioxide in the atmosphere may be leaving a measurable imprint inside the human body. Researchers analyzing more than two decades of U.S. health data found that blood bicarbonate levels have climbed about…",
@@ -132,45 +139,31 @@
           "date": "2026-08-15"
         },
         {
-          "title": "The Atlantic Ocean can handle more warming than expected — with one big catch",
-          "summary": "Scientists have found that the AMOC may be far more vulnerable to rapid warming than to temperature alone. When warming happens slowly, the ocean can adapt, but at faster rates similar to today’s, the massive Atlantic…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260814011031.htm",
-          "source": "Science Daily",
-          "date": "2026-08-14"
+          "title": "Soot spikes from traffic and holiday bonfires emerge in Addis Ababa air record",
+          "summary": "An air pollution monitoring network has provided one of the most detailed long-term views yet of the role of black carbon, or soot produced by fires, diesel vehicles and other combustion sources, in Ethiopia's capital…",
+          "url": "https://phys.org/news/2026-08-soot-spikes-traffic-holiday-bonfires.html",
+          "source": "Phys.org",
+          "date": "2026-08-18"
         },
         {
-          "title": "Hawaii recovery efforts begin as Lala is downgraded, moves west",
-          "summary": "Clean-up efforts were underway Sunday as Hurricane Lala, which was downgraded to a tropical storm, rolled past Hawaii's Big Island and dumped heavy rain across the U.S. Pacific state.",
-          "url": "https://phys.org/news/2026-08-hawaii-recovery-efforts-lala-downgraded.html",
+          "title": "Trying to compete with China could slow global climate action, report warns",
+          "summary": "China's dominance of key green technologies is helping to subsidize the global transition to a low-carbon economy, but trade tensions could make it harder for other countries to meet their climate targets, according to…",
+          "url": "https://phys.org/news/2026-08-china-global-climate-action.html",
           "source": "Phys.org",
           "date": "2026-08-17"
         },
         {
-          "title": "Hurricane Lala pulls away from Hawaii's Big Island",
-          "summary": "Hurricane Lala was pulling away from Hawaii's Big Island early Sunday as heavy rain and strong winds struck the U.S. Pacific state and officials warned of potentially dangerous flooding.",
-          "url": "https://phys.org/news/2026-08-hurricane-lala-hawaii-big-island.html",
-          "source": "Phys.org",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "Chinese ship sets off for Europe through Arctic, halving travel time",
-          "summary": "A Chinese container vessel has set sail for Europe through the Arctic as part of a new weekly service on a route that cuts shipment times in half but that environmental groups warn could speed up the melting of polar…",
-          "url": "https://phys.org/news/2026-08-chinese-ship-europe-arctic-halving.html",
-          "source": "Phys.org",
-          "date": "2026-08-16"
+          "title": "Wildfire smoke blankets volcanoes across the Pacific Northwest | Space photo of the day for Aug. 17, 2026",
+          "summary": "The wildfires ripping across North America have created massive plumes of smoke.",
+          "url": "https://www.space.com/astronomy/earth/wildfire-smoke-blankets-volcanoes-across-the-pacific-northwest-space-photo-of-the-day-for-aug-17-2026",
+          "source": "Space.com",
+          "date": "2026-08-17"
         }
       ]
     },
     "Technology & Inventions": {
       "emoji": "🤖",
       "articles": [
-        {
-          "title": "World’s first superconducting quantum heat engine could help unlock massive quantum computers",
-          "summary": "A tiny superconducting engine has successfully converted heat near absolute zero into useful work, demonstrating the first cyclic quantum heat engine of its kind. Future versions could operate autonomously inside…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260814011041.htm",
-          "source": "Science Daily",
-          "date": "2026-08-14"
-        },
         {
           "title": "Caltech breakthrough brings fiber-optic performance to silicon chips",
           "summary": "Caltech scientists have created ultra-low-loss optical pathways on silicon chips that approach the efficiency of fiber optics and dramatically outperform existing technology at visible wavelengths. The breakthrough…",
@@ -179,17 +172,24 @@
           "date": "2026-08-17"
         },
         {
-          "title": "Why AI training can backfire for older workers",
-          "summary": "Employers are increasingly investing in training to prepare their employees for artificial intelligence (AI). Training budgets are growing, and \"upskilling\" has become a common response to rapid technological change.",
-          "url": "https://phys.org/news/2026-08-ai-backfire-older-workers.html",
-          "source": "Phys.org",
-          "date": "2026-08-16"
-        },
-        {
           "title": "Quantum computing may be facing a replication crisis",
           "summary": "A review of thousands of scientific papers about quantum computers finds that most don’t provide code that can be tested on independent devices or that the code doesn’t work",
           "url": "https://www.newscientist.com/article/2584476-quantum-computing-may-be-facing-a-replication-crisis/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "World’s first superconducting quantum heat engine could help unlock massive quantum computers",
+          "summary": "A tiny superconducting engine has successfully converted heat near absolute zero into useful work, demonstrating the first cyclic quantum heat engine of its kind. Future versions could operate autonomously inside…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260814011041.htm",
+          "source": "Science Daily",
+          "date": "2026-08-14"
+        },
+        {
+          "title": "The best Ruko drone to date is half-price at Amazon but you'll have to hurry",
+          "summary": "Looking to take to the skies? This beginner-friendly Ruko F11 PRO 2 is a mind-blowing $280 off, but you'll have to hurry because this lightning deal ends soon.",
+          "url": "https://www.space.com/technology/drones/the-best-ruko-drone-to-date-is-half-price-at-amazon-but-youll-have-to-hurry",
+          "source": "Space.com",
           "date": "2026-08-17"
         }
       ]
@@ -198,18 +198,25 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "Scientists detect a nuclear reactor’s ghostly afterglow for the first time",
-          "summary": "Nuclear reactors may go dark, but their fuel continues producing a faint antineutrino “glow” long after shutdown. Researchers have now detected that residual signal for the first time, finding it closely matched…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260814011036.htm",
+          "title": "Scientists may have finally proved that “empty” space isn’t really empty",
+          "summary": "A magnetar’s colossal magnetic field may have revealed a quantum effect predicted by Werner Heisenberg nearly 90 years ago, in which seemingly empty space alters the behavior of light. If confirmed, the discovery could…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260815065007.htm",
           "source": "Science Daily",
-          "date": "2026-08-14"
+          "date": "2026-08-18"
         },
         {
-          "title": "Dark matter may be gravitationally lensing a likely source of cosmic neutrinos",
-          "summary": "Astronomers have discovered that the jet of a distant blazar has been gravitationally lensed by an unseen source of dark matter. Led by Silke Britzen at the Max Planck Institute for Radio Astronomy in Germany, the…",
-          "url": "https://phys.org/news/2026-08-dark-gravitationally-lensing-source-cosmic.html",
+          "title": "A new approach to building noise-resistant quantum sensors",
+          "summary": "Quantum sensors, devices that collect measurements by exploiting quantum-mechanical phenomena, could potentially detect extremely weak magnetic, gravitational and electromagnetic signals with greater sensitivity than…",
+          "url": "https://phys.org/news/2026-08-approach-noise-resistant-quantum-sensors.html",
           "source": "Phys.org",
-          "date": "2026-08-17"
+          "date": "2026-08-18"
+        },
+        {
+          "title": "How tomato 'golden hour' research could help crops survive heat waves and drought",
+          "summary": "What if the secret to drought-resistant crops isn't how much water plants use, but when they use it? A new study identifies a daily window that could help breeders develop tomatoes that better withstand drought without…",
+          "url": "https://phys.org/news/2026-08-tomato-golden-hour-crops-survive.html",
+          "source": "Phys.org",
+          "date": "2026-08-18"
         },
         {
           "title": "Scientists reveal why walking gets so much harder with age",
@@ -219,11 +226,11 @@
           "date": "2026-08-16"
         },
         {
-          "title": "Strain flips Hall signal in altermagnetic manganese telluride, suggesting a path to practical spintronics",
-          "summary": "Time-reversal symmetry is an exotic behavior found in systems whose internal physics looks different when running forward versus backward in time. For some time, physicists have searched for this behavior in systems…",
-          "url": "https://phys.org/news/2026-08-strain-flips-hall-altermagnetic-manganese.html",
-          "source": "Phys.org",
-          "date": "2026-08-16"
+          "title": "Scientists detect a nuclear reactor’s ghostly afterglow for the first time",
+          "summary": "Nuclear reactors may go dark, but their fuel continues producing a faint antineutrino “glow” long after shutdown. Researchers have now detected that residual signal for the first time, finding it closely matched…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260814011036.htm",
+          "source": "Science Daily",
+          "date": "2026-08-14"
         }
       ]
     }
