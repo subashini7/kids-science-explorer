@@ -1,22 +1,29 @@
 {
-  "updated": "2026-08-18T13:41:31Z",
+  "updated": "2026-08-19T13:43:26Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "Molecular electromagnetic sensor may enable remote-controlled gene therapy",
-          "summary": "The deoxyribonucleic acid (DNA) of living organisms contains regulatory elements that control when, where and to what extent specific genes are turned on or off. They can be co-opted to create \"gene switches\" that hold…",
-          "url": "https://phys.org/news/2026-08-molecular-electromagnetic-sensor-enable-remote.html",
+          "title": "Some bacteria build internal 'power cables' to extend respiration beyond the cell membrane",
+          "summary": "All living cells need energy, and most generate it through respiration, a series of chemical reactions normally confined to the cell membrane. Because this machinery takes up space, a cell's energy-generating capacity…",
+          "url": "https://phys.org/news/2026-08-bacteria-internal-power-cables-respiration.html",
           "source": "Phys.org",
-          "date": "2026-08-17"
+          "date": "2026-08-19"
         },
         {
-          "title": "Next Generation of Planetary Scientists Learn Public Engagement Skills",
-          "summary": "FORCE is a world-class laboratory that uses high-pressure experimental equipment to recreate the extreme conditions found deep within Earth and other planetary bodies, enabling researchers to better understand how…",
-          "url": "https://science.nasa.gov/learning-resources/science-activation/next-generation-of-planetary-scientists-learn-public-engagement-skills/",
+          "title": "Japanese scientists use tiny silver particles to make DNA assembly up to 5x more efficient",
+          "summary": "Silver nanoparticles can precisely slice DNA and create longer “sticky ends,” helping genetic fragments join up to five times more efficiently than conventional methods. The breakthrough could eventually simplify the…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260816044842.htm",
+          "source": "Science Daily",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "NASA Student Aviation Challenge Focuses on Nation’s Infrastructure",
+          "summary": "NASA’s next Gateways to Blue Skies competition invites collegiate teams to imagine innovative new ways aircraft could inspect land-based infrastructure, such as bridges and tunnels, to improve safety, reliability, and…",
+          "url": "https://www.nasa.gov/aeronautics/nasa-student-aviation-challenge-focuses-on-nations-infrastructure/",
           "source": "NASA",
-          "date": "2026-08-17"
+          "date": "2026-08-18"
         },
         {
           "title": "Scientists turn DNA into a memory device that uses 100x less power",
@@ -26,18 +33,11 @@
           "date": "2026-08-17"
         },
         {
-          "title": "This 10-cent heart drug cuts hospitalizations by 25%",
-          "summary": "A centuries-old heart drug costing less than ten cents a day could help keep heart-failure patients out of the hospital. New research suggests low-dose digoxin can reduce heart-failure hospitalizations by about 25%…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260814235858.htm",
+          "title": "Tiny robots powered by light can hunt down and collect bacteria",
+          "summary": "Researchers have built microscopic, light-driven robots that can rapidly navigate through liquid, collect bacteria, and deposit them in chosen locations. These tiny “cleaners” could open new possibilities for…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260816044850.htm",
           "source": "Science Daily",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "A little-known protein may be fueling Alzheimer’s — and scientists found a way to block it",
-          "summary": "An experimental Alzheimer’s compound prevented damaging protein clumps from forming in the brains of mice, helping nerve cells survive longer and reducing amyloid buildup. The treatment also appeared to improve heart…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260814235856.htm",
-          "source": "Science Daily",
-          "date": "2026-08-17"
+          "date": "2026-08-18"
         }
       ]
     },
@@ -45,11 +45,11 @@
       "emoji": "🚀",
       "articles": [
         {
-          "title": "Colorful Collage of Tarantula Nebula",
-          "summary": "Data from NASA’s Chandra X-ray Observatory, NASA’s James Webb Space Telescope, and NASA’s Hubble Space Telescope combine to reveal a vibrant view of 30 Doradus, or the Tarantula Nebula, in this Aug. 11, 2026, image…",
-          "url": "https://www.nasa.gov/image-article/colorful-collage-of-tarantula-nebula/",
-          "source": "NASA",
-          "date": "2026-08-17"
+          "title": "SpaceX launches its 100th mission of the year, sends Starlink satellites to orbit (video)",
+          "summary": "SpaceX launched its 100th mission of the year early Wednesday morning (Aug. 19), sending 24 Starlink satellites to low Earth orbit.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-100-launches-2026-starlink-group-17-50-launch",
+          "source": "Space.com",
+          "date": "2026-08-18"
         },
         {
           "title": "Scientists find dead star that predicts our sun's future: 'Broken apart and returned to the galaxy'",
@@ -73,11 +73,11 @@
           "date": "2026-08-16"
         },
         {
-          "title": "Webb captures clearest image yet of the Lion Nebula",
-          "summary": "The NASA/ESA/CSA James Webb Space Telescope recently imaged NGC 2392 (also known as the Lion Nebula), named for its distinctive appearance, which resembles a lion's face seen head-on.",
-          "url": "https://phys.org/news/2026-08-webb-captures-clearest-image-lion.html",
-          "source": "Phys.org",
-          "date": "2026-08-18"
+          "title": "Behind the Lens: Meet NASA Johnson’s Photographers",
+          "summary": "Photographers at NASA’s Johnson Space Center in Houston have documented some of the most defining moments in human spaceflight.&#160; From astronaut training and engineering tests to&#160;mission&#160;control operations…",
+          "url": "https://www.nasa.gov/centers-and-facilities/johnson/behind-the-lens-meet-nasa-johnsons-photographers/",
+          "source": "NASA",
+          "date": "2026-08-19"
         }
       ]
     },
@@ -99,25 +99,25 @@
           "date": "2026-08-17"
         },
         {
-          "title": "Billions of invasive round goby are in the Great Lakes. Researchers want to stop them from spreading inland",
-          "summary": "For decades, the round goby has been one of the Great Lakes' most destructive invasive species. Scientists estimate its population numbers in the billions, making eradication unrealistic.",
-          "url": "https://phys.org/news/2026-08-billions-invasive-goby-great-lakes.html",
+          "title": "Italian scientists bet on octopus to fight crab invasion",
+          "summary": "From a fishing trawler in the Adriatic, Italian scientists gently release thousands of tiny octopuses in the hope of fighting an invasive crab species that has devastated local fisheries.",
+          "url": "https://phys.org/news/2026-08-italian-scientists-octopus-crab-invasion.html",
           "source": "Phys.org",
-          "date": "2026-08-18"
+          "date": "2026-08-19"
         },
         {
-          "title": "A new Ice Age species was hiding in la brea tar pits fossils for decades",
-          "summary": "Scientists have discovered a new extinct amphibian species hiding in the fossil collections of Los Angeles’ La Brea Tar Pits. Named Spea labreae, the Ice Age spadefoot toad is an exceptionally rare find—only one other…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260814235837.htm",
+          "title": "This 23-foot crocodylian may have ruled South America’s food chain",
+          "summary": "Miocene South America was packed with giant prey—and the predators hunting them were just as spectacular. Fossil bite marks suggest crocodylians, especially the enormous Purussaurus neivensis, were more important…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260819041226.htm",
           "source": "Science Daily",
-          "date": "2026-08-16"
+          "date": "2026-08-19"
         },
         {
-          "title": "How body size and habitat shape the vocal repertoires of primates",
-          "summary": "Biologists, zoologists and psychologists have been trying to trace the origins of human language for centuries. One well-known theory, known as the social brain hypothesis, suggests that increasingly complex social…",
-          "url": "https://phys.org/news/2026-08-body-size-habitat-vocal-repertoires.html",
+          "title": "Why many birds add fresh plants to their nests remains unclear despite signs of healthier offspring",
+          "summary": "As they build their nests, many birds are known to interweave dried grasses and other materials with green plants, such as fresh leaves, grass stems, herbs and aromatic leaves. While this behavior is well documented…",
+          "url": "https://phys.org/news/2026-08-birds-fresh-unclear-healthier-offspring.html",
           "source": "Phys.org",
-          "date": "2026-08-18"
+          "date": "2026-08-19"
         }
       ]
     },
@@ -125,39 +125,39 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Aerial imagery maps hurricane wind damage and shows stronger building codes work",
-          "summary": "Massive storms like Hurricane Katrina in 2005, which caused more than $100 billion in damage, were once considered lifetime events. Increasingly, however, they are becoming the norm: a direct result of climate change…",
-          "url": "https://phys.org/news/2026-08-aerial-imagery-hurricane-stronger-codes.html",
-          "source": "Phys.org",
-          "date": "2026-08-18"
-        },
-        {
-          "title": "Scientists detect a surprising shift in human blood as atmospheric CO2 rises",
-          "summary": "Rising carbon dioxide in the atmosphere may be leaving a measurable imprint inside the human body. Researchers analyzing more than two decades of U.S. health data found that blood bicarbonate levels have climbed about…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260814235845.htm",
+          "title": "Scientists discover a natural Arctic cloud factory missing from climate models",
+          "summary": "A newly discovered Arctic process can dramatically boost the number of particles that help form clouds. Near melting sea ice, sunlight reacts with chemicals released by the ocean, algae, and ice, causing cloud-seeding…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260816044839.htm",
           "source": "Science Daily",
-          "date": "2026-08-15"
-        },
-        {
-          "title": "Soot spikes from traffic and holiday bonfires emerge in Addis Ababa air record",
-          "summary": "An air pollution monitoring network has provided one of the most detailed long-term views yet of the role of black carbon, or soot produced by fires, diesel vehicles and other combustion sources, in Ethiopia's capital…",
-          "url": "https://phys.org/news/2026-08-soot-spikes-traffic-holiday-bonfires.html",
-          "source": "Phys.org",
           "date": "2026-08-18"
         },
         {
-          "title": "Trying to compete with China could slow global climate action, report warns",
-          "summary": "China's dominance of key green technologies is helping to subsidize the global transition to a low-carbon economy, but trade tensions could make it harder for other countries to meet their climate targets, according to…",
-          "url": "https://phys.org/news/2026-08-china-global-climate-action.html",
+          "title": "Volcano myths unravel, from 'smoke' plumes to Yellowstone catastrophe claims",
+          "summary": "Volcanoes emit smoke. Beneath a volcano lies a huge chamber filled with liquid magma. A series of earthquakes means an eruption is imminent. And if a \"supervolcano\" like Yellowstone were to awaken, a global catastrophe…",
+          "url": "https://phys.org/news/2026-08-volcano-myths-unravel-plumes-yellowstone.html",
           "source": "Phys.org",
-          "date": "2026-08-17"
+          "date": "2026-08-19"
         },
         {
-          "title": "Wildfire smoke blankets volcanoes across the Pacific Northwest | Space photo of the day for Aug. 17, 2026",
-          "summary": "The wildfires ripping across North America have created massive plumes of smoke.",
-          "url": "https://www.space.com/astronomy/earth/wildfire-smoke-blankets-volcanoes-across-the-pacific-northwest-space-photo-of-the-day-for-aug-17-2026",
-          "source": "Space.com",
-          "date": "2026-08-17"
+          "title": "Climate change main driver of European ocean warming: Study",
+          "summary": "Climate change is the main driver of Europe's rising marine temperatures, directly adding around 2°C of warming in the Mediterranean this summer and severely affecting ecosystems, a study said Wednesday.",
+          "url": "https://phys.org/news/2026-08-climate-main-driver-european-ocean.html",
+          "source": "Phys.org",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "How does wildfire smoke affect the economy?",
+          "summary": "Wildfires in the United States are getting bigger, and the season is getting longer, fueled by hotter and drier weather from climate change. Even when fires are hundreds of miles away, wildfire smoke can still harm…",
+          "url": "https://phys.org/news/2026-08-wildfire-affect-economy.html",
+          "source": "Phys.org",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "Lala Batters Hawaii",
+          "summary": "The powerful storm delivered extreme rainfall and damaging winds to the state, passing the Island of Hawaiʻi as a category 1 hurricane.",
+          "url": "https://science.nasa.gov/earth/earth-observatory/lala-batters-hawaii/",
+          "source": "NASA",
+          "date": "2026-08-18"
         }
       ]
     },
@@ -172,18 +172,11 @@
           "date": "2026-08-17"
         },
         {
-          "title": "Quantum computing may be facing a replication crisis",
-          "summary": "A review of thousands of scientific papers about quantum computers finds that most don’t provide code that can be tested on independent devices or that the code doesn’t work",
-          "url": "https://www.newscientist.com/article/2584476-quantum-computing-may-be-facing-a-replication-crisis/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "World’s first superconducting quantum heat engine could help unlock massive quantum computers",
-          "summary": "A tiny superconducting engine has successfully converted heat near absolute zero into useful work, demonstrating the first cyclic quantum heat engine of its kind. Future versions could operate autonomously inside…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260814011041.htm",
+          "title": "Mysterious waves sweeping across your brain may help turn sensory chaos into what you see",
+          "summary": "Traveling electrical waves sweeping across the brain may help determine what we notice, predict what comes next, and construct our internal picture of the world. Researchers now argue that these waves aren't just…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260816044827.htm",
           "source": "Science Daily",
-          "date": "2026-08-14"
+          "date": "2026-08-18"
         },
         {
           "title": "The best Ruko drone to date is half-price at Amazon but you'll have to hurry",
@@ -198,6 +191,27 @@
       "emoji": "⚡",
       "articles": [
         {
+          "title": "Tiny quantum engines reveal useful energy hiding in “waste heat”",
+          "summary": "A tiny machine made from just an atom and particles of light may sound impossibly simple, but it raises a surprisingly difficult question: what counts as heat, and what energy can still do useful work? University of…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260819041222.htm",
+          "source": "Science Daily",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "Neutron capture experiment sheds light on ancient stardust",
+          "summary": "Niobium-94, an isotope of niobium with 41 protons and 53 neutrons, is a critical crossroads in the complex nuclear processes that forge heavy elements under the intense pressures and temperatures of dying stars. In an…",
+          "url": "https://phys.org/news/2026-08-neutron-capture-ancient-stardust.html",
+          "source": "Phys.org",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "Laser stability method advances precision control of electrons with light",
+          "summary": "Researchers at the University of Oldenburg's Institute of Physics are working on techniques for precision control of electric fields of light, which allow the dynamics of individual electrons to be manipulated in…",
+          "url": "https://phys.org/news/2026-08-laser-stability-method-advances-precision.html",
+          "source": "Phys.org",
+          "date": "2026-08-19"
+        },
+        {
           "title": "Scientists may have finally proved that “empty” space isn’t really empty",
           "summary": "A magnetar’s colossal magnetic field may have revealed a quantum effect predicted by Werner Heisenberg nearly 90 years ago, in which seemingly empty space alters the behavior of light. If confirmed, the discovery could…",
           "url": "https://www.sciencedaily.com/releases/2026/08/260815065007.htm",
@@ -205,32 +219,11 @@
           "date": "2026-08-18"
         },
         {
-          "title": "A new approach to building noise-resistant quantum sensors",
-          "summary": "Quantum sensors, devices that collect measurements by exploiting quantum-mechanical phenomena, could potentially detect extremely weak magnetic, gravitational and electromagnetic signals with greater sensitivity than…",
-          "url": "https://phys.org/news/2026-08-approach-noise-resistant-quantum-sensors.html",
-          "source": "Phys.org",
-          "date": "2026-08-18"
-        },
-        {
-          "title": "How tomato 'golden hour' research could help crops survive heat waves and drought",
-          "summary": "What if the secret to drought-resistant crops isn't how much water plants use, but when they use it? A new study identifies a daily window that could help breeders develop tomatoes that better withstand drought without…",
-          "url": "https://phys.org/news/2026-08-tomato-golden-hour-crops-survive.html",
-          "source": "Phys.org",
-          "date": "2026-08-18"
-        },
-        {
-          "title": "Scientists reveal why walking gets so much harder with age",
-          "summary": "As we age, the body appears to sacrifice walking efficiency in exchange for stability. Older adults stiffen the ankle more with each step, which may help prevent falls but also forces the muscles to work harder while…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260815065014.htm",
-          "source": "Science Daily",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "Scientists detect a nuclear reactor’s ghostly afterglow for the first time",
-          "summary": "Nuclear reactors may go dark, but their fuel continues producing a faint antineutrino “glow” long after shutdown. Researchers have now detected that residual signal for the first time, finding it closely matched…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260814011036.htm",
-          "source": "Science Daily",
-          "date": "2026-08-14"
+          "title": "Super-Earths might be solid deep on the inside",
+          "summary": "Super-Earths might be solid in their deep insides, a new study says. Minerals might take unusual forms and remain solid despite the intense heat and pressure. The post Super-Earths might be solid deep on the inside…",
+          "url": "https://earthsky.org/space/super-earths-might-be-solid-exoplanets-minerals-mantles/",
+          "source": "EarthSky",
+          "date": "2026-08-19"
         }
       ]
     }
