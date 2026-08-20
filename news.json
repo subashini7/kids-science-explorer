@@ -1,16 +1,9 @@
 {
-  "updated": "2026-08-19T13:43:26Z",
+  "updated": "2026-08-20T13:46:16Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
-        {
-          "title": "Some bacteria build internal 'power cables' to extend respiration beyond the cell membrane",
-          "summary": "All living cells need energy, and most generate it through respiration, a series of chemical reactions normally confined to the cell membrane. Because this machinery takes up space, a cell's energy-generating capacity…",
-          "url": "https://phys.org/news/2026-08-bacteria-internal-power-cables-respiration.html",
-          "source": "Phys.org",
-          "date": "2026-08-19"
-        },
         {
           "title": "Japanese scientists use tiny silver particles to make DNA assembly up to 5x more efficient",
           "summary": "Silver nanoparticles can precisely slice DNA and create longer “sticky ends,” helping genetic fragments join up to five times more efficiently than conventional methods. The breakthrough could eventually simplify the…",
@@ -19,31 +12,52 @@
           "date": "2026-08-19"
         },
         {
-          "title": "NASA Student Aviation Challenge Focuses on Nation’s Infrastructure",
-          "summary": "NASA’s next Gateways to Blue Skies competition invites collegiate teams to imagine innovative new ways aircraft could inspect land-based infrastructure, such as bridges and tunnels, to improve safety, reliability, and…",
-          "url": "https://www.nasa.gov/aeronautics/nasa-student-aviation-challenge-focuses-on-nations-infrastructure/",
+          "title": "ALMA uncovers sulfur for the first time around a rare class of supergiant star",
+          "summary": "Astronomers have discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive star HD 87643. The observations include the first detection of sulfur monoxide and sulfur dioxide around…",
+          "url": "https://phys.org/news/2026-08-alma-uncovers-sulfur-rare-class.html",
+          "source": "Phys.org",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "Perovskite-based sensor detects ammonia leaks at concentrations as low as 1 ppm",
+          "summary": "A team led by principal researcher Myungkwan Song of the Energy & Environment Materials Research Division at the Korea Institute of Materials Science (KIMS) has developed an ultrasensitive ammonia gas sensor using an…",
+          "url": "https://phys.org/news/2026-08-perovskite-based-sensor-ammonia-leaks.html",
+          "source": "Phys.org",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "NASA Establishes State Hubs to Grow Technical Aerospace Workforce",
+          "summary": "NASA has awarded approximately $10.5 million to seven institutions to help strengthen and streamline state-based pathways for students into skilled technical jobs in the aerospace industry. The awards were made through…",
+          "url": "https://www.nasa.gov/news-release/nasa-establishes-state-hubs-to-grow-technical-aerospace-workforce/",
           "source": "NASA",
-          "date": "2026-08-18"
+          "date": "2026-08-19"
         },
         {
-          "title": "Scientists turn DNA into a memory device that uses 100x less power",
-          "summary": "Researchers combined synthetic DNA with a semiconductor to create an ultra-low-power memory device capable of storing and processing information in the same place. The bio-hybrid technology could eventually help make AI…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260816044853.htm",
+          "title": "MIT physicists discover electrons rebuilding like ice inside a quantum material",
+          "summary": "MIT physicists found that two electronic phases inside the same quantum material emerge through surprisingly different mechanisms—one smoothly and the other in expanding pockets resembling growing ice crystals. The…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260819041231.htm",
           "source": "Science Daily",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "Tiny robots powered by light can hunt down and collect bacteria",
-          "summary": "Researchers have built microscopic, light-driven robots that can rapidly navigate through liquid, collect bacteria, and deposit them in chosen locations. These tiny “cleaners” could open new possibilities for…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260816044850.htm",
-          "source": "Science Daily",
-          "date": "2026-08-18"
+          "date": "2026-08-20"
         }
       ]
     },
     "Space & Astronomy": {
       "emoji": "🚀",
       "articles": [
+        {
+          "title": "Private mission to save NASA's Swift space telescope fails",
+          "summary": "A private spacecraft tasked with boosting the orbit of NASA's Swift Observatory has failed in its mission, meaning the telescope will crash back to Earth later this year.",
+          "url": "https://www.space.com/space-exploration/missions/private-mission-to-save-nasas-swift-space-telescope-fails",
+          "source": "Space.com",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "A SpaceX rocket slammed into the moon this month — and a NASA spacecraft has spotted its lunar grave (photos)",
+          "summary": "NASA's Lunar Reconnaissance Orbiter has spotted the crater gouged out on the moon by a SpaceX rocket on Aug. 5, finding it to be about 60 feet (18 meters) wide.",
+          "url": "https://www.space.com/astronomy/moon/a-spacex-rocket-slammed-into-the-moon-this-month-and-a-nasa-spacecraft-has-spotted-its-lunar-grave-photos",
+          "source": "Space.com",
+          "date": "2026-08-19"
+        },
         {
           "title": "SpaceX launches its 100th mission of the year, sends Starlink satellites to orbit (video)",
           "summary": "SpaceX launched its 100th mission of the year early Wednesday morning (Aug. 19), sending 24 Starlink satellites to low Earth orbit.",
@@ -52,32 +66,18 @@
           "date": "2026-08-18"
         },
         {
-          "title": "Scientists find dead star that predicts our sun's future: 'Broken apart and returned to the galaxy'",
-          "summary": "A composite image of data from the Hubble Space Telescope, the Kitt Peak four-meter telescope and MOTHRA reveal the Helix Nebula. We can see the bow shocks, particularly on the left.",
-          "url": "https://www.space.com/astronomy/stars/scientists-find-dead-star-that-predicts-our-suns-future-broken-apart-and-returned-to-the-galaxy",
-          "source": "Space.com",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "NASA funds spherical 'Aerobots' that could explore the caves of Saturn's moon Titan",
-          "summary": "An early-stage grant is offering a look at spherical 'Aerobots' that could zoom around the caves of Titan, in a demo mission similar to Mars Ingenuity.",
-          "url": "https://www.space.com/technology/nasa-funds-spherical-aerobots-that-could-explore-the-caves-of-saturns-moon-titan",
-          "source": "Space.com",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "Swift spacecraft, and a mission to save it, caught on video",
-          "summary": "The Swift space telescope is falling back to Earth. The LINK spacecraft is trying to save it. See both in orbit in a new video. The post Swift spacecraft, and a mission to save it, caught on video first appeared on…",
-          "url": "https://earthsky.org/space/swift-spacecraft-boost-plunging-back-to-earth/",
-          "source": "EarthSky",
-          "date": "2026-08-16"
-        },
-        {
-          "title": "Behind the Lens: Meet NASA Johnson’s Photographers",
-          "summary": "Photographers at NASA’s Johnson Space Center in Houston have documented some of the most defining moments in human spaceflight.&#160; From astronaut training and engineering tests to&#160;mission&#160;control operations…",
-          "url": "https://www.nasa.gov/centers-and-facilities/johnson/behind-the-lens-meet-nasa-johnsons-photographers/",
+          "title": "NASA Updates Next Steps for Commercial Swift Boost Mission",
+          "summary": "Due to an ongoing commercial spacecraft attitude control issue, NASA and Katalyst Space announced Wednesday the LINK spacecraft will not capture or boost an agency satellite to a higher altitude to extend its science…",
+          "url": "https://www.nasa.gov/news-release/nasa-updates-next-steps-for-commercial-swift-boost-mission/",
           "source": "NASA",
           "date": "2026-08-19"
+        },
+        {
+          "title": "A SpaceX rocket smashed into the Moon — NASA just revealed the crater",
+          "summary": "A discarded SpaceX Falcon 9 stage crashed into the Moon on Aug. 5, leaving behind a newly formed crater about 60 feet wide. NASA’s Lunar Reconnaissance Orbiter captured detailed images showing bright and dark streaks of…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260820002429.htm",
+          "source": "Science Daily",
+          "date": "2026-08-20"
         }
       ]
     },
@@ -85,25 +85,11 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "Tiny 1.7-billion-year-old fossils could reveal how complex life began",
-          "summary": "Scientists are searching some of Earth’s oldest rocks for tiny fossils that could reveal how simple microbial life made the extraordinary leap toward plants, animals, and other complex organisms. Solving that ancient…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260815064811.htm",
-          "source": "Science Daily",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "Animals have been eating nature’s original bioplastic for millions of years",
-          "summary": "Nature invented biodegradable plastic long before humans did—and animals may have been feeding on it for hundreds of millions of years. Researchers discovered that dozens of animal species possess enzymes capable of…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260815064759.htm",
-          "source": "Science Daily",
-          "date": "2026-08-17"
-        },
-        {
-          "title": "Italian scientists bet on octopus to fight crab invasion",
-          "summary": "From a fishing trawler in the Adriatic, Italian scientists gently release thousands of tiny octopuses in the hope of fighting an invasive crab species that has devastated local fisheries.",
-          "url": "https://phys.org/news/2026-08-italian-scientists-octopus-crab-invasion.html",
+          "title": "Warming waters draw summer 'feeding frenzies' by whales off Greenland",
+          "summary": "The effects of global warming depend on species: The losers are legion, but a lucky few are winners. Now, researchers have shown that baleen whales are taking advantage of a newly opened-up fish bonanza in the Greenland…",
+          "url": "https://phys.org/news/2026-08-summer-frenzies-whales-greenland.html",
           "source": "Phys.org",
-          "date": "2026-08-19"
+          "date": "2026-08-20"
         },
         {
           "title": "This 23-foot crocodylian may have ruled South America’s food chain",
@@ -113,11 +99,25 @@
           "date": "2026-08-19"
         },
         {
-          "title": "Why many birds add fresh plants to their nests remains unclear despite signs of healthier offspring",
-          "summary": "As they build their nests, many birds are known to interweave dried grasses and other materials with green plants, such as fresh leaves, grass stems, herbs and aromatic leaves. While this behavior is well documented…",
-          "url": "https://phys.org/news/2026-08-birds-fresh-unclear-healthier-offspring.html",
+          "title": "Snake bones with flint cuts show Mount Carmel settlers ate reptiles 15,000 years ago",
+          "summary": "Around 15,000 years ago, the way of life of human communities in the southern Levant underwent a fundamental change. Groups of hunter-gatherers, who until then had been nomadic, reduced their mobility and established…",
+          "url": "https://phys.org/news/2026-08-snake-bones-flint-mount-carmel.html",
           "source": "Phys.org",
-          "date": "2026-08-19"
+          "date": "2026-08-20"
+        },
+        {
+          "title": "Australia races to shield little penguins from H5N1 bird flu",
+          "summary": "Australian wildlife workers have launched an unprecedented effort to vaccinate wild populations of little penguins against the highly contagious H5N1 avian influenza.",
+          "url": "https://phys.org/news/2026-08-australia-shield-penguins-h5n1-bird.html",
+          "source": "Phys.org",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "Scientists say the human family tree may need a major rewrite",
+          "summary": "The human family tree may be due for a major rewrite. Researchers argue that Australopithecus and Paranthropus should be folded into the genus Homo because new fossils have blurred many of the traits once used to…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260820002413.htm",
+          "source": "Science Daily",
+          "date": "2026-08-20"
         }
       ]
     },
@@ -132,32 +132,25 @@
           "date": "2026-08-18"
         },
         {
-          "title": "Volcano myths unravel, from 'smoke' plumes to Yellowstone catastrophe claims",
-          "summary": "Volcanoes emit smoke. Beneath a volcano lies a huge chamber filled with liquid magma. A series of earthquakes means an eruption is imminent. And if a \"supervolcano\" like Yellowstone were to awaken, a global catastrophe…",
-          "url": "https://phys.org/news/2026-08-volcano-myths-unravel-plumes-yellowstone.html",
+          "title": "Area affected by wildfires in Europe could almost triple due to climate change",
+          "summary": "Increasingly hot, dry and windy conditions could substantially extend the area affected by wildfires across Europe, according to a new study led by the Potsdam Institute for Climate Impact Research (PIK) with…",
+          "url": "https://phys.org/news/2026-08-area-affected-wildfires-europe-triple.html",
           "source": "Phys.org",
-          "date": "2026-08-19"
+          "date": "2026-08-20"
         },
         {
-          "title": "Climate change main driver of European ocean warming: Study",
-          "summary": "Climate change is the main driver of Europe's rising marine temperatures, directly adding around 2°C of warming in the Mediterranean this summer and severely affecting ecosystems, a study said Wednesday.",
-          "url": "https://phys.org/news/2026-08-climate-main-driver-european-ocean.html",
+          "title": "Fine-particle pollution may undermine plants' ability to absorb carbon and conserve water",
+          "summary": "Researchers at the Faculty of Social Sciences at the University of Hong Kong (HKU) have discovered that fine particulate pollution (PM2.5) significantly impairs plants' ability to use water efficiently and absorb carbon…",
+          "url": "https://phys.org/news/2026-08-fine-particle-pollution-undermine-ability.html",
           "source": "Phys.org",
-          "date": "2026-08-19"
+          "date": "2026-08-20"
         },
         {
-          "title": "How does wildfire smoke affect the economy?",
-          "summary": "Wildfires in the United States are getting bigger, and the season is getting longer, fueled by hotter and drier weather from climate change. Even when fires are hundreds of miles away, wildfire smoke can still harm…",
-          "url": "https://phys.org/news/2026-08-wildfire-affect-economy.html",
+          "title": "Honduras places 80% of country on El Niño drought alert",
+          "summary": "The Honduran government on Wednesday placed 80% of the country, including the capital, on drought alert as El Niño scorches harvests and causes livestock to die of thirst.",
+          "url": "https://phys.org/news/2026-08-honduras-country-el-nio-drought.html",
           "source": "Phys.org",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "Lala Batters Hawaii",
-          "summary": "The powerful storm delivered extreme rainfall and damaging winds to the state, passing the Island of Hawaiʻi as a category 1 hurricane.",
-          "url": "https://science.nasa.gov/earth/earth-observatory/lala-batters-hawaii/",
-          "source": "NASA",
-          "date": "2026-08-18"
+          "date": "2026-08-20"
         }
       ]
     },
@@ -165,25 +158,11 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "Caltech breakthrough brings fiber-optic performance to silicon chips",
-          "summary": "Caltech scientists have created ultra-low-loss optical pathways on silicon chips that approach the efficiency of fiber optics and dramatically outperform existing technology at visible wavelengths. The breakthrough…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260814235905.htm",
-          "source": "Science Daily",
-          "date": "2026-08-17"
-        },
-        {
           "title": "Mysterious waves sweeping across your brain may help turn sensory chaos into what you see",
           "summary": "Traveling electrical waves sweeping across the brain may help determine what we notice, predict what comes next, and construct our internal picture of the world. Researchers now argue that these waves aren't just…",
           "url": "https://www.sciencedaily.com/releases/2026/08/260816044827.htm",
           "source": "Science Daily",
           "date": "2026-08-18"
-        },
-        {
-          "title": "The best Ruko drone to date is half-price at Amazon but you'll have to hurry",
-          "summary": "Looking to take to the skies? This beginner-friendly Ruko F11 PRO 2 is a mind-blowing $280 off, but you'll have to hurry because this lightning deal ends soon.",
-          "url": "https://www.space.com/technology/drones/the-best-ruko-drone-to-date-is-half-price-at-amazon-but-youll-have-to-hurry",
-          "source": "Space.com",
-          "date": "2026-08-17"
         }
       ]
     },
@@ -198,18 +177,11 @@
           "date": "2026-08-19"
         },
         {
-          "title": "Neutron capture experiment sheds light on ancient stardust",
-          "summary": "Niobium-94, an isotope of niobium with 41 protons and 53 neutrons, is a critical crossroads in the complex nuclear processes that forge heavy elements under the intense pressures and temperatures of dying stars. In an…",
-          "url": "https://phys.org/news/2026-08-neutron-capture-ancient-stardust.html",
+          "title": "Dark energy and quantum gravity may be deeply intertwined",
+          "summary": "For close to a century, physicists have pursued a way to unite gravity with quantum mechanics. Known as quantum gravity, this goal has remained frustratingly out of reach so far. Similarly elusive is the force of dark…",
+          "url": "https://phys.org/news/2026-08-dark-energy-quantum-gravity-deeply.html",
           "source": "Phys.org",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "Laser stability method advances precision control of electrons with light",
-          "summary": "Researchers at the University of Oldenburg's Institute of Physics are working on techniques for precision control of electric fields of light, which allow the dynamics of individual electrons to be manipulated in…",
-          "url": "https://phys.org/news/2026-08-laser-stability-method-advances-precision.html",
-          "source": "Phys.org",
-          "date": "2026-08-19"
+          "date": "2026-08-20"
         },
         {
           "title": "Scientists may have finally proved that “empty” space isn’t really empty",
@@ -219,10 +191,17 @@
           "date": "2026-08-18"
         },
         {
-          "title": "Super-Earths might be solid deep on the inside",
-          "summary": "Super-Earths might be solid in their deep insides, a new study says. Minerals might take unusual forms and remain solid despite the intense heat and pressure. The post Super-Earths might be solid deep on the inside…",
-          "url": "https://earthsky.org/space/super-earths-might-be-solid-exoplanets-minerals-mantles/",
-          "source": "EarthSky",
+          "title": "Dark matter could magnify the jets of a ravenously feeding supermassive black hole",
+          "summary": "A jet erupting from a distant supermassive black hole-powered blazar is being gravitationally lensed by an unseen clump of dark matter, and that could tell us about the source of cosmic \"ghost\" particles.",
+          "url": "https://www.space.com/astronomy/black-holes/dark-matter-could-magnify-the-jets-of-a-ravenously-feeding-supermassive-black-hole",
+          "source": "Space.com",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "Mysterious Russian 'space activity' causes US Air Force flight to Antarctica to turn around: report",
+          "summary": "A mysterious incident over the South Pacific forced a U.S. Air Force aircraft to turn around on Aug. 18, due to a possible space debris hazard.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/mysterious-russian-space-activity-causes-us-air-force-flight-to-antarctica-to-turn-around-report",
+          "source": "Space.com",
           "date": "2026-08-19"
         }
       ]
