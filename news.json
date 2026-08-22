@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T13:44:26Z",
+  "updated": "2026-08-22T13:31:24Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
@@ -12,10 +12,24 @@
           "date": "2026-08-21"
         },
         {
-          "title": "Seeing the unseen: A new tool visualizes hidden structures in complex biological data",
-          "summary": "Modern biology research can now generate valuable data on an unprecedented scale. But there is one major obstacle: making sense of these complex high-dimensional datasets. A team at the University of Basel, Switzerland…",
-          "url": "https://phys.org/news/2026-08-unseen-tool-visualizes-hidden-complex.html",
+          "title": "Hydrogel platform uses vitamin B2 and blue light to simplify living tissue models",
+          "summary": "Researchers at Tampere University have developed a versatile hydrogel platform that makes it easier to create customized biomaterials for tissue engineering, disease modeling, drug discovery and regenerative medicine…",
+          "url": "https://phys.org/news/2026-08-hydrogel-platform-vitamin-b2-blue.html",
           "source": "Phys.org",
+          "date": "2026-08-21"
+        },
+        {
+          "title": "New Monte Carlo method accelerates simulations of densely entangled polymer melts",
+          "summary": "Long polymer chains are everywhere: in synthetic materials, soft matter, biological systems such as chromosomes, and mathematical models of filaments and knots. When many such chains are densely packed, they form what…",
+          "url": "https://phys.org/news/2026-08-monte-carlo-method-simulations-densely.html",
+          "source": "Phys.org",
+          "date": "2026-08-21"
+        },
+        {
+          "title": "TB 26-04 Updates and Modernization of NASA’s Chemical Equilibrium with Applications (CEA) Code",
+          "summary": "For more information, contact Mark K. Leader, Glenn Research Center, mark.leader@nasa.gov Download the PDF version NASA’s Chemical Equilibrium with Applications (CEA) code is a foundational tool for propulsion system…",
+          "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-updates-and-modernization-of-nasas-chemical-equilibrium-with-applications-cea-code/",
+          "source": "NASA",
           "date": "2026-08-21"
         },
         {
@@ -24,26 +38,33 @@
           "url": "https://www.sciencedaily.com/releases/2026/08/260819041231.htm",
           "source": "Science Daily",
           "date": "2026-08-20"
-        },
-        {
-          "title": "A mother’s age can shape her offspring without changing their DNA",
-          "summary": "Scientists have found evidence that the effects of a mother’s age on her offspring may be driven by reversible changes in gene activity rather than permanent DNA damage. The discovery raises the fascinating possibility…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260819041220.htm",
-          "source": "Science Daily",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "Blood-camouflaged nanoparticles defeat drug-resistant breast tumors in mouse model",
-          "summary": "Triple-negative breast cancer (TNBC) is one of the most aggressive and treatment-resistant subtypes of breast cancer, accounting for 15% to 20% of all cases. Unlike other breast cancers, TNBC lacks targetable receptors…",
-          "url": "https://phys.org/news/2026-08-blood-camouflaged-nanoparticles-defeat-drug.html",
-          "source": "Phys.org",
-          "date": "2026-08-21"
         }
       ]
     },
     "Space & Astronomy": {
       "emoji": "🚀",
       "articles": [
+        {
+          "title": "SpaceX sends 27 Starlink satellites to orbit on 100th Falcon rocket launch of the year (photos)",
+          "summary": "SpaceX launched 27 Starlink satellites from California early this morning (Aug. 22), on the 100th mission of the year for the company's Falcon rocket family.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-satellite-launch-group-15-20",
+          "source": "Space.com",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "SpaceX launches 29 Starlink satellites, lands rocket on ship at sea (video, photos)",
+          "summary": "SpaceX launched yet another Starlink mission today (Aug. 21), sending 29 more of the broadband satellites to orbit from Florida's Space Coast.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-group-10-39-falcon-9-asog",
+          "source": "Space.com",
+          "date": "2026-08-21"
+        },
+        {
+          "title": "Japan unveils Mars moon sample-return spacecraft ahead of Oct. 19 launch (photos)",
+          "summary": "Japan recently gave the world a look at the spacecraft of its MMX mission, which will launch on Oct. 19 to grab pieces of the Mars moon Phobos and haul them back to Earth.",
+          "url": "https://www.space.com/astronomy/mars/japan-unveils-mars-moon-sample-return-spacecraft-ahead-of-oct-19-launch-photos",
+          "source": "Space.com",
+          "date": "2026-08-21"
+        },
         {
           "title": "On this day in space! Aug. 20, 1977: Voyager 2 launches to the outer planets",
           "summary": "On this day in space! Aug. 20, 1977: NASA launched the Voyager 2 spacecraft on a mission to explore the outer planets.",
@@ -52,32 +73,11 @@
           "date": "2026-08-20"
         },
         {
-          "title": "Private mission to save NASA's Swift space telescope fails",
-          "summary": "A private spacecraft tasked with boosting the orbit of NASA's Swift Observatory has failed in its mission, meaning the telescope will crash back to Earth later this year.",
-          "url": "https://www.space.com/space-exploration/missions/private-mission-to-save-nasas-swift-space-telescope-fails",
-          "source": "Space.com",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "A SpaceX rocket slammed into the moon this month — and a NASA spacecraft has spotted its lunar grave (photos)",
-          "summary": "NASA's Lunar Reconnaissance Orbiter has spotted the crater gouged out on the moon by a SpaceX rocket on Aug. 5, finding it to be about 60 feet (18 meters) wide.",
-          "url": "https://www.space.com/astronomy/moon/a-spacex-rocket-slammed-into-the-moon-this-month-and-a-nasa-spacecraft-has-spotted-its-lunar-grave-photos",
-          "source": "Space.com",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "The View from Above: The Gemini Visual Acuity Experiments",
-          "summary": "NASA astronaut L. Gordon Cooper, Jr. took 29 color photographs of the Earth with a 70mm camera as he orbited our planet during the Mercury-Atlas 9 mission in May 1963. Cooper’s view from the window of his Faith 7…",
-          "url": "https://www.nasa.gov/history/the-view-from-above-the-gemini-visual-acuity-experiments/",
+          "title": "Webb Opens Treasure Chest",
+          "summary": "NASA&#8217;s James Webb Space Telescope captured this Aug. 6, 2026, infrared image of part of the Carina Nebula, a star-forming region also home to the Cosmic Cliffs. This feature, called the “Treasure Chest,” is an…",
+          "url": "https://www.nasa.gov/image-article/webb-opens-treasure-chest/",
           "source": "NASA",
-          "date": "2026-08-20"
-        },
-        {
-          "title": "NASA Updates Next Steps for Commercial Swift Boost Mission",
-          "summary": "Due to an ongoing commercial spacecraft attitude control issue, NASA and Katalyst Space announced Wednesday the LINK spacecraft will not capture or boost an agency satellite to a higher altitude to extend its science…",
-          "url": "https://www.nasa.gov/news-release/nasa-updates-next-steps-for-commercial-swift-boost-mission/",
-          "source": "NASA",
-          "date": "2026-08-19"
+          "date": "2026-08-21"
         }
       ]
     },
@@ -85,17 +85,17 @@
       "emoji": "🐾",
       "articles": [
         {
+          "title": "Animal genomes follow irreversible 'evolutionary highways' across thousands of species",
+          "summary": "A human, an octopus, and a coral could hardly look more different—yet deep inside their cells, their chromosomes still carry recognizable pieces of a genome inherited from an animal ancestor that lived more than 600…",
+          "url": "https://phys.org/news/2026-08-animal-genomes-irreversible-evolutionary-highways.html",
+          "source": "Phys.org",
+          "date": "2026-08-22"
+        },
+        {
           "title": "“One-in-a-million” sea creature fossil preserves soft tissue for 450 million years",
           "summary": "Scientists have identified exceptionally rare soft tissue preserved in a 450-million-year-old crinoid fossil, more than 200 million years older than the first dinosaurs. Its delicate tube feet offer a remarkable new…",
           "url": "https://www.sciencedaily.com/releases/2026/08/260820002450.htm",
           "source": "Science Daily",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "Forest service detects emerald ash borer in 5 additional counties",
-          "summary": "The Texas A&amp;M Forest Service has confirmed emerald ash borer in Delta, Erath, Hardin, Walker and Wood counties, continuing the spread of the invasive insect into new areas of Texas. Eight new counties have been…",
-          "url": "https://phys.org/news/2026-08-forest-emerald-ash-borer-additional.html",
-          "source": "Phys.org",
           "date": "2026-08-21"
         },
         {
@@ -106,18 +106,18 @@
           "date": "2026-08-19"
         },
         {
-          "title": "What dandelions and bees can teach us about our responsibilities to the natural world",
-          "summary": "In spring, on the traditional and treaty lands of the Mississaugas of the Credit, young children, Anishinaabe storytellers and educators walk together with Aki (Land) and Nibi (Water).",
-          "url": "https://phys.org/news/2026-08-dandelions-bees-responsibilities-natural-world.html",
+          "title": "Twenty years and 7,500 fossils reveal what blurs Earth's marine fossil record",
+          "summary": "In productive marine environments, a square meter (10.8 square feet) of seafloor can be perforated by hundreds to thousands of isolated and interconnected tunnels through which crawl and writhe a cornucopia of clams…",
+          "url": "https://phys.org/news/2026-08-twenty-years-fossils-reveal-blurs.html",
           "source": "Phys.org",
           "date": "2026-08-21"
         },
         {
-          "title": "Scarce emergence of new species drove the decline of African megaherbivores, study suggests",
-          "summary": "A study by the National Museum of Natural Sciences (MNCN-CSIC), the National Research Center on Human Evolution (CENIEH) and the University of Alcalá offers a new explanation for the decline of African megaherbivores…",
-          "url": "https://phys.org/news/2026-08-scarce-emergence-species-drove-decline.html",
-          "source": "Phys.org",
-          "date": "2026-08-20"
+          "title": "2,200-year-old Roman shipwreck reveals ancient waterproofing secrets",
+          "summary": "Scientists analyzing a 2,200-year-old Roman shipwreck found that its hull was coated with pine tar and, in one area, a mixture of tar and beeswax. Pollen trapped in those ancient coatings acted like a geographic…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260820202907.htm",
+          "source": "Science Daily",
+          "date": "2026-08-21"
         }
       ]
     },
@@ -125,17 +125,38 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "NASA Data Feeds River Forecasts as Snow Drought Effects Linger",
-          "summary": "NASA Earth science data is supporting machine-learning forecasts that inform decisions about water, power, and public safety in Washington state.",
-          "url": "https://science.nasa.gov/centers-and-facilities/goddard/nasa-river-forecasts-snow-drought/",
-          "source": "NASA",
-          "date": "2026-08-20"
+          "title": "Earth's magnetosphere might not protect us from superstorms after all",
+          "summary": "Science seems like a straightforward endeavor. You come up with a hypothesis, collect data to prove or disprove it, and analyze that data to see whether the hypothesis is right. But anyone who actually does science will…",
+          "url": "https://phys.org/news/2026-08-earth-magnetosphere-superstorms.html",
+          "source": "Phys.org",
+          "date": "2026-08-22"
         },
         {
-          "title": "What a record-breaking El Niño could mean for the world",
-          "summary": "This year's El Niño is on track to be the strongest on record, threatening to unleash extreme weather across the globe and make 2027 the hottest recorded year by far.",
-          "url": "https://phys.org/news/2026-08-el-nio-world.html",
+          "title": "Thunderquakes enable seismic imaging of Earth's shallow subsurface",
+          "summary": "Seismic waves produced by thunderstorms, called thunderquakes, can be used as a novel source for seismic imaging, according to a new study led by researchers at Penn State.",
+          "url": "https://phys.org/news/2026-08-thunderquakes-enable-seismic-imaging-earth.html",
           "source": "Phys.org",
+          "date": "2026-08-21"
+        },
+        {
+          "title": "The framing of nature changes how kids respond to environmental education",
+          "summary": "How to teach children to care about the environment? Beyond including climate change and biodiversity in the curriculum, researchers argue that environmental ethics—how we frame the relationship between humans and…",
+          "url": "https://phys.org/news/2026-08-nature-kids-environmental.html",
+          "source": "Phys.org",
+          "date": "2026-08-21"
+        },
+        {
+          "title": "Partial lunar eclipse August 2026: Where will it be visible from?",
+          "summary": "Here's where the 96% partial lunar eclipse will be visible from on Earth.",
+          "url": "https://www.space.com/stargazing/lunar-eclipses/where-will-the-partial-lunar-eclipse-on-aug-27-2026-be-visible-from",
+          "source": "Space.com",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "‘Off the charts’ El Niño is already the strongest since records began",
+          "summary": "Renowned climate scientist James Hansen says the developing super El Niño has already \"blown past\" previous events with months to go before it peaks",
+          "url": "https://www.newscientist.com/article/2586031-off-the-charts-el-nino-is-already-the-strongest-since-records-began/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
           "date": "2026-08-21"
         }
       ]
@@ -144,38 +165,17 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "Q&A: How Brown University is navigating the rise of generative AI use in the classroom",
-          "summary": "In just a few short years, generative artificial intelligence tools have made a leap from novelties that produce stilted text to genuine societal disruptors that may alter the way people learn, work and even think.",
-          "url": "https://phys.org/news/2026-08-qa-brown-university-generative-ai.html",
-          "source": "Phys.org",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "Schools are starting to teach AI literacy. For many, that means helping kids see chatbots' flaws",
-          "summary": "Artificial intelligence chatbots have become the bane of teachers everywhere, but to prepare for the new school year, a group of educators in Charleston, South Carolina, packed into a high school auditorium and talked…",
-          "url": "https://phys.org/news/2026-08-schools-ai-literacy-kids-chatbots.html",
-          "source": "Phys.org",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "AI-driven literature mining speeds discovery of heat-stable lead-free dielectric materials",
-          "summary": "Artificial intelligence has analyzed data scattered across hundreds of research papers to discover new lead-free dielectric materials that maintain stable performance even at high temperatures. The study presents a new…",
-          "url": "https://phys.org/news/2026-08-ai-driven-literature-discovery-stable.html",
-          "source": "Phys.org",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "Tourist sign translations made more culturally fluent by AI system",
-          "summary": "A new artificial intelligence, or AI, translation model could improve the accuracy and cultural appropriateness of Chinese-English public signs at tourist attractions, according to research in the International Journal…",
-          "url": "https://phys.org/news/2026-08-tourist-culturally-fluent-ai.html",
-          "source": "Phys.org",
-          "date": "2026-08-21"
-        },
-        {
           "title": "AI may know how you’ll respond to a vaccine before you get it",
           "summary": "AI may be able to predict how strongly someone will respond to a vaccine before they receive it. By analyzing antibody patterns in more than 4,000 people, researchers found signs of “immune readiness” that helped…",
           "url": "https://www.sciencedaily.com/releases/2026/08/260820202842.htm",
           "source": "Science Daily",
+          "date": "2026-08-21"
+        },
+        {
+          "title": "New ROOT method charts a path to reversing biological changes once thought irreversible",
+          "summary": "Once a cell has locked into an abnormal state—the way cancer cells do—can it ever be restored to normal? A KAIST research team led by Professor Kwang-Hyun Cho of the Department of Bio and Brain Engineering has, for the…",
+          "url": "https://phys.org/news/2026-08-root-method-path-reversing-biological.html",
+          "source": "Phys.org",
           "date": "2026-08-21"
         }
       ]
@@ -191,6 +191,13 @@
           "date": "2026-08-19"
         },
         {
+          "title": "LHC collisions reveal oxygen and neon's shifting nuclear geometry",
+          "summary": "Many people are aware that the Large Hadron Collider (LHC) at CERN smashes tiny subatomic particles together at nearly the speed of light to test foundational laws of physics and discover new fundamental particles, but…",
+          "url": "https://phys.org/news/2026-08-lhc-collisions-reveal-oxygen-neon.html",
+          "source": "Phys.org",
+          "date": "2026-08-21"
+        },
+        {
           "title": "Hidden magnetism inside atoms may explain mysterious gamma rays",
           "summary": "For decades, scientists have puzzled over why certain atomic nuclei unexpectedly produce large numbers of low-energy gamma rays. A new experiment traced the effect to magnetic changes inside the nucleus, where protons…",
           "url": "https://www.sciencedaily.com/releases/2026/08/260820202849.htm",
@@ -198,24 +205,17 @@
           "date": "2026-08-21"
         },
         {
+          "title": "Realistic solid-state model brings fractons in quantum spin liquids closer to detection",
+          "summary": "Quasiparticles arise from the complex interaction of many particles in solids; for example, we describe lattice vibrations in crystals as phonons. Fractons are exotic quasiparticles that occur at the vertices of…",
+          "url": "https://phys.org/news/2026-08-realistic-solid-state-fractons-quantum.html",
+          "source": "Phys.org",
+          "date": "2026-08-21"
+        },
+        {
           "title": "Could 'dark photons' explain dark matter?",
           "summary": "New research suggests that if dark matter is composed of \"dark photons,\" it would not have heated the early cosmos like scientists thought.",
           "url": "https://www.space.com/astronomy/dark-universe/could-dark-photons-explain-dark-matter",
           "source": "Space.com",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "Europe’s Scorching Summer",
-          "summary": "A series of heat waves in 2026 is breaking records and taking a toll in Europe.",
-          "url": "https://science.nasa.gov/earth/europes-scorching-summer/",
-          "source": "NASA",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "Scientists catch a hidden electronic state forming in just 30 femtoseconds",
-          "summary": "Scientists watched a light-triggered hidden state form inside a material in only 30 femtoseconds, revealing a step that had never been seen before. The material first entered a fleeting electronic state in which its…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260820202856.htm",
-          "source": "Science Daily",
           "date": "2026-08-21"
         }
       ]
