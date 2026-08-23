@@ -1,9 +1,23 @@
 {
-  "updated": "2026-08-22T13:31:24Z",
+  "updated": "2026-08-23T13:31:47Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
+        {
+          "title": "The dynamic duo: 'Weaving' hierarchical DNA materials with two classes of biomolecular nanomachines",
+          "summary": "Biomolecular nanomachines, such as enzymes and molecular motors, are the workhorses behind the synthesis and organization of complex materials in life. Powered by chemical energy, they build, transport and organize…",
+          "url": "https://phys.org/news/2026-08-dynamic-duo-hierarchical-dna-materials.html",
+          "source": "Phys.org",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "Computer models pinpoint catalysts for replacing fossil-fueled ammonia production",
+          "summary": "Ammonia is one of the most important chemicals produced in the world, ranking second only to sulfuric acid in the total volume produced each year. It is used mostly to make fertilizer, which is essential to feeding the…",
+          "url": "https://phys.org/news/2026-08-catalysts-fossil-fueled-ammonia-production.html",
+          "source": "Phys.org",
+          "date": "2026-08-22"
+        },
         {
           "title": "Scientists discover how gut bacteria “train” the intestine to fight inflammation",
           "summary": "A compound made when gut bacteria break down dietary fiber may do more than briefly calm inflammation—it could leave a lasting protective “memory” in the gut. Northwestern Medicine researchers found that butyrate can…",
@@ -12,32 +26,18 @@
           "date": "2026-08-21"
         },
         {
+          "title": "AI decodes DNA initiator sequence found in about 60% of human genes",
+          "summary": "Precise activation of tens of thousands of genes is critical for healthy development and growth. Specialized segments of our DNA are responsible for carefully orchestrating genetic sequences that result in the…",
+          "url": "https://phys.org/news/2026-08-ai-decodes-dna-sequence-human.html",
+          "source": "Phys.org",
+          "date": "2026-08-22"
+        },
+        {
           "title": "Hydrogel platform uses vitamin B2 and blue light to simplify living tissue models",
           "summary": "Researchers at Tampere University have developed a versatile hydrogel platform that makes it easier to create customized biomaterials for tissue engineering, disease modeling, drug discovery and regenerative medicine…",
           "url": "https://phys.org/news/2026-08-hydrogel-platform-vitamin-b2-blue.html",
           "source": "Phys.org",
           "date": "2026-08-21"
-        },
-        {
-          "title": "New Monte Carlo method accelerates simulations of densely entangled polymer melts",
-          "summary": "Long polymer chains are everywhere: in synthetic materials, soft matter, biological systems such as chromosomes, and mathematical models of filaments and knots. When many such chains are densely packed, they form what…",
-          "url": "https://phys.org/news/2026-08-monte-carlo-method-simulations-densely.html",
-          "source": "Phys.org",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "TB 26-04 Updates and Modernization of NASA’s Chemical Equilibrium with Applications (CEA) Code",
-          "summary": "For more information, contact Mark K. Leader, Glenn Research Center, mark.leader@nasa.gov Download the PDF version NASA’s Chemical Equilibrium with Applications (CEA) code is a foundational tool for propulsion system…",
-          "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-updates-and-modernization-of-nasas-chemical-equilibrium-with-applications-cea-code/",
-          "source": "NASA",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "MIT physicists discover electrons rebuilding like ice inside a quantum material",
-          "summary": "MIT physicists found that two electronic phases inside the same quantum material emerge through surprisingly different mechanisms—one smoothly and the other in expanding pockets resembling growing ice crystals. The…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260819041231.htm",
-          "source": "Science Daily",
-          "date": "2026-08-20"
         }
       ]
     },
@@ -45,7 +45,7 @@
       "emoji": "🚀",
       "articles": [
         {
-          "title": "SpaceX sends 27 Starlink satellites to orbit on 100th Falcon rocket launch of the year (photos)",
+          "title": "SpaceX sends 27 Starlink satellites to orbit on 100th Falcon rocket launch of the year (video, photos)",
           "summary": "SpaceX launched 27 Starlink satellites from California early this morning (Aug. 22), on the 100th mission of the year for the company's Falcon rocket family.",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-satellite-launch-group-15-20",
           "source": "Space.com",
@@ -99,24 +99,17 @@
           "date": "2026-08-21"
         },
         {
-          "title": "This 23-foot crocodylian may have ruled South America’s food chain",
-          "summary": "Miocene South America was packed with giant prey—and the predators hunting them were just as spectacular. Fossil bite marks suggest crocodylians, especially the enormous Purussaurus neivensis, were more important…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260819041226.htm",
-          "source": "Science Daily",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "Twenty years and 7,500 fossils reveal what blurs Earth's marine fossil record",
-          "summary": "In productive marine environments, a square meter (10.8 square feet) of seafloor can be perforated by hundreds to thousands of isolated and interconnected tunnels through which crawl and writhe a cornucopia of clams…",
-          "url": "https://phys.org/news/2026-08-twenty-years-fossils-reveal-blurs.html",
-          "source": "Phys.org",
-          "date": "2026-08-21"
-        },
-        {
           "title": "2,200-year-old Roman shipwreck reveals ancient waterproofing secrets",
           "summary": "Scientists analyzing a 2,200-year-old Roman shipwreck found that its hull was coated with pine tar and, in one area, a mixture of tar and beeswax. Pollen trapped in those ancient coatings acted like a geographic…",
           "url": "https://www.sciencedaily.com/releases/2026/08/260820202907.htm",
           "source": "Science Daily",
+          "date": "2026-08-21"
+        },
+        {
+          "title": "Burns improve more rapidly after treatment with fish skin",
+          "summary": "Severe burns are often treated with synthetic products ahead of skin graft surgery, but there is evidence that a product made from minimally processed cod skin is more effective",
+          "url": "https://www.newscientist.com/article/2586000-burns-heal-more-rapidly-after-treatment-with-fish-skin/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
           "date": "2026-08-21"
         }
       ]
@@ -125,25 +118,25 @@
       "emoji": "🌍",
       "articles": [
         {
+          "title": "AI mapping reveals hidden stage of Arctic freeze with climate implications",
+          "summary": "As autumn gives way to winter across the Arctic, the ground doesn't immediately freeze solid. Instead, soils often linger near the freezing point for days or even weeks in a phase called the zero curtain. In a new…",
+          "url": "https://phys.org/news/2026-08-ai-reveals-hidden-stage-arctic.html",
+          "source": "Phys.org",
+          "date": "2026-08-22"
+        },
+        {
+          "title": "Heat wave-hit Europe logs over 30,000 excess summer deaths: First figures",
+          "summary": "Europe saw at least 30,000 excess deaths across a blistering summer of back-to-back heat waves and drought that scientists have blamed on man-made climate change, according to provisional figures.",
+          "url": "https://phys.org/news/2026-08-europe-excess-summer-deaths-figures.html",
+          "source": "Phys.org",
+          "date": "2026-08-22"
+        },
+        {
           "title": "Earth's magnetosphere might not protect us from superstorms after all",
           "summary": "Science seems like a straightforward endeavor. You come up with a hypothesis, collect data to prove or disprove it, and analyze that data to see whether the hypothesis is right. But anyone who actually does science will…",
           "url": "https://phys.org/news/2026-08-earth-magnetosphere-superstorms.html",
           "source": "Phys.org",
           "date": "2026-08-22"
-        },
-        {
-          "title": "Thunderquakes enable seismic imaging of Earth's shallow subsurface",
-          "summary": "Seismic waves produced by thunderstorms, called thunderquakes, can be used as a novel source for seismic imaging, according to a new study led by researchers at Penn State.",
-          "url": "https://phys.org/news/2026-08-thunderquakes-enable-seismic-imaging-earth.html",
-          "source": "Phys.org",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "The framing of nature changes how kids respond to environmental education",
-          "summary": "How to teach children to care about the environment? Beyond including climate change and biodiversity in the curriculum, researchers argue that environmental ethics—how we frame the relationship between humans and…",
-          "url": "https://phys.org/news/2026-08-nature-kids-environmental.html",
-          "source": "Phys.org",
-          "date": "2026-08-21"
         },
         {
           "title": "Partial lunar eclipse August 2026: Where will it be visible from?",
@@ -153,17 +146,24 @@
           "date": "2026-08-22"
         },
         {
-          "title": "‘Off the charts’ El Niño is already the strongest since records began",
-          "summary": "Renowned climate scientist James Hansen says the developing super El Niño has already \"blown past\" previous events with months to go before it peaks",
-          "url": "https://www.newscientist.com/article/2586031-off-the-charts-el-nino-is-already-the-strongest-since-records-began/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-08-21"
+          "title": "Sun news: Flare activity low, but potential remains",
+          "summary": "Sun news August 23, 2026: Only C flares today, but complex AR4513 keeps simmering near disk center. A CME flank could graze Earth around August 24. The post Sun news: Flare activity low, but potential remains first…",
+          "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+          "source": "EarthSky",
+          "date": "2026-08-23"
         }
       ]
     },
     "Technology & Inventions": {
       "emoji": "🤖",
       "articles": [
+        {
+          "title": "Quantum computer microscope is set to significantly improve electron microscopy",
+          "summary": "Electron microscopes are used wherever particularly small details need to be imaged. But from a strictly physical point of view, every electron in a conventional electron microscope represents a missed opportunity: If…",
+          "url": "https://phys.org/news/2026-08-quantum-microscope-significantly-electron-microscopy.html",
+          "source": "Phys.org",
+          "date": "2026-08-23"
+        },
         {
           "title": "AI may know how you’ll respond to a vaccine before you get it",
           "summary": "AI may be able to predict how strongly someone will respond to a vaccine before they receive it. By analyzing antibody patterns in more than 4,000 people, researchers found signs of “immune readiness” that helped…",
@@ -184,20 +184,6 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "Tiny quantum engines reveal useful energy hiding in “waste heat”",
-          "summary": "A tiny machine made from just an atom and particles of light may sound impossibly simple, but it raises a surprisingly difficult question: what counts as heat, and what energy can still do useful work? University of…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260819041222.htm",
-          "source": "Science Daily",
-          "date": "2026-08-19"
-        },
-        {
-          "title": "LHC collisions reveal oxygen and neon's shifting nuclear geometry",
-          "summary": "Many people are aware that the Large Hadron Collider (LHC) at CERN smashes tiny subatomic particles together at nearly the speed of light to test foundational laws of physics and discover new fundamental particles, but…",
-          "url": "https://phys.org/news/2026-08-lhc-collisions-reveal-oxygen-neon.html",
-          "source": "Phys.org",
-          "date": "2026-08-21"
-        },
-        {
           "title": "Hidden magnetism inside atoms may explain mysterious gamma rays",
           "summary": "For decades, scientists have puzzled over why certain atomic nuclei unexpectedly produce large numbers of low-energy gamma rays. A new experiment traced the effect to magnetic changes inside the nucleus, where protons…",
           "url": "https://www.sciencedaily.com/releases/2026/08/260820202849.htm",
@@ -216,6 +202,20 @@
           "summary": "New research suggests that if dark matter is composed of \"dark photons,\" it would not have heated the early cosmos like scientists thought.",
           "url": "https://www.space.com/astronomy/dark-universe/could-dark-photons-explain-dark-matter",
           "source": "Space.com",
+          "date": "2026-08-21"
+        },
+        {
+          "title": "Greenland meltwater is intensifying European heatwaves",
+          "summary": "The cooling of the North Atlantic is creating waviness in the jet stream and high-pressure ridging over Europe, a study finds",
+          "url": "https://www.newscientist.com/article/2585659-greenland-meltwater-is-intensifying-european-heatwaves/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-08-21"
+        },
+        {
+          "title": "Europe’s Scorching Summer",
+          "summary": "A series of heat waves in 2026 is breaking records and taking a toll in Europe.",
+          "url": "https://science.nasa.gov/earth/europes-scorching-summer/",
+          "source": "NASA",
           "date": "2026-08-21"
         }
       ]
