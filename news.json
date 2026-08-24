@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T13:31:47Z",
+  "updated": "2026-08-24T13:51:34Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
@@ -12,6 +12,13 @@
           "date": "2026-08-22"
         },
         {
+          "title": "Gut bacteria may unlock a hidden benefit of vegetables",
+          "summary": "Gut bacteria can transform nitrate and plant-based iron from vegetables and other foods into protective molecules that may benefit the heart and metabolism. In experimental models, higher levels of these compounds were…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260822015145.htm",
+          "source": "Science Daily",
+          "date": "2026-08-24"
+        },
+        {
           "title": "Computer models pinpoint catalysts for replacing fossil-fueled ammonia production",
           "summary": "Ammonia is one of the most important chemicals produced in the world, ranking second only to sulfuric acid in the total volume produced each year. It is used mostly to make fertilizer, which is essential to feeding the…",
           "url": "https://phys.org/news/2026-08-catalysts-fossil-fueled-ammonia-production.html",
@@ -19,24 +26,17 @@
           "date": "2026-08-22"
         },
         {
-          "title": "Scientists discover how gut bacteria “train” the intestine to fight inflammation",
-          "summary": "A compound made when gut bacteria break down dietary fiber may do more than briefly calm inflammation—it could leave a lasting protective “memory” in the gut. Northwestern Medicine researchers found that butyrate can…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260820002439.htm",
-          "source": "Science Daily",
-          "date": "2026-08-21"
+          "title": "The superconducting gap of an ultrathin nickelate defies expectations",
+          "summary": "Superconductors are materials that carry electrical current with zero resistance below a specific critical temperature. In conventional superconductors, the transition to superconductivity generally occurs at very low…",
+          "url": "https://phys.org/news/2026-08-superconducting-gap-ultrathin-nickelate-defies.html",
+          "source": "Phys.org",
+          "date": "2026-08-23"
         },
         {
-          "title": "AI decodes DNA initiator sequence found in about 60% of human genes",
-          "summary": "Precise activation of tens of thousands of genes is critical for healthy development and growth. Specialized segments of our DNA are responsible for carefully orchestrating genetic sequences that result in the…",
-          "url": "https://phys.org/news/2026-08-ai-decodes-dna-sequence-human.html",
-          "source": "Phys.org",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "Hydrogel platform uses vitamin B2 and blue light to simplify living tissue models",
-          "summary": "Researchers at Tampere University have developed a versatile hydrogel platform that makes it easier to create customized biomaterials for tissue engineering, disease modeling, drug discovery and regenerative medicine…",
-          "url": "https://phys.org/news/2026-08-hydrogel-platform-vitamin-b2-blue.html",
-          "source": "Phys.org",
+          "title": "TB 26-04 Updates and Modernization of NASA’s Chemical Equilibrium with Applications (CEA) Code",
+          "summary": "For more information, contact Mark K. Leader, Glenn Research Center, mark.leader@nasa.gov Download the PDF version NASA’s Chemical Equilibrium with Applications (CEA) code is a foundational tool for propulsion system…",
+          "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-updates-and-modernization-of-nasas-chemical-equilibrium-with-applications-cea-code/",
+          "source": "NASA",
           "date": "2026-08-21"
         }
       ]
@@ -44,6 +44,13 @@
     "Space & Astronomy": {
       "emoji": "🚀",
       "articles": [
+        {
+          "title": "Nancy Grace Roman Telescope live updates: NASA readies Roman for launch",
+          "summary": "Follow NASA's Nancy Grace Roman Space Telescope and its launch aboard a SpaceX Falcon Heavy rocket to begin its mission to explore the universe.",
+          "url": "https://www.space.com/news/live/nancy-grace-roman-telescope-live-updates-nasa-readies-roman-for-launch-august-24-2026",
+          "source": "Space.com",
+          "date": "2026-08-24"
+        },
         {
           "title": "SpaceX sends 27 Starlink satellites to orbit on 100th Falcon rocket launch of the year (video, photos)",
           "summary": "SpaceX launched 27 Starlink satellites from California early this morning (Aug. 22), on the 100th mission of the year for the company's Falcon rocket family.",
@@ -66,13 +73,6 @@
           "date": "2026-08-21"
         },
         {
-          "title": "On this day in space! Aug. 20, 1977: Voyager 2 launches to the outer planets",
-          "summary": "On this day in space! Aug. 20, 1977: NASA launched the Voyager 2 spacecraft on a mission to explore the outer planets.",
-          "url": "https://www.space.com/space-exploration/missions/on-this-day-in-space-aug-20-1977-voyager-2-launches-to-the-outer-planets",
-          "source": "Space.com",
-          "date": "2026-08-20"
-        },
-        {
           "title": "Webb Opens Treasure Chest",
           "summary": "NASA&#8217;s James Webb Space Telescope captured this Aug. 6, 2026, infrared image of part of the Carina Nebula, a star-forming region also home to the Cosmic Cliffs. This feature, called the “Treasure Chest,” is an…",
           "url": "https://www.nasa.gov/image-article/webb-opens-treasure-chest/",
@@ -85,25 +85,32 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "Animal genomes follow irreversible 'evolutionary highways' across thousands of species",
-          "summary": "A human, an octopus, and a coral could hardly look more different—yet deep inside their cells, their chromosomes still carry recognizable pieces of a genome inherited from an animal ancestor that lived more than 600…",
-          "url": "https://phys.org/news/2026-08-animal-genomes-irreversible-evolutionary-highways.html",
+          "title": "Australia's bird flu response: Too little, but it's not too late",
+          "summary": "When news broke over the weekend that Australia's first mainland case of bird flu in a mammal—the death of a long-nosed fur seal—had been detected, I felt deep sadness and dread for what's likely to come next. We should…",
+          "url": "https://phys.org/news/2026-08-australia-bird-flu-response-late.html",
           "source": "Phys.org",
-          "date": "2026-08-22"
+          "date": "2026-08-24"
         },
         {
-          "title": "“One-in-a-million” sea creature fossil preserves soft tissue for 450 million years",
-          "summary": "Scientists have identified exceptionally rare soft tissue preserved in a 450-million-year-old crinoid fossil, more than 200 million years older than the first dinosaurs. Its delicate tube feet offer a remarkable new…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260820002450.htm",
-          "source": "Science Daily",
-          "date": "2026-08-21"
+          "title": "Why hundreds of scientists want more protection for Australia's oceans",
+          "summary": "Australia is one of the world's great ocean nations. It is home to more marine species than any other country, with ocean ecosystems spanning all five of the world's climate zones, from the coral-rich tropics to the icy…",
+          "url": "https://phys.org/news/2026-08-hundreds-scientists-australia-oceans.html",
+          "source": "Phys.org",
+          "date": "2026-08-24"
         },
         {
-          "title": "2,200-year-old Roman shipwreck reveals ancient waterproofing secrets",
-          "summary": "Scientists analyzing a 2,200-year-old Roman shipwreck found that its hull was coated with pine tar and, in one area, a mixture of tar and beeswax. Pollen trapped in those ancient coatings acted like a geographic…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260820202907.htm",
+          "title": "Bird flu is spreading. Your backyard feeder could make it worse",
+          "summary": "Backyard bird feeders could become unexpected hotspots for H5N1 as Australia’s bird flu outbreak spreads, bringing species together in ways that rarely occur naturally. Experts say stopping feeding is safest, while…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260824065519.htm",
           "source": "Science Daily",
-          "date": "2026-08-21"
+          "date": "2026-08-24"
+        },
+        {
+          "title": "Scientists left this farm field alone. Thousands of orchids appeared",
+          "summary": "An abandoned farm field became a flourishing wildflower meadow within little more than a decade, with plant diversity doubling and thousands of orchids appearing naturally. The discovery suggests that simply giving…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260822015208.htm",
+          "source": "Science Daily",
+          "date": "2026-08-23"
         },
         {
           "title": "Burns improve more rapidly after treatment with fish skin",
@@ -118,25 +125,11 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "AI mapping reveals hidden stage of Arctic freeze with climate implications",
-          "summary": "As autumn gives way to winter across the Arctic, the ground doesn't immediately freeze solid. Instead, soils often linger near the freezing point for days or even weeks in a phase called the zero curtain. In a new…",
-          "url": "https://phys.org/news/2026-08-ai-reveals-hidden-stage-arctic.html",
+          "title": "Hot temperatures can dull blue morpho butterflies' iridescent scales",
+          "summary": "Blue morpho butterflies have captivated the human eye for centuries. We even have one as an emoji on our phones. In a recent experiment, researchers at the Smithsonian Tropical Research Institute (STRI) documented for…",
+          "url": "https://phys.org/news/2026-08-hot-temperatures-dull-blue-morpho.html",
           "source": "Phys.org",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "Heat wave-hit Europe logs over 30,000 excess summer deaths: First figures",
-          "summary": "Europe saw at least 30,000 excess deaths across a blistering summer of back-to-back heat waves and drought that scientists have blamed on man-made climate change, according to provisional figures.",
-          "url": "https://phys.org/news/2026-08-europe-excess-summer-deaths-figures.html",
-          "source": "Phys.org",
-          "date": "2026-08-22"
-        },
-        {
-          "title": "Earth's magnetosphere might not protect us from superstorms after all",
-          "summary": "Science seems like a straightforward endeavor. You come up with a hypothesis, collect data to prove or disprove it, and analyze that data to see whether the hypothesis is right. But anyone who actually does science will…",
-          "url": "https://phys.org/news/2026-08-earth-magnetosphere-superstorms.html",
-          "source": "Phys.org",
-          "date": "2026-08-22"
+          "date": "2026-08-23"
         },
         {
           "title": "Partial lunar eclipse August 2026: Where will it be visible from?",
@@ -146,11 +139,11 @@
           "date": "2026-08-22"
         },
         {
-          "title": "Sun news: Flare activity low, but potential remains",
-          "summary": "Sun news August 23, 2026: Only C flares today, but complex AR4513 keeps simmering near disk center. A CME flank could graze Earth around August 24. The post Sun news: Flare activity low, but potential remains first…",
-          "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
-          "source": "EarthSky",
-          "date": "2026-08-23"
+          "title": "‘Off the charts’ El Niño is already the strongest since records began",
+          "summary": "Renowned climate scientist James Hansen says the developing super El Niño has already \"blown past\" previous events with months to go before it peaks",
+          "url": "https://www.newscientist.com/article/2586031-off-the-charts-el-nino-is-already-the-strongest-since-records-began/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-08-21"
         }
       ]
     },
@@ -158,25 +151,18 @@
       "emoji": "🤖",
       "articles": [
         {
+          "title": "An AI job boom? Here's what the tedious, temporary work in data labeling is actually like",
+          "summary": "Amid all the talk about artificial intelligence (AI) both creating and destroying jobs, a troubling reality flies under the radar.",
+          "url": "https://phys.org/news/2026-08-ai-job-boom-tedious-temporary.html",
+          "source": "Phys.org",
+          "date": "2026-08-24"
+        },
+        {
           "title": "Quantum computer microscope is set to significantly improve electron microscopy",
           "summary": "Electron microscopes are used wherever particularly small details need to be imaged. But from a strictly physical point of view, every electron in a conventional electron microscope represents a missed opportunity: If…",
           "url": "https://phys.org/news/2026-08-quantum-microscope-significantly-electron-microscopy.html",
           "source": "Phys.org",
           "date": "2026-08-23"
-        },
-        {
-          "title": "AI may know how you’ll respond to a vaccine before you get it",
-          "summary": "AI may be able to predict how strongly someone will respond to a vaccine before they receive it. By analyzing antibody patterns in more than 4,000 people, researchers found signs of “immune readiness” that helped…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260820202842.htm",
-          "source": "Science Daily",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "New ROOT method charts a path to reversing biological changes once thought irreversible",
-          "summary": "Once a cell has locked into an abnormal state—the way cancer cells do—can it ever be restored to normal? A KAIST research team led by Professor Kwang-Hyun Cho of the Department of Bio and Brain Engineering has, for the…",
-          "url": "https://phys.org/news/2026-08-root-method-path-reversing-biological.html",
-          "source": "Phys.org",
-          "date": "2026-08-21"
         }
       ]
     },
@@ -184,18 +170,18 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "Hidden magnetism inside atoms may explain mysterious gamma rays",
-          "summary": "For decades, scientists have puzzled over why certain atomic nuclei unexpectedly produce large numbers of low-energy gamma rays. A new experiment traced the effect to magnetic changes inside the nucleus, where protons…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260820202849.htm",
+          "title": "Scientists just imaged the hidden quantum shape of a molecule",
+          "summary": "Researchers have found a way to create a complete 3D image of a molecule’s wavefunction, one of quantum mechanics’ most fundamental yet elusive features. By combining advanced photoelectron measurements with newly…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260822015213.htm",
           "source": "Science Daily",
-          "date": "2026-08-21"
+          "date": "2026-08-24"
         },
         {
-          "title": "Realistic solid-state model brings fractons in quantum spin liquids closer to detection",
-          "summary": "Quasiparticles arise from the complex interaction of many particles in solids; for example, we describe lattice vibrations in crystals as phonons. Fractons are exotic quasiparticles that occur at the vertices of…",
-          "url": "https://phys.org/news/2026-08-realistic-solid-state-fractons-quantum.html",
+          "title": "New free-space optical link adds a wireless component to the nation's longest quantum network",
+          "summary": "There's a new lighthouse on Long Island. But instead of shining light to guide ships through waterways, this one transmits and receives particles of light that carry quantum information. Perched atop a seven-story…",
+          "url": "https://phys.org/news/2026-08-free-space-optical-link-wireless.html",
           "source": "Phys.org",
-          "date": "2026-08-21"
+          "date": "2026-08-24"
         },
         {
           "title": "Could 'dark photons' explain dark matter?",
