@@ -1,15 +1,15 @@
 {
-  "updated": "2026-08-24T13:51:34Z",
+  "updated": "2026-08-25T13:50:18Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "The dynamic duo: 'Weaving' hierarchical DNA materials with two classes of biomolecular nanomachines",
-          "summary": "Biomolecular nanomachines, such as enzymes and molecular motors, are the workhorses behind the synthesis and organization of complex materials in life. Powered by chemical energy, they build, transport and organize…",
-          "url": "https://phys.org/news/2026-08-dynamic-duo-hierarchical-dna-materials.html",
-          "source": "Phys.org",
-          "date": "2026-08-22"
+          "title": "Atomic catalyst unlocks the hidden value of plant waste",
+          "summary": "Scientists have created a highly efficient catalyst that breaks down stubborn lignin from plant waste into useful chemicals under relatively mild conditions. By revealing exactly how the catalyst works at the atomic…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260824065601.htm",
+          "source": "Science Daily",
+          "date": "2026-08-25"
         },
         {
           "title": "Gut bacteria may unlock a hidden benefit of vegetables",
@@ -19,25 +19,25 @@
           "date": "2026-08-24"
         },
         {
-          "title": "Computer models pinpoint catalysts for replacing fossil-fueled ammonia production",
-          "summary": "Ammonia is one of the most important chemicals produced in the world, ranking second only to sulfuric acid in the total volume produced each year. It is used mostly to make fertilizer, which is essential to feeding the…",
-          "url": "https://phys.org/news/2026-08-catalysts-fossil-fueled-ammonia-production.html",
+          "title": "Cow gut enzyme could help target bacterial biofilms and antibiotic-resistant infections",
+          "summary": "The bacterium Acinetobacter baumannii poses a substantial threat in health care settings, readily forming biofilms on wounds and medical surfaces and contributing to persistent infections and delayed healing. Its…",
+          "url": "https://phys.org/news/2026-08-cow-gut-enzyme-bacterial-biofilms.html",
           "source": "Phys.org",
-          "date": "2026-08-22"
+          "date": "2026-08-25"
         },
         {
-          "title": "The superconducting gap of an ultrathin nickelate defies expectations",
-          "summary": "Superconductors are materials that carry electrical current with zero resistance below a specific critical temperature. In conventional superconductors, the transition to superconductivity generally occurs at very low…",
-          "url": "https://phys.org/news/2026-08-superconducting-gap-ultrathin-nickelate-defies.html",
+          "title": "Large mammals alter soil chemistry and increase fertility in the Atlantic Forest",
+          "summary": "A study published in the journal Ecological Monographs indicates that large mammals, such as tapirs, peccaries, agoutis and deer, alter the chemical composition of litter and soil in tropical forests of the Brazilian…",
+          "url": "https://phys.org/news/2026-08-large-mammals-soil-chemistry-fertility.html",
           "source": "Phys.org",
-          "date": "2026-08-23"
+          "date": "2026-08-25"
         },
         {
-          "title": "TB 26-04 Updates and Modernization of NASA’s Chemical Equilibrium with Applications (CEA) Code",
-          "summary": "For more information, contact Mark K. Leader, Glenn Research Center, mark.leader@nasa.gov Download the PDF version NASA’s Chemical Equilibrium with Applications (CEA) code is a foundational tool for propulsion system…",
-          "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-updates-and-modernization-of-nasas-chemical-equilibrium-with-applications-cea-code/",
-          "source": "NASA",
-          "date": "2026-08-21"
+          "title": "The hidden chemistry behind glow-in-the-dark art",
+          "summary": "Some of the world's brightest colors don't just reflect light; they create it. Scientists and museum conservators are now uncovering why these luminous pigments fade and how to preserve them for future generations. The…",
+          "url": "https://phys.org/news/2026-08-hidden-chemistry-dark-art.html",
+          "source": "Phys.org",
+          "date": "2026-08-25"
         }
       ]
     },
@@ -59,45 +59,31 @@
           "date": "2026-08-22"
         },
         {
-          "title": "SpaceX launches 29 Starlink satellites, lands rocket on ship at sea (video, photos)",
-          "summary": "SpaceX launched yet another Starlink mission today (Aug. 21), sending 29 more of the broadband satellites to orbit from Florida's Space Coast.",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-group-10-39-falcon-9-asog",
+          "title": "On this day in space! Aug. 23, 1961: Ranger 1's botched space launch",
+          "summary": "On Aug. 23, 1961, NASA launched the Ranger 1 robotic spacecraft on a precursor mission to test new technologies for later moon missions.",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-aug-23-1961-ranger-1s-botched-space-launch",
           "source": "Space.com",
-          "date": "2026-08-21"
+          "date": "2026-08-23"
         },
         {
-          "title": "Japan unveils Mars moon sample-return spacecraft ahead of Oct. 19 launch (photos)",
-          "summary": "Japan recently gave the world a look at the spacecraft of its MMX mission, which will launch on Oct. 19 to grab pieces of the Mars moon Phobos and haul them back to Earth.",
-          "url": "https://www.space.com/astronomy/mars/japan-unveils-mars-moon-sample-return-spacecraft-ahead-of-oct-19-launch-photos",
-          "source": "Space.com",
-          "date": "2026-08-21"
+          "title": "NASA starshade would enable astronomers to directly image rocky exoworlds",
+          "summary": "A NASA-led team hopes to take a shortcut to direct imaging of extrasolar Earth-like planets. The idea is to use what they call a hybrid telescope composed of an orbital starshade coupled with the next-generation…",
+          "url": "https://phys.org/news/2026-08-nasa-starshade-enable-astronomers-image.html",
+          "source": "Phys.org",
+          "date": "2026-08-24"
         },
         {
-          "title": "Webb Opens Treasure Chest",
-          "summary": "NASA&#8217;s James Webb Space Telescope captured this Aug. 6, 2026, infrared image of part of the Carina Nebula, a star-forming region also home to the Cosmic Cliffs. This feature, called the “Treasure Chest,” is an…",
-          "url": "https://www.nasa.gov/image-article/webb-opens-treasure-chest/",
+          "title": "NASA Sets Coverage for Roman Space Telescope Launch from Florida",
+          "summary": "Coverage plans are ready for NASA’s Nancy Grace Roman Space Telescope prelaunch and launch activities. Roman is NASA’s next-generation observatory designed to explore some of the universe’s biggest mysteries, including…",
+          "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-roman-space-telescope-launch-from-florida/",
           "source": "NASA",
-          "date": "2026-08-21"
+          "date": "2026-08-24"
         }
       ]
     },
     "Animals & Nature": {
       "emoji": "🐾",
       "articles": [
-        {
-          "title": "Australia's bird flu response: Too little, but it's not too late",
-          "summary": "When news broke over the weekend that Australia's first mainland case of bird flu in a mammal—the death of a long-nosed fur seal—had been detected, I felt deep sadness and dread for what's likely to come next. We should…",
-          "url": "https://phys.org/news/2026-08-australia-bird-flu-response-late.html",
-          "source": "Phys.org",
-          "date": "2026-08-24"
-        },
-        {
-          "title": "Why hundreds of scientists want more protection for Australia's oceans",
-          "summary": "Australia is one of the world's great ocean nations. It is home to more marine species than any other country, with ocean ecosystems spanning all five of the world's climate zones, from the coral-rich tropics to the icy…",
-          "url": "https://phys.org/news/2026-08-hundreds-scientists-australia-oceans.html",
-          "source": "Phys.org",
-          "date": "2026-08-24"
-        },
         {
           "title": "Bird flu is spreading. Your backyard feeder could make it worse",
           "summary": "Backyard bird feeders could become unexpected hotspots for H5N1 as Australia’s bird flu outbreak spreads, bringing species together in ways that rarely occur naturally. Experts say stopping feeding is safest, while…",
@@ -111,13 +97,6 @@
           "url": "https://www.sciencedaily.com/releases/2026/08/260822015208.htm",
           "source": "Science Daily",
           "date": "2026-08-23"
-        },
-        {
-          "title": "Burns improve more rapidly after treatment with fish skin",
-          "summary": "Severe burns are often treated with synthetic products ahead of skin graft surgery, but there is evidence that a product made from minimally processed cod skin is more effective",
-          "url": "https://www.newscientist.com/article/2586000-burns-heal-more-rapidly-after-treatment-with-fish-skin/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-08-21"
         }
       ]
     },
@@ -125,11 +104,25 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Hot temperatures can dull blue morpho butterflies' iridescent scales",
-          "summary": "Blue morpho butterflies have captivated the human eye for centuries. We even have one as an emoji on our phones. In a recent experiment, researchers at the Smithsonian Tropical Research Institute (STRI) documented for…",
-          "url": "https://phys.org/news/2026-08-hot-temperatures-dull-blue-morpho.html",
+          "title": "From nightlife to life at night: Cities must stay open later to beat the rising heat",
+          "summary": "Summer in Europe is normally cause for celebration. Not this one, however, which will rank as one of the hottest on record. Wildfires have broken out everywhere from France to Greece, while intense drought has turned…",
+          "url": "https://phys.org/news/2026-08-nightlife-life-night-cities-stay.html",
           "source": "Phys.org",
-          "date": "2026-08-23"
+          "date": "2026-08-25"
+        },
+        {
+          "title": "Namibia paves way for phosphate mining in the Atlantic Ocean",
+          "summary": "Namibia has granted environmental clearance for an offshore phosphate mining project that paves the way for the world's first commercial seabed-dredging operation for the mineral, despite opposition from green groups…",
+          "url": "https://phys.org/news/2026-08-namibia-paves-phosphate-atlantic-ocean.html",
+          "source": "Phys.org",
+          "date": "2026-08-25"
+        },
+        {
+          "title": "Trees 'giving up': Climate change hammers historic English gardens",
+          "summary": "At Hampton Court Palace, head gardener Graham Dillamore strode across the burned beige grass in the spectacular formal gardens southwest of London, laid out in the 17th century.",
+          "url": "https://phys.org/news/2026-08-trees-climate-historic-english-gardens.html",
+          "source": "Phys.org",
+          "date": "2026-08-25"
         },
         {
           "title": "Partial lunar eclipse August 2026: Where will it be visible from?",
@@ -151,24 +144,24 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "An AI job boom? Here's what the tedious, temporary work in data labeling is actually like",
-          "summary": "Amid all the talk about artificial intelligence (AI) both creating and destroying jobs, a troubling reality flies under the radar.",
-          "url": "https://phys.org/news/2026-08-ai-job-boom-tedious-temporary.html",
+          "title": "AI helps workers most when paired with experience, new study finds",
+          "summary": "As companies race to integrate artificial intelligence into the workplace, new research suggests workers benefit most when AI is paired with experience rather than treated as a replacement for it.",
+          "url": "https://phys.org/news/2026-08-ai-workers-paired.html",
           "source": "Phys.org",
-          "date": "2026-08-24"
-        },
-        {
-          "title": "Quantum computer microscope is set to significantly improve electron microscopy",
-          "summary": "Electron microscopes are used wherever particularly small details need to be imaged. But from a strictly physical point of view, every electron in a conventional electron microscope represents a missed opportunity: If…",
-          "url": "https://phys.org/news/2026-08-quantum-microscope-significantly-electron-microscopy.html",
-          "source": "Phys.org",
-          "date": "2026-08-23"
+          "date": "2026-08-25"
         }
       ]
     },
     "Physics": {
       "emoji": "⚡",
       "articles": [
+        {
+          "title": "Setting limits on phase transitions in the dark energy era",
+          "summary": "The universe is known to be expanding at an accelerating rate. Physicists typically attribute this acceleration to dark energy, a mysterious component of the universe that exerts negative pressure, causing space to…",
+          "url": "https://phys.org/news/2026-08-limits-phase-transitions-dark-energy.html",
+          "source": "Phys.org",
+          "date": "2026-08-25"
+        },
         {
           "title": "Scientists just imaged the hidden quantum shape of a molecule",
           "summary": "Researchers have found a way to create a complete 3D image of a molecule’s wavefunction, one of quantum mechanics’ most fundamental yet elusive features. By combining advanced photoelectron measurements with newly…",
@@ -177,31 +170,24 @@
           "date": "2026-08-24"
         },
         {
-          "title": "New free-space optical link adds a wireless component to the nation's longest quantum network",
-          "summary": "There's a new lighthouse on Long Island. But instead of shining light to guide ships through waterways, this one transmits and receives particles of light that carry quantum information. Perched atop a seven-story…",
-          "url": "https://phys.org/news/2026-08-free-space-optical-link-wireless.html",
+          "title": "Bright ideas accelerate the hunt for quantum emitters",
+          "summary": "The search for materials that can power future quantum technologies is accelerating, but identifying the most promising candidates remains painfully slow. Evaluating whether a material can efficiently emit quantum light…",
+          "url": "https://phys.org/news/2026-08-bright-ideas-quantum-emitters.html",
           "source": "Phys.org",
-          "date": "2026-08-24"
+          "date": "2026-08-25"
         },
         {
-          "title": "Could 'dark photons' explain dark matter?",
-          "summary": "New research suggests that if dark matter is composed of \"dark photons,\" it would not have heated the early cosmos like scientists thought.",
-          "url": "https://www.space.com/astronomy/dark-universe/could-dark-photons-explain-dark-matter",
-          "source": "Space.com",
-          "date": "2026-08-21"
+          "title": "Why banishing irrational numbers could trigger a revolution in quantum theory",
+          "summary": "Irrational numbers have underpinned quantum mechanics for a century. Removing them could eliminate its strangest features and trigger the biggest upheaval in physics since quantum theory began",
+          "url": "https://www.newscientist.com/article/2584541-why-banishing-irrational-numbers-could-trigger-a-revolution-in-quantum-theory/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-08-24"
         },
         {
           "title": "Greenland meltwater is intensifying European heatwaves",
           "summary": "The cooling of the North Atlantic is creating waviness in the jet stream and high-pressure ridging over Europe, a study finds",
           "url": "https://www.newscientist.com/article/2585659-greenland-meltwater-is-intensifying-european-heatwaves/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
-          "date": "2026-08-21"
-        },
-        {
-          "title": "Europe’s Scorching Summer",
-          "summary": "A series of heat waves in 2026 is breaking records and taking a toll in Europe.",
-          "url": "https://science.nasa.gov/earth/europes-scorching-summer/",
-          "source": "NASA",
           "date": "2026-08-21"
         }
       ]
