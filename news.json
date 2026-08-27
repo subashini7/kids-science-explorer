@@ -1,9 +1,16 @@
 {
-  "updated": "2026-08-26T13:54:19Z",
+  "updated": "2026-08-27T22:50:10Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
+        {
+          "title": "Beyond the Petri dish: Testing tomorrow's drugs in human blood",
+          "summary": "The COVID vaccine is perhaps the first thing many people think of when they hear about mRNA-based drugs. Small packages of genetic material are sent into the body, prompting cells to produce useful proteins in the fight…",
+          "url": "https://phys.org/news/2026-08-petri-dish-tomorrow-drugs-human.html",
+          "source": "Phys.org",
+          "date": "2026-08-27"
+        },
         {
           "title": "Atomic catalyst unlocks the hidden value of plant waste",
           "summary": "Scientists have created a highly efficient catalyst that breaks down stubborn lignin from plant waste into useful chemicals under relatively mild conditions. By revealing exactly how the catalyst works at the atomic…",
@@ -12,52 +19,31 @@
           "date": "2026-08-25"
         },
         {
-          "title": "After 80 years, elusive molecules reveal how ozone starts turning plant emissions into haze",
-          "summary": "Scientists have directly observed a fleeting chemical reaction that creates a key ingredient in urban smog. The research offers insight into the earliest stages of pollution formation and could help improve air quality…",
-          "url": "https://phys.org/news/2026-08-years-elusive-molecules-reveal-ozone.html",
+          "title": "MOF-coated catalyst converts CO₂ to CO nearly five times faster under ultrasonic vibration",
+          "summary": "Researchers at the University of Osaka have developed a catalyst that uses mechanical vibration to convert carbon dioxide (CO2) into carbon monoxide (CO), an important chemical feedstock. The catalyst consists of barium…",
+          "url": "https://phys.org/news/2026-08-mof-coated-catalyst-faster-ultrasonic.html",
           "source": "Phys.org",
-          "date": "2026-08-26"
+          "date": "2026-08-27"
         },
         {
-          "title": "Plant-like chemical gardens show how simple reactions build complex structures",
-          "summary": "The famous quote by Cicero, \"If you have a garden and a library, you have everything you need,\" reminds us that the beauty of life lies in the harmony between nature and knowledge. More than 2,000 years later, this idea…",
-          "url": "https://phys.org/news/2026-08-chemical-gardens-simple-reactions-complex.html",
+          "title": "Discovery reveals rapid pathways to complex aromatic molecules in space",
+          "summary": "A team of researchers led by the University of Hawaiʻi at Mānoa Department of Chemistry has uncovered a faster way large carbon-based molecules may form in space, helping solve a long-standing mystery about how some of…",
+          "url": "https://phys.org/news/2026-08-discovery-reveals-rapid-pathways-complex.html",
           "source": "Phys.org",
-          "date": "2026-08-26"
+          "date": "2026-08-27"
         },
         {
-          "title": "Scientists may have found a shortcut to calorie restriction’s anti-aging benefits",
-          "summary": "Moderate calorie restriction lowered an immune protein called C3 that appears to help drive chronic inflammation as the body ages. Blocking the same protein reduced age related inflammation in mice, raising the…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260826055508.htm",
-          "source": "Science Daily",
-          "date": "2026-08-26"
-        },
-        {
-          "title": "190-year-old DNA reveals a hidden pangolin species",
-          "summary": "DNA from a nearly 190-year-old museum specimen has helped scientists confirm a distinct Himalayan pangolin species hiding in plain sight in Nepal and northern India. The discovery could give conservationists a powerful…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260826055500.htm",
-          "source": "Science Daily",
-          "date": "2026-08-26"
+          "title": "AI model designs potentially stable protein sequences beyond those found in nature",
+          "summary": "A protein's function is determined by its structure, and structure—the way a protein folds—is determined by its sequence of amino acids, the building blocks of proteins.",
+          "url": "https://phys.org/news/2026-08-ai-potentially-stable-protein-sequences.html",
+          "source": "Phys.org",
+          "date": "2026-08-27"
         }
       ]
     },
     "Space & Astronomy": {
       "emoji": "🚀",
       "articles": [
-        {
-          "title": "NASA’s Pandora Mission Begins Study of Exoplanets, Host Stars",
-          "summary": "Pandora, NASA’s newest exoplanet mission and the first satellite to launch through the agency’s Astrophysics Pioneers program, is now making unique observations of worlds beyond our solar system and the stars they…",
-          "url": "https://science.nasa.gov/missions/pandora-missions/nasas-pandora-mission-begins-study-of-exoplanets-host-stars/",
-          "source": "NASA",
-          "date": "2026-08-25"
-        },
-        {
-          "title": "NASA Ames’ Contributions to Roman’s Mission",
-          "summary": "Set to launch on Sunday, Aug. 30, NASA’s Nancy Grace Roman Space Telescope will empower astronomers to explore vast regions of the cosmos and settle essential questions in the areas of dark energy, dark matter, planets…",
-          "url": "https://www.nasa.gov/general/nasa-ames-contributions-to-romans-mission/",
-          "source": "NASA",
-          "date": "2026-08-25"
-        },
         {
           "title": "NASA’s Roman Space Telescope is ready to hunt thousands of alien worlds",
           "summary": "NASA’s Roman Space Telescope is now enclosed inside its Falcon Heavy fairing and nearly ready for launch. Its mission could uncover thousands of exoplanets while helping scientists investigate dark matter, dark energy…",
@@ -66,18 +52,32 @@
           "date": "2026-08-26"
         },
         {
-          "title": "Nancy Grace Roman Telescope live updates: NASA readies Roman for launch",
-          "summary": "Follow NASA's Nancy Grace Roman Space Telescope and its launch aboard a SpaceX Falcon Heavy rocket to begin its mission to explore the universe.",
-          "url": "https://www.space.com/news/live/nancy-grace-roman-telescope-live-updates-nasa-readies-roman-for-launch-august-26-2026",
-          "source": "Space.com",
-          "date": "2026-08-24"
+          "title": "ASTRID traces 13.5 billion years of black hole and galaxy evolution",
+          "summary": "In dark skies at night, distant starlight twinkles and speaks to vast cosmic histories almost as old as time itself. New data from instruments such as NASA's James Webb Space Telescope are helping astrophysicists probe…",
+          "url": "https://phys.org/news/2026-08-astrid-billion-years-black-hole.html",
+          "source": "Phys.org",
+          "date": "2026-08-27"
         },
         {
-          "title": "NASA is about to launch a powerful new eye on the universe",
-          "summary": "NASA’s Roman Space Telescope has been cleared for final launch preparations ahead of a targeted August 30 liftoff aboard SpaceX’s Falcon Heavy. The powerful new observatory will probe cosmic expansion, the history of…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260823094140.htm",
-          "source": "Science Daily",
-          "date": "2026-08-24"
+          "title": "9 Things to Know About NASA’s Nancy Grace Roman Space Telescope",
+          "summary": "NASA’s Nancy Grace Roman Space Telescope is set to launch at 7:26 a.m. EDT on Sunday, Aug. 30. While you wait to watch the launch, brush up on some key facts about this wide-view mission. To learn more about the Roman…",
+          "url": "https://science.nasa.gov/missions/roman-space-telescope/9-things-to-know-about-nasas-nancy-grace-roman-space-telescope/",
+          "source": "NASA",
+          "date": "2026-08-27"
+        },
+        {
+          "title": "After failure of private rescue mission, NASA's Swift space telescope will crash back to Earth. But when and where?",
+          "summary": "A private spacecraft failed to rescue NASA's Swift space telescope, meaning the big observatory will come crashing back to Earth in the near future. But details are sparse at the moment.",
+          "url": "https://www.space.com/space-exploration/missions/after-failure-of-private-rescue-mission-nasas-swift-space-telescope-will-crash-back-to-earth-but-when-and-where",
+          "source": "Space.com",
+          "date": "2026-08-27"
+        },
+        {
+          "title": "Building Foresight for Earth Science, featuring Lindsey Jacobson",
+          "summary": "NASA&#8217;s Earth-observing satellite missions track dozens of features of a changing planet — aerosols, sea levels, land cover, cloud cover — over years and decades. Sustaining that record for the scientific and…",
+          "url": "https://www.nasa.gov/earth/earth-visualization-mapping/building-foresight-for-earth-science-featuring-lindsey-jacobson/",
+          "source": "NASA",
+          "date": "2026-08-26"
         }
       ]
     },
@@ -85,11 +85,25 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "Porpoise entanglement recorded in real time, revealing calls and escape attempts",
-          "summary": "Researchers at the University of St Andrews have gained unprecedented insight into marine mammal behavior when they become tangled in fishing nets. In a paper published Aug. 26 in Royal Society Open Science, researchers…",
-          "url": "https://phys.org/news/2026-08-porpoise-entanglement-real-revealing.html",
+          "title": "324-million-year-old fossil reveals how insects conquered land",
+          "summary": "Ancient fossils suggest insects conquered land through a long amphibious phase rather than making an abrupt jump from water to dry ground. A newly identified 324-million-year-old species still carried paddle-like…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260827010455.htm",
+          "source": "Science Daily",
+          "date": "2026-08-27"
+        },
+        {
+          "title": "Texas fossil reveals early insects kept aquatic limbs during move onto land",
+          "summary": "The formation of complex terrestrial ecosystems was a significant innovation in the evolutionary history of life on Earth. This event signified the expansion of life beyond marine environments and marked the beginning…",
+          "url": "https://phys.org/news/2026-08-texas-fossil-reveals-early-insects.html",
           "source": "Phys.org",
-          "date": "2026-08-25"
+          "date": "2026-08-27"
+        },
+        {
+          "title": "XY or ZW? Gecko chromosomes reveal evolution's hidden playbook",
+          "summary": "Why do humans rely on XY chromosomes to determine sex, while birds use ZW—and many reptiles use neither, letting temperature decide instead? Sex determination is remarkably diverse across the animal kingdom. In…",
+          "url": "https://phys.org/news/2026-08-xy-zw-gecko-chromosomes-reveal.html",
+          "source": "Phys.org",
+          "date": "2026-08-27"
         },
         {
           "title": "Bird flu is spreading. Your backyard feeder could make it worse",
@@ -99,17 +113,24 @@
           "date": "2026-08-24"
         },
         {
-          "title": "Even low-level traffic noise can reduce birdsong's stress-relieving effects",
-          "summary": "Traffic noise disrupts recognized benefits of birdsong and other sounds from nature, a new study from the University of Surrey reports.",
-          "url": "https://phys.org/news/2026-08-traffic-noise-birdsong-stress-relieving.html",
+          "title": "Specific cover crops may help attract insects that target harmful pests",
+          "summary": "Different cover crops may affect how plants defend themselves against pests—including by attracting more insects that eat harmful caterpillars—according to a new study led by researchers at Penn State's College of…",
+          "url": "https://phys.org/news/2026-08-specific-crops-insects-pests.html",
           "source": "Phys.org",
-          "date": "2026-08-26"
+          "date": "2026-08-27"
         }
       ]
     },
     "Earth & Climate": {
       "emoji": "🌍",
       "articles": [
+        {
+          "title": "Transforming polyamide microplastics into light-emitting carbon quantum dots for UV-blocking food packaging",
+          "summary": "Plastic pollution is one of the most urgent environmental challenges of the 21st century. As larger plastic debris breaks down through mechanical, photochemical and biological processes, it forms microplastics that have…",
+          "url": "https://phys.org/news/2026-08-polyamide-microplastics-emitting-carbon-quantum.html",
+          "source": "Phys.org",
+          "date": "2026-08-27"
+        },
         {
           "title": "Forces deep inside Earth helped Antarctica freeze before the Arctic",
           "summary": "Scientists may have solved the mystery of why Antarctica froze millions of years before the Arctic. Slow-moving waves deep inside Earth gradually lifted East Antarctica, building mountains and a high plateau where snow…",
@@ -118,32 +139,25 @@
           "date": "2026-08-25"
         },
         {
-          "title": "Are earthquakes becoming more common? Here's what the numbers say",
-          "summary": "Whenever there's a series of destructive or notable earthquakes, scientists get asked the same question: Are earthquakes becoming more frequent?",
-          "url": "https://phys.org/news/2026-08-earthquakes-common.html",
+          "title": "Short, intense storms gain intensity across Hawaiʻi",
+          "summary": "While long-term data show that Hawaiʻi is getting drier overall, short, intense downpours that cause sudden, dangerous flash floods are getting stronger on the islands, according to a new study by researchers at the…",
+          "url": "https://phys.org/news/2026-08-short-intense-storms-gain-intensity.html",
           "source": "Phys.org",
-          "date": "2026-08-26"
+          "date": "2026-08-27"
         },
         {
-          "title": "Volcanic eruptions and warming climate disrupt long-standing link between Indian and Pacific oceans",
-          "summary": "A new study that combines paleoclimate data and climate models suggests that large volcanic eruptions can disrupt the relationship between atmospheric circulation patterns over the tropical Indian and Pacific oceans. In…",
-          "url": "https://phys.org/news/2026-08-volcanic-eruptions-climate-disrupt-link.html",
-          "source": "Phys.org",
-          "date": "2026-08-26"
+          "title": "Nepal flash flood nightmare: What caused it?",
+          "summary": "On August 26, 2026, a glacier collapse and landslide triggered a huge release of water. The Nepal flash flood wiped out villages and took untold lives. The post Nepal flash flood nightmare: What caused it? first…",
+          "url": "https://earthsky.org/earth/nepal-flash-flood-glacier-collapse-landslide-aug-26-2026/",
+          "source": "EarthSky",
+          "date": "2026-08-27"
         },
         {
-          "title": "Too small for fries: Drought shrinks Belgian potatoes",
-          "summary": "Mathieu Comijn inspected rows of potatoes in a field of cracked earth and browned leaves, pulling from the ground tubers barely the size of pingpong balls.",
-          "url": "https://phys.org/news/2026-08-small-fries-drought-belgian-potatoes.html",
-          "source": "Phys.org",
-          "date": "2026-08-26"
-        },
-        {
-          "title": "Could we protect all western US communities from wildfires and facilitate restoring fire to wildlands within a decade?",
-          "summary": "In a new study in Environmental Research: Ecology, I analyzed how fires were able to burn into communities and how fire-resistant land uses could be combined with fuel treatments to reduce fires burning into…",
-          "url": "https://phys.org/news/2026-08-western-communities-wildfires-wildlands-decade.html",
-          "source": "Phys.org",
-          "date": "2026-08-25"
+          "title": "Rare, Widespread Snow in the Atacama Desert",
+          "summary": "Back-to-back winter storms in August 2026 brought snowfall to northern Chile, from the Andes to near the Pacific coast.",
+          "url": "https://science.nasa.gov/earth/earth-observatory/rare-widespread-snow-in-the-atacama-desert/",
+          "source": "NASA",
+          "date": "2026-08-27"
         }
       ]
     },
@@ -151,24 +165,17 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "The engineer racing to run the world’s most dangerous algorithm",
-          "summary": "Craig Gidney is largely unknown outside of quantum computing, but his pioneering work on quantum circuits could have huge consequences for us all, ushering in both useful quantum computers, and the end of digital…",
-          "url": "https://www.newscientist.com/article/2581592-the-engineer-racing-to-run-the-worlds-most-dangerous-algorithm/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "title": "Fast but error-prone AI assists in solving a decades-old fluid mechanics problem in five weeks",
+          "summary": "An AI assistant helped University of Colorado Boulder researchers solve a mathematical problem that had challenged their lab for a year and a half, though it made subtle errors along the way. The breakthrough could…",
+          "url": "https://phys.org/news/2026-08-fast-error-prone-ai-decades.html",
+          "source": "Phys.org",
+          "date": "2026-08-27"
+        },
+        {
+          "title": "Twisteddoodles on a brand-new type of robot",
+          "summary": "This week's cartoon from Twisteddoodles",
+          "url": "https://www.newscientist.com/article/2585926-twisteddoodles-on-a-brand-new-type-of-robot/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
-          "date": "2026-08-25"
-        },
-        {
-          "title": "New quantum computing method broadens spectroscopy of hard-to-model matter",
-          "summary": "Scientists could have a new way to explore the hidden behavior of matter, thanks to research involving Queen Mary University of London that uses a quantum computer to carry out a new form of computational spectroscopy.",
-          "url": "https://phys.org/news/2026-08-quantum-method-broadens-spectroscopy-hard.html",
-          "source": "Phys.org",
-          "date": "2026-08-26"
-        },
-        {
-          "title": "What has the return‑to‑office movement taught us? People, not technology, help companies get ahead",
-          "summary": "We like to believe that whatever ails a company can be fixed by digitizing it. And technology is easy to swap. Rip out the old system, bolt in the new one, declare yourself modern. But a company is not its buildings…",
-          "url": "https://phys.org/news/2026-08-returntooffice-movement-taught-people-technology.html",
-          "source": "Phys.org",
           "date": "2026-08-26"
         }
       ]
@@ -177,11 +184,18 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "Hyperdoped silicon photodiode advances short-wave infrared detection at room temperature",
-          "summary": "Detecting short-wave infrared (SWIR) light, a region of the electromagnetic spectrum just beyond the light visible to the human eye, could be advantageous for many real-world applications. For instance, it could enable…",
-          "url": "https://phys.org/news/2026-08-hyperdoped-silicon-photodiode-advances-short.html",
-          "source": "Phys.org",
-          "date": "2026-08-26"
+          "title": "Smart nanoparticles light up brain cancer and destroy what surgery misses",
+          "summary": "Scientists created smart nanoparticles that can both illuminate hidden glioblastoma cells during surgery and destroy microscopic cancer left behind afterward. In mice, the treatment prevented recurrence and led to 100%…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260826060617.htm",
+          "source": "Science Daily",
+          "date": "2026-08-27"
+        },
+        {
+          "title": "Scientists may have finally caught “empty” space changing light",
+          "summary": "A magnetar with an astonishingly powerful magnetic field may have revealed a quantum effect predicted by Werner Heisenberg nearly 90 years ago. Its light shows signs that supposedly empty space is altering how the light…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260826055445.htm",
+          "source": "Science Daily",
+          "date": "2026-08-27"
         },
         {
           "title": "A missing color in indoor light may help prevent myopia",
@@ -191,18 +205,18 @@
           "date": "2026-08-26"
         },
         {
-          "title": "Why banishing irrational numbers could trigger a revolution in quantum theory",
-          "summary": "Irrational numbers have underpinned quantum mechanics for a century. Removing them could eliminate its strangest features and trigger the biggest upheaval in physics since quantum theory began",
-          "url": "https://www.newscientist.com/article/2584541-why-banishing-irrational-numbers-could-trigger-a-revolution-in-quantum-theory/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-08-24"
+          "title": "Molecular makeover brightens organic light near 1,000 nanometers",
+          "summary": "Near-infrared organic light-emitting diodes (OLEDs) that emit about 1,000 nanometers could support biomedical and security technologies. Yet pushing organic light to these longer wavelengths usually causes a steep drop…",
+          "url": "https://phys.org/news/2026-08-molecular-makeover-brightens-nanometers.html",
+          "source": "Phys.org",
+          "date": "2026-08-27"
         },
         {
-          "title": "Do customer loyalty programs actually work? The benefits are in the eye of the cardholder",
-          "summary": "Whether you love a loyalty discount at the supermarket or frequently forget your loyalty card, loyalty programs (LPs) can be an essential support for families and households amid growing cost-of-living pressures.",
-          "url": "https://phys.org/news/2026-08-customer-loyalty-benefits-eye-cardholder.html",
+          "title": "Mirror-image molecules steer electron spins and lift perovskite solar cell efficiency",
+          "summary": "Some molecules come in two \"handed\" forms. This property, called chirality, can influence not only how molecules interact with light but also which electron spins they allow to pass. Researchers at the University of…",
+          "url": "https://phys.org/news/2026-08-mirror-image-molecules-electron-perovskite.html",
           "source": "Phys.org",
-          "date": "2026-08-26"
+          "date": "2026-08-27"
         }
       ]
     }
