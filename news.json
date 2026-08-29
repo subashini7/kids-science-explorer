@@ -1,15 +1,15 @@
 {
-  "updated": "2026-08-28T22:54:07Z",
+  "updated": "2026-08-29T16:59:45Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "Atomic catalyst unlocks the hidden value of plant waste",
-          "summary": "Scientists have created a highly efficient catalyst that breaks down stubborn lignin from plant waste into useful chemicals under relatively mild conditions. By revealing exactly how the catalyst works at the atomic…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260824065601.htm",
+          "title": "Australia’s red soil may be hiding a massive clean energy source",
+          "summary": "Researchers have discovered that Western Australia’s iron-rich rocks can naturally generate hydrogen and that the process may be boosted to produce much larger amounts. If it can be scaled up, the vast formations…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260829035214.htm",
           "source": "Science Daily",
-          "date": "2026-08-25"
+          "date": "2026-08-29"
         },
         {
           "title": "Low temperature graphene growth opens a route to sustainable resource recycling",
@@ -33,10 +33,10 @@
           "date": "2026-08-28"
         },
         {
-          "title": "Self-blinking 'fairy lights' allow DNA to be imaged at almost double-helix-width resolution",
-          "summary": "Researchers have developed fluorescent molecules that permit imaging of how DNA is packaged inside living cells at unprecedented resolution and, in preserved cells, at a resolution close to the width of the double helix…",
-          "url": "https://phys.org/news/2026-08-fairy-dna-imaged-helix-width.html",
-          "source": "Phys.org",
+          "title": "President Trump Signs Executive Order to Create US Space Academy",
+          "summary": "To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J. Trump signed an Executive Order on Friday to establish the nation’s first U.S. Space Academy. The order…",
+          "url": "https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/",
+          "source": "NASA",
           "date": "2026-08-28"
         }
       ]
@@ -44,13 +44,6 @@
     "Space & Astronomy": {
       "emoji": "🚀",
       "articles": [
-        {
-          "title": "NASA’s Roman Space Telescope is ready to hunt thousands of alien worlds",
-          "summary": "NASA’s Roman Space Telescope is now enclosed inside its Falcon Heavy fairing and nearly ready for launch. Its mission could uncover thousands of exoplanets while helping scientists investigate dark matter, dark energy…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260826055448.htm",
-          "source": "Science Daily",
-          "date": "2026-08-26"
-        },
         {
           "title": "What time will SpaceX launch NASA's Roman Space Telscope on Aug. 30? (Full mission timeline)",
           "summary": "SpaceX will launch the Nancy Grace Roman Space Telescope, NASA's next great observatory, atop a Falcon Heavy rocket on Aug. 30. Here's what time it flies.",
@@ -73,11 +66,18 @@
           "date": "2026-08-28"
         },
         {
-          "title": "On this day in space! Aug. 28, 1993: Galileo spacecraft flies by asteroid Ida on the way to Jupiter only to find a tiny moon!",
-          "summary": "On Aug. 28, 1993, NASA's Galileo spacecraft flew by the asteroid Ida on its way to Jupiter. Here's why it mattered.",
-          "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-28-2026",
+          "title": "On this day in space! Aug. 29, 1965: NASA's Gemini 5 breaks spaceflight duration record after 2 astronauts spent '8 days in a garbage can'",
+          "summary": "On Aug. 29, 1965, two NASA astronauts returned to Earth after spending eight days in space on the record-setting Gemini 5 mission, setting the stage for longer trips to the moon.",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-29-2026",
           "source": "Space.com",
-          "date": "2026-08-28"
+          "date": "2026-08-29"
+        },
+        {
+          "title": "Who was Nancy Grace Roman? NASA's next big space telescope is named after the 'Mother of Hubble'",
+          "summary": "The Nancy Grace Roman Space Telescope is about to launch on an incredible adventure to help scientists explore the great mysteries of the universe. But who was Nancy Grace Roman?",
+          "url": "https://www.space.com/space-exploration/who-was-nancy-grace-roman-nasas-next-big-space-telescope-is-named-after-the-mother-of-hubble",
+          "source": "Space.com",
+          "date": "2026-08-29"
         }
       ]
     },
@@ -139,6 +139,13 @@
           "date": "2026-08-28"
         },
         {
+          "title": "Climate policy could learn from people who already live within the limits of sufficiency",
+          "summary": "Tina Nyfors, who recently defended her doctoral thesis at the University of Helsinki, studied sufficiency, a way of living and a principle for organizing society to stay within environmental limits while ensuring that…",
+          "url": "https://phys.org/news/2026-08-climate-policy-people-limits-sufficiency.html",
+          "source": "Phys.org",
+          "date": "2026-08-28"
+        },
+        {
           "title": "Nepal flash flood nightmare: What caused it?",
           "summary": "On August 26, 2026, a glacier collapse and landslide triggered a huge release of water. The Nepal flash flood wiped out villages and took untold lives. The post Nepal flash flood nightmare: What caused it? first…",
           "url": "https://earthsky.org/earth/nepal-flash-flood-glacier-collapse-landslide-aug-26-2026/",
@@ -151,23 +158,31 @@
           "url": "https://www.sciencedaily.com/releases/2026/08/260827010459.htm",
           "source": "Science Daily",
           "date": "2026-08-28"
-        },
-        {
-          "title": "Why a newly formed lake is sparking fears of more flooding along the Nepal-China border",
-          "summary": "Even as rescuers worked through mud and debris Friday in areas devastated by a catastrophic flash flood along the Himalayan border between Nepal and China, authorities warned that a newly formed, overflowing lake could…",
-          "url": "https://phys.org/news/2026-08-newly-lake-nepal-china-border.html",
-          "source": "Phys.org",
-          "date": "2026-08-28"
         }
       ]
     },
     "Technology & Inventions": {
       "emoji": "🤖",
-      "articles": []
+      "articles": [
+        {
+          "title": "How AI‑powered policing is endangering the public's trust in police",
+          "summary": "Since the release of ChatGPT in 2022, artificial intelligence (AI) has dominated the cultural landscape. Uptake across various sectors, including law enforcement, quickly followed, usually with minimal foresight and…",
+          "url": "https://phys.org/news/2026-08-aipowered-policing-endangering-police.html",
+          "source": "Phys.org",
+          "date": "2026-08-29"
+        }
+      ]
     },
     "Physics": {
       "emoji": "⚡",
       "articles": [
+        {
+          "title": "The universe is still speeding up, but nobody knows why",
+          "summary": "A major new analysis challenges recent claims that the universe's expansion is slowing, finding that the evidence for cosmic acceleration remains strong. The findings preserve the leading role of dark energy, while…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260828082325.htm",
+          "source": "Science Daily",
+          "date": "2026-08-29"
+        },
         {
           "title": "Smart nanoparticles light up brain cancer and destroy what surgery misses",
           "summary": "Scientists created smart nanoparticles that can both illuminate hidden glioblastoma cells during surgery and destroy microscopic cancer left behind afterward. In mice, the treatment prevented recurrence and led to 100%…",
@@ -176,18 +191,11 @@
           "date": "2026-08-27"
         },
         {
-          "title": "Scientists may have finally caught “empty” space changing light",
-          "summary": "A magnetar with an astonishingly powerful magnetic field may have revealed a quantum effect predicted by Werner Heisenberg nearly 90 years ago. Its light shows signs that supposedly empty space is altering how the light…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260826055445.htm",
-          "source": "Science Daily",
-          "date": "2026-08-27"
-        },
-        {
-          "title": "How methylation sets a parasite in motion to invade host cells",
-          "summary": "Parasites such as Toxoplasma gondii and the malaria parasite Plasmodium falciparum depend on rapid, precisely controlled movement to complete their life cycles. To start moving, they must assemble actin filaments at…",
-          "url": "https://phys.org/news/2026-08-methylation-parasite-motion-invade-host.html",
+          "title": "Centuries of child labor left lasting spinal damage in Dutch children, study finds",
+          "summary": "Children in the postmedieval Dutch workforce worked so hard that their spines became worn and deformed, with some children affected before they even had a chance to lose their baby teeth, a new study published in the…",
+          "url": "https://phys.org/news/2026-08-centuries-child-labor-left-spinal.html",
           "source": "Phys.org",
-          "date": "2026-08-28"
+          "date": "2026-08-29"
         }
       ]
     }
