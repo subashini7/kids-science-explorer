@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T16:59:45Z",
+  "updated": "2026-08-30T17:13:22Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
@@ -19,25 +19,25 @@
           "date": "2026-08-28"
         },
         {
-          "title": "Scientists capture first molecular-level images of water reorganization during a reaction crucial for life",
-          "summary": "Some of nature's most important chemical reactions rely on the coupled movement of negatively and positively charged particles. These processes play central roles in photosynthesis, catalysis and biological energy…",
-          "url": "https://phys.org/news/2026-08-scientists-capture-molecular-images-reaction.html",
-          "source": "Phys.org",
-          "date": "2026-08-28"
-        },
-        {
-          "title": "Breathable smart sensor developed for real-time hazardous gas detection on masks",
-          "summary": "A research team led by Sungwon Lee, a professor in the Department of Physics and Chemistry at DGIST, developed a hierarchical nano-on-nano structure by directly growing graphene nanowalls (GNWs) on polymer nanofibers…",
-          "url": "https://phys.org/news/2026-08-breathable-smart-sensor-real-hazardous.html",
-          "source": "Phys.org",
-          "date": "2026-08-28"
-        },
-        {
           "title": "President Trump Signs Executive Order to Create US Space Academy",
           "summary": "To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J. Trump signed an Executive Order on Friday to establish the nation’s first U.S. Space Academy. The order…",
           "url": "https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/",
           "source": "NASA",
           "date": "2026-08-28"
+        },
+        {
+          "title": "Grants",
+          "summary": "*Notice* The Payment Management System (PMS) is currently experiencing issues affecting Federal Financial Report (FFR) generation. Impacted NASA grant recipients will not be considered noncompliant. NASA is working with…",
+          "url": "https://www.nasa.gov/centers-and-facilities/grants-2/",
+          "source": "NASA",
+          "date": "2026-08-28"
+        },
+        {
+          "title": "Scientists discover why damaged nerves struggle to heal",
+          "summary": "Scientists have identified a protein that acts like a brake on the nervous system’s ability to repair damaged connections. Blocking AHR helped injured nerve fibers regrow and improved movement and sensation in mice with…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260828005427.htm",
+          "source": "Science Daily",
+          "date": "2026-08-29"
         }
       ]
     },
@@ -45,37 +45,37 @@
       "emoji": "🚀",
       "articles": [
         {
-          "title": "What time will SpaceX launch NASA's Roman Space Telscope on Aug. 30? (Full mission timeline)",
-          "summary": "SpaceX will launch the Nancy Grace Roman Space Telescope, NASA's next great observatory, atop a Falcon Heavy rocket on Aug. 30. Here's what time it flies.",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-roman-space-telescope-falcon-heavy-launch-what-time",
-          "source": "Space.com",
-          "date": "2026-08-28"
-        },
-        {
-          "title": "9 Things to Know About NASA’s Nancy Grace Roman Space Telescope",
-          "summary": "NASA’s Nancy Grace Roman Space Telescope is set to launch at 7:26 a.m. EDT on Sunday, Aug. 30. While you wait to watch the launch, brush up on some key facts about this wide-view mission. To learn more about the Roman…",
-          "url": "https://science.nasa.gov/missions/roman-space-telescope/9-things-to-know-about-nasas-nancy-grace-roman-space-telescope/",
+          "title": "NASA’s Dark Universe-Seeking Nancy Grace Roman Space Telescope Launches",
+          "summary": "Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest secrets. The mission launched at 7:26 a.m. EDT Sunday aboard a SpaceX…",
+          "url": "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/",
           "source": "NASA",
-          "date": "2026-08-27"
+          "date": "2026-08-30"
         },
         {
-          "title": "NASA’s Roman telescope will see 100 times more sky than Hubble",
-          "summary": "NASA’s Roman Space Telescope will combine Hubble-like detail with a field of view 100 times larger, giving astronomers a sweeping new way to explore the cosmos. Its observations could uncover hidden planets, map…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260828082333.htm",
-          "source": "Science Daily",
-          "date": "2026-08-28"
+          "title": "NASA's newest Roman space telescope launches on a quest to explore the hidden universe",
+          "summary": "NASA's newest crown jewel blasted off Sunday to hunt for planets around other stars, explore secret dark energy and survey the cosmos like never before.",
+          "url": "https://phys.org/news/2026-08-nasa-roman-space-telescope-quest.html",
+          "source": "Phys.org",
+          "date": "2026-08-30"
         },
         {
-          "title": "On this day in space! Aug. 29, 1965: NASA's Gemini 5 breaks spaceflight duration record after 2 astronauts spent '8 days in a garbage can'",
-          "summary": "On Aug. 29, 1965, two NASA astronauts returned to Earth after spending eight days in space on the record-setting Gemini 5 mission, setting the stage for longer trips to the moon.",
-          "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-29-2026",
+          "title": "NASA's Roman telescope set to launch on cosmic mapping mission",
+          "summary": "NASA is preparing to launch its new flagship space telescope on Sunday, embarking on a multiyear mission to create an unprecedented map of the cosmos and shed light on some of the biggest mysteries in physics.",
+          "url": "https://phys.org/news/2026-08-nasa-roman-telescope-cosmic-mission.html",
+          "source": "Phys.org",
+          "date": "2026-08-30"
+        },
+        {
+          "title": "Liftoff! NASA's Roman Space Telescope soars to the stars on a SpaceX Falcon Heavy rocket in spectacular launch (video)",
+          "summary": "NASA's Nancy Grace Roman Space Telescope launched into space atop a SpaceX Falcon Heavy rocket on Aug. 30, ushering in a new era for astronomy and our understanding of the cosmos.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/nasa-roman-space-telescope-launch-success-on-a-spacex-falcon-heavy-rocket-spectacular-launch-video",
           "source": "Space.com",
-          "date": "2026-08-29"
+          "date": "2026-08-30"
         },
         {
-          "title": "Who was Nancy Grace Roman? NASA's next big space telescope is named after the 'Mother of Hubble'",
-          "summary": "The Nancy Grace Roman Space Telescope is about to launch on an incredible adventure to help scientists explore the great mysteries of the universe. But who was Nancy Grace Roman?",
-          "url": "https://www.space.com/space-exploration/who-was-nancy-grace-roman-nasas-next-big-space-telescope-is-named-after-the-mother-of-hubble",
+          "title": "NASA's Roman Space Telescope is ready for launch aboard SpaceX Falcon Heavy rocket",
+          "summary": "A SpaceX Falcon Heavy rocket is poised to lift off with the Nancy Grace Roman Space Telescope on Aug. 30. This observatory is on a mission to usher in a new wave of astronomical discovery.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/nasas-roman-space-telescope-is-ready-for-launch-aboard-spacex-falcon-heavy-rocket",
           "source": "Space.com",
           "date": "2026-08-29"
         }
@@ -84,20 +84,6 @@
     "Animals & Nature": {
       "emoji": "🐾",
       "articles": [
-        {
-          "title": "324-million-year-old fossil reveals how insects conquered land",
-          "summary": "Ancient fossils suggest insects conquered land through a long amphibious phase rather than making an abrupt jump from water to dry ground. A newly identified 324-million-year-old species still carried paddle-like…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260827010455.htm",
-          "source": "Science Daily",
-          "date": "2026-08-27"
-        },
-        {
-          "title": "Motorboat noise stunts growth and impairs predator escape in reef fish, study shows",
-          "summary": "Coral reef fish that are exposed to motorboat noise grow up smaller and less able to dodge predators, new research shows. Scientists played either boat noise or natural reef sounds to a species from the Great Barrier…",
-          "url": "https://phys.org/news/2026-08-motorboat-noise-stunts-growth-impairs.html",
-          "source": "Phys.org",
-          "date": "2026-08-28"
-        },
         {
           "title": "Scientists tracked 4,500 animals and found a surprising human effect",
           "summary": "Scientists tracking thousands of animals found that our physical presence can reshape where wildlife moves and lives, sometimes as strongly as roads, cities, and other human development. Because different species…",
@@ -118,12 +104,40 @@
           "url": "https://www.newscientist.com/article/2586728-a-baby-echidna-has-been-born-in-a-university-for-the-first-time/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
           "date": "2026-08-28"
+        },
+        {
+          "title": "Seven new frog species were hiding beneath Madagascar’s forest floor",
+          "summary": "Scientists have discovered seven new species of Madagascar’s elusive diamond frogs, using DNA from modern and century-old museum specimens to solve a long-running biological puzzle. The findings reveal surprising hidden…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260828082347.htm",
+          "source": "Science Daily",
+          "date": "2026-08-30"
+        },
+        {
+          "title": "A never-before-seen picture of eagle migrations",
+          "summary": "In 1899, scientists began tracking avian migration by placing a small ring with an identifier around birds' ankles. Researchers then had to recapture the birds elsewhere, leaving the journey between those points a…",
+          "url": "https://phys.org/news/2026-08-picture-eagle-migrations.html",
+          "source": "Phys.org",
+          "date": "2026-08-29"
         }
       ]
     },
     "Earth & Climate": {
       "emoji": "🌍",
       "articles": [
+        {
+          "title": "Hundreds of hidden earthquakes found at Antarctica’s Doomsday Glacier",
+          "summary": "Hundreds of previously overlooked seismic events have been detected beneath Antarctica, including 245 near the marine edge of the Thwaites Glacier. Many appear to be glacial earthquakes caused when huge icebergs break…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260829035328.htm",
+          "source": "Science Daily",
+          "date": "2026-08-30"
+        },
+        {
+          "title": "Tropical Storm Karina strengthens into a hurricane in the Pacific, could be a major storm this week",
+          "summary": "Tropical Storm Karina strengthened into a hurricane in the Pacific Ocean on Sunday and could become a major storm this week, forecasters said. The cyclone's center was at far out sea and was not threatening land.",
+          "url": "https://phys.org/news/2026-08-tropical-storm-karina-hurricane-pacific.html",
+          "source": "Phys.org",
+          "date": "2026-08-30"
+        },
         {
           "title": "Galápagos corals show El Niño events are more extreme now than in past 1,000 years",
           "summary": "Temperatures have warmed dramatically across the equatorial Pacific Ocean in 2026, signaling the onset of a strong and potentially historic El Niño. These events can affect weather around the world, and the intensity of…",
@@ -132,11 +146,11 @@
           "date": "2026-08-28"
         },
         {
-          "title": "Does the Nepal glacier collapse signal a new climate risk?",
-          "summary": "Does the devastating flooding unleashed by the collapse of a section of a glacier in the Nepali Himalayas signal a new kind of risk in a world warmed by climate change? Here's what scientists told AFP.",
-          "url": "https://phys.org/news/2026-08-nepal-glacier-collapse-climate.html",
-          "source": "Phys.org",
-          "date": "2026-08-28"
+          "title": "The next Cascadia megaquake could hit Oregon harder than expected",
+          "summary": "The Juan de Fuca plate beneath northern Oregon appears to be shallower than previously estimated, potentially making shaking from a future Cascadia megathrust earthquake significantly stronger. Scientists also found a…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260828082350.htm",
+          "source": "Science Daily",
+          "date": "2026-08-30"
         },
         {
           "title": "Climate policy could learn from people who already live within the limits of sufficiency",
@@ -144,26 +158,26 @@
           "url": "https://phys.org/news/2026-08-climate-policy-people-limits-sufficiency.html",
           "source": "Phys.org",
           "date": "2026-08-28"
-        },
-        {
-          "title": "Nepal flash flood nightmare: What caused it?",
-          "summary": "On August 26, 2026, a glacier collapse and landslide triggered a huge release of water. The Nepal flash flood wiped out villages and took untold lives. The post Nepal flash flood nightmare: What caused it? first…",
-          "url": "https://earthsky.org/earth/nepal-flash-flood-glacier-collapse-landslide-aug-26-2026/",
-          "source": "EarthSky",
-          "date": "2026-08-27"
-        },
-        {
-          "title": "Scientists find a huge hidden ice reservoir beneath Utah’s mountains",
-          "summary": "Beneath the rocky slopes of Mount Timpanogos lies far more ice than anyone walking across the surface might suspect. Researchers used gravity measurements to map the buried glacier in 3D and found it is about 83% ice…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260827010459.htm",
-          "source": "Science Daily",
-          "date": "2026-08-28"
         }
       ]
     },
     "Technology & Inventions": {
       "emoji": "🤖",
       "articles": [
+        {
+          "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
+          "summary": "IBM and University of Chicago researchers have completed a quantum computation that leading classical methods could not practically reproduce. The system used 70 error-corrected logical qubits and finished the task in…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
+          "source": "Science Daily",
+          "date": "2026-08-30"
+        },
+        {
+          "title": "How plastic welds retain a molecular 'memory' of their former surfaces to strengthen pipe joints",
+          "summary": "Welding plastic is a critically important part of everyday engineering—especially for preventing leaks in underground water and gas pipes. For decades, engineers have understood that a properly welded joint in…",
+          "url": "https://phys.org/news/2026-08-plastic-welds-retain-molecular-memory.html",
+          "source": "Phys.org",
+          "date": "2026-08-29"
+        },
         {
           "title": "How AI‑powered policing is endangering the public's trust in police",
           "summary": "Since the release of ChatGPT in 2022, artificial intelligence (AI) has dominated the cultural landscape. Uptake across various sectors, including law enforcement, quickly followed, usually with minimal foresight and…",
@@ -184,11 +198,11 @@
           "date": "2026-08-29"
         },
         {
-          "title": "Smart nanoparticles light up brain cancer and destroy what surgery misses",
-          "summary": "Scientists created smart nanoparticles that can both illuminate hidden glioblastoma cells during surgery and destroy microscopic cancer left behind afterward. In mice, the treatment prevented recurrence and led to 100%…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260826060617.htm",
+          "title": "Some signs of quantum gravity may be an illusion",
+          "summary": "Quantum mechanics and Einstein’s theory of gravity explain almost everything we see in nature, yet physicists still do not know how to unite them. A new theoretical framework suggests that some experiments that appear…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260828005226.htm",
           "source": "Science Daily",
-          "date": "2026-08-27"
+          "date": "2026-08-30"
         },
         {
           "title": "Centuries of child labor left lasting spinal damage in Dutch children, study finds",
