@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T17:13:22Z",
+  "updated": "2026-08-31T19:24:24Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
@@ -12,32 +12,32 @@
           "date": "2026-08-29"
         },
         {
-          "title": "Low temperature graphene growth opens a route to sustainable resource recycling",
-          "summary": "Graphene is an exceptionally useful material for creating batteries, catalysts and electronic devices. Yet producing graphene typically requires temperatures as high as 900°C (1,652°F), limiting energy efficiency and…",
-          "url": "https://phys.org/news/2026-08-temperature-graphene-growth-route-sustainable.html",
+          "title": "Tiny mirror that controls light in 3D could make microscopes smaller and faster",
+          "summary": "Researchers use tightly focused laser beams to image biological samples, shape materials with microscopic precision and generate displays. But using those beams in three dimensions requires more than sweeping light from…",
+          "url": "https://phys.org/news/2026-08-tiny-mirror-3d-microscopes-smaller.html",
           "source": "Phys.org",
-          "date": "2026-08-28"
+          "date": "2026-08-31"
         },
         {
-          "title": "President Trump Signs Executive Order to Create US Space Academy",
-          "summary": "To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J. Trump signed an Executive Order on Friday to establish the nation’s first U.S. Space Academy. The order…",
-          "url": "https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/",
-          "source": "NASA",
-          "date": "2026-08-28"
-        },
-        {
-          "title": "Grants",
-          "summary": "*Notice* The Payment Management System (PMS) is currently experiencing issues affecting Federal Financial Report (FFR) generation. Impacted NASA grant recipients will not be considered noncompliant. NASA is working with…",
-          "url": "https://www.nasa.gov/centers-and-facilities/grants-2/",
-          "source": "NASA",
-          "date": "2026-08-28"
-        },
-        {
-          "title": "Scientists discover why damaged nerves struggle to heal",
-          "summary": "Scientists have identified a protein that acts like a brake on the nervous system’s ability to repair damaged connections. Blocking AHR helped injured nerve fibers regrow and improved movement and sensation in mice with…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260828005427.htm",
+          "title": "Scientists find why the liver may not heal even after you stop drinking",
+          "summary": "Alcohol-related liver disease may trap damaged liver cells in a regenerative limbo, preventing the organ from rebuilding itself even after drinking stops. Researchers linked the problem to inflammation-driven RNA errors…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260831015205.htm",
           "source": "Science Daily",
-          "date": "2026-08-29"
+          "date": "2026-08-31"
+        },
+        {
+          "title": "Popular sweeteners may leave effects that last for generations",
+          "summary": "Two widely used zero-calorie sweeteners, sucralose and stevia, may have effects that linger far longer than the sweet taste itself. In mice, researchers found that both sweeteners altered the gut microbiome, reduced…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260830000019.htm",
+          "source": "Science Daily",
+          "date": "2026-08-31"
+        },
+        {
+          "title": "One injection could keep osteoarthritis drugs working for weeks",
+          "summary": "Scientists have created an injectable gel that can remain inside arthritic joints for weeks, slowly releasing medication while also improving lubrication. The approach could make it easier to deliver disease-modifying…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260829235947.htm",
+          "source": "Science Daily",
+          "date": "2026-08-31"
         }
       ]
     },
@@ -52,18 +52,18 @@
           "date": "2026-08-30"
         },
         {
-          "title": "NASA's newest Roman space telescope launches on a quest to explore the hidden universe",
-          "summary": "NASA's newest crown jewel blasted off Sunday to hunt for planets around other stars, explore secret dark energy and survey the cosmos like never before.",
-          "url": "https://phys.org/news/2026-08-nasa-roman-space-telescope-quest.html",
-          "source": "Phys.org",
-          "date": "2026-08-30"
+          "title": "What's next for Roman Space Telescope? Here's how NASA's flagship observatory will open up the universe",
+          "summary": "NASA's Nancy Grace Roman Space Telescope has left Earth, but it'll be a while before it starts its highly anticipated science mission. Here are the next steps for the observatory.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/nancy-grace-roman-space-telescope-next-steps-commissioning",
+          "source": "Space.com",
+          "date": "2026-08-31"
         },
         {
-          "title": "NASA's Roman telescope set to launch on cosmic mapping mission",
-          "summary": "NASA is preparing to launch its new flagship space telescope on Sunday, embarking on a multiyear mission to create an unprecedented map of the cosmos and shed light on some of the biggest mysteries in physics.",
-          "url": "https://phys.org/news/2026-08-nasa-roman-telescope-cosmic-mission.html",
-          "source": "Phys.org",
-          "date": "2026-08-30"
+          "title": "SpaceX, NASA delay next astronaut launch to ISS due to leak on Dragon spacecraft",
+          "summary": "The launch of SpaceX's Crew-13 mission to the ISS, previously scheduled for Sept. 12, has been delayed due to an oxidizer leak on the Dragon spacecraft. A new target has not yet been announced.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-nasa-delay-next-astronaut-launch-to-iss-due-to-leak-on-dragon-spacecraft",
+          "source": "Space.com",
+          "date": "2026-08-31"
         },
         {
           "title": "Liftoff! NASA's Roman Space Telescope soars to the stars on a SpaceX Falcon Heavy rocket in spectacular launch (video)",
@@ -85,11 +85,11 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "Scientists tracked 4,500 animals and found a surprising human effect",
-          "summary": "Scientists tracking thousands of animals found that our physical presence can reshape where wildlife moves and lives, sometimes as strongly as roads, cities, and other human development. Because different species…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260827010517.htm",
-          "source": "Science Daily",
-          "date": "2026-08-28"
+          "title": "Using AI to track bird migration",
+          "summary": "On hearing the first cuckoo of spring, the poet's heart might sing, and while one swallow does not make a summer, the annual migrations of bird species across continents have fascinated us for centuries. Today, however…",
+          "url": "https://phys.org/news/2026-08-ai-track-bird-migration.html",
+          "source": "Phys.org",
+          "date": "2026-08-31"
         },
         {
           "title": "Healed fang wound found on 520-million-year-old apex predator",
@@ -106,18 +106,18 @@
           "date": "2026-08-28"
         },
         {
+          "title": "Fossil feet may be misleading scientists about human evolution",
+          "summary": "Wild monkeys in West Africa can climb vertical tree trunks using foot flexibility scientists did not realize they possessed. The discovery challenges a key assumption about what the last common ancestor of humans and…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260829235942.htm",
+          "source": "Science Daily",
+          "date": "2026-08-31"
+        },
+        {
           "title": "Seven new frog species were hiding beneath Madagascar’s forest floor",
           "summary": "Scientists have discovered seven new species of Madagascar’s elusive diamond frogs, using DNA from modern and century-old museum specimens to solve a long-running biological puzzle. The findings reveal surprising hidden…",
           "url": "https://www.sciencedaily.com/releases/2026/08/260828082347.htm",
           "source": "Science Daily",
           "date": "2026-08-30"
-        },
-        {
-          "title": "A never-before-seen picture of eagle migrations",
-          "summary": "In 1899, scientists began tracking avian migration by placing a small ring with an identifier around birds' ankles. Researchers then had to recapture the birds elsewhere, leaving the journey between those points a…",
-          "url": "https://phys.org/news/2026-08-picture-eagle-migrations.html",
-          "source": "Phys.org",
-          "date": "2026-08-29"
         }
       ]
     },
@@ -132,18 +132,18 @@
           "date": "2026-08-30"
         },
         {
-          "title": "Tropical Storm Karina strengthens into a hurricane in the Pacific, could be a major storm this week",
-          "summary": "Tropical Storm Karina strengthened into a hurricane in the Pacific Ocean on Sunday and could become a major storm this week, forecasters said. The cyclone's center was at far out sea and was not threatening land.",
-          "url": "https://phys.org/news/2026-08-tropical-storm-karina-hurricane-pacific.html",
+          "title": "Beyond flood maps: Puerto Rico residents seek climate tools built around local needs",
+          "summary": "Resources such as sea level rise viewers, heat maps and flood prediction services are crucial tools in a changing climate. NASA Earth Observations (NASA EO) datasets provide important information on these and other…",
+          "url": "https://phys.org/news/2026-08-puerto-rico-residents-climate-tools.html",
           "source": "Phys.org",
-          "date": "2026-08-30"
+          "date": "2026-08-31"
         },
         {
-          "title": "Galápagos corals show El Niño events are more extreme now than in past 1,000 years",
-          "summary": "Temperatures have warmed dramatically across the equatorial Pacific Ocean in 2026, signaling the onset of a strong and potentially historic El Niño. These events can affect weather around the world, and the intensity of…",
-          "url": "https://phys.org/news/2026-08-galpagos-corals-el-nio-events.html",
+          "title": "Nepal‑Tibet disaster linked to climate change—a glaciologist explains",
+          "summary": "The cause of the huge floods and debris flow on the border between Nepal and Tibet, which have caused hundreds of deaths, appears to have been an ice avalanche—the result of a huge piece of a glacier collapsing and…",
+          "url": "https://phys.org/news/2026-08-nepaltibet-disaster-linked-climate-glaciologist.html",
           "source": "Phys.org",
-          "date": "2026-08-28"
+          "date": "2026-08-31"
         },
         {
           "title": "The next Cascadia megaquake could hit Oregon harder than expected",
@@ -153,17 +153,24 @@
           "date": "2026-08-30"
         },
         {
-          "title": "Climate policy could learn from people who already live within the limits of sufficiency",
-          "summary": "Tina Nyfors, who recently defended her doctoral thesis at the University of Helsinki, studied sufficiency, a way of living and a principle for organizing society to stay within environmental limits while ensuring that…",
-          "url": "https://phys.org/news/2026-08-climate-policy-people-limits-sufficiency.html",
+          "title": "New storms threaten Grand Canyon flood search, 2 bodies recovered",
+          "summary": "Forecast storms in the Grand Canyon on Monday threatened efforts to find more than a dozen people missing after flash floods over the weekend, the National Park Service (NPS) said, with two bodies already recovered.",
+          "url": "https://phys.org/news/2026-08-storms-threaten-grand-canyon-bodies.html",
           "source": "Phys.org",
-          "date": "2026-08-28"
+          "date": "2026-08-31"
         }
       ]
     },
     "Technology & Inventions": {
       "emoji": "🤖",
       "articles": [
+        {
+          "title": "Why some AI ads fail while others succeed",
+          "summary": "Artificial intelligence can create realistic depictions of just about anything, but that does not mean advertisers should lean on the technology, according to a study led by University of Mississippi professors.",
+          "url": "https://phys.org/news/2026-08-ai-ads-succeed.html",
+          "source": "Phys.org",
+          "date": "2026-08-31"
+        },
         {
           "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
           "summary": "IBM and University of Chicago researchers have completed a quantum computation that leading classical methods could not practically reproduce. The system used 70 error-corrected logical qubits and finished the task in…",
@@ -172,18 +179,11 @@
           "date": "2026-08-30"
         },
         {
-          "title": "How plastic welds retain a molecular 'memory' of their former surfaces to strengthen pipe joints",
-          "summary": "Welding plastic is a critically important part of everyday engineering—especially for preventing leaks in underground water and gas pipes. For decades, engineers have understood that a properly welded joint in…",
-          "url": "https://phys.org/news/2026-08-plastic-welds-retain-molecular-memory.html",
+          "title": "Scientists put algae to work making fuel. AI reveals which cells are pulling their weight",
+          "summary": "Algae have a habit of turning up where they're not wanted. They coat your swimming pool in green gunk, cling to rocks at the beach and even make headlines when they take over prominent reservoirs, such as the White…",
+          "url": "https://phys.org/news/2026-08-scientists-algae-fuel-ai-reveals.html",
           "source": "Phys.org",
-          "date": "2026-08-29"
-        },
-        {
-          "title": "How AI‑powered policing is endangering the public's trust in police",
-          "summary": "Since the release of ChatGPT in 2022, artificial intelligence (AI) has dominated the cultural landscape. Uptake across various sectors, including law enforcement, quickly followed, usually with minimal foresight and…",
-          "url": "https://phys.org/news/2026-08-aipowered-policing-endangering-police.html",
-          "source": "Phys.org",
-          "date": "2026-08-29"
+          "date": "2026-08-31"
         }
       ]
     },
@@ -203,13 +203,6 @@
           "url": "https://www.sciencedaily.com/releases/2026/08/260828005226.htm",
           "source": "Science Daily",
           "date": "2026-08-30"
-        },
-        {
-          "title": "Centuries of child labor left lasting spinal damage in Dutch children, study finds",
-          "summary": "Children in the postmedieval Dutch workforce worked so hard that their spines became worn and deformed, with some children affected before they even had a chance to lose their baby teeth, a new study published in the…",
-          "url": "https://phys.org/news/2026-08-centuries-child-labor-left-spinal.html",
-          "source": "Phys.org",
-          "date": "2026-08-29"
         }
       ]
     }
