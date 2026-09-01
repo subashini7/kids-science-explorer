@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T19:24:24Z",
+  "updated": "2026-09-01T17:10:45Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
@@ -12,11 +12,11 @@
           "date": "2026-08-29"
         },
         {
-          "title": "Tiny mirror that controls light in 3D could make microscopes smaller and faster",
-          "summary": "Researchers use tightly focused laser beams to image biological samples, shape materials with microscopic precision and generate displays. But using those beams in three dimensions requires more than sweeping light from…",
-          "url": "https://phys.org/news/2026-08-tiny-mirror-3d-microscopes-smaller.html",
+          "title": "Anti-influenza therapies that target the host",
+          "summary": "A drug that targets the host rather than the virus could get around the problem of antiviral resistance. Every year, hundreds of thousands of people die of seasonal influenza caused by infection with influenza A and B…",
+          "url": "https://phys.org/news/2026-09-anti-influenza-therapies-host.html",
           "source": "Phys.org",
-          "date": "2026-08-31"
+          "date": "2026-09-01"
         },
         {
           "title": "Scientists find why the liver may not heal even after you stop drinking",
@@ -26,16 +26,16 @@
           "date": "2026-08-31"
         },
         {
+          "title": "Goodbye CPAP? New sleep apnea pill cuts breathing events by 44%",
+          "summary": "A once-nightly pill cut breathing interruptions by about 44% in a major phase 3 sleep apnea trial, while improving oxygen levels and disease severity. By strengthening the muscles that keep the airway open during sleep…",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260831015203.htm",
+          "source": "Science Daily",
+          "date": "2026-09-01"
+        },
+        {
           "title": "Popular sweeteners may leave effects that last for generations",
           "summary": "Two widely used zero-calorie sweeteners, sucralose and stevia, may have effects that linger far longer than the sweet taste itself. In mice, researchers found that both sweeteners altered the gut microbiome, reduced…",
           "url": "https://www.sciencedaily.com/releases/2026/08/260830000019.htm",
-          "source": "Science Daily",
-          "date": "2026-08-31"
-        },
-        {
-          "title": "One injection could keep osteoarthritis drugs working for weeks",
-          "summary": "Scientists have created an injectable gel that can remain inside arthritic joints for weeks, slowly releasing medication while also improving lubrication. The approach could make it easier to deliver disease-modifying…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260829235947.htm",
           "source": "Science Daily",
           "date": "2026-08-31"
         }
@@ -45,11 +45,18 @@
       "emoji": "🚀",
       "articles": [
         {
-          "title": "NASA’s Dark Universe-Seeking Nancy Grace Roman Space Telescope Launches",
-          "summary": "Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest secrets. The mission launched at 7:26 a.m. EDT Sunday aboard a SpaceX…",
-          "url": "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/",
-          "source": "NASA",
-          "date": "2026-08-30"
+          "title": "NASA’s Swift telescope is back, but time is running out",
+          "summary": "NASA has brought two of Swift’s telescopes back online after technical problems derailed a commercial mission intended to rescue the aging observatory by raising its orbit. With atmospheric drag pulling the spacecraft…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260901010702.htm",
+          "source": "Science Daily",
+          "date": "2026-09-01"
+        },
+        {
+          "title": "NASA's doomed Swift space telescope restarts science work after rescue mission fails",
+          "summary": "NASA's Swift space telescope has resumed science observations after a private mission failed to boost its decaying orbit, making the most of its remaining time in space.",
+          "url": "https://www.space.com/space-exploration/missions/nasas-doomed-swift-space-telescope-restarts-science-work-after-rescue-mission-fails",
+          "source": "Space.com",
+          "date": "2026-08-31"
         },
         {
           "title": "What's next for Roman Space Telescope? Here's how NASA's flagship observatory will open up the universe",
@@ -71,40 +78,12 @@
           "url": "https://www.space.com/space-exploration/launches-spacecraft/nasa-roman-space-telescope-launch-success-on-a-spacex-falcon-heavy-rocket-spectacular-launch-video",
           "source": "Space.com",
           "date": "2026-08-30"
-        },
-        {
-          "title": "NASA's Roman Space Telescope is ready for launch aboard SpaceX Falcon Heavy rocket",
-          "summary": "A SpaceX Falcon Heavy rocket is poised to lift off with the Nancy Grace Roman Space Telescope on Aug. 30. This observatory is on a mission to usher in a new wave of astronomical discovery.",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/nasas-roman-space-telescope-is-ready-for-launch-aboard-spacex-falcon-heavy-rocket",
-          "source": "Space.com",
-          "date": "2026-08-29"
         }
       ]
     },
     "Animals & Nature": {
       "emoji": "🐾",
       "articles": [
-        {
-          "title": "Using AI to track bird migration",
-          "summary": "On hearing the first cuckoo of spring, the poet's heart might sing, and while one swallow does not make a summer, the annual migrations of bird species across continents have fascinated us for centuries. Today, however…",
-          "url": "https://phys.org/news/2026-08-ai-track-bird-migration.html",
-          "source": "Phys.org",
-          "date": "2026-08-31"
-        },
-        {
-          "title": "Healed fang wound found on 520-million-year-old apex predator",
-          "summary": "Something took a bite out of one of the biggest predators in Cambrian seas, an extraordinary fossil shows – and it could well be cannibalism",
-          "url": "https://www.newscientist.com/article/2586883-healed-fang-wound-found-on-520-million-year-old-apex-predator/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-08-28"
-        },
-        {
-          "title": "Exclusive video of world’s first echidna puggle to be born at a university",
-          "summary": "Echidnas are a difficult animal to breed in captivity, but scientists in Sydney have now managed it, which could improve our understanding of the evolution of pregnancy in mammals",
-          "url": "https://www.newscientist.com/article/2586728-a-baby-echidna-has-been-born-in-a-university-for-the-first-time/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-08-28"
-        },
         {
           "title": "Fossil feet may be misleading scientists about human evolution",
           "summary": "Wild monkeys in West Africa can climb vertical tree trunks using foot flexibility scientists did not realize they possessed. The discovery challenges a key assumption about what the last common ancestor of humans and…",
@@ -113,11 +92,32 @@
           "date": "2026-08-31"
         },
         {
-          "title": "Seven new frog species were hiding beneath Madagascar’s forest floor",
-          "summary": "Scientists have discovered seven new species of Madagascar’s elusive diamond frogs, using DNA from modern and century-old museum specimens to solve a long-running biological puzzle. The findings reveal surprising hidden…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260828082347.htm",
-          "source": "Science Daily",
-          "date": "2026-08-30"
+          "title": "Marmite lures discovery from lake depths",
+          "summary": "Dr. Roe Stuart didn't find a taniwha in the unexplored depths of New Zealand's lakes—but they may have found a new species of fish.",
+          "url": "https://phys.org/news/2026-09-marmite-lures-discovery-lake-depths.html",
+          "source": "Phys.org",
+          "date": "2026-09-01"
+        },
+        {
+          "title": "Drone laser scans map more than 1,000 trees across 90-acre campus",
+          "summary": "It took one drone, 300 million laser data points and seven teams of students on foot to map Wake Forest University's trees. Led by Ovidiu Csillik, an assistant professor of remote sensing in the environment and…",
+          "url": "https://phys.org/news/2026-09-drone-laser-scans-trees-acre.html",
+          "source": "Phys.org",
+          "date": "2026-09-01"
+        },
+        {
+          "title": "9/11 responders passed effects of trauma to their children, study finds",
+          "summary": "Although it's been 25 years since the World Trade Center collapsed after terrorists flew commercial airplanes into each of the center's two towers, the trauma experienced by many first responders and recovery workers is…",
+          "url": "https://phys.org/news/2026-09-effects-trauma-children.html",
+          "source": "Phys.org",
+          "date": "2026-09-01"
+        },
+        {
+          "title": "Trawling threatens vital carbon stores in Scotland's sea lochs",
+          "summary": "New research from the University of St Andrews shows that disturbing seabed sediments through trawling could cause significant losses of carbon stored in Scotland's sea lochs. The study, published in Marine…",
+          "url": "https://phys.org/news/2026-09-trawling-threatens-vital-carbon-scotland.html",
+          "source": "Phys.org",
+          "date": "2026-09-01"
         }
       ]
     },
@@ -125,25 +125,18 @@
       "emoji": "🌍",
       "articles": [
         {
+          "title": "One of Earth’s driest places was just covered in snow",
+          "summary": "Rare storms covered huge stretches of Chile’s Atacama Desert in snow and dumped extraordinary amounts of rain on one of the driest regions on Earth. The extreme weather shut down observatories, triggered damaging floods…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260901010709.htm",
+          "source": "Science Daily",
+          "date": "2026-09-01"
+        },
+        {
           "title": "Hundreds of hidden earthquakes found at Antarctica’s Doomsday Glacier",
           "summary": "Hundreds of previously overlooked seismic events have been detected beneath Antarctica, including 245 near the marine edge of the Thwaites Glacier. Many appear to be glacial earthquakes caused when huge icebergs break…",
           "url": "https://www.sciencedaily.com/releases/2026/08/260829035328.htm",
           "source": "Science Daily",
           "date": "2026-08-30"
-        },
-        {
-          "title": "Beyond flood maps: Puerto Rico residents seek climate tools built around local needs",
-          "summary": "Resources such as sea level rise viewers, heat maps and flood prediction services are crucial tools in a changing climate. NASA Earth Observations (NASA EO) datasets provide important information on these and other…",
-          "url": "https://phys.org/news/2026-08-puerto-rico-residents-climate-tools.html",
-          "source": "Phys.org",
-          "date": "2026-08-31"
-        },
-        {
-          "title": "Nepal‑Tibet disaster linked to climate change—a glaciologist explains",
-          "summary": "The cause of the huge floods and debris flow on the border between Nepal and Tibet, which have caused hundreds of deaths, appears to have been an ice avalanche—the result of a huge piece of a glacier collapsing and…",
-          "url": "https://phys.org/news/2026-08-nepaltibet-disaster-linked-climate-glaciologist.html",
-          "source": "Phys.org",
-          "date": "2026-08-31"
         },
         {
           "title": "The next Cascadia megaquake could hit Oregon harder than expected",
@@ -153,11 +146,18 @@
           "date": "2026-08-30"
         },
         {
-          "title": "New storms threaten Grand Canyon flood search, 2 bodies recovered",
-          "summary": "Forecast storms in the Grand Canyon on Monday threatened efforts to find more than a dozen people missing after flash floods over the weekend, the National Park Service (NPS) said, with two bodies already recovered.",
-          "url": "https://phys.org/news/2026-08-storms-threaten-grand-canyon-bodies.html",
+          "title": "UK chalks up hottest summer on record for second year running",
+          "summary": "Britain experienced its hottest summer on record for the second year in a row, the UK's national weather agency announced Tuesday, after weeks of successive heat waves and widespread drought conditions.",
+          "url": "https://phys.org/news/2026-09-uk-chalks-hottest-summer-year.html",
           "source": "Phys.org",
-          "date": "2026-08-31"
+          "date": "2026-09-01"
+        },
+        {
+          "title": "Los Angeles Basin map shows deep sediments that could amplify earthquake shaking",
+          "summary": "In computer simulations of the Big One—a large-magnitude earthquake that may occur along the San Andreas Fault in California—seismic waves ripple from the epicenter of a magnitude 7.8 earthquake near the Salton Sea into…",
+          "url": "https://phys.org/news/2026-09-los-angeles-basin-deep-sediments.html",
+          "source": "Phys.org",
+          "date": "2026-09-01"
         }
       ]
     },
@@ -165,25 +165,11 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "Why some AI ads fail while others succeed",
-          "summary": "Artificial intelligence can create realistic depictions of just about anything, but that does not mean advertisers should lean on the technology, according to a study led by University of Mississippi professors.",
-          "url": "https://phys.org/news/2026-08-ai-ads-succeed.html",
-          "source": "Phys.org",
-          "date": "2026-08-31"
-        },
-        {
           "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
           "summary": "IBM and University of Chicago researchers have completed a quantum computation that leading classical methods could not practically reproduce. The system used 70 error-corrected logical qubits and finished the task in…",
           "url": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
           "source": "Science Daily",
           "date": "2026-08-30"
-        },
-        {
-          "title": "Scientists put algae to work making fuel. AI reveals which cells are pulling their weight",
-          "summary": "Algae have a habit of turning up where they're not wanted. They coat your swimming pool in green gunk, cling to rocks at the beach and even make headlines when they take over prominent reservoirs, such as the White…",
-          "url": "https://phys.org/news/2026-08-scientists-algae-fuel-ai-reveals.html",
-          "source": "Phys.org",
-          "date": "2026-08-31"
         }
       ]
     },
@@ -191,18 +177,39 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "The universe is still speeding up, but nobody knows why",
-          "summary": "A major new analysis challenges recent claims that the universe's expansion is slowing, finding that the evidence for cosmic acceleration remains strong. The findings preserve the leading role of dark energy, while…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260828082325.htm",
-          "source": "Science Daily",
-          "date": "2026-08-29"
+          "title": "Ten-channel photonic interface links neutral-atom qubits in parallel",
+          "summary": "A research group in Japan has demonstrated a world-record 10-channel multiplexed quantum photonic interface based on an integrated waveguide array, a key technology for optically interconnecting multiple quantum…",
+          "url": "https://phys.org/news/2026-09-ten-channel-photonic-interface-links.html",
+          "source": "Phys.org",
+          "date": "2026-09-01"
         },
         {
-          "title": "Some signs of quantum gravity may be an illusion",
-          "summary": "Quantum mechanics and Einstein’s theory of gravity explain almost everything we see in nature, yet physicists still do not know how to unite them. A new theoretical framework suggests that some experiments that appear…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260828005226.htm",
+          "title": "Ultrafast snapshots reveal the first moments on the way from light to electricity",
+          "summary": "Physicists at the University of Graz (Austria), in collaboration with colleagues from Marburg University and Forschungszentrum Jülich (Germany), have achieved a scientific breakthrough. For the first time, the…",
+          "url": "https://phys.org/news/2026-09-ultrafast-snapshots-reveal-moments-electricity.html",
+          "source": "Phys.org",
+          "date": "2026-09-01"
+        },
+        {
+          "title": "The first signs of dark matter particles may finally have been spotted",
+          "summary": "Most of the matter in the universe is dark matter, but for decades physicists haven’t been able to directly observe it – that may have just changed",
+          "url": "https://www.newscientist.com/article/2587086-the-first-signs-of-dark-matter-particles-may-finally-have-been-spotted/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-09-01"
+        },
+        {
+          "title": "Scientists discover why snake embryos twist into spirals",
+          "summary": "Snake embryos begin life curled into a distinctive right-handed spiral, and scientists may finally know why. Their bodies grow faster than their guts, creating a tether that forces the lengthening embryo to buckle and…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260901070516.htm",
           "source": "Science Daily",
-          "date": "2026-08-30"
+          "date": "2026-09-01"
+        },
+        {
+          "title": "How Ukraine created world-leading prostheses amid the chaos of war",
+          "summary": "Injuries from the war in Ukraine have forced the country to develop highly advanced prostheses and fit them in record numbers. What can the rest of the world learn from its efforts?",
+          "url": "https://www.newscientist.com/article/2584598-how-ukraine-created-world-leading-prosthetics-amid-the-chaos-of-war/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-09-01"
         }
       ]
     }
