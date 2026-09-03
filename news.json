@@ -1,41 +1,41 @@
 {
-  "updated": "2026-09-02T17:01:23Z",
+  "updated": "2026-09-03T16:57:00Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "Mammalian genes can combine to make previously unknown mRNAs and proteins",
-          "summary": "For decades, scientists have understood that each of the roughly 20,000 genes in the human body carries instructions for a single kind of protein. Now, researchers at Harvard Medical School have discovered that…",
-          "url": "https://phys.org/news/2026-09-mammalian-genes-combine-previously-unknown.html",
+          "title": "New enzyme mechanism explains how sulfur-reducing bacteria process elemental sulfur",
+          "summary": "Sulfur-reducing bacteria of the phylum Desulfobacterota play a crucial role in the global biogeochemical sulfur cycle. Species such as Geobacter sulfurreducens use elemental sulfur as a terminal electron acceptor during…",
+          "url": "https://phys.org/news/2026-09-enzyme-mechanism-sulfur-bacteria-elemental.html",
           "source": "Phys.org",
-          "date": "2026-09-02"
+          "date": "2026-09-03"
         },
         {
-          "title": "NASA Selects Blue Origin as Mars Telecommunications Network Provider",
-          "summary": "NASA awarded Blue Origin a contract Tuesday to develop the agency’s Mars Telecommunications Network, a next-generation communications system that will enable reliable, high-bandwidth communications and navigation…",
-          "url": "https://www.nasa.gov/news-release/nasa-selects-blue-origin-as-mars-telecommunications-network-provider/",
-          "source": "NASA",
-          "date": "2026-09-01"
+          "title": "Microbial 'dark matter' yields 173 potential carbon dioxide-fixing strains",
+          "summary": "There are millions of species of bacteria and archaea on Earth, remarkably little is known about most of them. Now, researchers have mined the genomes of thousands of microorganisms preserved at the RIKEN BioResource…",
+          "url": "https://phys.org/news/2026-09-microbial-dark-yields-potential-carbon.html",
+          "source": "Phys.org",
+          "date": "2026-09-03"
+        },
+        {
+          "title": "The universe has plenty of hydrogen. So why is star formation collapsing?",
+          "summary": "Star formation across the universe has fallen dramatically over the past 4.5 billion years, but astronomers have uncovered a surprising twist: the supply of neutral hydrogen, a key ingredient for making stars, has…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260902234442.htm",
+          "source": "Science Daily",
+          "date": "2026-09-03"
+        },
+        {
+          "title": "Bats carry dangerous viruses without getting sick. This may be why",
+          "summary": "Scientists discovered that more than 500 species of vesper bats possess two separate sets of antibody genes, an immune arrangement never before found in mammals. The surprising system could help explain how bats…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260901010713.htm",
+          "source": "Science Daily",
+          "date": "2026-09-03"
         },
         {
           "title": "Scientists find why the liver may not heal even after you stop drinking",
           "summary": "Alcohol-related liver disease may trap damaged liver cells in a regenerative limbo, preventing the organ from rebuilding itself even after drinking stops. Researchers linked the problem to inflammation-driven RNA errors…",
           "url": "https://www.sciencedaily.com/releases/2026/08/260831015205.htm",
-          "source": "Science Daily",
-          "date": "2026-08-31"
-        },
-        {
-          "title": "Goodbye CPAP? New sleep apnea pill cuts breathing events by 44%",
-          "summary": "A once-nightly pill cut breathing interruptions by about 44% in a major phase 3 sleep apnea trial, while improving oxygen levels and disease severity. By strengthening the muscles that keep the airway open during sleep…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260831015203.htm",
-          "source": "Science Daily",
-          "date": "2026-09-01"
-        },
-        {
-          "title": "Popular sweeteners may leave effects that last for generations",
-          "summary": "Two widely used zero-calorie sweeteners, sucralose and stevia, may have effects that linger far longer than the sweet taste itself. In mice, researchers found that both sweeteners altered the gut microbiome, reduced…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260830000019.htm",
           "source": "Science Daily",
           "date": "2026-08-31"
         }
@@ -45,6 +45,13 @@
       "emoji": "🚀",
       "articles": [
         {
+          "title": "Igniting Roman’s Journey",
+          "summary": "Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest secrets. The mission launched at 7:26 a.m. EDT on Aug. 30 aboard a SpaceX…",
+          "url": "https://www.nasa.gov/image-article/igniting-romans-journey/",
+          "source": "NASA",
+          "date": "2026-09-03"
+        },
+        {
           "title": "NASA’s Swift telescope is back, but time is running out",
           "summary": "NASA has brought two of Swift’s telescopes back online after technical problems derailed a commercial mission intended to rescue the aging observatory by raising its orbit. With atmospheric drag pulling the spacecraft…",
           "url": "https://www.sciencedaily.com/releases/2026/09/260901010702.htm",
@@ -52,25 +59,11 @@
           "date": "2026-09-01"
         },
         {
-          "title": "NASA's doomed Swift space telescope restarts science work after rescue mission fails",
-          "summary": "NASA's Swift space telescope has resumed science observations after a private mission failed to boost its decaying orbit, making the most of its remaining time in space.",
-          "url": "https://www.space.com/space-exploration/missions/nasas-doomed-swift-space-telescope-restarts-science-work-after-rescue-mission-fails",
+          "title": "'A new mission starting today': 8 years after launch, BepiColombo begins Mercury arrival",
+          "summary": "After nearly eight years traveling through the inner solar system, the trailblazing BepiColombo spacecraft has finally begun its arrival at Mercury.",
+          "url": "https://www.space.com/space-exploration/missions/a-new-mission-starting-today-8-years-after-launch-bepicolombo-begins-mercury-arrival",
           "source": "Space.com",
-          "date": "2026-08-31"
-        },
-        {
-          "title": "What's next for Roman Space Telescope? Here's how NASA's flagship observatory will open up the universe",
-          "summary": "NASA's Nancy Grace Roman Space Telescope has left Earth, but it'll be a while before it starts its highly anticipated science mission. Here are the next steps for the observatory.",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/nancy-grace-roman-space-telescope-next-steps-commissioning",
-          "source": "Space.com",
-          "date": "2026-08-31"
-        },
-        {
-          "title": "SpaceX, NASA delay next astronaut launch to ISS due to leak on Dragon spacecraft",
-          "summary": "The launch of SpaceX's Crew-13 mission to the ISS, previously scheduled for Sept. 12, has been delayed due to an oxidizer leak on the Dragon spacecraft. A new target has not yet been announced.",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-nasa-delay-next-astronaut-launch-to-iss-due-to-leak-on-dragon-spacecraft",
-          "source": "Space.com",
-          "date": "2026-08-31"
+          "date": "2026-09-03"
         },
         {
           "title": "NASA’s Roman Space Telescope launches to reveal the Universe’s darkest secrets",
@@ -78,19 +71,19 @@
           "url": "https://www.sciencedaily.com/releases/2026/08/260831035213.htm",
           "source": "Science Daily",
           "date": "2026-08-31"
+        },
+        {
+          "title": "SpaceX Falcon 9 rocket launches Starlink satellites to orbit on its 35th flight",
+          "summary": "A SpaceX Falcon 9 rocket launched 27 Starlink satellites from California early this morning (Sept. 2). It was the 35th flight for the rocket's first stage.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-15-23-launch-ocisly",
+          "source": "Space.com",
+          "date": "2026-09-02"
         }
       ]
     },
     "Animals & Nature": {
       "emoji": "🐾",
       "articles": [
-        {
-          "title": "Seven new species show 250-million-year-old marine group is still evolving",
-          "summary": "Scientists believed there were only two species of hornerid bryozoans in Aotearoa New Zealand, but new research shows several more have been secretly evolving and thriving in the nation's southern waters.",
-          "url": "https://phys.org/news/2026-09-species-million-year-marine-group.html",
-          "source": "Phys.org",
-          "date": "2026-09-02"
-        },
         {
           "title": "A coffee-table-size scorpion roamed Earth before forests existed",
           "summary": "A meter-long scorpion with massive pincers stalked ancient Britain 415 million years ago, long before forests and the better-known age of giant insects. Its surprising size and possible semi-aquatic lifestyle could…",
@@ -99,25 +92,32 @@
           "date": "2026-09-02"
         },
         {
-          "title": "Iguanodon shinbone growth may be first evidence of an infected skin ulcer in a dinosaur",
-          "summary": "Fossilized bones can reveal a wealth of details about animals, including their size, appearance, what they ate and any injuries they may have suffered. In a paper published in the journal Royal Society Open Science…",
-          "url": "https://phys.org/news/2026-09-iguanodon-shinbone-growth-evidence-infected.html",
+          "title": "Probiotic and postbiotic treatments revive heat-stressed corals in field experiment",
+          "summary": "Climate change continues to threaten the world's coral reefs, which support at least a quarter of all marine life. Though probiotics have been shown to rehabilitate corals in aquarium experiments, demonstrating the…",
+          "url": "https://phys.org/news/2026-09-probiotic-postbiotic-treatments-revive-stressed.html",
           "source": "Phys.org",
+          "date": "2026-09-03"
+        },
+        {
+          "title": "Earth may have lost the Sun’s protective shield millions of years ago",
+          "summary": "NASA-funded studies suggest Earth’s climate has been influenced by both the Sun’s travels through dense regions of the Milky Way and the violent superflares of its youth. Those events may help explain ancient ice ages…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260901070523.htm",
+          "source": "Science Daily",
           "date": "2026-09-02"
         },
         {
-          "title": "New 'devil flower' species discovered in Thai national park",
-          "summary": "Researchers have described a new species of leafless flowering plant found on the forest floor of a national park in western Thailand, and its otherworldly appearance has earned it a fittingly dramatic name: Thismia…",
-          "url": "https://phys.org/news/2026-09-devil-species-thai-national.html",
+          "title": "Tiny crustacean helps scientists understand genes regulating circatidal rhythms",
+          "summary": "Scientists at UMass Chan Medical School and the Marine Biological Laboratory at Woods Hole have shown that the four core clock genes responsible for maintaining circadian rhythms in animals—Per, Cry2, Bmal1 and Clk—also…",
+          "url": "https://phys.org/news/2026-09-tiny-crustacean-scientists-genes-circatidal.html",
           "source": "Phys.org",
-          "date": "2026-09-02"
+          "date": "2026-09-03"
         },
         {
-          "title": "DNA testing shows what's really in Western Australian fish and chip shop 'shark' filets",
-          "summary": "Shark products sold at Western Australian fish-and-chips shops are often labeled too ambiguously or, in some cases, mislabeled, leaving consumers unsure which species they are buying, new Murdoch University research…",
-          "url": "https://phys.org/news/2026-08-dna-western-australian-fish-chip.html",
+          "title": "First DDT, now the flu: Peregrine falcons in San Francisco Bay Area hit hard by H5N1 variant",
+          "summary": "Highly pathogenic avian influenza (HPAI) featured prominently in the news during 2020 as it took the lives of millions of birds across the globe. While the worst seems to be behind us, population-level effects are just…",
+          "url": "https://phys.org/news/2026-09-ddt-flu-peregrine-falcons-san.html",
           "source": "Phys.org",
-          "date": "2026-09-02"
+          "date": "2026-09-03"
         }
       ]
     },
@@ -132,18 +132,11 @@
           "date": "2026-09-01"
         },
         {
-          "title": "Hundreds of hidden earthquakes found at Antarctica’s Doomsday Glacier",
-          "summary": "Hundreds of previously overlooked seismic events have been detected beneath Antarctica, including 245 near the marine edge of the Thwaites Glacier. Many appear to be glacial earthquakes caused when huge icebergs break…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260829035328.htm",
-          "source": "Science Daily",
-          "date": "2026-08-30"
-        },
-        {
-          "title": "Wind-wave tunnel helps engineers dive deeper into ocean research",
-          "summary": "Inside a lab at the University of Texas at Dallas, researchers have re-created a small-scale ocean environment where they can make waves build, break and crash into one another.",
-          "url": "https://phys.org/news/2026-09-tunnel-deeper-ocean.html",
+          "title": "El Niño could be strongest in decades, UN warns",
+          "summary": "El Niño is forecast to be the strongest since comparable records began four decades ago, the United Nations' climate agency warned Thursday, with the UN chief saying the world was in the \"danger zone of extreme weather.\"",
+          "url": "https://phys.org/news/2026-09-el-nio-strongest-decades.html",
           "source": "Phys.org",
-          "date": "2026-09-02"
+          "date": "2026-09-03"
         },
         {
           "title": "Scientists trace 7 stages of a meteorite's life, from hurtling space rock to Earth's surface",
@@ -153,11 +146,18 @@
           "date": "2026-09-01"
         },
         {
-          "title": "Ice Island Survives Run-In With Joe Island",
-          "summary": "In summer 2026, a substantial iceberg calved from Petermann Glacier in northwest Greenland and swiftly drifted into Nares Strait, colliding with an island along the way.",
-          "url": "https://science.nasa.gov/earth/earth-observatory/iceberg-from-petermann-glacier-speeds-away/",
-          "source": "NASA",
-          "date": "2026-09-01"
+          "title": "Hurricane triplets spin across the Pacific Ocean",
+          "summary": "Rare hurricane triplets are currently spinning across the Pacific Ocean: Lowell, Karina and Marie. Did El Niño play a part? Find out here. The post Hurricane triplets spin across the Pacific Ocean first appeared on…",
+          "url": "https://earthsky.org/todays-image/hurricane-triplets-pacific-ocean-lowell-karina-marie/",
+          "source": "EarthSky",
+          "date": "2026-09-03"
+        },
+        {
+          "title": "Rapid climate change brings wildfire threat to new corners of Europe",
+          "summary": "Scorching conditions this year have triggered wildfires in European countries that are normally considered to be damp and cool",
+          "url": "https://www.newscientist.com/article/2587499-rapid-climate-change-brings-wildfire-threat-to-new-corners-of-europe/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-09-03"
         }
       ]
     },
@@ -165,11 +165,25 @@
       "emoji": "🤖",
       "articles": [
         {
+          "title": "Bacterial nanoplatform reprograms spleen immune cells to help prevent cancer recurrence",
+          "summary": "A research team led by Professor Yong Taik Lim at the SKKU Advanced Institute of Nanotechnology (SAINT), Sungkyunkwan University, have developed an engineered nanoplatform named t-SMC (trained immunity-mediated splenic…",
+          "url": "https://phys.org/news/2026-09-bacterial-nanoplatform-reprograms-spleen-immune.html",
+          "source": "Phys.org",
+          "date": "2026-09-03"
+        },
+        {
           "title": "Adam Kucharski would like to point out he did not win big at a casino",
           "summary": "Feedback goes down an AI rabbit hole after discovering that the internet is making up stories about epidemiologist and mathematician Adam Kucharski - and that his wife has had to weigh in",
           "url": "https://www.newscientist.com/article/2586960-adam-kucharski-would-like-to-point-out-he-did-not-win-big-at-a-casino/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
           "date": "2026-09-02"
+        },
+        {
+          "title": "Away from grand temples, a recycled Bronze Age burial mound became the focus of a Roman religious complex",
+          "summary": "The Romans were master engineers, building sprawling road networks, towering aqueducts and arenas across their empire. They were also good at recycling. New research has revealed that they turned the remains of a…",
+          "url": "https://phys.org/news/2026-09-grand-temples-recycled-bronze-age.html",
+          "source": "Phys.org",
+          "date": "2026-09-03"
         }
       ]
     },
@@ -181,13 +195,6 @@
           "summary": "Solar sails pushed by powerful lasers could reach incredible speeds, but relativity may eventually make the light itself work against them. At around 75% of the speed of light, scattered photons can begin creating drag…",
           "url": "https://www.sciencedaily.com/releases/2026/08/260831015157.htm",
           "source": "Science Daily",
-          "date": "2026-09-02"
-        },
-        {
-          "title": "More trees are needed to cool down European cities in heat waves—but they must be planted near homes",
-          "summary": "Heat waves claimed the lives of tens of thousands of people in Europe's capital cities this summer as they experienced record temperatures.",
-          "url": "https://phys.org/news/2026-09-trees-cool-european-cities-homes.html",
-          "source": "Phys.org",
           "date": "2026-09-02"
         },
         {
@@ -210,6 +217,13 @@
           "url": "https://www.sciencedaily.com/releases/2026/09/260901070516.htm",
           "source": "Science Daily",
           "date": "2026-09-01"
+        },
+        {
+          "title": "Heat has a memory—and a new theoretical framework can track it",
+          "summary": "Heat, it turns out, has a memory. A cooling cup of coffee may not seem particularly thoughtful. At the scale of a kitchen, heat appears to follow a straightforward rule: it moves from warmer places to cooler ones. Leave…",
+          "url": "https://phys.org/news/2026-09-memory-theoretical-framework-track.html",
+          "source": "Phys.org",
+          "date": "2026-09-03"
         }
       ]
     }
