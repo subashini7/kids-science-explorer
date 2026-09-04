@@ -1,22 +1,36 @@
 {
-  "updated": "2026-09-03T16:57:00Z",
+  "updated": "2026-09-04T16:45:02Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "New enzyme mechanism explains how sulfur-reducing bacteria process elemental sulfur",
-          "summary": "Sulfur-reducing bacteria of the phylum Desulfobacterota play a crucial role in the global biogeochemical sulfur cycle. Species such as Geobacter sulfurreducens use elemental sulfur as a terminal electron acceptor during…",
-          "url": "https://phys.org/news/2026-09-enzyme-mechanism-sulfur-bacteria-elemental.html",
+          "title": "An activity-based probe library for identifying protein function",
+          "summary": "Proteins are vital to living systems. They build and repair tissues, act as enzymes to speed chemical reactions, regulate hormones and transport nutrients—all of which are important for developing next-generation…",
+          "url": "https://phys.org/news/2026-09-based-probe-library-protein-function.html",
           "source": "Phys.org",
-          "date": "2026-09-03"
+          "date": "2026-09-04"
         },
         {
-          "title": "Microbial 'dark matter' yields 173 potential carbon dioxide-fixing strains",
-          "summary": "There are millions of species of bacteria and archaea on Earth, remarkably little is known about most of them. Now, researchers have mined the genomes of thousands of microorganisms preserved at the RIKEN BioResource…",
-          "url": "https://phys.org/news/2026-09-microbial-dark-yields-potential-carbon.html",
+          "title": "MIT turns bacteria into living transistors",
+          "summary": "MIT researchers have created bacterial “transistors” that can be wired together into living circuits capable of performing calculations and directing chemical signals. One day, these biological computers could coat…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260901070526.htm",
+          "source": "Science Daily",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "Ultrafast sample spinning improves protein structural data by dizzying proportions",
+          "summary": "Researchers have been elucidating the structures of complex molecules for more than 100 years using a variety of techniques. Some molecular structures, however, are more difficult to solve than others.",
+          "url": "https://phys.org/news/2026-09-ultrafast-sample-protein-dizzying-proportions.html",
           "source": "Phys.org",
-          "date": "2026-09-03"
+          "date": "2026-09-04"
+        },
+        {
+          "title": "Wrinkled carbon nitride challenges flat-sheet model for photocatalyst design",
+          "summary": "Graphene is flat. But that doesn't mean other 2D materials—particularly those containing more than one element—necessarily share the same structure. In the past, researchers have often simplified these materials by…",
+          "url": "https://phys.org/news/2026-09-wrinkled-carbon-nitride-flat-sheet.html",
+          "source": "Phys.org",
+          "date": "2026-09-04"
         },
         {
           "title": "The universe has plenty of hydrogen. So why is star formation collapsing?",
@@ -24,20 +38,6 @@
           "url": "https://www.sciencedaily.com/releases/2026/09/260902234442.htm",
           "source": "Science Daily",
           "date": "2026-09-03"
-        },
-        {
-          "title": "Bats carry dangerous viruses without getting sick. This may be why",
-          "summary": "Scientists discovered that more than 500 species of vesper bats possess two separate sets of antibody genes, an immune arrangement never before found in mammals. The surprising system could help explain how bats…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260901010713.htm",
-          "source": "Science Daily",
-          "date": "2026-09-03"
-        },
-        {
-          "title": "Scientists find why the liver may not heal even after you stop drinking",
-          "summary": "Alcohol-related liver disease may trap damaged liver cells in a regenerative limbo, preventing the organ from rebuilding itself even after drinking stops. Researchers linked the problem to inflammation-driven RNA errors…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260831015205.htm",
-          "source": "Science Daily",
-          "date": "2026-08-31"
         }
       ]
     },
@@ -66,18 +66,18 @@
           "date": "2026-09-03"
         },
         {
-          "title": "NASA’s Roman Space Telescope launches to reveal the Universe’s darkest secrets",
-          "summary": "NASA’s Roman Space Telescope has launched on a million mile journey to L2, where it will scan huge portions of the cosmos for clues about dark matter, dark energy, and distant worlds. With survey speeds roughly 1,000…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260831035213.htm",
-          "source": "Science Daily",
-          "date": "2026-08-31"
-        },
-        {
           "title": "SpaceX Falcon 9 rocket launches Starlink satellites to orbit on its 35th flight",
           "summary": "A SpaceX Falcon 9 rocket launched 27 Starlink satellites from California early this morning (Sept. 2). It was the 35th flight for the rocket's first stage.",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-15-23-launch-ocisly",
           "source": "Space.com",
           "date": "2026-09-02"
+        },
+        {
+          "title": "NASA to Cover Progress 96 Spacecraft Launch, Docking",
+          "summary": "NASA will provide live coverage of the launch and docking of a Roscosmos cargo spacecraft carrying about three tons of food, fuel, and supplies for the crew aboard the International Space Station. The unpiloted Progress…",
+          "url": "https://www.nasa.gov/news-release/nasa-to-cover-progress-96-spacecraft-launch-docking/",
+          "source": "NASA",
+          "date": "2026-09-03"
         }
       ]
     },
@@ -85,18 +85,11 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "A coffee-table-size scorpion roamed Earth before forests existed",
-          "summary": "A meter-long scorpion with massive pincers stalked ancient Britain 415 million years ago, long before forests and the better-known age of giant insects. Its surprising size and possible semi-aquatic lifestyle could…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260831015200.htm",
-          "source": "Science Daily",
-          "date": "2026-09-02"
-        },
-        {
-          "title": "Probiotic and postbiotic treatments revive heat-stressed corals in field experiment",
-          "summary": "Climate change continues to threaten the world's coral reefs, which support at least a quarter of all marine life. Though probiotics have been shown to rehabilitate corals in aquarium experiments, demonstrating the…",
-          "url": "https://phys.org/news/2026-09-probiotic-postbiotic-treatments-revive-stressed.html",
+          "title": "Since the 1980s, climate change has increasingly altered European bumblebee habitats",
+          "summary": "Global biodiversity loss is occurring at a rapid pace, driven by multiple human-caused factors, including overexploitation, pollution, invasive species and climate change. Despite increasing research on the impact of…",
+          "url": "https://phys.org/news/2026-09-1980s-climate-european-bumblebee-habitats.html",
           "source": "Phys.org",
-          "date": "2026-09-03"
+          "date": "2026-09-04"
         },
         {
           "title": "Earth may have lost the Sun’s protective shield millions of years ago",
@@ -106,17 +99,24 @@
           "date": "2026-09-02"
         },
         {
-          "title": "Tiny crustacean helps scientists understand genes regulating circatidal rhythms",
-          "summary": "Scientists at UMass Chan Medical School and the Marine Biological Laboratory at Woods Hole have shown that the four core clock genes responsible for maintaining circadian rhythms in animals—Per, Cry2, Bmal1 and Clk—also…",
-          "url": "https://phys.org/news/2026-09-tiny-crustacean-scientists-genes-circatidal.html",
-          "source": "Phys.org",
-          "date": "2026-09-03"
+          "title": "Plants may be evolving the wrong traits for a warming world",
+          "summary": "Morning glories may be getting caught in an evolutionary tug-of-war between surviving climate change and attracting increasingly scarce pollinators. Over just nine years, researchers found that the plants’ rate of…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260901010719.htm",
+          "source": "Science Daily",
+          "date": "2026-09-04"
         },
         {
-          "title": "First DDT, now the flu: Peregrine falcons in San Francisco Bay Area hit hard by H5N1 variant",
-          "summary": "Highly pathogenic avian influenza (HPAI) featured prominently in the news during 2020 as it took the lives of millions of birds across the globe. While the worst seems to be behind us, population-level effects are just…",
-          "url": "https://phys.org/news/2026-09-ddt-flu-peregrine-falcons-san.html",
-          "source": "Phys.org",
+          "title": "Scientists discover a bizarre “devil flower” hidden in Thailand",
+          "summary": "Scientists have discovered a strange black “devil flower” in Thailand that lives mostly underground, steals nutrients from fungi, and looks strikingly unlike a typical plant. The newly named Thismia daemona is known…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260903064217.htm",
+          "source": "Science Daily",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "Ancient “living fossils” may reveal how complex life began",
+          "summary": "A newly discovered microbe living inside ancient stromatolite communities may offer a rare look at how complex life first emerged. Researchers captured the first direct images of an Asgard archaeon physically connected…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260902234514.htm",
+          "source": "Science Daily",
           "date": "2026-09-03"
         }
       ]
@@ -132,18 +132,11 @@
           "date": "2026-09-01"
         },
         {
-          "title": "El Niño could be strongest in decades, UN warns",
-          "summary": "El Niño is forecast to be the strongest since comparable records began four decades ago, the United Nations' climate agency warned Thursday, with the UN chief saying the world was in the \"danger zone of extreme weather.\"",
-          "url": "https://phys.org/news/2026-09-el-nio-strongest-decades.html",
-          "source": "Phys.org",
-          "date": "2026-09-03"
-        },
-        {
-          "title": "Scientists trace 7 stages of a meteorite's life, from hurtling space rock to Earth's surface",
-          "summary": "Studying 75 meteorites falling to Earth, scientists have identified the seven stages a space rock goes through as it crashes through our atmosphere.",
-          "url": "https://www.space.com/stargazing/meteor-showers/scientists-trace-7-stages-of-a-meteorites-life-from-hurtling-space-rock-to-earths-surface",
-          "source": "Space.com",
-          "date": "2026-09-01"
+          "title": "Giant Greenland iceberg slams into Joe Island and survives",
+          "summary": "A giant iceberg measuring more than 76 square kilometers broke from Greenland’s Petermann Glacier in August 2026, marking the Arctic’s largest glacier calving event since 2020. The berg later slammed into Joe Island but…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260904000316.htm",
+          "source": "Science Daily",
+          "date": "2026-09-04"
         },
         {
           "title": "Hurricane triplets spin across the Pacific Ocean",
@@ -158,44 +151,36 @@
           "url": "https://www.newscientist.com/article/2587499-rapid-climate-change-brings-wildfire-threat-to-new-corners-of-europe/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
           "date": "2026-09-03"
+        },
+        {
+          "title": "A Trio of Tropical Cyclones in the Pacific",
+          "summary": "The Pacific was buzzing with storms while the Atlantic was notably quiet.",
+          "url": "https://science.nasa.gov/earth/earth-observatory/a-trio-of-tropical-cyclones-in-the-pacific/",
+          "source": "NASA",
+          "date": "2026-09-04"
         }
       ]
     },
     "Technology & Inventions": {
       "emoji": "🤖",
-      "articles": [
-        {
-          "title": "Bacterial nanoplatform reprograms spleen immune cells to help prevent cancer recurrence",
-          "summary": "A research team led by Professor Yong Taik Lim at the SKKU Advanced Institute of Nanotechnology (SAINT), Sungkyunkwan University, have developed an engineered nanoplatform named t-SMC (trained immunity-mediated splenic…",
-          "url": "https://phys.org/news/2026-09-bacterial-nanoplatform-reprograms-spleen-immune.html",
-          "source": "Phys.org",
-          "date": "2026-09-03"
-        },
-        {
-          "title": "Adam Kucharski would like to point out he did not win big at a casino",
-          "summary": "Feedback goes down an AI rabbit hole after discovering that the internet is making up stories about epidemiologist and mathematician Adam Kucharski - and that his wife has had to weigh in",
-          "url": "https://www.newscientist.com/article/2586960-adam-kucharski-would-like-to-point-out-he-did-not-win-big-at-a-casino/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-09-02"
-        },
-        {
-          "title": "Away from grand temples, a recycled Bronze Age burial mound became the focus of a Roman religious complex",
-          "summary": "The Romans were master engineers, building sprawling road networks, towering aqueducts and arenas across their empire. They were also good at recycling. New research has revealed that they turned the remains of a…",
-          "url": "https://phys.org/news/2026-09-grand-temples-recycled-bronze-age.html",
-          "source": "Phys.org",
-          "date": "2026-09-03"
-        }
-      ]
+      "articles": []
     },
     "Physics": {
       "emoji": "⚡",
       "articles": [
         {
-          "title": "Interstellar solar sails hit a strange problem at 75% of light speed",
-          "summary": "Solar sails pushed by powerful lasers could reach incredible speeds, but relativity may eventually make the light itself work against them. At around 75% of the speed of light, scattered photons can begin creating drag…",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260831015157.htm",
+          "title": "Ultrafast electrons and lasers reveal unexpectedly strong radiation signals in common semiconductors",
+          "summary": "Detecting radiation is key to technologies ranging from particle accelerators and scientific instruments to medical imaging and security screening. But current detectors must often make trade-offs, providing signals…",
+          "url": "https://phys.org/news/2026-09-ultrafast-electrons-lasers-reveal-unexpectedly.html",
+          "source": "Phys.org",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "Dark matter detector finds a strange signal scientists can’t yet explain",
+          "summary": "The LUX-ZEPLIN experiment has detected a rare particle interaction that looks unusually difficult to explain as ordinary background noise and appeared where dark matter might be expected. Scientists are not claiming a…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260904000313.htm",
           "source": "Science Daily",
-          "date": "2026-09-02"
+          "date": "2026-09-04"
         },
         {
           "title": "Scientists may have detected the 1st direct evidence of dark matter",
@@ -205,25 +190,11 @@
           "date": "2026-09-02"
         },
         {
-          "title": "Why the extremes of climate breakdown will continue to take us by surprise",
-          "summary": "The relentless heatwaves that have hit the northern hemisphere this summer have made the climate threat real for many – but preparation and adaptation will take us only so far",
-          "url": "https://www.newscientist.com/article/2587120-why-the-extremes-of-climate-breakdown-will-continue-to-take-us-by-surprise/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-09-02"
-        },
-        {
           "title": "Scientists discover why snake embryos twist into spirals",
           "summary": "Snake embryos begin life curled into a distinctive right-handed spiral, and scientists may finally know why. Their bodies grow faster than their guts, creating a tether that forces the lengthening embryo to buckle and…",
           "url": "https://www.sciencedaily.com/releases/2026/09/260901070516.htm",
           "source": "Science Daily",
           "date": "2026-09-01"
-        },
-        {
-          "title": "Heat has a memory—and a new theoretical framework can track it",
-          "summary": "Heat, it turns out, has a memory. A cooling cup of coffee may not seem particularly thoughtful. At the scale of a kitchen, heat appears to follow a straightforward rule: it moves from warmer places to cooler ones. Leave…",
-          "url": "https://phys.org/news/2026-09-memory-theoretical-framework-track.html",
-          "source": "Phys.org",
-          "date": "2026-09-03"
         }
       ]
     }
