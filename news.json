@@ -1,15 +1,15 @@
 {
-  "updated": "2026-09-04T16:45:02Z",
+  "updated": "2026-09-05T15:49:22Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "An activity-based probe library for identifying protein function",
-          "summary": "Proteins are vital to living systems. They build and repair tissues, act as enzymes to speed chemical reactions, regulate hormones and transport nutrients—all of which are important for developing next-generation…",
-          "url": "https://phys.org/news/2026-09-based-probe-library-protein-function.html",
-          "source": "Phys.org",
-          "date": "2026-09-04"
+          "title": "Life uses 4 DNA letters. Scientists just made 8 work",
+          "summary": "Researchers at UC San Diego have demonstrated that a key cellular enzyme can accurately read an eight-letter genetic alphabet, doubling the four letters used by all known life on Earth. Detailed imaging revealed that…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260904000310.htm",
+          "source": "Science Daily",
+          "date": "2026-09-05"
         },
         {
           "title": "MIT turns bacteria into living transistors",
@@ -19,16 +19,9 @@
           "date": "2026-09-04"
         },
         {
-          "title": "Ultrafast sample spinning improves protein structural data by dizzying proportions",
-          "summary": "Researchers have been elucidating the structures of complex molecules for more than 100 years using a variety of techniques. Some molecular structures, however, are more difficult to solve than others.",
-          "url": "https://phys.org/news/2026-09-ultrafast-sample-protein-dizzying-proportions.html",
-          "source": "Phys.org",
-          "date": "2026-09-04"
-        },
-        {
-          "title": "Wrinkled carbon nitride challenges flat-sheet model for photocatalyst design",
-          "summary": "Graphene is flat. But that doesn't mean other 2D materials—particularly those containing more than one element—necessarily share the same structure. In the past, researchers have often simplified these materials by…",
-          "url": "https://phys.org/news/2026-09-wrinkled-carbon-nitride-flat-sheet.html",
+          "title": "Embedded platinum channels bring nanoscale spin-based thermoelectric conversion to bulk materials",
+          "summary": "A joint research team from NIMS and the University of Tokyo has developed a new composite in which three-dimensional nano-interfaces are distributed throughout the material by coating the surfaces of magnetic-insulator…",
+          "url": "https://phys.org/news/2026-09-embedded-platinum-channels-nanoscale-based.html",
           "source": "Phys.org",
           "date": "2026-09-04"
         },
@@ -38,6 +31,13 @@
           "url": "https://www.sciencedaily.com/releases/2026/09/260902234442.htm",
           "source": "Science Daily",
           "date": "2026-09-03"
+        },
+        {
+          "title": "Quantum oscillations defy expectations in this exotic material",
+          "summary": "Scientists have uncovered an unusual form of electron behavior in zirconium pentatelluride, a quantum material that can act as both an insulator and a conductor. Under temperatures near absolute zero and magnetic fields…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260901010715.htm",
+          "source": "Science Daily",
+          "date": "2026-09-05"
         }
       ]
     },
@@ -52,11 +52,11 @@
           "date": "2026-09-03"
         },
         {
-          "title": "NASA’s Swift telescope is back, but time is running out",
-          "summary": "NASA has brought two of Swift’s telescopes back online after technical problems derailed a commercial mission intended to rescue the aging observatory by raising its orbit. With atmospheric drag pulling the spacecraft…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260901010702.htm",
-          "source": "Science Daily",
-          "date": "2026-09-01"
+          "title": "This NASA-funded 'Slingshot' spacecraft idea could map minerals on planets and moons across our solar system",
+          "summary": "NASA funded an early-stage concept aiming to show new techniques for mapping minerals on the moon, asteroids or Martian moons.",
+          "url": "https://www.space.com/technology/nasa-funds-spacecraft-concept-that-aims-to-map-minerals-on-solar-system-planets-and-moons",
+          "source": "Space.com",
+          "date": "2026-09-05"
         },
         {
           "title": "'A new mission starting today': 8 years after launch, BepiColombo begins Mercury arrival",
@@ -66,18 +66,18 @@
           "date": "2026-09-03"
         },
         {
-          "title": "SpaceX Falcon 9 rocket launches Starlink satellites to orbit on its 35th flight",
-          "summary": "A SpaceX Falcon 9 rocket launched 27 Starlink satellites from California early this morning (Sept. 2). It was the 35th flight for the rocket's first stage.",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-15-23-launch-ocisly",
-          "source": "Space.com",
-          "date": "2026-09-02"
-        },
-        {
           "title": "NASA to Cover Progress 96 Spacecraft Launch, Docking",
           "summary": "NASA will provide live coverage of the launch and docking of a Roscosmos cargo spacecraft carrying about three tons of food, fuel, and supplies for the crew aboard the International Space Station. The unpiloted Progress…",
           "url": "https://www.nasa.gov/news-release/nasa-to-cover-progress-96-spacecraft-launch-docking/",
           "source": "NASA",
           "date": "2026-09-03"
+        },
+        {
+          "title": "APOD: 2026 September 5 – Chasing the Moon’s Shadow",
+          "summary": "APOD Science APOD APOD: 2026 September 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
+          "url": "https://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow/",
+          "source": "NASA",
+          "date": "2026-09-05"
         }
       ]
     },
@@ -85,9 +85,9 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "Since the 1980s, climate change has increasingly altered European bumblebee habitats",
-          "summary": "Global biodiversity loss is occurring at a rapid pace, driven by multiple human-caused factors, including overexploitation, pollution, invasive species and climate change. Despite increasing research on the impact of…",
-          "url": "https://phys.org/news/2026-09-1980s-climate-european-bumblebee-habitats.html",
+          "title": "Periodical cicadas may be doomed to extinction",
+          "summary": "Every 13 or 17 years, swarms of cicadas emerge from the ground, their black bodies, orange-tinged wings and ruby-red eyes enveloping trees and forests. It is a biological marvel unique in the insect world, and when it…",
+          "url": "https://phys.org/news/2026-09-periodical-cicadas-doomed-extinction.html",
           "source": "Phys.org",
           "date": "2026-09-04"
         },
@@ -125,11 +125,11 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "One of Earth’s driest places was just covered in snow",
-          "summary": "Rare storms covered huge stretches of Chile’s Atacama Desert in snow and dumped extraordinary amounts of rain on one of the driest regions on Earth. The extreme weather shut down observatories, triggered damaging floods…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260901010709.htm",
-          "source": "Science Daily",
-          "date": "2026-09-01"
+          "title": "El Niño set to bring warmer spring to NZ and Australia",
+          "summary": "El Niño is firmly established and will intensify into a very strong event in the coming months, with major impacts on rainfall and temperature patterns and associated risks of floods, drought and extreme heat, according…",
+          "url": "https://phys.org/news/2026-09-el-nio-warmer-nz-australia.html",
+          "source": "Phys.org",
+          "date": "2026-09-04"
         },
         {
           "title": "Giant Greenland iceberg slams into Joe Island and survives",
@@ -139,42 +139,64 @@
           "date": "2026-09-04"
         },
         {
-          "title": "Hurricane triplets spin across the Pacific Ocean",
-          "summary": "Rare hurricane triplets are currently spinning across the Pacific Ocean: Lowell, Karina and Marie. Did El Niño play a part? Find out here. The post Hurricane triplets spin across the Pacific Ocean first appeared on…",
-          "url": "https://earthsky.org/todays-image/hurricane-triplets-pacific-ocean-lowell-karina-marie/",
-          "source": "EarthSky",
-          "date": "2026-09-03"
+          "title": "One of Earth’s driest places was just covered in snow",
+          "summary": "Rare storms covered huge stretches of Chile’s Atacama Desert in snow and dumped extraordinary amounts of rain on one of the driest regions on Earth. The extreme weather shut down observatories, triggered damaging floods…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260901010709.htm",
+          "source": "Science Daily",
+          "date": "2026-09-01"
         },
         {
-          "title": "Rapid climate change brings wildfire threat to new corners of Europe",
-          "summary": "Scorching conditions this year have triggered wildfires in European countries that are normally considered to be damp and cool",
-          "url": "https://www.newscientist.com/article/2587499-rapid-climate-change-brings-wildfire-threat-to-new-corners-of-europe/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-09-03"
+          "title": "New method predicts where massive earthquakes will strike",
+          "summary": "UC Riverside scientists have developed a way to identify where Earth's biggest earthquakes are most likely to occur, offering a powerful new tool for improving disaster preparation in some of the most dangerous seismic…",
+          "url": "https://phys.org/news/2026-09-method-massive-earthquakes.html",
+          "source": "Phys.org",
+          "date": "2026-09-05"
         },
         {
-          "title": "A Trio of Tropical Cyclones in the Pacific",
-          "summary": "The Pacific was buzzing with storms while the Atlantic was notably quiet.",
-          "url": "https://science.nasa.gov/earth/earth-observatory/a-trio-of-tropical-cyclones-in-the-pacific/",
-          "source": "NASA",
+          "title": "Researchers tune into Arctic under-ice sounds and test through-ice communication",
+          "summary": "Beneath the Arctic Ocean is an orchestra featuring natural and human composers, from cracking sea ice and whistling beluga whales to humming shipping-vessel engines. Researchers from MIT Lincoln Laboratory heard some of…",
+          "url": "https://phys.org/news/2026-09-tune-arctic-ice-communication.html",
+          "source": "Phys.org",
           "date": "2026-09-04"
         }
       ]
     },
     "Technology & Inventions": {
       "emoji": "🤖",
-      "articles": []
+      "articles": [
+        {
+          "title": "AI could undermine managers' judgment unless used carefully, study warns",
+          "summary": "Generative artificial intelligence (Gen-AI) has become a routine part of working life, but overreliance on the technology may erode managers' ability to build moral insights, contextual understanding and know-how to get…",
+          "url": "https://phys.org/news/2026-09-ai-undermine-judgment.html",
+          "source": "Phys.org",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "Students with lower grades earn degrees more often when they belong to an academic major's majority group",
+          "summary": "Despite efforts to encourage broader participation, women earn about 25% of undergraduate engineering degrees and 18% of undergraduate computer science degrees—and men remain a small minority among people earning…",
+          "url": "https://phys.org/news/2026-09-students-grades-degrees-academic-major.html",
+          "source": "Phys.org",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "Fermat’s last theorem formalised by AI agents in just 11 days",
+          "summary": "Converting the proof of Fermat's last theorem into code that computers can check was expected to take years. Anthropic's Claude AI managed it in less than two weeks",
+          "url": "https://www.newscientist.com/article/2587839-fermats-last-theorem-formalised-by-ai-agents-in-just-11-days/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "How haze from Indonesian fires impacts Southeast Asia",
+          "summary": "Thick smog has blanketed parts of Indonesia as the vast archipelago battles fires that have burned large swaths of Borneo and Sumatra for weeks.",
+          "url": "https://phys.org/news/2026-09-haze-indonesian-impacts-southeast-asia.html",
+          "source": "Phys.org",
+          "date": "2026-09-05"
+        }
+      ]
     },
     "Physics": {
       "emoji": "⚡",
       "articles": [
-        {
-          "title": "Ultrafast electrons and lasers reveal unexpectedly strong radiation signals in common semiconductors",
-          "summary": "Detecting radiation is key to technologies ranging from particle accelerators and scientific instruments to medical imaging and security screening. But current detectors must often make trade-offs, providing signals…",
-          "url": "https://phys.org/news/2026-09-ultrafast-electrons-lasers-reveal-unexpectedly.html",
-          "source": "Phys.org",
-          "date": "2026-09-04"
-        },
         {
           "title": "Dark matter detector finds a strange signal scientists can’t yet explain",
           "summary": "The LUX-ZEPLIN experiment has detected a rare particle interaction that looks unusually difficult to explain as ordinary background noise and appeared where dark matter might be expected. Scientists are not claiming a…",
@@ -183,11 +205,18 @@
           "date": "2026-09-04"
         },
         {
-          "title": "Scientists may have detected the 1st direct evidence of dark matter",
-          "summary": "Using the LUX-ZEPLIN experiment, scientists may have detected the first direct evidence of dark matter, in the form of a rare interaction between a WIMP particle and ordinary matter.",
-          "url": "https://www.space.com/astronomy/dark-universe/scientists-may-have-detected-the-1st-direct-evidence-of-dark-matter",
-          "source": "Space.com",
-          "date": "2026-09-02"
+          "title": "Ocean indicators NOAA scientists are tracking for El Niño's arrival on the West Coast",
+          "summary": "Has El Niño reached the West Coast? You might think it has. After all, the ocean off Southern and Central California is unusually warm. But that warmth is from a recent marine heat wave that predates the current El…",
+          "url": "https://phys.org/news/2026-09-ocean-indicators-noaa-scientists-tracking.html",
+          "source": "Phys.org",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "Levitated magnet opens new frontier in search for ultraheavy dark matter",
+          "summary": "Rice University researchers have used a magnetically levitated particle to search for ultraheavy dark matter, extending the hunt for some of the heaviest possible forms of the invisible matter thought to hold galaxies…",
+          "url": "https://phys.org/news/2026-09-levitated-magnet-frontier-ultraheavy-dark.html",
+          "source": "Phys.org",
+          "date": "2026-09-05"
         },
         {
           "title": "Scientists discover why snake embryos twist into spirals",
