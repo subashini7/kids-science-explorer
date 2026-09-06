@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T15:49:22Z",
+  "updated": "2026-09-06T16:00:00Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
@@ -19,11 +19,11 @@
           "date": "2026-09-04"
         },
         {
-          "title": "Embedded platinum channels bring nanoscale spin-based thermoelectric conversion to bulk materials",
-          "summary": "A joint research team from NIMS and the University of Tokyo has developed a new composite in which three-dimensional nano-interfaces are distributed throughout the material by coating the surfaces of magnetic-insulator…",
-          "url": "https://phys.org/news/2026-09-embedded-platinum-channels-nanoscale-based.html",
+          "title": "Extreme pressure turns blue pigment into record-long single-atom copper chains",
+          "summary": "As the electronics in our technology keep shrinking, traditional silicon-based chips are approaching their fundamental physical limits. Yet the wires connecting them might be able to shrink beyond conventional…",
+          "url": "https://phys.org/news/2026-09-extreme-pressure-blue-pigment-atom.html",
           "source": "Phys.org",
-          "date": "2026-09-04"
+          "date": "2026-09-06"
         },
         {
           "title": "The universe has plenty of hydrogen. So why is star formation collapsing?",
@@ -33,10 +33,10 @@
           "date": "2026-09-03"
         },
         {
-          "title": "Quantum oscillations defy expectations in this exotic material",
-          "summary": "Scientists have uncovered an unusual form of electron behavior in zirconium pentatelluride, a quantum material that can act as both an insulator and a conductor. Under temperatures near absolute zero and magnetic fields…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260901010715.htm",
-          "source": "Science Daily",
+          "title": "Breaking through AlphaFold's limits to predict how proteins change shape",
+          "summary": "Conformational changes in proteins are vital to their function yet remain challenging for state-of-the-art artificial intelligence, such as AlphaFold3, to predict. Researchers at the Institute for Molecular Science…",
+          "url": "https://phys.org/news/2026-09-alphafold-limits-proteins.html",
+          "source": "Phys.org",
           "date": "2026-09-05"
         }
       ]
@@ -73,11 +73,11 @@
           "date": "2026-09-03"
         },
         {
-          "title": "APOD: 2026 September 5 – Chasing the Moon’s Shadow",
-          "summary": "APOD Science APOD APOD: 2026 September 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
-          "url": "https://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow/",
-          "source": "NASA",
-          "date": "2026-09-05"
+          "title": "Germany's Isar Aerospace launches rocket into orbit from Norway",
+          "summary": "Germany's Isar Aerospace launched a rocket into orbit from Norway on Saturday as Europe races to boost its ability to economically send satellites into space independently of the United States.",
+          "url": "https://phys.org/news/2026-09-germany-isar-aerospace-rocket-orbit.html",
+          "source": "Phys.org",
+          "date": "2026-09-06"
         }
       ]
     },
@@ -85,25 +85,32 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "Periodical cicadas may be doomed to extinction",
-          "summary": "Every 13 or 17 years, swarms of cicadas emerge from the ground, their black bodies, orange-tinged wings and ruby-red eyes enveloping trees and forests. It is a biological marvel unique in the insect world, and when it…",
-          "url": "https://phys.org/news/2026-09-periodical-cicadas-doomed-extinction.html",
+          "title": "This “new” frog was hiding in plain sight for 100 years",
+          "summary": "A common frog found across Ecuador and Colombia has finally been recognized as its own species after more than a century of mistaken identity. Museum specimens from the 1800s helped scientists reveal that Pristimantis…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260902234505.htm",
+          "source": "Science Daily",
+          "date": "2026-09-05"
+        },
+        {
+          "title": "How much clearcutting can nature sustain? A study determines the ecological limit for boreal forest birds",
+          "summary": "A study led by the University of Jyväskylä in Finland evaluated, for the first time, an ecological threshold for the amount of clearcutting in boreal forests. According to the results, maintaining populations of bird…",
+          "url": "https://phys.org/news/2026-09-clearcutting-nature-sustain-ecological-limit.html",
           "source": "Phys.org",
-          "date": "2026-09-04"
+          "date": "2026-09-05"
         },
         {
-          "title": "Earth may have lost the Sun’s protective shield millions of years ago",
-          "summary": "NASA-funded studies suggest Earth’s climate has been influenced by both the Sun’s travels through dense regions of the Milky Way and the violent superflares of its youth. Those events may help explain ancient ice ages…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260901070523.htm",
-          "source": "Science Daily",
-          "date": "2026-09-02"
+          "title": "Tree species diversity protects forests from climate extremes, study finds",
+          "summary": "New research has found that tree species diversity can play a crucial role in protecting forests from the growing threat of extreme climate events. The study analyzed data from 88,116 separate forest plots across the…",
+          "url": "https://phys.org/news/2026-09-tree-species-diversity-forests-climate.html",
+          "source": "Phys.org",
+          "date": "2026-09-05"
         },
         {
-          "title": "Plants may be evolving the wrong traits for a warming world",
-          "summary": "Morning glories may be getting caught in an evolutionary tug-of-war between surviving climate change and attracting increasingly scarce pollinators. Over just nine years, researchers found that the plants’ rate of…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260901010719.htm",
+          "title": "80,000-year-old “arrowheads” rewrite human history",
+          "summary": "Archaeologists have identified tiny 80,000-year-old projectile points in Uzbekistan that may have been used like arrowheads. Their size, design, and impact damage closely resemble weapons found much later at a Homo…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260903064233.htm",
           "source": "Science Daily",
-          "date": "2026-09-04"
+          "date": "2026-09-06"
         },
         {
           "title": "Scientists discover a bizarre “devil flower” hidden in Thailand",
@@ -111,13 +118,6 @@
           "url": "https://www.sciencedaily.com/releases/2026/09/260903064217.htm",
           "source": "Science Daily",
           "date": "2026-09-04"
-        },
-        {
-          "title": "Ancient “living fossils” may reveal how complex life began",
-          "summary": "A newly discovered microbe living inside ancient stromatolite communities may offer a rare look at how complex life first emerged. Researchers captured the first direct images of an Asgard archaeon physically connected…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260902234514.htm",
-          "source": "Science Daily",
-          "date": "2026-09-03"
         }
       ]
     },
@@ -125,11 +125,18 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "El Niño set to bring warmer spring to NZ and Australia",
-          "summary": "El Niño is firmly established and will intensify into a very strong event in the coming months, with major impacts on rainfall and temperature patterns and associated risks of floods, drought and extreme heat, according…",
-          "url": "https://phys.org/news/2026-09-el-nio-warmer-nz-australia.html",
-          "source": "Phys.org",
-          "date": "2026-09-04"
+          "title": "Small asteroid impact today over the ocean near Australia",
+          "summary": "A small asteroid impact will occur in the next few hours near NW Australia. The meteor should harmlessly burn up in Earth's atmosphere and poses no danger. The post Small asteroid impact today over the ocean near…",
+          "url": "https://earthsky.org/space/small-asteroid-impact-australia-sep-6-2026/",
+          "source": "EarthSky",
+          "date": "2026-09-06"
+        },
+        {
+          "title": "A mysterious signal around Earth could be dark matter",
+          "summary": "Scientists used Earth’s magnetic field and atmosphere as a planet-sized detector to search for some of the lightest proposed forms of dark matter. The approach dramatically improved limits on ultralight axions and…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260904000328.htm",
+          "source": "Science Daily",
+          "date": "2026-09-06"
         },
         {
           "title": "Giant Greenland iceberg slams into Joe Island and survives",
@@ -137,13 +144,6 @@
           "url": "https://www.sciencedaily.com/releases/2026/09/260904000316.htm",
           "source": "Science Daily",
           "date": "2026-09-04"
-        },
-        {
-          "title": "One of Earth’s driest places was just covered in snow",
-          "summary": "Rare storms covered huge stretches of Chile’s Atacama Desert in snow and dumped extraordinary amounts of rain on one of the driest regions on Earth. The extreme weather shut down observatories, triggered damaging floods…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260901010709.htm",
-          "source": "Science Daily",
-          "date": "2026-09-01"
         },
         {
           "title": "New method predicts where massive earthquakes will strike",
@@ -172,13 +172,6 @@
           "date": "2026-09-05"
         },
         {
-          "title": "Students with lower grades earn degrees more often when they belong to an academic major's majority group",
-          "summary": "Despite efforts to encourage broader participation, women earn about 25% of undergraduate engineering degrees and 18% of undergraduate computer science degrees—and men remain a small minority among people earning…",
-          "url": "https://phys.org/news/2026-09-students-grades-degrees-academic-major.html",
-          "source": "Phys.org",
-          "date": "2026-09-04"
-        },
-        {
           "title": "Fermat’s last theorem formalised by AI agents in just 11 days",
           "summary": "Converting the proof of Fermat's last theorem into code that computers can check was expected to take years. Anthropic's Claude AI managed it in less than two weeks",
           "url": "https://www.newscientist.com/article/2587839-fermats-last-theorem-formalised-by-ai-agents-in-just-11-days/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
@@ -198,11 +191,25 @@
       "emoji": "⚡",
       "articles": [
         {
+          "title": "A black hole as light as 40 tons can exist inside a star if dark matter helps",
+          "summary": "In 1974, Stephen Hawking made a prediction that transformed our understanding of black holes. Black holes, he showed, are not truly black: They slowly lose energy through a quantum process now known as Hawking…",
+          "url": "https://phys.org/news/2026-09-black-hole-tons-star-dark.html",
+          "source": "Phys.org",
+          "date": "2026-09-05"
+        },
+        {
           "title": "Dark matter detector finds a strange signal scientists can’t yet explain",
           "summary": "The LUX-ZEPLIN experiment has detected a rare particle interaction that looks unusually difficult to explain as ordinary background noise and appeared where dark matter might be expected. Scientists are not claiming a…",
           "url": "https://www.sciencedaily.com/releases/2026/09/260904000313.htm",
           "source": "Science Daily",
           "date": "2026-09-04"
+        },
+        {
+          "title": "AI can now control fusion plasma faster than humans can react",
+          "summary": "Princeton researchers have tested an AI system that can monitor and control fusion plasma in milliseconds, reacting far faster than a human operator. In one experiment, it predicted a damaging instability about 200…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260903064215.htm",
+          "source": "Science Daily",
+          "date": "2026-09-06"
         },
         {
           "title": "Ocean indicators NOAA scientists are tracking for El Niño's arrival on the West Coast",
@@ -217,13 +224,6 @@
           "url": "https://phys.org/news/2026-09-levitated-magnet-frontier-ultraheavy-dark.html",
           "source": "Phys.org",
           "date": "2026-09-05"
-        },
-        {
-          "title": "Scientists discover why snake embryos twist into spirals",
-          "summary": "Snake embryos begin life curled into a distinctive right-handed spiral, and scientists may finally know why. Their bodies grow faster than their guts, creating a tether that forces the lengthening embryo to buckle and…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260901070516.htm",
-          "source": "Science Daily",
-          "date": "2026-09-01"
         }
       ]
     }
