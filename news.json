@@ -1,9 +1,30 @@
 {
-  "updated": "2026-09-06T16:00:00Z",
+  "updated": "2026-09-07T18:07:21Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
+        {
+          "title": "Reversible electric control unlocks persistent chiral phonon states",
+          "summary": "Atoms in a material are rarely still. They jiggle back and forth in collective lattice vibrations known as phonons. Their motion can also carry a rotational element: In 2023, scientists at PSI experimentally proved the…",
+          "url": "https://phys.org/news/2026-09-reversible-electric-persistent-chiral-phonon.html",
+          "source": "Phys.org",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "Reconstructed ancient protein maps how bacterial enzymes evolved distinct functions",
+          "summary": "How do related proteins develop different functions? This is the question investigated by a research team involving Kiel University, DESY and the Center for Structural Systems Biology (CSSB). Led by Holger Sondermann…",
+          "url": "https://phys.org/news/2026-09-reconstructed-ancient-protein-bacterial-enzymes.html",
+          "source": "Phys.org",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "Popular brain supplement linked to shorter lifespan in men",
+          "summary": "A large study involving more than 270,000 people has linked higher blood levels of the amino acid tyrosine to a shorter lifespan in men. Using both observational data and genetic analysis, researchers found that…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260904000330.htm",
+          "source": "Science Daily",
+          "date": "2026-09-06"
+        },
         {
           "title": "Life uses 4 DNA letters. Scientists just made 8 work",
           "summary": "Researchers at UC San Diego have demonstrated that a key cellular enzyme can accurately read an eight-letter genetic alphabet, doubling the four letters used by all known life on Earth. Detailed imaging revealed that…",
@@ -12,45 +33,17 @@
           "date": "2026-09-05"
         },
         {
-          "title": "MIT turns bacteria into living transistors",
-          "summary": "MIT researchers have created bacterial “transistors” that can be wired together into living circuits capable of performing calculations and directing chemical signals. One day, these biological computers could coat…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260901070526.htm",
-          "source": "Science Daily",
-          "date": "2026-09-04"
-        },
-        {
-          "title": "Extreme pressure turns blue pigment into record-long single-atom copper chains",
-          "summary": "As the electronics in our technology keep shrinking, traditional silicon-based chips are approaching their fundamental physical limits. Yet the wires connecting them might be able to shrink beyond conventional…",
-          "url": "https://phys.org/news/2026-09-extreme-pressure-blue-pigment-atom.html",
+          "title": "Dark plasma regions reveal overlooked source of reactive atomic oxygen",
+          "summary": "Scientists from Tokyo Metropolitan University have found a way to make plasma more effective for its wide-ranging uses, from antimicrobial applications to surface conditioning in the semiconductor industry. They mapped…",
+          "url": "https://phys.org/news/2026-09-dark-plasma-regions-reveal-overlooked.html",
           "source": "Phys.org",
-          "date": "2026-09-06"
-        },
-        {
-          "title": "The universe has plenty of hydrogen. So why is star formation collapsing?",
-          "summary": "Star formation across the universe has fallen dramatically over the past 4.5 billion years, but astronomers have uncovered a surprising twist: the supply of neutral hydrogen, a key ingredient for making stars, has…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260902234442.htm",
-          "source": "Science Daily",
-          "date": "2026-09-03"
-        },
-        {
-          "title": "Breaking through AlphaFold's limits to predict how proteins change shape",
-          "summary": "Conformational changes in proteins are vital to their function yet remain challenging for state-of-the-art artificial intelligence, such as AlphaFold3, to predict. Researchers at the Institute for Molecular Science…",
-          "url": "https://phys.org/news/2026-09-alphafold-limits-proteins.html",
-          "source": "Phys.org",
-          "date": "2026-09-05"
+          "date": "2026-09-07"
         }
       ]
     },
     "Space & Astronomy": {
       "emoji": "🚀",
       "articles": [
-        {
-          "title": "Igniting Roman’s Journey",
-          "summary": "Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest secrets. The mission launched at 7:26 a.m. EDT on Aug. 30 aboard a SpaceX…",
-          "url": "https://www.nasa.gov/image-article/igniting-romans-journey/",
-          "source": "NASA",
-          "date": "2026-09-03"
-        },
         {
           "title": "This NASA-funded 'Slingshot' spacecraft idea could map minerals on planets and moons across our solar system",
           "summary": "NASA funded an early-stage concept aiming to show new techniques for mapping minerals on the moon, asteroids or Martian moons.",
@@ -59,25 +52,32 @@
           "date": "2026-09-05"
         },
         {
+          "title": "On this day in space! Sept. 7, 1995: NASA launches its 100th astronaut flight on space shuttle Endeavour's STS-69 mission",
+          "summary": "On Sept. 7, 1995, the space shuttle Endeavour launched on mission STS-69, NASA's 100th astronaut flight. Here's why it mattered.",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-7-2026",
+          "source": "Space.com",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "APOD: 2026 September 7 – The Pelican Nebula in Gas, Dust, and Stars",
+          "summary": "APOD Science APOD APOD: 2026 September 7 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
+          "url": "https://science.nasa.gov/image-article/apod-2026-september-7-the-pelican-nebula-in-gas-dust-and-stars/",
+          "source": "NASA",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "SpaceX Falcon 9 rocket launches 27 Starlink satellites, lands on ship at sea (video)",
+          "summary": "SpaceX launched yet another batch of its Starlink internet satellites today (Sept. 6), sending them up from California's central coast.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink/group-15-24-launch-ocisly",
+          "source": "Space.com",
+          "date": "2026-09-06"
+        },
+        {
           "title": "'A new mission starting today': 8 years after launch, BepiColombo begins Mercury arrival",
           "summary": "After nearly eight years traveling through the inner solar system, the trailblazing BepiColombo spacecraft has finally begun its arrival at Mercury.",
           "url": "https://www.space.com/space-exploration/missions/a-new-mission-starting-today-8-years-after-launch-bepicolombo-begins-mercury-arrival",
           "source": "Space.com",
           "date": "2026-09-03"
-        },
-        {
-          "title": "NASA to Cover Progress 96 Spacecraft Launch, Docking",
-          "summary": "NASA will provide live coverage of the launch and docking of a Roscosmos cargo spacecraft carrying about three tons of food, fuel, and supplies for the crew aboard the International Space Station. The unpiloted Progress…",
-          "url": "https://www.nasa.gov/news-release/nasa-to-cover-progress-96-spacecraft-launch-docking/",
-          "source": "NASA",
-          "date": "2026-09-03"
-        },
-        {
-          "title": "Germany's Isar Aerospace launches rocket into orbit from Norway",
-          "summary": "Germany's Isar Aerospace launched a rocket into orbit from Norway on Saturday as Europe races to boost its ability to economically send satellites into space independently of the United States.",
-          "url": "https://phys.org/news/2026-09-germany-isar-aerospace-rocket-orbit.html",
-          "source": "Phys.org",
-          "date": "2026-09-06"
         }
       ]
     },
@@ -92,18 +92,25 @@
           "date": "2026-09-05"
         },
         {
-          "title": "How much clearcutting can nature sustain? A study determines the ecological limit for boreal forest birds",
-          "summary": "A study led by the University of Jyväskylä in Finland evaluated, for the first time, an ecological threshold for the amount of clearcutting in boreal forests. According to the results, maintaining populations of bird…",
-          "url": "https://phys.org/news/2026-09-clearcutting-nature-sustain-ecological-limit.html",
+          "title": "Ancient charcoal reveals evidence of wildfires near the South Pole",
+          "summary": "A journey back in time to the Late Cretaceous: A swampy rainforest with conifers and tree ferns stretches as far as the eye can see, dinosaurs roam through the misty wetlands, and the climate is mild and warm. The…",
+          "url": "https://phys.org/news/2026-09-ancient-charcoal-reveals-evidence-wildfires.html",
           "source": "Phys.org",
-          "date": "2026-09-05"
+          "date": "2026-09-07"
         },
         {
-          "title": "Tree species diversity protects forests from climate extremes, study finds",
-          "summary": "New research has found that tree species diversity can play a crucial role in protecting forests from the growing threat of extreme climate events. The study analyzed data from 88,116 separate forest plots across the…",
-          "url": "https://phys.org/news/2026-09-tree-species-diversity-forests-climate.html",
+          "title": "Decades-old museum specimens reveal 10 extraordinary new worms",
+          "summary": "Scientists have discovered that one of the most unusual creatures in the animal kingdom is far more diverse and evolutionarily complex than previously known. An international team led by the University of Göttingen has…",
+          "url": "https://phys.org/news/2026-09-decades-museum-specimens-reveal-extraordinary.html",
           "source": "Phys.org",
-          "date": "2026-09-05"
+          "date": "2026-09-07"
+        },
+        {
+          "title": "Reef fish survival threatened by motorboat noise",
+          "summary": "Reef fish exposed to motorboat noise can end up smaller and struggle to escape predators, says new research into dangerous underwater noise. The post Reef fish survival threatened by motorboat noise first appeared on…",
+          "url": "https://earthsky.org/earth/reef-fish-growth-and-survival-threatened-by-motorboat-noise/",
+          "source": "EarthSky",
+          "date": "2026-09-07"
         },
         {
           "title": "80,000-year-old “arrowheads” rewrite human history",
@@ -111,19 +118,19 @@
           "url": "https://www.sciencedaily.com/releases/2026/09/260903064233.htm",
           "source": "Science Daily",
           "date": "2026-09-06"
-        },
-        {
-          "title": "Scientists discover a bizarre “devil flower” hidden in Thailand",
-          "summary": "Scientists have discovered a strange black “devil flower” in Thailand that lives mostly underground, steals nutrients from fungi, and looks strikingly unlike a typical plant. The newly named Thismia daemona is known…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260903064217.htm",
-          "source": "Science Daily",
-          "date": "2026-09-04"
         }
       ]
     },
     "Earth & Climate": {
       "emoji": "🌍",
       "articles": [
+        {
+          "title": "Climate and air quality are closely linked, report highlights",
+          "summary": "An increase in pollution from wildfires and heat waves risks undermining international efforts to improve air quality and protect human and ecosystem health, according to a new report from the World Meteorological…",
+          "url": "https://phys.org/news/2026-09-climate-air-quality-linked-highlights.html",
+          "source": "Phys.org",
+          "date": "2026-09-07"
+        },
         {
           "title": "Small asteroid impact today over the ocean near Australia",
           "summary": "A small asteroid impact will occur in the next few hours near NW Australia. The meteor should harmlessly burn up in Earth's atmosphere and poses no danger. The post Small asteroid impact today over the ocean near…",
@@ -146,18 +153,11 @@
           "date": "2026-09-04"
         },
         {
-          "title": "New method predicts where massive earthquakes will strike",
-          "summary": "UC Riverside scientists have developed a way to identify where Earth's biggest earthquakes are most likely to occur, offering a powerful new tool for improving disaster preparation in some of the most dangerous seismic…",
-          "url": "https://phys.org/news/2026-09-method-massive-earthquakes.html",
-          "source": "Phys.org",
-          "date": "2026-09-05"
-        },
-        {
-          "title": "Researchers tune into Arctic under-ice sounds and test through-ice communication",
-          "summary": "Beneath the Arctic Ocean is an orchestra featuring natural and human composers, from cracking sea ice and whistling beluga whales to humming shipping-vessel engines. Researchers from MIT Lincoln Laboratory heard some of…",
-          "url": "https://phys.org/news/2026-09-tune-arctic-ice-communication.html",
-          "source": "Phys.org",
-          "date": "2026-09-04"
+          "title": "These microbes in Antarctica don’t live anywhere else",
+          "summary": "Researchers have discovered that some microbes in Antarctica are unique to the icy continent and are found nowhere else on Earth. The post These microbes in Antarctica don’t live anywhere else first appeared on EarthSky…",
+          "url": "https://earthsky.org/earth/microbes-in-antarctica-arthrobacter-endemic/",
+          "source": "EarthSky",
+          "date": "2026-09-06"
         }
       ]
     },
@@ -165,11 +165,11 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "AI could undermine managers' judgment unless used carefully, study warns",
-          "summary": "Generative artificial intelligence (Gen-AI) has become a routine part of working life, but overreliance on the technology may erode managers' ability to build moral insights, contextual understanding and know-how to get…",
-          "url": "https://phys.org/news/2026-09-ai-undermine-judgment.html",
-          "source": "Phys.org",
-          "date": "2026-09-05"
+          "title": "The future of Earth observation: Private satellites and AI bring benefits but also pose risks",
+          "summary": "We've entered a new world of Earth observation, in which artificial intelligence helps researchers make sense of an ever-glowing glut of privately gathered data.",
+          "url": "https://www.space.com/astronomy/earth/the-future-of-earth-observation-private-satellites-and-ai-bring-benefits-but-also-pose-risks",
+          "source": "Space.com",
+          "date": "2026-09-07"
         },
         {
           "title": "Fermat’s last theorem formalised by AI agents in just 11 days",
@@ -179,24 +179,17 @@
           "date": "2026-09-05"
         },
         {
-          "title": "How haze from Indonesian fires impacts Southeast Asia",
-          "summary": "Thick smog has blanketed parts of Indonesia as the vast archipelago battles fires that have burned large swaths of Borneo and Sumatra for weeks.",
-          "url": "https://phys.org/news/2026-09-haze-indonesian-impacts-southeast-asia.html",
-          "source": "Phys.org",
-          "date": "2026-09-05"
+          "title": "I made a free AI chatbot solve a decade-long maths problem in 13 minutes",
+          "summary": "After months covering the shocking rise of AI mathematics, reporter Matthew Sparkes decided to put a free chatbot to the test – and was shocked at the speed at which it solved an outstanding problem",
+          "url": "https://www.newscientist.com/article/2587148-i-made-a-free-ai-chatbot-solve-a-decade-long-maths-problem-in-13-minutes/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-09-07"
         }
       ]
     },
     "Physics": {
       "emoji": "⚡",
       "articles": [
-        {
-          "title": "A black hole as light as 40 tons can exist inside a star if dark matter helps",
-          "summary": "In 1974, Stephen Hawking made a prediction that transformed our understanding of black holes. Black holes, he showed, are not truly black: They slowly lose energy through a quantum process now known as Hawking…",
-          "url": "https://phys.org/news/2026-09-black-hole-tons-star-dark.html",
-          "source": "Phys.org",
-          "date": "2026-09-05"
-        },
         {
           "title": "Dark matter detector finds a strange signal scientists can’t yet explain",
           "summary": "The LUX-ZEPLIN experiment has detected a rare particle interaction that looks unusually difficult to explain as ordinary background noise and appeared where dark matter might be expected. Scientists are not claiming a…",
@@ -212,18 +205,18 @@
           "date": "2026-09-06"
         },
         {
-          "title": "Ocean indicators NOAA scientists are tracking for El Niño's arrival on the West Coast",
-          "summary": "Has El Niño reached the West Coast? You might think it has. After all, the ocean off Southern and Central California is unusually warm. But that warmth is from a recent marine heat wave that predates the current El…",
-          "url": "https://phys.org/news/2026-09-ocean-indicators-noaa-scientists-tracking.html",
-          "source": "Phys.org",
-          "date": "2026-09-05"
+          "title": "We’re on the verge of seeing the quantum vacuum for the first time",
+          "summary": "Quantum theory says a vacuum isn’t truly empty, but proving it directly has remained out of reach. A new experiment using immensely powerful lasers could finally expose its hidden structure – and perhaps offer clues to…",
+          "url": "https://www.newscientist.com/article/2586310-were-on-the-verge-of-seeing-the-quantum-vacuum-for-the-first-time/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-09-07"
         },
         {
-          "title": "Levitated magnet opens new frontier in search for ultraheavy dark matter",
-          "summary": "Rice University researchers have used a magnetically levitated particle to search for ultraheavy dark matter, extending the hunt for some of the heaviest possible forms of the invisible matter thought to hold galaxies…",
-          "url": "https://phys.org/news/2026-09-levitated-magnet-frontier-ultraheavy-dark.html",
+          "title": "What happens when you flush? Study reveals how toilet aerosols reach the breathing zone",
+          "summary": "Researchers from Flinders University have found that flushing toilets can release aerosols and bioaerosols into the surrounding air, with some studies detecting particles at heights corresponding to adults' breathing…",
+          "url": "https://phys.org/news/2026-09-flush-reveals-toilet-aerosols-zone.html",
           "source": "Phys.org",
-          "date": "2026-09-05"
+          "date": "2026-09-07"
         }
       ]
     }
