@@ -1,23 +1,9 @@
 {
-  "updated": "2026-09-07T18:07:21Z",
+  "updated": "2026-09-08T17:05:42Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
-        {
-          "title": "Reversible electric control unlocks persistent chiral phonon states",
-          "summary": "Atoms in a material are rarely still. They jiggle back and forth in collective lattice vibrations known as phonons. Their motion can also carry a rotational element: In 2023, scientists at PSI experimentally proved the…",
-          "url": "https://phys.org/news/2026-09-reversible-electric-persistent-chiral-phonon.html",
-          "source": "Phys.org",
-          "date": "2026-09-07"
-        },
-        {
-          "title": "Reconstructed ancient protein maps how bacterial enzymes evolved distinct functions",
-          "summary": "How do related proteins develop different functions? This is the question investigated by a research team involving Kiel University, DESY and the Center for Structural Systems Biology (CSSB). Led by Holger Sondermann…",
-          "url": "https://phys.org/news/2026-09-reconstructed-ancient-protein-bacterial-enzymes.html",
-          "source": "Phys.org",
-          "date": "2026-09-07"
-        },
         {
           "title": "Popular brain supplement linked to shorter lifespan in men",
           "summary": "A large study involving more than 270,000 people has linked higher blood levels of the amino acid tyrosine to a shorter lifespan in men. Using both observational data and genetic analysis, researchers found that…",
@@ -33,10 +19,24 @@
           "date": "2026-09-05"
         },
         {
-          "title": "Dark plasma regions reveal overlooked source of reactive atomic oxygen",
-          "summary": "Scientists from Tokyo Metropolitan University have found a way to make plasma more effective for its wide-ranging uses, from antimicrobial applications to surface conditioning in the semiconductor industry. They mapped…",
-          "url": "https://phys.org/news/2026-09-dark-plasma-regions-reveal-overlooked.html",
-          "source": "Phys.org",
+          "title": "Scientists discover a powerful new antivenom hidden in rattlesnake blood",
+          "summary": "Researchers discovered that combinations of toxin-blocking proteins naturally found in rattlesnake blood can powerfully neutralize venom from several dangerous snake species. In lab tests, the mixtures were about 10…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260907201605.htm",
+          "source": "Science Daily",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "Scientists discover a hidden immune signal that helps spinal cords regrow",
+          "summary": "A surprising immune system signal may help explain why zebrafish can regenerate damaged spinal cords so effectively. Researchers found that certain neutrophils release Il-4, which calms harmful inflammation and allows…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260906170136.htm",
+          "source": "Science Daily",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "Your gut microbiome may be more contagious than scientists thought",
+          "summary": "Scientists have found evidence that some gut bacterial populations can spread rapidly between people and across continents, suggesting the microbiome may be more transmissible than previously thought. The research also…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260906170129.htm",
+          "source": "Science Daily",
           "date": "2026-09-07"
         }
       ]
@@ -52,32 +52,32 @@
           "date": "2026-09-05"
         },
         {
+          "title": "NASA’s Hubble, Webb Find Far-out Solar System Objects ‘Remember’ Past",
+          "summary": "For the first time, scientists used the joint power of NASA’s Hubble and James Webb Space Telescopes to study some of the most far-flung bodies in our solar system, Trans-Neptunian Objects (TNOs). Some of these are the…",
+          "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-webb-find-far-out-solar-system-objects-remember-past/",
+          "source": "NASA",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "Hubble and Webb find that far-out solar system objects 'remember' the past",
+          "summary": "For the first time, scientists used the combined power of NASA's Hubble and James Webb Space Telescopes to study some of the most far-flung bodies in our solar system, trans-Neptunian objects (TNOs). Some are the…",
+          "url": "https://phys.org/news/2026-09-hubble-webb-solar.html",
+          "source": "Phys.org",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "Eggshells-inspired aluminum material offers significant protection from space debris",
+          "summary": "There are nearly 1 million pieces of debris larger than 1 centimeter (0.4 inch) in near-Earth orbit. As we continue launching spacecraft and telescopes to explore the universe, this debris poses a significant threat of…",
+          "url": "https://phys.org/news/2026-09-eggshells-aluminum-material-significant-space.html",
+          "source": "Phys.org",
+          "date": "2026-09-08"
+        },
+        {
           "title": "On this day in space! Sept. 7, 1995: NASA launches its 100th astronaut flight on space shuttle Endeavour's STS-69 mission",
           "summary": "On Sept. 7, 1995, the space shuttle Endeavour launched on mission STS-69, NASA's 100th astronaut flight. Here's why it mattered.",
           "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-7-2026",
           "source": "Space.com",
           "date": "2026-09-07"
-        },
-        {
-          "title": "APOD: 2026 September 7 – The Pelican Nebula in Gas, Dust, and Stars",
-          "summary": "APOD Science APOD APOD: 2026 September 7 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
-          "url": "https://science.nasa.gov/image-article/apod-2026-september-7-the-pelican-nebula-in-gas-dust-and-stars/",
-          "source": "NASA",
-          "date": "2026-09-07"
-        },
-        {
-          "title": "SpaceX Falcon 9 rocket launches 27 Starlink satellites, lands on ship at sea (video)",
-          "summary": "SpaceX launched yet another batch of its Starlink internet satellites today (Sept. 6), sending them up from California's central coast.",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink/group-15-24-launch-ocisly",
-          "source": "Space.com",
-          "date": "2026-09-06"
-        },
-        {
-          "title": "'A new mission starting today': 8 years after launch, BepiColombo begins Mercury arrival",
-          "summary": "After nearly eight years traveling through the inner solar system, the trailblazing BepiColombo spacecraft has finally begun its arrival at Mercury.",
-          "url": "https://www.space.com/space-exploration/missions/a-new-mission-starting-today-8-years-after-launch-bepicolombo-begins-mercury-arrival",
-          "source": "Space.com",
-          "date": "2026-09-03"
         }
       ]
     },
@@ -85,25 +85,25 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "This “new” frog was hiding in plain sight for 100 years",
-          "summary": "A common frog found across Ecuador and Colombia has finally been recognized as its own species after more than a century of mistaken identity. Museum specimens from the 1800s helped scientists reveal that Pristimantis…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260902234505.htm",
+          "title": "Giant new dinosaur discovered beneath construction site in Brazil",
+          "summary": "Scientists have identified a giant new dinosaur from Brazil that reached about 20 meters long and lived 120 million years ago. Its surprising evolutionary ties to a Spanish dinosaur suggest its ancestors crossed ancient…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260907201603.htm",
           "source": "Science Daily",
-          "date": "2026-09-05"
+          "date": "2026-09-08"
         },
         {
-          "title": "Ancient charcoal reveals evidence of wildfires near the South Pole",
-          "summary": "A journey back in time to the Late Cretaceous: A swampy rainforest with conifers and tree ferns stretches as far as the eye can see, dinosaurs roam through the misty wetlands, and the climate is mild and warm. The…",
-          "url": "https://phys.org/news/2026-09-ancient-charcoal-reveals-evidence-wildfires.html",
-          "source": "Phys.org",
-          "date": "2026-09-07"
+          "title": "The American “cheetah” wasn’t a cheetah at all",
+          "summary": "The extinct “American cheetah” was not really a cheetah at all, but a puma relative with an unexpectedly flexible lifestyle. Fossils from the Yukon suggest northern populations survived partly by eating fish, possibly…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260907201558.htm",
+          "source": "Science Daily",
+          "date": "2026-09-08"
         },
         {
-          "title": "Decades-old museum specimens reveal 10 extraordinary new worms",
-          "summary": "Scientists have discovered that one of the most unusual creatures in the animal kingdom is far more diverse and evolutionarily complex than previously known. An international team led by the University of Göttingen has…",
-          "url": "https://phys.org/news/2026-09-decades-museum-specimens-reveal-extraordinary.html",
+          "title": "World's most endangered tigers born in Greece as zoos build a safety net",
+          "summary": "The world's most endangered tigers have started a family in Greece, offering hope for a predator rapidly vanishing from the wild.",
+          "url": "https://phys.org/news/2026-09-world-endangered-tigers-born-greece.html",
           "source": "Phys.org",
-          "date": "2026-09-07"
+          "date": "2026-09-08"
         },
         {
           "title": "Reef fish survival threatened by motorboat noise",
@@ -113,11 +113,11 @@
           "date": "2026-09-07"
         },
         {
-          "title": "80,000-year-old “arrowheads” rewrite human history",
-          "summary": "Archaeologists have identified tiny 80,000-year-old projectile points in Uzbekistan that may have been used like arrowheads. Their size, design, and impact damage closely resemble weapons found much later at a Homo…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260903064233.htm",
-          "source": "Science Daily",
-          "date": "2026-09-06"
+          "title": "New research: We're not protecting our oceans as well as we think",
+          "summary": "Not so long ago, we thought the ocean was an inexhaustible resource. There would always be plenty more fish in the sea.",
+          "url": "https://phys.org/news/2026-09-oceans.html",
+          "source": "Phys.org",
+          "date": "2026-09-08"
         }
       ]
     },
@@ -125,38 +125,38 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Climate and air quality are closely linked, report highlights",
-          "summary": "An increase in pollution from wildfires and heat waves risks undermining international efforts to improve air quality and protect human and ecosystem health, according to a new report from the World Meteorological…",
-          "url": "https://phys.org/news/2026-09-climate-air-quality-linked-highlights.html",
+          "title": "First national map reveals where Ireland's coast is most exposed to erosion and flooding",
+          "summary": "The first national map of Ireland's exposure to climate hazards, including rising sea levels and storm surges, has identified the stretches of coastline facing the greatest pressures, providing critical new evidence to…",
+          "url": "https://phys.org/news/2026-09-national-reveals-ireland-coast-exposed.html",
           "source": "Phys.org",
-          "date": "2026-09-07"
+          "date": "2026-09-08"
         },
         {
-          "title": "Small asteroid impact today over the ocean near Australia",
-          "summary": "A small asteroid impact will occur in the next few hours near NW Australia. The meteor should harmlessly burn up in Earth's atmosphere and poses no danger. The post Small asteroid impact today over the ocean near…",
-          "url": "https://earthsky.org/space/small-asteroid-impact-australia-sep-6-2026/",
-          "source": "EarthSky",
-          "date": "2026-09-06"
+          "title": "Current events: Scientists keep close eye on Atlantic Ocean changes",
+          "summary": "The year is 2060. London shudders through months of Nordic winter freezes. Across northern Europe, oak and beech forests wither under severe frost and drought, while cereal yields collapse from temperatures plunging as…",
+          "url": "https://phys.org/news/2026-09-current-events-scientists-eye-atlantic.html",
+          "source": "Phys.org",
+          "date": "2026-09-08"
         },
         {
-          "title": "A mysterious signal around Earth could be dark matter",
-          "summary": "Scientists used Earth’s magnetic field and atmosphere as a planet-sized detector to search for some of the lightest proposed forms of dark matter. The approach dramatically improved limits on ultralight axions and…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260904000328.htm",
+          "title": "2 satellites just burned up in Earth's atmosphere — and scientists were watching from a private jet. Here's why",
+          "summary": "A team of researchers just chased a pair of reentering satellites in a private jet to learn about the pollution caused by space debris burning up in Earth's atmosphere.",
+          "url": "https://www.space.com/space-exploration/satellites/2-satellites-just-burned-up-in-earths-atmosphere-and-scientists-were-watching-from-a-private-jet-heres-why",
+          "source": "Space.com",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "1,000 Museum Visitors Dive Into NASA Sea Level Science on World Ocean Day",
+          "summary": "More than 1,000 visitors explored NASA sea level science firsthand during World Ocean Day at the University of Georgia Aquarium on Skidaway Island on June 6, 2026.",
+          "url": "https://science.nasa.gov/learning-resources/science-activation/1000-museum-visitors-dive-into-nasa-sea-level-science-on-world-ocean-day/",
+          "source": "NASA",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "Antarctica gained a record 695 billion tons of ice. Scientists found the surprising reason",
+          "summary": "East Antarctica gained an astonishing 695 billion tons of ice between 2021 and 2023, temporarily slowing Antarctica’s long-term decline. Researchers found that warming thousands of miles away in the tropical ocean…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260906170128.htm",
           "source": "Science Daily",
-          "date": "2026-09-06"
-        },
-        {
-          "title": "Giant Greenland iceberg slams into Joe Island and survives",
-          "summary": "A giant iceberg measuring more than 76 square kilometers broke from Greenland’s Petermann Glacier in August 2026, marking the Arctic’s largest glacier calving event since 2020. The berg later slammed into Joe Island but…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260904000316.htm",
-          "source": "Science Daily",
-          "date": "2026-09-04"
-        },
-        {
-          "title": "These microbes in Antarctica don’t live anywhere else",
-          "summary": "Researchers have discovered that some microbes in Antarctica are unique to the icy continent and are found nowhere else on Earth. The post These microbes in Antarctica don’t live anywhere else first appeared on EarthSky…",
-          "url": "https://earthsky.org/earth/microbes-in-antarctica-arthrobacter-endemic/",
-          "source": "EarthSky",
           "date": "2026-09-06"
         }
       ]
@@ -165,6 +165,27 @@
       "emoji": "🤖",
       "articles": [
         {
+          "title": "Scientists find a way to slash computer memory energy use by orders of magnitude",
+          "summary": "Scientists have devised a new way to switch magnetic computer memory while using far less energy than today's leading technologies. By mathematically optimizing the pulses used to flip digital bits, the method could…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260906170132.htm",
+          "source": "Science Daily",
+          "date": "2026-09-07"
+        },
+        {
+          "title": "A new game demonstrates quantum advantage with provable classical limits",
+          "summary": "For decades, physicists have worked to prove the strange predictions of quantum mechanics with real experiments. As quantum computers have grown more powerful, researchers have devised increasingly sophisticated ways to…",
+          "url": "https://phys.org/news/2026-09-game-quantum-advantage-provable-classical.html",
+          "source": "Phys.org",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "Superfluid qubit could help scale up quantum computers",
+          "summary": "Superfluid helium could offer a new way to tackle one of the biggest challenges in scaling up quantum computers, say researchers from the University of Surrey. The research team has introduced a conceptual design for a…",
+          "url": "https://phys.org/news/2026-09-superfluid-qubit-scale-quantum.html",
+          "source": "Phys.org",
+          "date": "2026-09-08"
+        },
+        {
           "title": "The future of Earth observation: Private satellites and AI bring benefits but also pose risks",
           "summary": "We've entered a new world of Earth observation, in which artificial intelligence helps researchers make sense of an ever-glowing glut of privately gathered data.",
           "url": "https://www.space.com/astronomy/earth/the-future-of-earth-observation-private-satellites-and-ai-bring-benefits-but-also-pose-risks",
@@ -172,17 +193,10 @@
           "date": "2026-09-07"
         },
         {
-          "title": "Fermat’s last theorem formalised by AI agents in just 11 days",
-          "summary": "Converting the proof of Fermat's last theorem into code that computers can check was expected to take years. Anthropic's Claude AI managed it in less than two weeks",
-          "url": "https://www.newscientist.com/article/2587839-fermats-last-theorem-formalised-by-ai-agents-in-just-11-days/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-09-05"
-        },
-        {
-          "title": "I made a free AI chatbot solve a decade-long maths problem in 13 minutes",
-          "summary": "After months covering the shocking rise of AI mathematics, reporter Matthew Sparkes decided to put a free chatbot to the test – and was shocked at the speed at which it solved an outstanding problem",
-          "url": "https://www.newscientist.com/article/2587148-i-made-a-free-ai-chatbot-solve-a-decade-long-maths-problem-in-13-minutes/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
+          "title": "MIT scientists develop injectable “mini livers” that work inside the body",
+          "summary": "MIT engineers have developed injectable “mini livers” designed to help support people whose failing livers can no longer perform essential jobs. Instead of replacing the damaged organ, the approach injects liver cells…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260903064249.htm",
+          "source": "Science Daily",
           "date": "2026-09-07"
         }
       ]
@@ -191,32 +205,39 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "Dark matter detector finds a strange signal scientists can’t yet explain",
-          "summary": "The LUX-ZEPLIN experiment has detected a rare particle interaction that looks unusually difficult to explain as ordinary background noise and appeared where dark matter might be expected. Scientists are not claiming a…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260904000313.htm",
+          "title": "Scientists observe Einstein’s gravity in the quantum world for the first time",
+          "summary": "Physicists have directly observed a long-predicted quantum effect of gravity, putting one of Einstein’s foundational ideas to a striking new test. Using ultracold atoms, researchers split an atom’s quantum wave so that…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260907201552.htm",
           "source": "Science Daily",
-          "date": "2026-09-04"
+          "date": "2026-09-08"
         },
         {
-          "title": "AI can now control fusion plasma faster than humans can react",
-          "summary": "Princeton researchers have tested an AI system that can monitor and control fusion plasma in milliseconds, reacting far faster than a human operator. In one experiment, it predicted a damaging instability about 200…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260903064215.htm",
-          "source": "Science Daily",
-          "date": "2026-09-06"
-        },
-        {
-          "title": "We’re on the verge of seeing the quantum vacuum for the first time",
-          "summary": "Quantum theory says a vacuum isn’t truly empty, but proving it directly has remained out of reach. A new experiment using immensely powerful lasers could finally expose its hidden structure – and perhaps offer clues to…",
-          "url": "https://www.newscientist.com/article/2586310-were-on-the-verge-of-seeing-the-quantum-vacuum-for-the-first-time/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-09-07"
-        },
-        {
-          "title": "What happens when you flush? Study reveals how toilet aerosols reach the breathing zone",
-          "summary": "Researchers from Flinders University have found that flushing toilets can release aerosols and bioaerosols into the surrounding air, with some studies detecting particles at heights corresponding to adults' breathing…",
-          "url": "https://phys.org/news/2026-09-flush-reveals-toilet-aerosols-zone.html",
+          "title": "A photon that challenges Einstein: According to current physics, it should never have reached Earth",
+          "summary": "How did a photon survive a journey of more than 2 billion light-years when, according to known physics, it should have been absorbed long before reaching Earth? This is the question at the heart of a new study by…",
+          "url": "https://phys.org/news/2026-09-photon-einstein-current-physics-earth.html",
           "source": "Phys.org",
-          "date": "2026-09-07"
+          "date": "2026-09-08"
+        },
+        {
+          "title": "Quiet black holes with a stellar companion raise questions about how they form",
+          "summary": "Active black holes are easy to detect. Their superheated accretion disks emit bright X-rays, and the jets streaming from their poles are easily seen at visible and radio wavelengths. But most stellar-mass black holes…",
+          "url": "https://phys.org/news/2026-09-quiet-black-holes-stellar-companion.html",
+          "source": "Phys.org",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "Marine heat waves boost coastal CO₂ uptake by 11%, analysis finds",
+          "summary": "Marine heat waves are a consequence of climate change and are increasingly altering marine and coastal regions worldwide. An international study led by the Helmholtz-Zentrum Hereon now shows that many coastal seas…",
+          "url": "https://phys.org/news/2026-09-marine-boost-coastal-uptake-analysis.html",
+          "source": "Phys.org",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "The rise of 'quantum gravity?' Einstein's theory seen in the quantum realm for 1st time",
+          "summary": "Scientists have spotted the first hints that Einstein's formulation of gravity operates in the quantum realm.",
+          "url": "https://www.space.com/science/particle-physics/the-rise-of-quantum-gravity-einsteins-theory-seen-in-the-quantum-realm-for-1st-time",
+          "source": "Space.com",
+          "date": "2026-09-08"
         }
       ]
     }
