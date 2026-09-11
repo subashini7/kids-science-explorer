@@ -1,14 +1,28 @@
 {
-  "updated": "2026-09-10T16:54:12Z",
+  "updated": "2026-09-11T16:55:30Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "Asteroid Ryugu's dust reveals nitrogen's slow concentration into complex molecules",
-          "summary": "Nitrogen is a key ingredient in the biomolecules that form the building blocks of life. Yet as an unbonded gas, it is far more likely to drift into space than to lock itself into solid compounds, making it difficult for…",
-          "url": "https://phys.org/news/2026-09-asteroid-ryugu-reveals-nitrogen-complex.html",
-          "source": "Phys.org",
+          "title": "DNA treatment cuts bad cholesterol by nearly 50% without statins",
+          "summary": "Researchers have designed a new DNA-based treatment that targets PCSK9, a protein closely tied to high LDL cholesterol and atherosclerosis. Their most effective molecule reduced PCSK9 protein by 87% in human liver cells…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260909225602.htm",
+          "source": "Science Daily",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "Scientists capture two DNA strands zipping together for the first time",
+          "summary": "Scientists have directly observed how two negatively charged DNA molecules can pair up despite normally repelling each other. Positively charged metal ions appear to bridge the gap, helping matching DNA helices align…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260909231717.htm",
+          "source": "Science Daily",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "Scientists create brilliant white material without a drop of white pigment",
+          "summary": "Researchers have created a foam-based material that produces intense whiteness and water repellency without titanium dioxide pigments or PFAS chemicals. Inspired by natural structures in snow, clouds, flowers, and lotus…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260909231712.htm",
+          "source": "Science Daily",
           "date": "2026-09-10"
         },
         {
@@ -19,31 +33,31 @@
           "date": "2026-09-09"
         },
         {
-          "title": "Detecting 'pressure anisotropy' using zirconia nanoparticles",
-          "summary": "Researchers at University of Tsukuba have discovered that the crystal structure of zirconia nanoparticles remains stable under uniform pressure applied from all directions but changes under anisotropic pressure. This…",
-          "url": "https://phys.org/news/2026-09-pressure-anisotropy-zirconia-nanoparticles.html",
+          "title": "Breaking down shoe foam by genetically tweaking a microbe found in compost",
+          "summary": "Your favorite pair of tennies, kicks or trainers may soon become a little more sustainable. In a study published Sept. 11 in the journal Chem Catalysis, researchers developed a new kind of enzyme based on a bacterium…",
+          "url": "https://phys.org/news/2026-09-foam-genetically-tweaking-microbe-compost.html",
           "source": "Phys.org",
-          "date": "2026-09-10"
-        },
-        {
-          "title": "Scientists find a bone-building switch that could fight osteoporosis",
-          "summary": "An experimental compound called AP503 significantly strengthened bones in mice by activating GPR133, a receptor that boosts bone formation while slowing bone loss. Because the same treatment has also been linked to…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260909005305.htm",
-          "source": "Science Daily",
-          "date": "2026-09-09"
-        },
-        {
-          "title": "Have we found alien life? Hundreds of scientists weigh in",
-          "summary": "Two major alien-life announcements in 2025 generated enormous excitement, but most astrobiologists remained unconvinced. Only 6.6% of surveyed experts thought possible biological molecules on K2-18b probably represented…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260909005212.htm",
-          "source": "Science Daily",
-          "date": "2026-09-09"
+          "date": "2026-09-11"
         }
       ]
     },
     "Space & Astronomy": {
       "emoji": "🚀",
       "articles": [
+        {
+          "title": "On this day in space! Sept. 10, 2011: NASA launches GRAIL probes to the moon to map lumpy lunar gravity",
+          "summary": "On Sept. 10, 2011, NASA's GRAIL spacecraft launched on a mission to the moon! Here's why the moon gravity mapping mission mattered.",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-10-2026",
+          "source": "Space.com",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "LINK spacecraft gets close to NASA's Swift Observatory, but not close enough to save it",
+          "summary": "Operations aboard the Katalyst Space LINK satellite continue, despite the spacecraft's inability to complete its mission of boosting the orbit of NASA's Swift Observatory.",
+          "url": "https://www.space.com/space-exploration/missions/link-spacecraft-gets-close-to-nasas-swift-observatory-but-not-close-enough-to-save-it",
+          "source": "Space.com",
+          "date": "2026-09-10"
+        },
         {
           "title": "NASA's newly launched Roman Space Telescope will 'directly' image exoplanets. But what does that mean?",
           "summary": "\"When you look up at the night sky, most of those stars have planets.\"",
@@ -52,31 +66,17 @@
           "date": "2026-09-09"
         },
         {
-          "title": "Artemis II Crew at NASA Marshall",
-          "summary": "The crew of NASA’s Artemis II mission – NASA astronauts Christina Koch, Victor Glover, and Reid Wiseman and CSA (Canadian Space Agency) astronaut Jeremy Hansen – visited Huntsville, Alabama, Sept. 1, 2026, where they…",
-          "url": "https://www.nasa.gov/image-article/artemis-ii-crew-at-nasa-marshall/",
+          "title": "NASA’s SpaceX Crew-12 to Discuss Station Mission, Upcoming Return",
+          "summary": "Media are invited to hear from NASA’s SpaceX Crew-12 astronauts during a news conference beginning at 2:45 p.m. EDT, Wednesday, Sept. 16, from the International Space Station. NASA astronauts Jessica Meir and Jack…",
+          "url": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-to-discuss-station-mission-upcoming-return/",
           "source": "NASA",
-          "date": "2026-09-09"
+          "date": "2026-09-11"
         },
         {
           "title": "Dust and Water in Sagittarius A*",
           "summary": "A brilliant concentration of stars takes center stage in this Aug. 11, 2026, image taken by NASA&#8217;s James Webb Space Telescope. Webb observed IRS 3, a star near the end of its life cycle, located within this…",
           "url": "https://www.nasa.gov/image-article/dust-and-water-in-sagittarius-a/",
           "source": "NASA",
-          "date": "2026-09-10"
-        },
-        {
-          "title": "NASA Names Two Artemis II Astronauts to Emeritus Program",
-          "summary": "Following their landmark Artemis II mission earlier this year, distinguished NASA astronauts Victor Glover and Reid Wiseman are transitioning in September to emeritus status at the agency’s Johnson Space Center in…",
-          "url": "https://www.nasa.gov/news-release/nasa-names-two-artemis-ii-astronauts-to-emeritus-program/",
-          "source": "NASA",
-          "date": "2026-09-09"
-        },
-        {
-          "title": "What comes after the moon? Artemis II commander and pilot shift to 'emeritus' status at NASA",
-          "summary": "Artemis II astronauts Reid Wiseman, Victor Glover and Jeremy Hansen are planning new journeys after their April 2026 moon mission.",
-          "url": "https://www.space.com/space-exploration/artemis/what-comes-after-the-moon-artemis-ii-commander-and-pilot-shift-to-emeritus-status-at-nasa",
-          "source": "Space.com",
           "date": "2026-09-10"
         }
       ]
@@ -85,25 +85,11 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "Fossil flowers of ancient lianas preserved in amber reveal the evolution of tropical rainforests",
-          "summary": "Tiny flowers trapped in amber around 15 million years ago are offering scientists a rare glimpse into the plant life of a tropical rainforest in what is now Southeast China. Researchers have studied two exceptionally…",
-          "url": "https://phys.org/news/2026-09-fossil-ancient-lianas-amber-reveal.html",
+          "title": "New analysis reconstructs the dawn of dinosaurs and other reptiles",
+          "summary": "About 252 million years ago, at the end of the Permian Period, a large proportion of species on Earth rapidly became extinct. After this mass extinction, many groups of organisms began to recover, while reptiles known…",
+          "url": "https://phys.org/news/2026-09-analysis-reconstructs-dawn-dinosaurs-reptiles.html",
           "source": "Phys.org",
-          "date": "2026-09-10"
-        },
-        {
-          "title": "A fossil feather preserved inside dinosaur poop could help explain why birds survived the mass extinction",
-          "summary": "About 66 million years ago, a dinosaur—maybe a T. rex or a Nanotyrannus—ate a bird. The record of that meal, in the form of fossilized poop, has survived to today, preserving the best example of a feather ever found…",
-          "url": "https://phys.org/news/2026-09-fossil-feather-dinosaur-poop-birds.html",
-          "source": "Phys.org",
-          "date": "2026-09-10"
-        },
-        {
-          "title": "A fake spider at the tip of this snake's tail helps it lure birds: Scientists get their first look inside it",
-          "summary": "Lots of animals use mimicry to survive. Some copy the appearance of threatening predators, and others have evolved to resemble plants or rocks so they can blend into the background and avoid being attacked. But a viper…",
-          "url": "https://phys.org/news/2026-09-fake-spider-snake-tail-lure.html",
-          "source": "Phys.org",
-          "date": "2026-09-10"
+          "date": "2026-09-11"
         },
         {
           "title": "Exquisite 66-million-year-old bird feather preserved in dinosaur dropping",
@@ -113,11 +99,25 @@
           "date": "2026-09-10"
         },
         {
-          "title": "Giant new dinosaur discovered beneath construction site in Brazil",
-          "summary": "Scientists have identified a giant new dinosaur from Brazil that reached about 20 meters long and lived 120 million years ago. Its surprising evolutionary ties to a Spanish dinosaur suggest its ancestors crossed ancient…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260907201603.htm",
+          "title": "“Parachute science” is failing the tropics, home to more than 80% of insect species",
+          "summary": "Insects quietly hold much of the natural world together, yet conservation efforts are overlooking the tropical regions where more than 80 percent of insect species live. Monash University researchers have developed a…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260909005145.htm",
           "source": "Science Daily",
-          "date": "2026-09-08"
+          "date": "2026-09-09"
+        },
+        {
+          "title": "Tasmanian devils lived with people in outback Western Australia 45,000 years ago, new fossils show",
+          "summary": "Tasmanian devils are among Australia's most distinctive mammals. Stocky, powerful and famously noisy, wild populations are now restricted to Tasmania. But this was not always the case. In fact, thousands of years ago…",
+          "url": "https://phys.org/news/2026-09-tasmanian-devils-people-outback-western.html",
+          "source": "Phys.org",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "Planes on a snake? Scientists discover various crab species hitching rides on sea snakes",
+          "summary": "Like all other snakes, sea snakes shed their skin as they grow. But because they live near the surface of the open ocean, they don't have the benefit of removing their old skin by slithering against a hard surface…",
+          "url": "https://phys.org/news/2026-09-planes-snake-scientists-crab-species.html",
+          "source": "Phys.org",
+          "date": "2026-09-11"
         }
       ]
     },
@@ -125,11 +125,11 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "2 satellites just burned up in Earth's atmosphere — and scientists were watching from a private jet. Here's why",
-          "summary": "A team of researchers just chased a pair of reentering satellites in a private jet to learn about the pollution caused by space debris burning up in Earth's atmosphere.",
-          "url": "https://www.space.com/space-exploration/satellites/2-satellites-just-burned-up-in-earths-atmosphere-and-scientists-were-watching-from-a-private-jet-heres-why",
-          "source": "Space.com",
-          "date": "2026-09-08"
+          "title": "How diaspora groups in the US are responding to disasters in Nepal, Colombia, Venezuela and other homelands",
+          "summary": "A string of major disasters in 2026 have had devastating consequences. Earthquakes in Venezuela and Colombia and floods and mudslides in Nepal have killed tens of thousands of people and injured many more. Countless…",
+          "url": "https://phys.org/news/2026-09-diaspora-groups-disasters-nepal-colombia.html",
+          "source": "Phys.org",
+          "date": "2026-09-11"
         },
         {
           "title": "The world’s biggest carbon sink may start emitting CO2 after net zero",
@@ -139,24 +139,24 @@
           "date": "2026-09-10"
         },
         {
-          "title": "Anak Krakatau Rumbles Again",
-          "summary": "A powerful eruption from the Indonesian volcano lofted ash into the atmosphere, disrupting thousands of flights and degrading air quality.",
-          "url": "https://science.nasa.gov/earth/earth-observatory/anak-krakatau-rumbles-again/",
-          "source": "NASA",
-          "date": "2026-09-09"
+          "title": "Faster wood formation matters more than longer growing seasons in a warming climate",
+          "summary": "In non-tropical forests, cold winters hinder tree growth. There, climate warming prolongs the period during which trees absorb carbon through photosynthesis and store it in wood, known as the growing season. This could…",
+          "url": "https://phys.org/news/2026-09-faster-wood-formation-longer-seasons.html",
+          "source": "Phys.org",
+          "date": "2026-09-11"
         },
         {
-          "title": "Report maps pathways for accelerating environmental solutions through positive tipping points",
-          "summary": "New research from The Earthshot Prize and the University of Exeter's Green Futures Solutions team, published today, reveals 51 environmental solutions that can trigger rapid, transformative change to repair our planet…",
-          "url": "https://phys.org/news/2026-09-pathways-environmental-solutions-positive.html",
-          "source": "Phys.org",
+          "title": "Natural feedbacks will warm world an extra 20 per cent this century",
+          "summary": "Ecosystems like wetlands emit more carbon as temperatures rise. By 2100, such feedback loops will increase warming by 20 to 30 per cent more than anticipated",
+          "url": "https://www.newscientist.com/article/2588740-natural-feedbacks-will-add-20-per-cent-extra-global-warming/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
           "date": "2026-09-10"
         },
         {
-          "title": "August was the joint hottest month on record",
-          "summary": "Global warming and a record El Niño have pushed Earth’s temperature more than 1.5°C above the pre-industrial average, and further heat is on the way",
-          "url": "https://www.newscientist.com/article/2588520-august-was-the-joint-hottest-month-on-record/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
+          "title": "Archaeologists find a 3,000-year-old Egyptian tomb before it’s too late",
+          "summary": "While clearing debris to protect ancient Egyptian tombs from flash floods, researchers near Luxor stumbled upon an unknown 3,000-year-old tomb. Its remarkably preserved paintings depict an official named Paser, his…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260909231746.htm",
+          "source": "Science Daily",
           "date": "2026-09-10"
         }
       ]
@@ -165,25 +165,25 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "Scientists find a way to slash computer memory energy use by orders of magnitude",
-          "summary": "Scientists have devised a new way to switch magnetic computer memory while using far less energy than today's leading technologies. By mathematically optimizing the pulses used to flip digital bits, the method could…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260906170132.htm",
+          "title": "Scientists just made quantum computer operations 1,000 times faster",
+          "summary": "Researchers have found a way to perform certain quantum operations more than 1,000 times faster, cutting thousands of repeated control cycles down to just one. The advance could reduce errors and bring reliable…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260911003845.htm",
           "source": "Science Daily",
-          "date": "2026-09-07"
+          "date": "2026-09-11"
         },
         {
-          "title": "Interviewing with AI? Try not to let the robot affect your behavior",
-          "summary": "A firm handshake used to be all a job candidate needed to make a good first impression, but today a growing number of firms are relying on artificial intelligence to screen applicants.",
-          "url": "https://phys.org/news/2026-09-ai-robot-affect-behavior.html",
+          "title": "When AI designs the product, consumers have doubts",
+          "summary": "A new study from Georgia State University's J. Mack Robinson College of Business and the University of South Florida delivers a pointed warning to companies betting on AI to power their product design: The technology…",
+          "url": "https://phys.org/news/2026-09-ai-product-consumers.html",
           "source": "Phys.org",
-          "date": "2026-09-10"
+          "date": "2026-09-11"
         },
         {
-          "title": "AI is reshaping workplace, not replacing jobs, new research finds",
-          "summary": "Artificial intelligence is changing work in Ireland for the better, according to a new study led by Taha Yasseri, Workday Professor of Technology and Society at Trinity's School of Social Sciences & Philosophy.",
-          "url": "https://phys.org/news/2026-09-ai-reshaping-workplace-jobs.html",
+          "title": "What the backlash to the Industrial Revolution can teach us about handcrafts in the age of AI",
+          "summary": "Artificial intelligence (AI) isn't yet causing widespread job losses in Australia. But with some high-profile business leaders still predicting a looming unemployment \"crisis,\" it's little wonder many people fear AI is…",
+          "url": "https://phys.org/news/2026-09-backlash-industrial-revolution-handcrafts-age.html",
           "source": "Phys.org",
-          "date": "2026-09-10"
+          "date": "2026-09-11"
         },
         {
           "title": "Devil’s Arrows: Ancient builders hauled 55,000-pound stones 11 miles for Britain’s tallest stone row",
@@ -193,10 +193,10 @@
           "date": "2026-09-09"
         },
         {
-          "title": "Peer-led computing camps engage children, study finds",
-          "summary": "High school student Khushi Kharuna creates and leads coding and artificial intelligence (AI) summer camps for K–12 students in her community outside Philadelphia. Priya Kumar, PNC Technologies Career Development…",
-          "url": "https://phys.org/news/2026-09-peer-engage-children.html",
-          "source": "Phys.org",
+          "title": "What’s next for mathematics now that AI is upending the field?",
+          "summary": "Famous and challenging problems in mathematics are falling to AI at a rapid pace. Where does this leave mathematicians, and what will the field look like in coming years?",
+          "url": "https://www.newscientist.com/article/2588333-whats-next-for-mathematics-now-that-ai-is-upending-the-field/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
           "date": "2026-09-10"
         }
       ]
@@ -205,18 +205,11 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "Scientists observe Einstein’s gravity in the quantum world for the first time",
-          "summary": "Physicists have directly observed a long-predicted quantum effect of gravity, putting one of Einstein’s foundational ideas to a striking new test. Using ultracold atoms, researchers split an atom’s quantum wave so that…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260907201552.htm",
+          "title": "Tiny nanolaser could cut computer energy use in half",
+          "summary": "Scientists have created an ultra-small nanolaser that could eventually allow microchips to transmit information with light instead of electricity, potentially making computers faster while cutting energy use roughly in…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260911003858.htm",
           "source": "Science Daily",
-          "date": "2026-09-08"
-        },
-        {
-          "title": "Spinons may help electrons pair along stripes in some superconductors",
-          "summary": "Superconductors are materials that carry electricity with zero resistance below specific temperatures. Many of these materials become superconducting at very low temperatures, yet some enter superconducting phases at…",
-          "url": "https://phys.org/news/2026-09-spinons-electrons-pair-stripes-superconductors.html",
-          "source": "Phys.org",
-          "date": "2026-09-10"
+          "date": "2026-09-11"
         },
         {
           "title": "Strange 'fast radio bursts' across the universe could help solve major cosmic mysteries: 'It's only the beginning'",
@@ -226,18 +219,25 @@
           "date": "2026-09-10"
         },
         {
-          "title": "The rise of 'quantum gravity?' Einstein's theory seen in the quantum realm for 1st time",
-          "summary": "Scientists have spotted the first hints that Einstein's formulation of gravity operates in the quantum realm.",
-          "url": "https://www.space.com/science/particle-physics/the-rise-of-quantum-gravity-einsteins-theory-seen-in-the-quantum-realm-for-1st-time",
-          "source": "Space.com",
-          "date": "2026-09-08"
+          "title": "Wasps are disappearing this summer, and scientists are worried",
+          "summary": "Britain’s wasps have become mysteriously scarce this summer, and scientists suspect an unusual combination of temperature swings, heatwaves, and food shortages may be responsible. Even the wasps that remain appear…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260911003901.htm",
+          "source": "Science Daily",
+          "date": "2026-09-11"
         },
         {
-          "title": "A ghostly pyramid of light is about to appear before dawn — here's how to see it",
-          "summary": "A ghostly \"false dawn\" is about to light up the predawn sky — if you know where to look.",
-          "url": "https://www.space.com/stargazing/a-ghostly-pyramid-of-light-is-about-to-appear-before-dawn-heres-how-to-see-the-zodiacal-light-2026",
-          "source": "Space.com",
-          "date": "2026-09-09"
+          "title": "UNESCO warns there’s close to a 100% chance of a Mediterranean tsunami",
+          "summary": "The Mediterranean may seem far removed from the world’s major tsunami zones, but history and modern modeling show that destructive waves can strike the French Riviera with surprisingly little warning. Some tsunamis…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260910022149.htm",
+          "source": "Science Daily",
+          "date": "2026-09-10"
+        },
+        {
+          "title": "When a company 'believes' something false that causes harm, who's to blame? Professor offers a new answer",
+          "summary": "When Boeing certified the 737 Max in 2017 as safe to fly, a flight-control system it had approved caused two crashes that killed 346 people. When Takata kept shipping airbag inflators it had cleared for use, the devices…",
+          "url": "https://phys.org/news/2026-09-company-believes-false-blame-professor.html",
+          "source": "Phys.org",
+          "date": "2026-09-11"
         }
       ]
     }
