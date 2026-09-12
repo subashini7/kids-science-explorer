@@ -1,9 +1,16 @@
 {
-  "updated": "2026-09-11T16:55:30Z",
+  "updated": "2026-09-12T16:00:51Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
+        {
+          "title": "Unusual bonds reorganize structure and magnetism in vanadium material",
+          "summary": "While chemical bonds usually determine the structure and properties of a material, bonds between neighboring metal atoms can also change as temperature or other conditions change. These changes can lead to unusual…",
+          "url": "https://phys.org/news/2026-09-unusual-bonds-magnetism-vanadium-material.html",
+          "source": "Phys.org",
+          "date": "2026-09-11"
+        },
         {
           "title": "DNA treatment cuts bad cholesterol by nearly 50% without statins",
           "summary": "Researchers have designed a new DNA-based treatment that targets PCSK9, a protein closely tied to high LDL cholesterol and atherosclerosis. Their most effective molecule reduced PCSK9 protein by 87% in human liver cells…",
@@ -26,18 +33,11 @@
           "date": "2026-09-10"
         },
         {
-          "title": "Chinese scientists find a hidden atomic structure that unlocks methane",
-          "summary": "Scientists found that a tiny atomic structure that forms on nickel oxide during methane conversion is more effective than the metallic nickel long believed to drive the reaction. The discovery allowed a low-nickel…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260909005148.htm",
-          "source": "Science Daily",
-          "date": "2026-09-09"
-        },
-        {
-          "title": "Breaking down shoe foam by genetically tweaking a microbe found in compost",
-          "summary": "Your favorite pair of tennies, kicks or trainers may soon become a little more sustainable. In a study published Sept. 11 in the journal Chem Catalysis, researchers developed a new kind of enzyme based on a bacterium…",
-          "url": "https://phys.org/news/2026-09-foam-genetically-tweaking-microbe-compost.html",
+          "title": "Bridging interfacial water structure and reactivity in photocatalytic hydrogen evolution at TiO₂ interfaces",
+          "summary": "Hydrogen (H2) evolution via photocatalytic water splitting is an environmentally friendly and sustainable technology for solar-to-chemical energy conversion. Although interfacial interactions are recognized as key…",
+          "url": "https://phys.org/news/2026-09-bridging-interfacial-reactivity-photocatalytic-hydrogen.html",
           "source": "Phys.org",
-          "date": "2026-09-11"
+          "date": "2026-09-12"
         }
       ]
     },
@@ -59,11 +59,11 @@
           "date": "2026-09-10"
         },
         {
-          "title": "NASA's newly launched Roman Space Telescope will 'directly' image exoplanets. But what does that mean?",
-          "summary": "\"When you look up at the night sky, most of those stars have planets.\"",
-          "url": "https://www.space.com/astronomy/exoplanets/nasas-newly-launched-roman-space-telescope-will-directly-image-exoplanets-but-what-does-that-mean",
+          "title": "Rocket Lab launches mystery satellite to orbit for secret customer (photo)",
+          "summary": "Rocket Lab launched an Earth-observation satellite to orbit for a confidential customer on Thursday night (Sept. 10), without providing a livestream or many details about the mission.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-mystery-satellite-to-orbit-for-secret-customer-photo",
           "source": "Space.com",
-          "date": "2026-09-09"
+          "date": "2026-09-11"
         },
         {
           "title": "NASA’s SpaceX Crew-12 to Discuss Station Mission, Upcoming Return",
@@ -73,11 +73,11 @@
           "date": "2026-09-11"
         },
         {
-          "title": "Dust and Water in Sagittarius A*",
-          "summary": "A brilliant concentration of stars takes center stage in this Aug. 11, 2026, image taken by NASA&#8217;s James Webb Space Telescope. Webb observed IRS 3, a star near the end of its life cycle, located within this…",
-          "url": "https://www.nasa.gov/image-article/dust-and-water-in-sagittarius-a/",
-          "source": "NASA",
-          "date": "2026-09-10"
+          "title": "Why are the stars around our galaxy's black hole missing their companions?",
+          "summary": "A new study suggests that the young stars orbiting the Milky Way's central black hole may have a surprisingly ordinary origin. But the black hole's influence may be what makes their origin look more exotic than it…",
+          "url": "https://phys.org/news/2026-09-stars-galaxy-black-hole-companions.html",
+          "source": "Phys.org",
+          "date": "2026-09-12"
         }
       ]
     },
@@ -85,10 +85,10 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "New analysis reconstructs the dawn of dinosaurs and other reptiles",
-          "summary": "About 252 million years ago, at the end of the Permian Period, a large proportion of species on Earth rapidly became extinct. After this mass extinction, many groups of organisms began to recover, while reptiles known…",
-          "url": "https://phys.org/news/2026-09-analysis-reconstructs-dawn-dinosaurs-reptiles.html",
-          "source": "Phys.org",
+          "title": "66-million-year-old feather in dinosaur poop may reveal why birds survived the asteroid",
+          "summary": "A feather discovered inside 66-million-year-old fossilized dinosaur poop may help explain why modern birds survived the asteroid catastrophe. The extinct bird it came from had more primitive insulating feathers…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260911003849.htm",
+          "source": "Science Daily",
           "date": "2026-09-11"
         },
         {
@@ -99,24 +99,24 @@
           "date": "2026-09-10"
         },
         {
-          "title": "“Parachute science” is failing the tropics, home to more than 80% of insect species",
-          "summary": "Insects quietly hold much of the natural world together, yet conservation efforts are overlooking the tropical regions where more than 80 percent of insect species live. Monash University researchers have developed a…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260909005145.htm",
-          "source": "Science Daily",
-          "date": "2026-09-09"
-        },
-        {
-          "title": "Tasmanian devils lived with people in outback Western Australia 45,000 years ago, new fossils show",
-          "summary": "Tasmanian devils are among Australia's most distinctive mammals. Stocky, powerful and famously noisy, wild populations are now restricted to Tasmania. But this was not always the case. In fact, thousands of years ago…",
-          "url": "https://phys.org/news/2026-09-tasmanian-devils-people-outback-western.html",
+          "title": "Bite, buzz, release: How bees make flowers give up their pollen",
+          "summary": "Life is not always easy for a bee: Not all plants place their pollen outside. Some flowers have to be set to vibrating before the pollen can get out of their tube-like stamens. Certain bee species have developed a…",
+          "url": "https://phys.org/news/2026-09-bees-pollen.html",
           "source": "Phys.org",
           "date": "2026-09-11"
         },
         {
-          "title": "Planes on a snake? Scientists discover various crab species hitching rides on sea snakes",
-          "summary": "Like all other snakes, sea snakes shed their skin as they grow. But because they live near the surface of the open ocean, they don't have the benefit of removing their old skin by slithering against a hard surface…",
-          "url": "https://phys.org/news/2026-09-planes-snake-scientists-crab-species.html",
+          "title": "Sea-level rise could squeeze shorebirds out of critical coastal habitat, researchers find",
+          "summary": "As sea levels rise, coastal wetlands around the world are expected to shrink—and researchers at the University of British Columbia have found this could put the world's shorebirds and their critical habitat at risk.",
+          "url": "https://phys.org/news/2026-09-sea-shorebirds-critical-coastal-habitat.html",
           "source": "Phys.org",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Earliest alligator flourished in the wake of the dinosaur extinction",
+          "summary": "Just a few hundred thousand years after an asteroid wiped out most dinosaurs, large alligators were thriving in North America",
+          "url": "https://www.newscientist.com/article/2588998-earliest-alligator-flourished-in-the-wake-of-the-dinosaur-extinction/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
           "date": "2026-09-11"
         }
       ]
@@ -125,25 +125,11 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "How diaspora groups in the US are responding to disasters in Nepal, Colombia, Venezuela and other homelands",
-          "summary": "A string of major disasters in 2026 have had devastating consequences. Earthquakes in Venezuela and Colombia and floods and mudslides in Nepal have killed tens of thousands of people and injured many more. Countless…",
-          "url": "https://phys.org/news/2026-09-diaspora-groups-disasters-nepal-colombia.html",
-          "source": "Phys.org",
-          "date": "2026-09-11"
-        },
-        {
           "title": "The world’s biggest carbon sink may start emitting CO2 after net zero",
           "summary": "If the carbon dioxide in the atmosphere declines, the Southern Ocean is likely to begin emitting more carbon than it absorbs, prolonging global warming",
           "url": "https://www.newscientist.com/article/2588269-the-worlds-biggest-carbon-sink-may-start-emitting-co2-after-net-zero/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
           "date": "2026-09-10"
-        },
-        {
-          "title": "Faster wood formation matters more than longer growing seasons in a warming climate",
-          "summary": "In non-tropical forests, cold winters hinder tree growth. There, climate warming prolongs the period during which trees absorb carbon through photosynthesis and store it in wood, known as the growing season. This could…",
-          "url": "https://phys.org/news/2026-09-faster-wood-formation-longer-seasons.html",
-          "source": "Phys.org",
-          "date": "2026-09-11"
         },
         {
           "title": "Natural feedbacks will warm world an extra 20 per cent this century",
@@ -158,6 +144,20 @@
           "url": "https://www.sciencedaily.com/releases/2026/09/260909231746.htm",
           "source": "Science Daily",
           "date": "2026-09-10"
+        },
+        {
+          "title": "When will your glacier disappear? New website lets users explore risks worldwide",
+          "summary": "When will the glacier in your valley disappear? Will the glacier you visited as a child still exist in 2050? And how much difference would limiting global warming make?",
+          "url": "https://phys.org/news/2026-09-glacier-website-users-explore-worldwide.html",
+          "source": "Phys.org",
+          "date": "2026-09-11"
+        },
+        {
+          "title": "Atlantic hurricane season sets a record: No hurricanes yet!",
+          "summary": "The 2026 Atlantic hurricane season has set a record. It's the longest we've ever gone in a hurricane season without seeing a hurricane. Read more here. The post Atlantic hurricane season sets a record: No hurricanes…",
+          "url": "https://earthsky.org/earth/atlantic-hurricane-season-forecast-for-2026/",
+          "source": "EarthSky",
+          "date": "2026-09-12"
         }
       ]
     },
@@ -172,38 +172,31 @@
           "date": "2026-09-11"
         },
         {
-          "title": "When AI designs the product, consumers have doubts",
-          "summary": "A new study from Georgia State University's J. Mack Robinson College of Business and the University of South Florida delivers a pointed warning to companies betting on AI to power their product design: The technology…",
-          "url": "https://phys.org/news/2026-09-ai-product-consumers.html",
+          "title": "Physicists turn classical light into a quantum machine for information processing",
+          "summary": "Quantum computers promise to tackle problems that are extraordinarily difficult for today's computers. But there is a major obstacle: quantum systems are notoriously fragile. Noise, loss and even tiny disturbances can…",
+          "url": "https://phys.org/news/2026-09-physicists-classical-quantum-machine.html",
+          "source": "Phys.org",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "Smart, self-healing packaging uses AI to detect food spoilage in real time",
+          "summary": "Packaging already tells us where food comes from, when it was made, what's in it and how many calories it contains. But researchers see a future where packaging can \"see,\" in real time, what's happening inside and…",
+          "url": "https://phys.org/news/2026-09-smart-packaging-ai-food-spoilage.html",
           "source": "Phys.org",
           "date": "2026-09-11"
-        },
-        {
-          "title": "What the backlash to the Industrial Revolution can teach us about handcrafts in the age of AI",
-          "summary": "Artificial intelligence (AI) isn't yet causing widespread job losses in Australia. But with some high-profile business leaders still predicting a looming unemployment \"crisis,\" it's little wonder many people fear AI is…",
-          "url": "https://phys.org/news/2026-09-backlash-industrial-revolution-handcrafts-age.html",
-          "source": "Phys.org",
-          "date": "2026-09-11"
-        },
-        {
-          "title": "Devil’s Arrows: Ancient builders hauled 55,000-pound stones 11 miles for Britain’s tallest stone row",
-          "summary": "Britain’s towering Devil’s Arrows were built from 25-tonne stones hauled at least 18 kilometers from Brimham Rocks around 4,000 years ago. The discovery reveals an astonishing feat of prehistoric engineering and…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260909005152.htm",
-          "source": "Science Daily",
-          "date": "2026-09-09"
-        },
-        {
-          "title": "What’s next for mathematics now that AI is upending the field?",
-          "summary": "Famous and challenging problems in mathematics are falling to AI at a rapid pace. Where does this leave mathematicians, and what will the field look like in coming years?",
-          "url": "https://www.newscientist.com/article/2588333-whats-next-for-mathematics-now-that-ai-is-upending-the-field/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-09-10"
         }
       ]
     },
     "Physics": {
       "emoji": "⚡",
       "articles": [
+        {
+          "title": "Tiny sound waves could help solve a major quantum computing problem",
+          "summary": "Researchers at Harvard have demonstrated a way to protect quantum information using microscopic sound waves. By continuously surrounding a diamond-based qubit with mechanical vibrations, they extended its coherence time…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260911214245.htm",
+          "source": "Science Daily",
+          "date": "2026-09-12"
+        },
         {
           "title": "Tiny nanolaser could cut computer energy use in half",
           "summary": "Scientists have created an ultra-small nanolaser that could eventually allow microchips to transmit information with light instead of electricity, potentially making computers faster while cutting energy use roughly in…",
@@ -226,16 +219,9 @@
           "date": "2026-09-11"
         },
         {
-          "title": "UNESCO warns there’s close to a 100% chance of a Mediterranean tsunami",
-          "summary": "The Mediterranean may seem far removed from the world’s major tsunami zones, but history and modern modeling show that destructive waves can strike the French Riviera with surprisingly little warning. Some tsunamis…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260910022149.htm",
-          "source": "Science Daily",
-          "date": "2026-09-10"
-        },
-        {
-          "title": "When a company 'believes' something false that causes harm, who's to blame? Professor offers a new answer",
-          "summary": "When Boeing certified the 737 Max in 2017 as safe to fly, a flight-control system it had approved caused two crashes that killed 346 people. When Takata kept shipping airbag inflators it had cleared for use, the devices…",
-          "url": "https://phys.org/news/2026-09-company-believes-false-blame-professor.html",
+          "title": "Single nanostructure enables independent control of two light resonance modes",
+          "summary": "Metallic nanostructures are exceptionally effective at concentrating light into tiny volumes, while dielectric nanostructures excel at storing light with minimal energy loss. Combining these complementary properties has…",
+          "url": "https://phys.org/news/2026-09-nanostructure-enables-independent-resonance-modes.html",
           "source": "Phys.org",
           "date": "2026-09-11"
         }
