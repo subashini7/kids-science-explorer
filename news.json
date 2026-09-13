@@ -1,36 +1,22 @@
 {
-  "updated": "2026-09-12T16:00:51Z",
+  "updated": "2026-09-13T16:50:41Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "Unusual bonds reorganize structure and magnetism in vanadium material",
-          "summary": "While chemical bonds usually determine the structure and properties of a material, bonds between neighboring metal atoms can also change as temperature or other conditions change. These changes can lead to unusual…",
-          "url": "https://phys.org/news/2026-09-unusual-bonds-magnetism-vanadium-material.html",
+          "title": "A 1,000-fold longer charge lifetime helps organic catalyst produce solar hydrogen faster",
+          "summary": "Researchers from the Ningbo Institute of Materials Technology and Engineering (NIMTE) of the Chinese Academy of Sciences (CAS), in collaboration with researchers from the Technical Institute of Physics and Chemistry of…",
+          "url": "https://phys.org/news/2026-09-longer-lifetime-catalyst-solar-hydrogen.html",
           "source": "Phys.org",
-          "date": "2026-09-11"
+          "date": "2026-09-13"
         },
         {
-          "title": "DNA treatment cuts bad cholesterol by nearly 50% without statins",
-          "summary": "Researchers have designed a new DNA-based treatment that targets PCSK9, a protein closely tied to high LDL cholesterol and atherosclerosis. Their most effective molecule reduced PCSK9 protein by 87% in human liver cells…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260909225602.htm",
+          "title": "Scientists find a new layer of Alzheimer’s hidden in the genome",
+          "summary": "Scientists found that the 3D organization of DNA is disrupted in several types of brain cells affected by Alzheimer’s disease, altering how important genes are switched on and off. The discovery reveals a previously…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260912220051.htm",
           "source": "Science Daily",
-          "date": "2026-09-10"
-        },
-        {
-          "title": "Scientists capture two DNA strands zipping together for the first time",
-          "summary": "Scientists have directly observed how two negatively charged DNA molecules can pair up despite normally repelling each other. Positively charged metal ions appear to bridge the gap, helping matching DNA helices align…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260909231717.htm",
-          "source": "Science Daily",
-          "date": "2026-09-10"
-        },
-        {
-          "title": "Scientists create brilliant white material without a drop of white pigment",
-          "summary": "Researchers have created a foam-based material that produces intense whiteness and water repellency without titanium dioxide pigments or PFAS chemicals. Inspired by natural structures in snow, clouds, flowers, and lotus…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260909231712.htm",
-          "source": "Science Daily",
-          "date": "2026-09-10"
+          "date": "2026-09-13"
         },
         {
           "title": "Bridging interfacial water structure and reactivity in photocatalytic hydrogen evolution at TiO₂ interfaces",
@@ -38,6 +24,20 @@
           "url": "https://phys.org/news/2026-09-bridging-interfacial-reactivity-photocatalytic-hydrogen.html",
           "source": "Phys.org",
           "date": "2026-09-12"
+        },
+        {
+          "title": "CERN finds gluons behaving strangely deep inside atomic nuclei",
+          "summary": "Physicists at CERN have found a new way to peer deep inside atomic nuclei and distinguish between two competing explanations for how gluons behave. Using the ALICE experiment at the Large Hadron Collider, researchers…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260911214303.htm",
+          "source": "Science Daily",
+          "date": "2026-09-12"
+        },
+        {
+          "title": "A hidden compound in healthy foods may worsen IBD",
+          "summary": "A natural compound found in foods such as spinach, almonds, and sweet potatoes may aggravate gut inflammation in people with Crohn’s disease and ulcerative colitis because their intestines appear to handle it…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260911214250.htm",
+          "source": "Science Daily",
+          "date": "2026-09-13"
         }
       ]
     },
@@ -73,11 +73,11 @@
           "date": "2026-09-11"
         },
         {
-          "title": "Why are the stars around our galaxy's black hole missing their companions?",
-          "summary": "A new study suggests that the young stars orbiting the Milky Way's central black hole may have a surprisingly ordinary origin. But the black hole's influence may be what makes their origin look more exotic than it…",
-          "url": "https://phys.org/news/2026-09-stars-galaxy-black-hole-companions.html",
+          "title": "Cataract surgery will be needed in space, surgeon predicts",
+          "summary": "An eye surgeon with a passion for space since childhood predicts that as astronauts start to make journeys to the moon and Mars in the near future, eye surgery in space will eventually become a necessity.",
+          "url": "https://phys.org/news/2026-09-cataract-surgery-space-surgeon.html",
           "source": "Phys.org",
-          "date": "2026-09-12"
+          "date": "2026-09-13"
         }
       ]
     },
@@ -92,18 +92,18 @@
           "date": "2026-09-11"
         },
         {
+          "title": "Ancient armored fish evolved two distinct ways to crush prey 385 million years ago",
+          "summary": "Long before dinosaurs appeared on Earth, fierce predatory fish developed crushing jaws and sharp teeth to survive and diversify in ancient oceans.",
+          "url": "https://phys.org/news/2026-09-ancient-armored-fish-evolved-distinct.html",
+          "source": "Phys.org",
+          "date": "2026-09-13"
+        },
+        {
           "title": "Exquisite 66-million-year-old bird feather preserved in dinosaur dropping",
           "summary": "A dinosaur, possibly a young Tyrannosaurus rex, excreted a bird 66 million years ago, and one of its feathers is exquisitely preserved in the fossilised dropping",
           "url": "https://www.newscientist.com/article/2588673-exquisite-66-million-year-old-bird-feather-preserved-in-dinosaur-dropping/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
           "date": "2026-09-10"
-        },
-        {
-          "title": "Bite, buzz, release: How bees make flowers give up their pollen",
-          "summary": "Life is not always easy for a bee: Not all plants place their pollen outside. Some flowers have to be set to vibrating before the pollen can get out of their tube-like stamens. Certain bee species have developed a…",
-          "url": "https://phys.org/news/2026-09-bees-pollen.html",
-          "source": "Phys.org",
-          "date": "2026-09-11"
         },
         {
           "title": "Sea-level rise could squeeze shorebirds out of critical coastal habitat, researchers find",
@@ -125,6 +125,20 @@
       "emoji": "🌍",
       "articles": [
         {
+          "title": "Global warming is breaking a 400-year climate link between two oceans",
+          "summary": "The Indian and Pacific oceans have been climatically linked for centuries, but scientists say that connection is now breaking down in an exceptional way. Ancient climate records suggest volcanoes disrupted the…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260912220029.htm",
+          "source": "Science Daily",
+          "date": "2026-09-13"
+        },
+        {
+          "title": "Southern Ocean may flip from carbon sink to carbon source under mitigation scenarios",
+          "summary": "Plans to limit the global temperature rise to 1.5°C above preindustrial levels depend on reaching net-zero emissions and, in many cases, actively removing carbon dioxide (CO2) from the air. While this helps limit…",
+          "url": "https://phys.org/news/2026-09-southern-ocean-flip-carbon-source.html",
+          "source": "Phys.org",
+          "date": "2026-09-12"
+        },
+        {
           "title": "The world’s biggest carbon sink may start emitting CO2 after net zero",
           "summary": "If the carbon dioxide in the atmosphere declines, the Southern Ocean is likely to begin emitting more carbon than it absorbs, prolonging global warming",
           "url": "https://www.newscientist.com/article/2588269-the-worlds-biggest-carbon-sink-may-start-emitting-co2-after-net-zero/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
@@ -132,38 +146,31 @@
           "date": "2026-09-10"
         },
         {
+          "title": "Scientists find water was fueling volcanoes 3 billion years ago",
+          "summary": "Ancient rocks from Western Australia suggest water was reaching deep inside Earth more than three billion years ago, long before modern plate tectonics may have fully developed. Researchers propose that water-rich…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260911214305.htm",
+          "source": "Science Daily",
+          "date": "2026-09-13"
+        },
+        {
           "title": "Natural feedbacks will warm world an extra 20 per cent this century",
           "summary": "Ecosystems like wetlands emit more carbon as temperatures rise. By 2100, such feedback loops will increase warming by 20 to 30 per cent more than anticipated",
           "url": "https://www.newscientist.com/article/2588740-natural-feedbacks-will-add-20-per-cent-extra-global-warming/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
           "date": "2026-09-10"
-        },
-        {
-          "title": "Archaeologists find a 3,000-year-old Egyptian tomb before it’s too late",
-          "summary": "While clearing debris to protect ancient Egyptian tombs from flash floods, researchers near Luxor stumbled upon an unknown 3,000-year-old tomb. Its remarkably preserved paintings depict an official named Paser, his…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260909231746.htm",
-          "source": "Science Daily",
-          "date": "2026-09-10"
-        },
-        {
-          "title": "When will your glacier disappear? New website lets users explore risks worldwide",
-          "summary": "When will the glacier in your valley disappear? Will the glacier you visited as a child still exist in 2050? And how much difference would limiting global warming make?",
-          "url": "https://phys.org/news/2026-09-glacier-website-users-explore-worldwide.html",
-          "source": "Phys.org",
-          "date": "2026-09-11"
-        },
-        {
-          "title": "Atlantic hurricane season sets a record: No hurricanes yet!",
-          "summary": "The 2026 Atlantic hurricane season has set a record. It's the longest we've ever gone in a hurricane season without seeing a hurricane. Read more here. The post Atlantic hurricane season sets a record: No hurricanes…",
-          "url": "https://earthsky.org/earth/atlantic-hurricane-season-forecast-for-2026/",
-          "source": "EarthSky",
-          "date": "2026-09-12"
         }
       ]
     },
     "Technology & Inventions": {
       "emoji": "🤖",
       "articles": [
+        {
+          "title": "Scientists are building a microscope powered by a quantum computer",
+          "summary": "Scientists are combining an electron microscope with a quantum computer to squeeze far more information from each electron. The approach could reveal faint details with fewer electrons, helping protect fragile samples…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260912220038.htm",
+          "source": "Science Daily",
+          "date": "2026-09-13"
+        },
         {
           "title": "Scientists just made quantum computer operations 1,000 times faster",
           "summary": "Researchers have found a way to perform certain quantum operations more than 1,000 times faster, cutting thousands of repeated control cycles down to just one. The advance could reduce errors and bring reliable…",
@@ -172,18 +179,18 @@
           "date": "2026-09-11"
         },
         {
+          "title": "Silicon nanosphere coatings deliver glossy, nonfading color on 3D surfaces",
+          "summary": "\"Color coatings are expected to provide vivid color, brightness, gloss and long-term durability, yet no existing technology satisfies all of these requirements simultaneously,\" says Kobe University materials engineer…",
+          "url": "https://phys.org/news/2026-09-silicon-nanosphere-coatings-glossy-nonfading.html",
+          "source": "Phys.org",
+          "date": "2026-09-12"
+        },
+        {
           "title": "Physicists turn classical light into a quantum machine for information processing",
           "summary": "Quantum computers promise to tackle problems that are extraordinarily difficult for today's computers. But there is a major obstacle: quantum systems are notoriously fragile. Noise, loss and even tiny disturbances can…",
           "url": "https://phys.org/news/2026-09-physicists-classical-quantum-machine.html",
           "source": "Phys.org",
           "date": "2026-09-12"
-        },
-        {
-          "title": "Smart, self-healing packaging uses AI to detect food spoilage in real time",
-          "summary": "Packaging already tells us where food comes from, when it was made, what's in it and how many calories it contains. But researchers see a future where packaging can \"see,\" in real time, what's happening inside and…",
-          "url": "https://phys.org/news/2026-09-smart-packaging-ai-food-spoilage.html",
-          "source": "Phys.org",
-          "date": "2026-09-11"
         }
       ]
     },
@@ -205,11 +212,11 @@
           "date": "2026-09-11"
         },
         {
-          "title": "Strange 'fast radio bursts' across the universe could help solve major cosmic mysteries: 'It's only the beginning'",
-          "summary": "Though their origins may be shrouded in mystery, fast radio bursts could be used to probe some of the universe's biggest puzzles, including the nature of dark matter and dark energy.",
-          "url": "https://www.space.com/astronomy/black-holes/strange-fast-radio-bursts-across-the-universe-could-help-solve-major-cosmic-mysteries-its-only-the-beginning",
-          "source": "Space.com",
-          "date": "2026-09-10"
+          "title": "Physicists discover a hidden “curveball” in quantum light",
+          "summary": "Researchers have experimentally demonstrated the optical Magnus effect for the first time, revealing that a tightly focused laser interacts most strongly with an atom slightly away from the beam’s center. The unexpected…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260912220025.htm",
+          "source": "Science Daily",
+          "date": "2026-09-13"
         },
         {
           "title": "Wasps are disappearing this summer, and scientists are worried",
@@ -219,11 +226,11 @@
           "date": "2026-09-11"
         },
         {
-          "title": "Single nanostructure enables independent control of two light resonance modes",
-          "summary": "Metallic nanostructures are exceptionally effective at concentrating light into tiny volumes, while dielectric nanostructures excel at storing light with minimal energy loss. Combining these complementary properties has…",
-          "url": "https://phys.org/news/2026-09-nanostructure-enables-independent-resonance-modes.html",
+          "title": "Unified framework shows thermoelectric performance depends on more than the material itself",
+          "summary": "Thermoelectric materials can directly convert heat into electricity, making them promising for recovering waste heat from factories, vehicles and other sources. They can also transport heat when an electric current is…",
+          "url": "https://phys.org/news/2026-09-framework-thermoelectric-material.html",
           "source": "Phys.org",
-          "date": "2026-09-11"
+          "date": "2026-09-12"
         }
       ]
     }
