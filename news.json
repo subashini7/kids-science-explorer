@@ -1,15 +1,22 @@
 {
-  "updated": "2026-09-13T16:50:41Z",
+  "updated": "2026-09-14T18:21:42Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "A 1,000-fold longer charge lifetime helps organic catalyst produce solar hydrogen faster",
-          "summary": "Researchers from the Ningbo Institute of Materials Technology and Engineering (NIMTE) of the Chinese Academy of Sciences (CAS), in collaboration with researchers from the Technical Institute of Physics and Chemistry of…",
-          "url": "https://phys.org/news/2026-09-longer-lifetime-catalyst-solar-hydrogen.html",
+          "title": "Chemistry textbooks have been getting this wrong for nearly 100 years",
+          "summary": "A foundational chemistry concept found in textbooks for almost 100 years may have been taught incorrectly. Researchers say the inductive effect in neutral molecules appears to extend only across one chemical bond…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260913082157.htm",
+          "source": "Science Daily",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "Series of reactions reveals how complex carbon chemistry can begin in frigid space",
+          "summary": "Before there was Earth, there was chemistry. In the unimaginable cold, dark clouds where stars and planets are born, carbon molecules assemble into more complex forms—starting a chemical journey that could eventually…",
+          "url": "https://phys.org/news/2026-09-series-reactions-reveals-complex-carbon.html",
           "source": "Phys.org",
-          "date": "2026-09-13"
+          "date": "2026-09-14"
         },
         {
           "title": "Scientists find a new layer of Alzheimer’s hidden in the genome",
@@ -19,25 +26,18 @@
           "date": "2026-09-13"
         },
         {
-          "title": "Bridging interfacial water structure and reactivity in photocatalytic hydrogen evolution at TiO₂ interfaces",
-          "summary": "Hydrogen (H2) evolution via photocatalytic water splitting is an environmentally friendly and sustainable technology for solar-to-chemical energy conversion. Although interfacial interactions are recognized as key…",
-          "url": "https://phys.org/news/2026-09-bridging-interfacial-reactivity-photocatalytic-hydrogen.html",
+          "title": "Speedy electrons for brilliant laser light: Research paves the way for compact, inexpensive free-electron lasers",
+          "summary": "Extremely short, intense light flashes are in high demand to investigate atoms, molecules and new materials. Free-electron lasers (FELs) produce these flashes. But around the world, beam time available at large-scale…",
+          "url": "https://phys.org/news/2026-09-speedy-electrons-brilliant-laser-paves.html",
           "source": "Phys.org",
-          "date": "2026-09-12"
+          "date": "2026-09-14"
         },
         {
-          "title": "CERN finds gluons behaving strangely deep inside atomic nuclei",
-          "summary": "Physicists at CERN have found a new way to peer deep inside atomic nuclei and distinguish between two competing explanations for how gluons behave. Using the ALICE experiment at the Large Hadron Collider, researchers…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260911214303.htm",
-          "source": "Science Daily",
-          "date": "2026-09-12"
-        },
-        {
-          "title": "A hidden compound in healthy foods may worsen IBD",
-          "summary": "A natural compound found in foods such as spinach, almonds, and sweet potatoes may aggravate gut inflammation in people with Crohn’s disease and ulcerative colitis because their intestines appear to handle it…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260911214250.htm",
-          "source": "Science Daily",
-          "date": "2026-09-13"
+          "title": "Getting photons into shape for reliable quantum communication",
+          "summary": "The vast majority of modern quantum technologies—from quantum cryptography to the quantum internet to the quantum computer—rely on one essential element: the transmission of photons. Two qubits (two atoms, for example)…",
+          "url": "https://phys.org/news/2026-09-photons-reliable-quantum-communication.html",
+          "source": "Phys.org",
+          "date": "2026-09-14"
         }
       ]
     },
@@ -45,18 +45,32 @@
       "emoji": "🚀",
       "articles": [
         {
-          "title": "On this day in space! Sept. 10, 2011: NASA launches GRAIL probes to the moon to map lumpy lunar gravity",
-          "summary": "On Sept. 10, 2011, NASA's GRAIL spacecraft launched on a mission to the moon! Here's why the moon gravity mapping mission mattered.",
-          "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-10-2026",
+          "title": "SpaceX launches 3 telecom satellites to orbit on 700th Falcon mission of all time (video)",
+          "summary": "SpaceX lofted three of SES's O3b mPOWER communications satellites to orbit today (Sept. 13), on the 700th mission to date for the Falcon rocket family.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-3-telecom-satellites-to-orbit-on-700th-falcon-mission-of-all-time-video",
           "source": "Space.com",
-          "date": "2026-09-10"
+          "date": "2026-09-13"
         },
         {
-          "title": "LINK spacecraft gets close to NASA's Swift Observatory, but not close enough to save it",
-          "summary": "Operations aboard the Katalyst Space LINK satellite continue, despite the spacecraft's inability to complete its mission of boosting the orbit of NASA's Swift Observatory.",
-          "url": "https://www.space.com/space-exploration/missions/link-spacecraft-gets-close-to-nasas-swift-observatory-but-not-close-enough-to-save-it",
+          "title": "2 European Earth-observing satellites launching to orbit from South America tonight: Watch it live",
+          "summary": "A Vega C rocket will launch Europe's FLEX and Copernicus-3C spacecraft to orbit from French Guiana tonight (Sept. 14), and you can watch the action live.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/vega-rocket-launch-europe-flex-sentinel-3c-earth-observation-satellites",
           "source": "Space.com",
-          "date": "2026-09-10"
+          "date": "2026-09-14"
+        },
+        {
+          "title": "On this day in space! Sept. 14, 1966: NASA's Gemini 11 astronauts set altitude record for Earth orbit that went unbroken for 58 years",
+          "summary": "On Sept. 14, 1966, NASA's Gemini 11 mission set an spaceflight altitude record that lasted for nearly six decades. Here's why the mission mattered.",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-14-2026",
+          "source": "Space.com",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "On this day in space! Sept. 13, 2007: Japan launches Kaguya spacecraft to the moon to map the lunar surface in HD",
+          "summary": "On Sept. 13, 2007, Japan launched the Kaguya spacecraft on a mission to the moon. Here's why it mattered.",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-13-2026",
+          "source": "Space.com",
+          "date": "2026-09-13"
         },
         {
           "title": "Rocket Lab launches mystery satellite to orbit for secret customer (photo)",
@@ -64,20 +78,6 @@
           "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-mystery-satellite-to-orbit-for-secret-customer-photo",
           "source": "Space.com",
           "date": "2026-09-11"
-        },
-        {
-          "title": "NASA’s SpaceX Crew-12 to Discuss Station Mission, Upcoming Return",
-          "summary": "Media are invited to hear from NASA’s SpaceX Crew-12 astronauts during a news conference beginning at 2:45 p.m. EDT, Wednesday, Sept. 16, from the International Space Station. NASA astronauts Jessica Meir and Jack…",
-          "url": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-to-discuss-station-mission-upcoming-return/",
-          "source": "NASA",
-          "date": "2026-09-11"
-        },
-        {
-          "title": "Cataract surgery will be needed in space, surgeon predicts",
-          "summary": "An eye surgeon with a passion for space since childhood predicts that as astronauts start to make journeys to the moon and Mars in the near future, eye surgery in space will eventually become a necessity.",
-          "url": "https://phys.org/news/2026-09-cataract-surgery-space-surgeon.html",
-          "source": "Phys.org",
-          "date": "2026-09-13"
         }
       ]
     },
@@ -85,32 +85,32 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "66-million-year-old feather in dinosaur poop may reveal why birds survived the asteroid",
-          "summary": "A feather discovered inside 66-million-year-old fossilized dinosaur poop may help explain why modern birds survived the asteroid catastrophe. The extinct bird it came from had more primitive insulating feathers…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260911003849.htm",
-          "source": "Science Daily",
-          "date": "2026-09-11"
-        },
-        {
-          "title": "Ancient armored fish evolved two distinct ways to crush prey 385 million years ago",
-          "summary": "Long before dinosaurs appeared on Earth, fierce predatory fish developed crushing jaws and sharp teeth to survive and diversify in ancient oceans.",
-          "url": "https://phys.org/news/2026-09-ancient-armored-fish-evolved-distinct.html",
+          "title": "Evolutionary home advantage: Field experiment reveals adaptation to be surprisingly local",
+          "summary": "A research team from the University of Bern has shown in a large-scale field experiment that populations of the same fish species can be much more fine-tuned to their local environments than previously thought. Habitats…",
+          "url": "https://phys.org/news/2026-09-evolutionary-home-advantage-field-reveals.html",
           "source": "Phys.org",
-          "date": "2026-09-13"
+          "date": "2026-09-14"
         },
         {
-          "title": "Exquisite 66-million-year-old bird feather preserved in dinosaur dropping",
-          "summary": "A dinosaur, possibly a young Tyrannosaurus rex, excreted a bird 66 million years ago, and one of its feathers is exquisitely preserved in the fossilised dropping",
-          "url": "https://www.newscientist.com/article/2588673-exquisite-66-million-year-old-bird-feather-preserved-in-dinosaur-dropping/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "title": "Lebanon: 400,000 years of climate and landscape history rediscovered",
+          "summary": "An international research team led by Dr. Gabriele Russo of the Senckenberg Centre for Human Evolution and Palaeoenvironment at the University of Tübingen has re-examined historical fossil collections from Lebanon using…",
+          "url": "https://phys.org/news/2026-09-lebanon-years-climate-landscape-history.html",
+          "source": "Phys.org",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "Diagnosing parasites that pose health risks for dogs, humans",
+          "summary": "Parasites in wildlife don't just pose a risk to their wild hosts—they can also spread to domestic animals and humans, making safe and reliable ways to screen for these pests critical to promoting better health for all.",
+          "url": "https://phys.org/news/2026-09-parasites-pose-health-dogs-humans.html",
+          "source": "Phys.org",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "Scientists call for ‘emergency’ measures to save sea life from El Niño",
+          "summary": "Reducing fishing quotas, rescuing endangered species from the water and testing geoengineering could help soften ocean heat impacts from the record El Niño, some oceanographers argue",
+          "url": "https://www.newscientist.com/article/2589023-scientists-call-for-emergency-measures-to-save-sea-life-from-el-nino/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
-          "date": "2026-09-10"
-        },
-        {
-          "title": "Sea-level rise could squeeze shorebirds out of critical coastal habitat, researchers find",
-          "summary": "As sea levels rise, coastal wetlands around the world are expected to shrink—and researchers at the University of British Columbia have found this could put the world's shorebirds and their critical habitat at risk.",
-          "url": "https://phys.org/news/2026-09-sea-shorebirds-critical-coastal-habitat.html",
-          "source": "Phys.org",
-          "date": "2026-09-12"
+          "date": "2026-09-14"
         },
         {
           "title": "Earliest alligator flourished in the wake of the dinosaur extinction",
@@ -132,18 +132,11 @@
           "date": "2026-09-13"
         },
         {
-          "title": "Southern Ocean may flip from carbon sink to carbon source under mitigation scenarios",
-          "summary": "Plans to limit the global temperature rise to 1.5°C above preindustrial levels depend on reaching net-zero emissions and, in many cases, actively removing carbon dioxide (CO2) from the air. While this helps limit…",
-          "url": "https://phys.org/news/2026-09-southern-ocean-flip-carbon-source.html",
-          "source": "Phys.org",
-          "date": "2026-09-12"
-        },
-        {
-          "title": "The world’s biggest carbon sink may start emitting CO2 after net zero",
-          "summary": "If the carbon dioxide in the atmosphere declines, the Southern Ocean is likely to begin emitting more carbon than it absorbs, prolonging global warming",
-          "url": "https://www.newscientist.com/article/2588269-the-worlds-biggest-carbon-sink-may-start-emitting-co2-after-net-zero/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-09-10"
+          "title": "Back-to-back Arctic storms can double sea ice loss",
+          "summary": "Scientists have found that Arctic cyclones become especially destructive when several strike one after another. These storm clusters cause about twice as much sea ice loss as isolated cyclones, with impacts that persist…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260912220045.htm",
+          "source": "Science Daily",
+          "date": "2026-09-14"
         },
         {
           "title": "Scientists find water was fueling volcanoes 3 billion years ago",
@@ -153,11 +146,18 @@
           "date": "2026-09-13"
         },
         {
-          "title": "Natural feedbacks will warm world an extra 20 per cent this century",
-          "summary": "Ecosystems like wetlands emit more carbon as temperatures rise. By 2100, such feedback loops will increase warming by 20 to 30 per cent more than anticipated",
-          "url": "https://www.newscientist.com/article/2588740-natural-feedbacks-will-add-20-per-cent-extra-global-warming/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-09-10"
+          "title": "Rivers may be carrying more microplastics into the world's oceans than previously thought",
+          "summary": "Microplastics are a modern environmental menace and a potential threat to human health. These tiny pieces of plastic, measuring from 1 to 5,000 micrometers, come mainly from larger plastics as well as sources such as…",
+          "url": "https://phys.org/news/2026-09-rivers-microplastics-world-oceans-previously.html",
+          "source": "Phys.org",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "Physicists zoom into the birth of cosmic rainstorms with new CERN study",
+          "summary": "Every second, particles zip through your body at nearly the speed of light. They rain down from a storm high in the sky, where cosmic rays, a powerful type of interstellar matter, constantly strike atoms in Earth's…",
+          "url": "https://phys.org/news/2026-09-physicists-birth-cosmic-rainstorms-cern.html",
+          "source": "Phys.org",
+          "date": "2026-09-14"
         }
       ]
     },
@@ -172,25 +172,25 @@
           "date": "2026-09-13"
         },
         {
-          "title": "Scientists just made quantum computer operations 1,000 times faster",
-          "summary": "Researchers have found a way to perform certain quantum operations more than 1,000 times faster, cutting thousands of repeated control cycles down to just one. The advance could reduce errors and bring reliable…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260911003845.htm",
-          "source": "Science Daily",
-          "date": "2026-09-11"
+          "title": "AI updates can sometimes feel like breakups or losses, study finds",
+          "summary": "Artificial intelligence systems, particularly those powered by large language models and designed to communicate with users on a one-to-one basis, are increasingly used worldwide. Some of these systems, such as Replika…",
+          "url": "https://phys.org/news/2026-09-ai-breakups-losses.html",
+          "source": "Phys.org",
+          "date": "2026-09-14"
         },
         {
-          "title": "Silicon nanosphere coatings deliver glossy, nonfading color on 3D surfaces",
-          "summary": "\"Color coatings are expected to provide vivid color, brightness, gloss and long-term durability, yet no existing technology satisfies all of these requirements simultaneously,\" says Kobe University materials engineer…",
-          "url": "https://phys.org/news/2026-09-silicon-nanosphere-coatings-glossy-nonfading.html",
+          "title": "People form real feelings for chatbots, according to researcher",
+          "summary": "Imagine having a friend who always has time for you, never judges you and remembers everything you have said. For many, that friend is not a human being but a social AI model. This emerges clearly in Marita Skjuve's…",
+          "url": "https://phys.org/news/2026-09-people-real-chatbots.html",
           "source": "Phys.org",
-          "date": "2026-09-12"
+          "date": "2026-09-14"
         },
         {
-          "title": "Physicists turn classical light into a quantum machine for information processing",
-          "summary": "Quantum computers promise to tackle problems that are extraordinarily difficult for today's computers. But there is a major obstacle: quantum systems are notoriously fragile. Noise, loss and even tiny disturbances can…",
-          "url": "https://phys.org/news/2026-09-physicists-classical-quantum-machine.html",
-          "source": "Phys.org",
-          "date": "2026-09-12"
+          "title": "Why is everyone suddenly worried about the risks of AI?",
+          "summary": "AI experts put the chance of models rising up and killing us all at greater than 10 per cent – but are the risks real? And can anything be done if they are?",
+          "url": "https://www.newscientist.com/article/2589033-why-is-everyone-suddenly-worried-about-the-risks-of-ai/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-09-14"
         }
       ]
     },
@@ -205,18 +205,18 @@
           "date": "2026-09-12"
         },
         {
-          "title": "Tiny nanolaser could cut computer energy use in half",
-          "summary": "Scientists have created an ultra-small nanolaser that could eventually allow microchips to transmit information with light instead of electricity, potentially making computers faster while cutting energy use roughly in…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260911003858.htm",
-          "source": "Science Daily",
-          "date": "2026-09-11"
-        },
-        {
           "title": "Physicists discover a hidden “curveball” in quantum light",
           "summary": "Researchers have experimentally demonstrated the optical Magnus effect for the first time, revealing that a tightly focused laser interacts most strongly with an atom slightly away from the beam’s center. The unexpected…",
           "url": "https://www.sciencedaily.com/releases/2026/09/260912220025.htm",
           "source": "Science Daily",
           "date": "2026-09-13"
+        },
+        {
+          "title": "Physicists help uncover 'spooky' quantum effect in the Large Hadron Collider",
+          "summary": "Physicists at the University of Oxford have helped confirm that one of the strangest phenomena in physics—quantum entanglement—occurs even among some of the heaviest and most fleeting particles ever created. The…",
+          "url": "https://phys.org/news/2026-09-physicists-uncover-spooky-quantum-effect.html",
+          "source": "Phys.org",
+          "date": "2026-09-14"
         },
         {
           "title": "Wasps are disappearing this summer, and scientists are worried",
@@ -226,11 +226,11 @@
           "date": "2026-09-11"
         },
         {
-          "title": "Unified framework shows thermoelectric performance depends on more than the material itself",
-          "summary": "Thermoelectric materials can directly convert heat into electricity, making them promising for recovering waste heat from factories, vehicles and other sources. They can also transport heat when an electric current is…",
-          "url": "https://phys.org/news/2026-09-framework-thermoelectric-material.html",
-          "source": "Phys.org",
-          "date": "2026-09-12"
+          "title": "Crepuscular rays are sunrays in twilight skies",
+          "summary": "Crepuscular rays form around twilight when particles in the atmosphere reflect the sun's light beams toward our eyes. See photos of the phenomenon here. The post Crepuscular rays are sunrays in twilight skies first…",
+          "url": "https://earthsky.org/earth/crepuscular-rays-sunrays-photos-around-world/",
+          "source": "EarthSky",
+          "date": "2026-09-13"
         }
       ]
     }
