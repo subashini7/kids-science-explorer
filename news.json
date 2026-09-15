@@ -1,9 +1,16 @@
 {
-  "updated": "2026-09-14T18:21:42Z",
+  "updated": "2026-09-15T17:29:27Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
+        {
+          "title": "Advanced X-ray crystallography determines structure of macromolecule at unprecedented resolution",
+          "summary": "Proteins are high-performance molecular machines that carry out nearly every biochemical function inside living cells. To understand how they achieve this, scientists often examine their detailed atomic structure, which…",
+          "url": "https://phys.org/news/2026-09-advanced-ray-crystallography-macromolecule-unprecedented.html",
+          "source": "Phys.org",
+          "date": "2026-09-15"
+        },
         {
           "title": "Chemistry textbooks have been getting this wrong for nearly 100 years",
           "summary": "A foundational chemistry concept found in textbooks for almost 100 years may have been taught incorrectly. Researchers say the inductive effect in neutral molecules appears to extend only across one chemical bond…",
@@ -12,11 +19,18 @@
           "date": "2026-09-14"
         },
         {
-          "title": "Series of reactions reveals how complex carbon chemistry can begin in frigid space",
-          "summary": "Before there was Earth, there was chemistry. In the unimaginable cold, dark clouds where stars and planets are born, carbon molecules assemble into more complex forms—starting a chemical journey that could eventually…",
-          "url": "https://phys.org/news/2026-09-series-reactions-reveals-complex-carbon.html",
+          "title": "Robots and AI uncover unexpected pathway in classic 135-year-old chemical reaction",
+          "summary": "Chemical reactions are often written as simple equations: Starting materials go in, and a product comes out. In reality, the same substrates can follow many different pathways depending on their concentrations…",
+          "url": "https://phys.org/news/2026-09-robots-ai-uncover-unexpected-pathway.html",
           "source": "Phys.org",
-          "date": "2026-09-14"
+          "date": "2026-09-15"
+        },
+        {
+          "title": "Scientists stunned as volcano cloud starts destroying methane",
+          "summary": "The Hunga Tonga eruption may have triggered a surprising chemical reaction that destroyed some of the methane released into the atmosphere. Scientists say the discovery could reshape estimates of methane pollution and…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260915095750.htm",
+          "source": "Science Daily",
+          "date": "2026-09-15"
         },
         {
           "title": "Scientists find a new layer of Alzheimer’s hidden in the genome",
@@ -24,20 +38,6 @@
           "url": "https://www.sciencedaily.com/releases/2026/09/260912220051.htm",
           "source": "Science Daily",
           "date": "2026-09-13"
-        },
-        {
-          "title": "Speedy electrons for brilliant laser light: Research paves the way for compact, inexpensive free-electron lasers",
-          "summary": "Extremely short, intense light flashes are in high demand to investigate atoms, molecules and new materials. Free-electron lasers (FELs) produce these flashes. But around the world, beam time available at large-scale…",
-          "url": "https://phys.org/news/2026-09-speedy-electrons-brilliant-laser-paves.html",
-          "source": "Phys.org",
-          "date": "2026-09-14"
-        },
-        {
-          "title": "Getting photons into shape for reliable quantum communication",
-          "summary": "The vast majority of modern quantum technologies—from quantum cryptography to the quantum internet to the quantum computer—rely on one essential element: the transmission of photons. Two qubits (two atoms, for example)…",
-          "url": "https://phys.org/news/2026-09-photons-reliable-quantum-communication.html",
-          "source": "Phys.org",
-          "date": "2026-09-14"
         }
       ]
     },
@@ -52,8 +52,22 @@
           "date": "2026-09-13"
         },
         {
-          "title": "2 European Earth-observing satellites launching to orbit from South America tonight: Watch it live",
-          "summary": "A Vega C rocket will launch Europe's FLEX and Copernicus-3C spacecraft to orbit from French Guiana tonight (Sept. 14), and you can watch the action live.",
+          "title": "On this day in space! Sept. 15, 1968: Russian tortoises (& other critters) launch around the moon on Zond 5 spacecraft in wild first circumlunar flight",
+          "summary": "On Sept. 15, 1968, the Soviet Union launched the Zond 5 spacecraft carrying tortoises and more on a mission to loop around the moon and return to Earth. Here's why it mattered.",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-15-2026",
+          "source": "Space.com",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "'If I wanted to go to space, I would have stayed at NASA': What's next for Artemis II astronaut Victor Glover after his mission to the moon",
+          "summary": "Former NASA astronaut and Artemis II pilot Victor Glover is stepping away from his space agency duties to take on a new role — executive advisor to the president of Cal Poly University.",
+          "url": "https://www.space.com/space-exploration/artemis/if-i-wanted-to-go-to-space-i-would-have-stayed-at-nasa-whats-next-for-artemis-ii-astronaut-victor-glover-after-his-mission-to-the-moon",
+          "source": "Space.com",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "Vega C rocket launches 2 European Earth-observing satellites to orbit from South America (video)",
+          "summary": "A Vega C rocket launched Europe's FLEX and Copernicus-3C spacecraft toward orbit from French Guiana tonight (Sept. 14).",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/vega-rocket-launch-europe-flex-sentinel-3c-earth-observation-satellites",
           "source": "Space.com",
           "date": "2026-09-14"
@@ -64,20 +78,6 @@
           "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-14-2026",
           "source": "Space.com",
           "date": "2026-09-14"
-        },
-        {
-          "title": "On this day in space! Sept. 13, 2007: Japan launches Kaguya spacecraft to the moon to map the lunar surface in HD",
-          "summary": "On Sept. 13, 2007, Japan launched the Kaguya spacecraft on a mission to the moon. Here's why it mattered.",
-          "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-13-2026",
-          "source": "Space.com",
-          "date": "2026-09-13"
-        },
-        {
-          "title": "Rocket Lab launches mystery satellite to orbit for secret customer (photo)",
-          "summary": "Rocket Lab launched an Earth-observation satellite to orbit for a confidential customer on Thursday night (Sept. 10), without providing a livestream or many details about the mission.",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-mystery-satellite-to-orbit-for-secret-customer-photo",
-          "source": "Space.com",
-          "date": "2026-09-11"
         }
       ]
     },
@@ -85,39 +85,39 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "Evolutionary home advantage: Field experiment reveals adaptation to be surprisingly local",
-          "summary": "A research team from the University of Bern has shown in a large-scale field experiment that populations of the same fish species can be much more fine-tuned to their local environments than previously thought. Habitats…",
-          "url": "https://phys.org/news/2026-09-evolutionary-home-advantage-field-reveals.html",
+          "title": "A coral reef thought dead for 60 years is teeming with life",
+          "summary": "More than 60 years after surveys suggested a deep coral reef off Benin was probably dead, scientists have found it alive. Cameras revealed healthy-looking coral patches supporting multiple fish species more than 50…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260913081927.htm",
+          "source": "Science Daily",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "'HyperBird' imaging platform spots grape diseases before they're visible",
+          "summary": "HyperBird, a cutting-edge imaging platform for observing microscopic traits in plants, can detect grape diseases—such as powdery and downy mildews, which cost vineyard owners billions in annual losses globally—days…",
+          "url": "https://phys.org/news/2026-09-hyperbird-imaging-platform-grape-diseases.html",
           "source": "Phys.org",
-          "date": "2026-09-14"
+          "date": "2026-09-15"
         },
         {
-          "title": "Lebanon: 400,000 years of climate and landscape history rediscovered",
-          "summary": "An international research team led by Dr. Gabriele Russo of the Senckenberg Centre for Human Evolution and Palaeoenvironment at the University of Tübingen has re-examined historical fossil collections from Lebanon using…",
-          "url": "https://phys.org/news/2026-09-lebanon-years-climate-landscape-history.html",
+          "title": "UV light reveals possible camouflage on a 125-million-year-old crocodile",
+          "summary": "A 125-million-year-old crocodile fossil has revealed preserved skin, possible sensory organs, sophisticated respiratory structures, and an unexpected pattern on its tail. Ultraviolet light exposed alternating bands that…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260914102436.htm",
+          "source": "Science Daily",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "Young European shags reveal how first winter experiences may guide migration",
+          "summary": "Should I stay or should I go? What determines whether birds migrate for the winter? This is one of the questions explored in a new doctoral thesis by Cassandra Ugland from NTNU's Department of Biology. The work is…",
+          "url": "https://phys.org/news/2026-09-young-european-shags-reveal-winter.html",
           "source": "Phys.org",
-          "date": "2026-09-14"
+          "date": "2026-09-15"
         },
         {
-          "title": "Diagnosing parasites that pose health risks for dogs, humans",
-          "summary": "Parasites in wildlife don't just pose a risk to their wild hosts—they can also spread to domestic animals and humans, making safe and reliable ways to screen for these pests critical to promoting better health for all.",
-          "url": "https://phys.org/news/2026-09-parasites-pose-health-dogs-humans.html",
+          "title": "For many group-living females, breeding and raising young are shared endeavors",
+          "summary": "Some female animals living in groups raise offspring that are not their own, sometimes without reproducing themselves. While the behavior of cooperatively breeding species is well documented, some aspects remain poorly…",
+          "url": "https://phys.org/news/2026-09-group-females-young-endeavors.html",
           "source": "Phys.org",
-          "date": "2026-09-14"
-        },
-        {
-          "title": "Scientists call for ‘emergency’ measures to save sea life from El Niño",
-          "summary": "Reducing fishing quotas, rescuing endangered species from the water and testing geoengineering could help soften ocean heat impacts from the record El Niño, some oceanographers argue",
-          "url": "https://www.newscientist.com/article/2589023-scientists-call-for-emergency-measures-to-save-sea-life-from-el-nino/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-09-14"
-        },
-        {
-          "title": "Earliest alligator flourished in the wake of the dinosaur extinction",
-          "summary": "Just a few hundred thousand years after an asteroid wiped out most dinosaurs, large alligators were thriving in North America",
-          "url": "https://www.newscientist.com/article/2588998-earliest-alligator-flourished-in-the-wake-of-the-dinosaur-extinction/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-09-11"
+          "date": "2026-09-15"
         }
       ]
     },
@@ -139,25 +139,25 @@
           "date": "2026-09-14"
         },
         {
-          "title": "Scientists find water was fueling volcanoes 3 billion years ago",
-          "summary": "Ancient rocks from Western Australia suggest water was reaching deep inside Earth more than three billion years ago, long before modern plate tectonics may have fully developed. Researchers propose that water-rich…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260911214305.htm",
-          "source": "Science Daily",
+          "title": "Satellite data reveal ESG scores track public image more than actual forest loss",
+          "summary": "Environmental sustainability researchers at NUS found that widely used environmental, social and governance (ESG) ratings often fail to reflect companies' actual exposure to deforestation, highlighting the need to…",
+          "url": "https://phys.org/news/2026-09-satellite-reveal-esg-scores-track.html",
+          "source": "Phys.org",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "Sun news: Chunk of sun-stuff on its way to Earth",
+          "summary": "Sun news September 15, 2026: A filament eruption sent a coronal mass ejection toward Earth, due September 17. Minor geomagnetic storms are possible. The post Sun news: Chunk of sun-stuff on its way to Earth first…",
+          "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+          "source": "EarthSky",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "Venus brightest in the evening sky this week",
+          "summary": "See Venus brightest in the evening sky this week, with greatest brilliancy coming around September 18, 2026. Look west after sunset. The post Venus brightest in the evening sky this week first appeared on EarthSky .",
+          "url": "https://earthsky.org/astronomy-essentials/venus-brightest-greatest-brilliancy-greatest-illuminated-extent-2/",
+          "source": "EarthSky",
           "date": "2026-09-13"
-        },
-        {
-          "title": "Rivers may be carrying more microplastics into the world's oceans than previously thought",
-          "summary": "Microplastics are a modern environmental menace and a potential threat to human health. These tiny pieces of plastic, measuring from 1 to 5,000 micrometers, come mainly from larger plastics as well as sources such as…",
-          "url": "https://phys.org/news/2026-09-rivers-microplastics-world-oceans-previously.html",
-          "source": "Phys.org",
-          "date": "2026-09-14"
-        },
-        {
-          "title": "Physicists zoom into the birth of cosmic rainstorms with new CERN study",
-          "summary": "Every second, particles zip through your body at nearly the speed of light. They rain down from a storm high in the sky, where cosmic rays, a powerful type of interstellar matter, constantly strike atoms in Earth's…",
-          "url": "https://phys.org/news/2026-09-physicists-birth-cosmic-rainstorms-cern.html",
-          "source": "Phys.org",
-          "date": "2026-09-14"
         }
       ]
     },
@@ -172,38 +172,24 @@
           "date": "2026-09-13"
         },
         {
-          "title": "AI updates can sometimes feel like breakups or losses, study finds",
-          "summary": "Artificial intelligence systems, particularly those powered by large language models and designed to communicate with users on a one-to-one basis, are increasingly used worldwide. Some of these systems, such as Replika…",
-          "url": "https://phys.org/news/2026-09-ai-breakups-losses.html",
-          "source": "Phys.org",
-          "date": "2026-09-14"
-        },
-        {
-          "title": "People form real feelings for chatbots, according to researcher",
-          "summary": "Imagine having a friend who always has time for you, never judges you and remembers everything you have said. For many, that friend is not a human being but a social AI model. This emerges clearly in Marita Skjuve's…",
-          "url": "https://phys.org/news/2026-09-people-real-chatbots.html",
-          "source": "Phys.org",
-          "date": "2026-09-14"
-        },
-        {
-          "title": "Why is everyone suddenly worried about the risks of AI?",
-          "summary": "AI experts put the chance of models rising up and killing us all at greater than 10 per cent – but are the risks real? And can anything be done if they are?",
-          "url": "https://www.newscientist.com/article/2589033-why-is-everyone-suddenly-worried-about-the-risks-of-ai/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "title": "We may finally have a way to rate a quantum computer’s usefulness",
+          "summary": "Determining how useful different quantum computers are has been a long running challenge – now researchers appear to have the answer",
+          "url": "https://www.newscientist.com/article/2589378-we-may-finally-have-a-way-to-rate-a-quantum-computers-usefulness/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
-          "date": "2026-09-14"
+          "date": "2026-09-15"
+        },
+        {
+          "title": "A 5,000-year-old royal mystery: Digital clues point to Meretneith as Egypt's female king",
+          "summary": "More than 5,000 years ago, a royal woman named Meretneith (also written as Merneith) lived in ancient Egypt. She was possibly the daughter of Djer, the third king of the First Dynasty, a period when the first kings…",
+          "url": "https://phys.org/news/2026-09-year-royal-mystery-digital-clues.html",
+          "source": "Phys.org",
+          "date": "2026-09-15"
         }
       ]
     },
     "Physics": {
       "emoji": "⚡",
       "articles": [
-        {
-          "title": "Tiny sound waves could help solve a major quantum computing problem",
-          "summary": "Researchers at Harvard have demonstrated a way to protect quantum information using microscopic sound waves. By continuously surrounding a diamond-based qubit with mechanical vibrations, they extended its coherence time…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260911214245.htm",
-          "source": "Science Daily",
-          "date": "2026-09-12"
-        },
         {
           "title": "Physicists discover a hidden “curveball” in quantum light",
           "summary": "Researchers have experimentally demonstrated the optical Magnus effect for the first time, revealing that a tightly focused laser interacts most strongly with an atom slightly away from the beam’s center. The unexpected…",
@@ -212,25 +198,32 @@
           "date": "2026-09-13"
         },
         {
-          "title": "Physicists help uncover 'spooky' quantum effect in the Large Hadron Collider",
-          "summary": "Physicists at the University of Oxford have helped confirm that one of the strangest phenomena in physics—quantum entanglement—occurs even among some of the heaviest and most fleeting particles ever created. The…",
-          "url": "https://phys.org/news/2026-09-physicists-uncover-spooky-quantum-effect.html",
+          "title": "Novel particle beam could challenge Einstein's theory of gravity",
+          "summary": "Does gravity act equally on all particles in the universe, or are there differences between ordinary and exotic matter? Physics professor Anna Soter and her team at ETH Zurich and the Paul Scherrer Institute (PSI) in…",
+          "url": "https://phys.org/news/2026-09-particle-einstein-theory-gravity.html",
           "source": "Phys.org",
-          "date": "2026-09-14"
+          "date": "2026-09-15"
         },
         {
-          "title": "Wasps are disappearing this summer, and scientists are worried",
-          "summary": "Britain’s wasps have become mysteriously scarce this summer, and scientists suspect an unusual combination of temperature swings, heatwaves, and food shortages may be responsible. Even the wasps that remain appear…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260911003901.htm",
+          "title": "One of the fundamental forces is stronger than we thought",
+          "summary": "The most precise calculation yet of the electroweak force could help fix cracks in the standard model of particle physics",
+          "url": "https://www.newscientist.com/article/2589002-one-of-the-fundamental-forces-is-stronger-than-we-thought/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "The shape behind the Einstein problem just revealed strange new physics",
+          "summary": "A mathematical shape famous for covering a surface without ever repeating has revealed an unexpected ability to twist light into unusual chiral patterns. The discovery could lead to new ways of controlling light…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260914102432.htm",
           "source": "Science Daily",
-          "date": "2026-09-11"
+          "date": "2026-09-15"
         },
         {
-          "title": "Crepuscular rays are sunrays in twilight skies",
-          "summary": "Crepuscular rays form around twilight when particles in the atmosphere reflect the sun's light beams toward our eyes. See photos of the phenomenon here. The post Crepuscular rays are sunrays in twilight skies first…",
-          "url": "https://earthsky.org/earth/crepuscular-rays-sunrays-photos-around-world/",
-          "source": "EarthSky",
-          "date": "2026-09-13"
+          "title": "Europe's e‑waste is a valuable resource—let's not throw it away",
+          "summary": "Throwing something away that is urgently needed, expensive and difficult to source sounds crazy. Yet of the 60 metals contained in old electronic devices such as phones, screens and washing machines, only a few are…",
+          "url": "https://phys.org/news/2026-09-europe-ewaste-valuable-resource.html",
+          "source": "Phys.org",
+          "date": "2026-09-15"
         }
       ]
     }
