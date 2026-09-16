@@ -1,16 +1,9 @@
 {
-  "updated": "2026-09-15T17:29:27Z",
+  "updated": "2026-09-16T17:29:41Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
-        {
-          "title": "Advanced X-ray crystallography determines structure of macromolecule at unprecedented resolution",
-          "summary": "Proteins are high-performance molecular machines that carry out nearly every biochemical function inside living cells. To understand how they achieve this, scientists often examine their detailed atomic structure, which…",
-          "url": "https://phys.org/news/2026-09-advanced-ray-crystallography-macromolecule-unprecedented.html",
-          "source": "Phys.org",
-          "date": "2026-09-15"
-        },
         {
           "title": "Chemistry textbooks have been getting this wrong for nearly 100 years",
           "summary": "A foundational chemistry concept found in textbooks for almost 100 years may have been taught incorrectly. Researchers say the inductive effect in neutral molecules appears to extend only across one chemical bond…",
@@ -19,11 +12,11 @@
           "date": "2026-09-14"
         },
         {
-          "title": "Robots and AI uncover unexpected pathway in classic 135-year-old chemical reaction",
-          "summary": "Chemical reactions are often written as simple equations: Starting materials go in, and a product comes out. In reality, the same substrates can follow many different pathways depending on their concentrations…",
-          "url": "https://phys.org/news/2026-09-robots-ai-uncover-unexpected-pathway.html",
-          "source": "Phys.org",
-          "date": "2026-09-15"
+          "title": "Scientists find an immune “false alarm” that may drive rapid aging",
+          "summary": "Scientists have discovered that some severe genetic disorders linked to rapid aging may be driven not just by damaged DNA, but by the body’s overreaction to that damage. When broken DNA fragments leak into the wrong…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260915232130.htm",
+          "source": "Science Daily",
+          "date": "2026-09-16"
         },
         {
           "title": "Scientists stunned as volcano cloud starts destroying methane",
@@ -33,11 +26,18 @@
           "date": "2026-09-15"
         },
         {
-          "title": "Scientists find a new layer of Alzheimer’s hidden in the genome",
-          "summary": "Scientists found that the 3D organization of DNA is disrupted in several types of brain cells affected by Alzheimer’s disease, altering how important genes are switched on and off. The discovery reveals a previously…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260912220051.htm",
-          "source": "Science Daily",
-          "date": "2026-09-13"
+          "title": "Prime assembly can correct multiple mutations at once, pointing toward universal gene therapies",
+          "summary": "Genomic editing holds great potential yet continues to have limitations. Current methods either rely on untargeted gene delivery or short DNA edits that need to be individualized for each patient. A new paper published…",
+          "url": "https://phys.org/news/2026-09-prime-multiple-mutations-universal-gene.html",
+          "source": "Phys.org",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Spring-like porous crystals could enable chemically responsive microscale materials",
+          "summary": "Crystals are usually imagined as rigid objects with flat faces and straight edges. A research team led by the University of Osaka has recently created a porous crystal that grows into a spring-like helix. The team also…",
+          "url": "https://phys.org/news/2026-09-porous-crystals-enable-chemically-responsive.html",
+          "source": "Phys.org",
+          "date": "2026-09-16"
         }
       ]
     },
@@ -45,11 +45,11 @@
       "emoji": "🚀",
       "articles": [
         {
-          "title": "SpaceX launches 3 telecom satellites to orbit on 700th Falcon mission of all time (video)",
-          "summary": "SpaceX lofted three of SES's O3b mPOWER communications satellites to orbit today (Sept. 13), on the 700th mission to date for the Falcon rocket family.",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-3-telecom-satellites-to-orbit-on-700th-falcon-mission-of-all-time-video",
-          "source": "Space.com",
-          "date": "2026-09-13"
+          "title": "NASA’s Integrated Medical Model (IMM)",
+          "summary": "Planning crewed missions to the Moon and Mars involves preparing for the medical realities of long-duration space travel. Factors like cosmic radiation, microgravity, and distance from Earth create unique health…",
+          "url": "https://www.nasa.gov/general/nasas-integrated-medical-model-imm/",
+          "source": "NASA",
+          "date": "2026-09-16"
         },
         {
           "title": "On this day in space! Sept. 15, 1968: Russian tortoises (& other critters) launch around the moon on Zond 5 spacecraft in wild first circumlunar flight",
@@ -85,6 +85,27 @@
       "emoji": "🐾",
       "articles": [
         {
+          "title": "A 240-million-year-old fossil just changed the dinosaur timeline",
+          "summary": "A newly identified 240-million-year-old animal from Tanzania is forcing scientists to rethink the early dinosaur timeline. Dinodontosaurus isiyavamanda belongs to a group previously known only from South America…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260915232128.htm",
+          "source": "Science Daily",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Half-billion-year-old fossils rewrite the origin story of starfish",
+          "summary": "Scientists have discovered several 518-million-year-old fossils that reshape understanding of the origins of the animal group containing starfish. The fossils show that these animals ate using tentacles rather than…",
+          "url": "https://phys.org/news/2026-09-billion-year-fossils-rewrite-story.html",
+          "source": "Phys.org",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "New species of egg-eating snake discovered in Ethiopia's Harenna Forest",
+          "summary": "A new species of snake that feeds exclusively on birds' eggs has been discovered in the Harenna Forest in Ethiopia, one of the last substantial tracts of natural forest left in the Horn of Africa.",
+          "url": "https://phys.org/news/2026-09-species-egg-snake-ethiopia-harenna.html",
+          "source": "Phys.org",
+          "date": "2026-09-16"
+        },
+        {
           "title": "A coral reef thought dead for 60 years is teeming with life",
           "summary": "More than 60 years after surveys suggested a deep coral reef off Benin was probably dead, scientists have found it alive. Cameras revealed healthy-looking coral patches supporting multiple fish species more than 50…",
           "url": "https://www.sciencedaily.com/releases/2026/09/260913081927.htm",
@@ -92,32 +113,11 @@
           "date": "2026-09-15"
         },
         {
-          "title": "'HyperBird' imaging platform spots grape diseases before they're visible",
-          "summary": "HyperBird, a cutting-edge imaging platform for observing microscopic traits in plants, can detect grape diseases—such as powdery and downy mildews, which cost vineyard owners billions in annual losses globally—days…",
-          "url": "https://phys.org/news/2026-09-hyperbird-imaging-platform-grape-diseases.html",
+          "title": "Land use and management intensity affect the suitability of habitats for wildlife in Europe",
+          "summary": "Common, wide-ranging vertebrate species, such as foxes, may be finding more suitable habitat in towns and cities than in the wider landscape, while rarer species—which live in smaller areas—appear to favor different…",
+          "url": "https://phys.org/news/2026-09-intensity-affect-suitability-habitats-wildlife.html",
           "source": "Phys.org",
-          "date": "2026-09-15"
-        },
-        {
-          "title": "UV light reveals possible camouflage on a 125-million-year-old crocodile",
-          "summary": "A 125-million-year-old crocodile fossil has revealed preserved skin, possible sensory organs, sophisticated respiratory structures, and an unexpected pattern on its tail. Ultraviolet light exposed alternating bands that…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260914102436.htm",
-          "source": "Science Daily",
-          "date": "2026-09-15"
-        },
-        {
-          "title": "Young European shags reveal how first winter experiences may guide migration",
-          "summary": "Should I stay or should I go? What determines whether birds migrate for the winter? This is one of the questions explored in a new doctoral thesis by Cassandra Ugland from NTNU's Department of Biology. The work is…",
-          "url": "https://phys.org/news/2026-09-young-european-shags-reveal-winter.html",
-          "source": "Phys.org",
-          "date": "2026-09-15"
-        },
-        {
-          "title": "For many group-living females, breeding and raising young are shared endeavors",
-          "summary": "Some female animals living in groups raise offspring that are not their own, sometimes without reproducing themselves. While the behavior of cooperatively breeding species is well documented, some aspects remain poorly…",
-          "url": "https://phys.org/news/2026-09-group-females-young-endeavors.html",
-          "source": "Phys.org",
-          "date": "2026-09-15"
+          "date": "2026-09-16"
         }
       ]
     },
@@ -125,91 +125,55 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Global warming is breaking a 400-year climate link between two oceans",
-          "summary": "The Indian and Pacific oceans have been climatically linked for centuries, but scientists say that connection is now breaking down in an exceptional way. Ancient climate records suggest volcanoes disrupted the…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260912220029.htm",
-          "source": "Science Daily",
-          "date": "2026-09-13"
+          "title": "Satellite data gives clearer picture of how ice sheets are losing mass",
+          "summary": "The longest satellite record ever compiled shows the vast majority of ice loss from Greenland and Antarctica is due to glaciers flowing faster, rather than warmer air temperatures melting them at the surface",
+          "url": "https://www.newscientist.com/article/2589537-satellite-data-gives-clearer-picture-of-how-ice-sheets-are-losing-mass/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-09-16"
         },
         {
-          "title": "Back-to-back Arctic storms can double sea ice loss",
-          "summary": "Scientists have found that Arctic cyclones become especially destructive when several strike one after another. These storm clusters cause about twice as much sea ice loss as isolated cyclones, with impacts that persist…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260912220045.htm",
-          "source": "Science Daily",
-          "date": "2026-09-14"
-        },
-        {
-          "title": "Satellite data reveal ESG scores track public image more than actual forest loss",
-          "summary": "Environmental sustainability researchers at NUS found that widely used environmental, social and governance (ESG) ratings often fail to reflect companies' actual exposure to deforestation, highlighting the need to…",
-          "url": "https://phys.org/news/2026-09-satellite-reveal-esg-scores-track.html",
+          "title": "Climate change is putting the squeeze on the world's grapegrowers",
+          "summary": "This year, the European summer has been sweltering. It is unprecedented in many ways, marked by extreme heat, drought and record-breaking fires. Across the continent, fires have consumed hundreds of homes and prompted…",
+          "url": "https://phys.org/news/2026-09-climate-world-grapegrowers.html",
           "source": "Phys.org",
-          "date": "2026-09-15"
+          "date": "2026-09-16"
         },
         {
-          "title": "Sun news: Chunk of sun-stuff on its way to Earth",
-          "summary": "Sun news September 15, 2026: A filament eruption sent a coronal mass ejection toward Earth, due September 17. Minor geomagnetic storms are possible. The post Sun news: Chunk of sun-stuff on its way to Earth first…",
-          "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
-          "source": "EarthSky",
-          "date": "2026-09-15"
+          "title": "Measuring milk's carbon footprint",
+          "summary": "Every product or service has a \"carbon footprint,\" a measure of the environmental impact of creating or delivering it.",
+          "url": "https://phys.org/news/2026-09-carbon-footprint.html",
+          "source": "Phys.org",
+          "date": "2026-09-16"
         },
         {
-          "title": "Venus brightest in the evening sky this week",
-          "summary": "See Venus brightest in the evening sky this week, with greatest brilliancy coming around September 18, 2026. Look west after sunset. The post Venus brightest in the evening sky this week first appeared on EarthSky .",
-          "url": "https://earthsky.org/astronomy-essentials/venus-brightest-greatest-brilliancy-greatest-illuminated-extent-2/",
+          "title": "Wildfires near the South Pole burned 90 million years ago",
+          "summary": "Researchers have found evidence in a sediment core in Antarctica that wildfires near the South Pole were a regular occurrence some 90 million years ago. The post Wildfires near the South Pole burned 90 million years ago…",
+          "url": "https://earthsky.org/earth/wildfires-near-the-south-pole-90-million-years-ago/",
           "source": "EarthSky",
-          "date": "2026-09-13"
+          "date": "2026-09-16"
+        },
+        {
+          "title": "This week’s new questions",
+          "summary": "If every ship on the planet were hauled out of the water, how much would global sea levels change, and how quickly? How different would Earth be if anaerobic life were the only life form, and could it have become…",
+          "url": "https://www.newscientist.com/article/2588900-this-weeks-new-questions-363/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-09-16"
         }
       ]
     },
     "Technology & Inventions": {
       "emoji": "🤖",
-      "articles": [
-        {
-          "title": "Scientists are building a microscope powered by a quantum computer",
-          "summary": "Scientists are combining an electron microscope with a quantum computer to squeeze far more information from each electron. The approach could reveal faint details with fewer electrons, helping protect fragile samples…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260912220038.htm",
-          "source": "Science Daily",
-          "date": "2026-09-13"
-        },
-        {
-          "title": "We may finally have a way to rate a quantum computer’s usefulness",
-          "summary": "Determining how useful different quantum computers are has been a long running challenge – now researchers appear to have the answer",
-          "url": "https://www.newscientist.com/article/2589378-we-may-finally-have-a-way-to-rate-a-quantum-computers-usefulness/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-09-15"
-        },
-        {
-          "title": "A 5,000-year-old royal mystery: Digital clues point to Meretneith as Egypt's female king",
-          "summary": "More than 5,000 years ago, a royal woman named Meretneith (also written as Merneith) lived in ancient Egypt. She was possibly the daughter of Djer, the third king of the First Dynasty, a period when the first kings…",
-          "url": "https://phys.org/news/2026-09-year-royal-mystery-digital-clues.html",
-          "source": "Phys.org",
-          "date": "2026-09-15"
-        }
-      ]
+      "articles": []
     },
     "Physics": {
       "emoji": "⚡",
       "articles": [
         {
-          "title": "Physicists discover a hidden “curveball” in quantum light",
-          "summary": "Researchers have experimentally demonstrated the optical Magnus effect for the first time, revealing that a tightly focused laser interacts most strongly with an atom slightly away from the beam’s center. The unexpected…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260912220025.htm",
-          "source": "Science Daily",
-          "date": "2026-09-13"
-        },
-        {
-          "title": "Novel particle beam could challenge Einstein's theory of gravity",
-          "summary": "Does gravity act equally on all particles in the universe, or are there differences between ordinary and exotic matter? Physics professor Anna Soter and her team at ETH Zurich and the Paul Scherrer Institute (PSI) in…",
-          "url": "https://phys.org/news/2026-09-particle-einstein-theory-gravity.html",
+          "title": "Heating mica to 200°C reveals friction independent of sliding speed",
+          "summary": "Through joint research with the U.S. Geological Survey and the University of Tokyo, NIMS for the first time experimentally demonstrated friction completely independent of sliding velocity—an ideal that had never been…",
+          "url": "https://phys.org/news/2026-09-mica-200c-reveals-friction-independent.html",
           "source": "Phys.org",
-          "date": "2026-09-15"
-        },
-        {
-          "title": "One of the fundamental forces is stronger than we thought",
-          "summary": "The most precise calculation yet of the electroweak force could help fix cracks in the standard model of particle physics",
-          "url": "https://www.newscientist.com/article/2589002-one-of-the-fundamental-forces-is-stronger-than-we-thought/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-09-15"
+          "date": "2026-09-16"
         },
         {
           "title": "The shape behind the Einstein problem just revealed strange new physics",
@@ -219,11 +183,25 @@
           "date": "2026-09-15"
         },
         {
-          "title": "Europe's e‑waste is a valuable resource—let's not throw it away",
-          "summary": "Throwing something away that is urgently needed, expensive and difficult to source sounds crazy. Yet of the 60 metals contained in old electronic devices such as phones, screens and washing machines, only a few are…",
-          "url": "https://phys.org/news/2026-09-europe-ewaste-valuable-resource.html",
+          "title": "How some cyclists paradoxically start 'from rest' with a non-zero velocity",
+          "summary": "Some track cyclists appear to break the rules of physics, but a new study, published in the journal Royal Society Open Science, has created a model explaining the illusion. The results suggest that a quick succession of…",
+          "url": "https://phys.org/news/2026-09-cyclists-paradoxically-rest-velocity.html",
           "source": "Phys.org",
-          "date": "2026-09-15"
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Dual findings reveal how to control coherence in plasmonic nanolasers",
+          "summary": "Researchers at the University of Eastern Finland have uncovered two complementary mechanisms that govern coherence in miniaturized lasers composed of metallic nanoparticle arrays incorporated into an optical gain…",
+          "url": "https://phys.org/news/2026-09-dual-reveal-coherence-plasmonic-nanolasers.html",
+          "source": "Phys.org",
+          "date": "2026-09-16"
+        },
+        {
+          "title": "Why can’t we cool water as quickly as we can heat it?",
+          "summary": "Our readers send in their thoughts – and one reveals they hold a Guinness World Record",
+          "url": "https://www.newscientist.com/article/2588897-why-cant-we-cool-water-as-quickly-as-we-can-heat-it/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-09-16"
         }
       ]
     }
