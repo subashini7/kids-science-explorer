@@ -1,16 +1,9 @@
 {
-  "updated": "2026-09-16T17:29:41Z",
+  "updated": "2026-09-17T17:29:57Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
-        {
-          "title": "Chemistry textbooks have been getting this wrong for nearly 100 years",
-          "summary": "A foundational chemistry concept found in textbooks for almost 100 years may have been taught incorrectly. Researchers say the inductive effect in neutral molecules appears to extend only across one chemical bond…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260913082157.htm",
-          "source": "Science Daily",
-          "date": "2026-09-14"
-        },
         {
           "title": "Scientists find an immune “false alarm” that may drive rapid aging",
           "summary": "Scientists have discovered that some severe genetic disorders linked to rapid aging may be driven not just by damaged DNA, but by the body’s overreaction to that damage. When broken DNA fragments leak into the wrong…",
@@ -26,18 +19,25 @@
           "date": "2026-09-15"
         },
         {
-          "title": "Prime assembly can correct multiple mutations at once, pointing toward universal gene therapies",
-          "summary": "Genomic editing holds great potential yet continues to have limitations. Current methods either rely on untargeted gene delivery or short DNA edits that need to be individualized for each patient. A new paper published…",
-          "url": "https://phys.org/news/2026-09-prime-multiple-mutations-universal-gene.html",
+          "title": "What ancient Mars rocks reveal about its buried carbonate stores",
+          "summary": "Carbonate minerals are among the best records of past liquid water on Mars: They form when water carrying dissolved carbon dioxide reacts with rock, and their composition reflects the chemistry of both. Yet Mars has…",
+          "url": "https://phys.org/news/2026-09-ancient-mars-reveal-carbonate.html",
           "source": "Phys.org",
-          "date": "2026-09-16"
+          "date": "2026-09-17"
         },
         {
-          "title": "Spring-like porous crystals could enable chemically responsive microscale materials",
-          "summary": "Crystals are usually imagined as rigid objects with flat faces and straight edges. A research team led by the University of Osaka has recently created a porous crystal that grows into a spring-like helix. The team also…",
-          "url": "https://phys.org/news/2026-09-porous-crystals-enable-chemically-responsive.html",
+          "title": "Robotic lab sets up and runs optics experiments on demand",
+          "summary": "Every new generation of phone display, television screen and solar panel is the result of precision optics experiments, which use lasers and other light sources to measure the optical properties of candidate materials…",
+          "url": "https://phys.org/news/2026-09-robotic-lab-optics-demand.html",
           "source": "Phys.org",
-          "date": "2026-09-16"
+          "date": "2026-09-17"
+        },
+        {
+          "title": "Scientists find a natural gut compound that helps heal the intestine",
+          "summary": "A natural compound produced by gut bacteria after digesting foods such as pomegranates, walnuts, and berries may help repair and protect the intestinal lining. The discovery reveals a surprising beneficial side of an…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260916232529.htm",
+          "source": "Science Daily",
+          "date": "2026-09-17"
         }
       ]
     },
@@ -45,39 +45,39 @@
       "emoji": "🚀",
       "articles": [
         {
-          "title": "NASA’s Integrated Medical Model (IMM)",
-          "summary": "Planning crewed missions to the Moon and Mars involves preparing for the medical realities of long-duration space travel. Factors like cosmic radiation, microgravity, and distance from Earth create unique health…",
-          "url": "https://www.nasa.gov/general/nasas-integrated-medical-model-imm/",
+          "title": "NASA’s Moon Orbiter Spots New, ‘Once-in-Century’ Moon Crater",
+          "summary": "It started as a routine data-quality check. But as Robert Wagner, a scientist with NASA’s Lunar Reconnaissance Orbiter (LRO), scanned a giant Moon map on his computer screen, an unusually large bright spot circled by a…",
+          "url": "https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/",
           "source": "NASA",
           "date": "2026-09-16"
         },
         {
-          "title": "On this day in space! Sept. 15, 1968: Russian tortoises (& other critters) launch around the moon on Zond 5 spacecraft in wild first circumlunar flight",
-          "summary": "On Sept. 15, 1968, the Soviet Union launched the Zond 5 spacecraft carrying tortoises and more on a mission to loop around the moon and return to Earth. Here's why it mattered.",
-          "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-15-2026",
-          "source": "Space.com",
-          "date": "2026-09-15"
+          "title": "James Webb reveals Chariklo’s mysterious rings are changing faster than expected",
+          "summary": "The James Webb Space Telescope has revealed surprising changes in the rings around Chariklo, a small object orbiting between Saturn and Uranus. Over just a few years, its inner ring became more opaque while its outer…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260915232124.htm",
+          "source": "Science Daily",
+          "date": "2026-09-16"
         },
         {
-          "title": "'If I wanted to go to space, I would have stayed at NASA': What's next for Artemis II astronaut Victor Glover after his mission to the moon",
-          "summary": "Former NASA astronaut and Artemis II pilot Victor Glover is stepping away from his space agency duties to take on a new role — executive advisor to the president of Cal Poly University.",
-          "url": "https://www.space.com/space-exploration/artemis/if-i-wanted-to-go-to-space-i-would-have-stayed-at-nasa-whats-next-for-artemis-ii-astronaut-victor-glover-after-his-mission-to-the-moon",
-          "source": "Space.com",
-          "date": "2026-09-15"
+          "title": "APOD: 2026 September 17 – A Treasure Chest in the Carina Nebula",
+          "summary": "APOD Science APOD APOD: 2026 September 17 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
+          "url": "https://science.nasa.gov/image-article/apod-2026-september-17-a-treasure-chest-in-the-carina-nebula/",
+          "source": "NASA",
+          "date": "2026-09-17"
         },
         {
-          "title": "Vega C rocket launches 2 European Earth-observing satellites to orbit from South America (video)",
-          "summary": "A Vega C rocket launched Europe's FLEX and Copernicus-3C spacecraft toward orbit from French Guiana tonight (Sept. 14).",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/vega-rocket-launch-europe-flex-sentinel-3c-earth-observation-satellites",
-          "source": "Space.com",
-          "date": "2026-09-14"
+          "title": "The rings of Chariklo are unexpectedly dynamic and changing",
+          "summary": "New observations by the James Webb Space Telescope show that the rings of Chariklo, a Centaur in the outer solar system, changed over a period of a few years. The post The rings of Chariklo are unexpectedly dynamic and…",
+          "url": "https://earthsky.org/space/rings-of-chariklo-centaur-solar-system/",
+          "source": "EarthSky",
+          "date": "2026-09-16"
         },
         {
-          "title": "On this day in space! Sept. 14, 1966: NASA's Gemini 11 astronauts set altitude record for Earth orbit that went unbroken for 58 years",
-          "summary": "On Sept. 14, 1966, NASA's Gemini 11 mission set an spaceflight altitude record that lasted for nearly six decades. Here's why the mission mattered.",
-          "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-14-2026",
-          "source": "Space.com",
-          "date": "2026-09-14"
+          "title": "NASA Unveils Enterprise, the First Space Shuttle",
+          "summary": "Fifty years ago, on Sept. 17, 1976—Constitution Day of America’s bicentennial year—NASA unveiled its first space shuttle orbiter, OV-101, to the public. NASA had originally planned to name the vehicle Constitution, but…",
+          "url": "https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/",
+          "source": "NASA",
+          "date": "2026-09-17"
         }
       ]
     },
@@ -92,32 +92,32 @@
           "date": "2026-09-16"
         },
         {
-          "title": "Half-billion-year-old fossils rewrite the origin story of starfish",
-          "summary": "Scientists have discovered several 518-million-year-old fossils that reshape understanding of the origins of the animal group containing starfish. The fossils show that these animals ate using tentacles rather than…",
-          "url": "https://phys.org/news/2026-09-billion-year-fossils-rewrite-story.html",
-          "source": "Phys.org",
-          "date": "2026-09-16"
+          "title": "Scientists discover a mysterious new frog hiding in the Amazon",
+          "summary": "Scientists discovered a new frog species in the flooded forests of the western Amazon, distinguishing it from nearly identical relatives through DNA and its unique call. Adenomera varcena highlights how much Amazonian…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260917003737.htm",
+          "source": "Science Daily",
+          "date": "2026-09-17"
         },
         {
-          "title": "New species of egg-eating snake discovered in Ethiopia's Harenna Forest",
-          "summary": "A new species of snake that feeds exclusively on birds' eggs has been discovered in the Harenna Forest in Ethiopia, one of the last substantial tracts of natural forest left in the Horn of Africa.",
-          "url": "https://phys.org/news/2026-09-species-egg-snake-ethiopia-harenna.html",
-          "source": "Phys.org",
-          "date": "2026-09-16"
-        },
-        {
-          "title": "A coral reef thought dead for 60 years is teeming with life",
-          "summary": "More than 60 years after surveys suggested a deep coral reef off Benin was probably dead, scientists have found it alive. Cameras revealed healthy-looking coral patches supporting multiple fish species more than 50…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260913081927.htm",
+          "title": "UV light reveals possible camouflage on a 125-million-year-old crocodile",
+          "summary": "A 125-million-year-old crocodile fossil has revealed preserved skin, possible sensory organs, sophisticated respiratory structures, and an unexpected pattern on its tail. Ultraviolet light exposed alternating bands that…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260914102436.htm",
           "source": "Science Daily",
           "date": "2026-09-15"
         },
         {
-          "title": "Land use and management intensity affect the suitability of habitats for wildlife in Europe",
-          "summary": "Common, wide-ranging vertebrate species, such as foxes, may be finding more suitable habitat in towns and cities than in the wider landscape, while rarer species—which live in smaller areas—appear to favor different…",
-          "url": "https://phys.org/news/2026-09-intensity-affect-suitability-habitats-wildlife.html",
+          "title": "We could soon be able to track changes in Australia's forests in near‑real time—using satellites",
+          "summary": "Forests and woodlands cover millions of hectares across Australia, from tropical rainforests and temperate eucalypt forests to the vast woodlands and shrublands of the arid interior. They store enormous amounts of…",
+          "url": "https://phys.org/news/2026-09-track-australia-forests-nearreal-satellites.html",
           "source": "Phys.org",
-          "date": "2026-09-16"
+          "date": "2026-09-17"
+        },
+        {
+          "title": "Beautiful new cat species is first to be named in a century",
+          "summary": "The enigmatic tiger cats of South America now encompass a new species – the tilcayo – bringing the number of known tiger cat species to five",
+          "url": "https://www.newscientist.com/article/2589847-beautiful-new-cat-species-is-first-to-be-named-in-a-century/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-09-17"
         }
       ]
     },
@@ -132,48 +132,70 @@
           "date": "2026-09-16"
         },
         {
-          "title": "Climate change is putting the squeeze on the world's grapegrowers",
-          "summary": "This year, the European summer has been sweltering. It is unprecedented in many ways, marked by extreme heat, drought and record-breaking fires. Across the continent, fires have consumed hundreds of homes and prompted…",
-          "url": "https://phys.org/news/2026-09-climate-world-grapegrowers.html",
+          "title": "Extreme rainfall caused by climate change creates uneven risks to farming in China",
+          "summary": "Climate change is increasing the likelihood and intensity of extreme rainfall, putting China's agricultural land at growing risk of flooding, disruption and damage, according to new research led by Dr. Haoyu Hu from the…",
+          "url": "https://phys.org/news/2026-09-extreme-rainfall-climate-uneven-farming.html",
           "source": "Phys.org",
-          "date": "2026-09-16"
+          "date": "2026-09-17"
         },
         {
-          "title": "Measuring milk's carbon footprint",
-          "summary": "Every product or service has a \"carbon footprint,\" a measure of the environmental impact of creating or delivering it.",
-          "url": "https://phys.org/news/2026-09-carbon-footprint.html",
+          "title": "Climate change is making it easier for invasive species to succeed",
+          "summary": "In 2017, Hurricane Maria made landfall on Puerto Rico with maximum sustained winds of 250 kilometers per hour (155 mph). It devastated communities and infrastructure, was associated with nearly 3,000 deaths and caused…",
+          "url": "https://phys.org/news/2026-09-climate-easier-invasive-species-succeed.html",
           "source": "Phys.org",
-          "date": "2026-09-16"
+          "date": "2026-09-17"
         },
         {
-          "title": "Wildfires near the South Pole burned 90 million years ago",
-          "summary": "Researchers have found evidence in a sediment core in Antarctica that wildfires near the South Pole were a regular occurrence some 90 million years ago. The post Wildfires near the South Pole burned 90 million years ago…",
-          "url": "https://earthsky.org/earth/wildfires-near-the-south-pole-90-million-years-ago/",
-          "source": "EarthSky",
-          "date": "2026-09-16"
+          "title": "Deep-sea hydrothermal vents may be a hot spot for pregnant Antarctic krill",
+          "summary": "Antarctic krill are tiny shrimp-like creatures that were previously thought to mostly inhabit the upper layer of the Southern Ocean. Although they had occasionally been observed at deeper levels, they were never seen…",
+          "url": "https://phys.org/news/2026-09-deep-sea-hydrothermal-vents-hot.html",
+          "source": "Phys.org",
+          "date": "2026-09-17"
         },
         {
-          "title": "This week’s new questions",
-          "summary": "If every ship on the planet were hauled out of the water, how much would global sea levels change, and how quickly? How different would Earth be if anaerobic life were the only life form, and could it have become…",
-          "url": "https://www.newscientist.com/article/2588900-this-weeks-new-questions-363/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-09-16"
+          "title": "Temperature measurement error may cause climate-impact studies to understate impacts by 15% or more",
+          "summary": "When policymakers and city officials plan for climate change, they rely on economic studies showing how extreme heat affects violent crime, public health, energy grids and crop yields.",
+          "url": "https://phys.org/news/2026-09-temperature-error-climate-impact-understate.html",
+          "source": "Phys.org",
+          "date": "2026-09-17"
         }
       ]
     },
     "Technology & Inventions": {
       "emoji": "🤖",
-      "articles": []
+      "articles": [
+        {
+          "title": "Opt-out AI training plan could weaken Australian copyright protections",
+          "summary": "The ground is shifting beneath the feet of Australian authors and other creatives. A leaked proposal seen by the ABC suggests the government might grant artificial intelligence (AI) companies access to the copyrighted…",
+          "url": "https://phys.org/news/2026-09-opt-ai-weaken-australian-copyright.html",
+          "source": "Phys.org",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "Diamond quantum sensors can detect heart magnetism at room temperature without skin contact",
+          "summary": "Physicists at Johannes Gutenberg University Mainz (JGU) have developed a technology that uses quantum sensors to measure biomagnetic signals, such as heart activity. Researchers from the DIAQNOS (DIAmond-based Quantum…",
+          "url": "https://phys.org/news/2026-09-diamond-quantum-sensors-heart-magnetism.html",
+          "source": "Phys.org",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "Robots clash in first naval engagement between uncrewed sea drones",
+          "summary": "Earlier this month, the Ukrainian Navy used an uncrewed vessel to attack and sink an uncrewed naval robot operated by Russian forces",
+          "url": "https://www.newscientist.com/article/2589842-robots-clash-in-first-ever-naval-engagement-between-uncrewed-crafts/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-09-17"
+        }
+      ]
     },
     "Physics": {
       "emoji": "⚡",
       "articles": [
         {
-          "title": "Heating mica to 200°C reveals friction independent of sliding speed",
-          "summary": "Through joint research with the U.S. Geological Survey and the University of Tokyo, NIMS for the first time experimentally demonstrated friction completely independent of sliding velocity—an ideal that had never been…",
-          "url": "https://phys.org/news/2026-09-mica-200c-reveals-friction-independent.html",
-          "source": "Phys.org",
-          "date": "2026-09-16"
+          "title": "A $100 detector can see invisible particles raining down from space",
+          "summary": "A pocket-sized, roughly $100 detector can reveal the invisible stream of cosmic particles constantly passing through Earth and even through our bodies. What began as a student physics project is now being used in major…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260917003725.htm",
+          "source": "Science Daily",
+          "date": "2026-09-17"
         },
         {
           "title": "The shape behind the Einstein problem just revealed strange new physics",
@@ -183,25 +205,11 @@
           "date": "2026-09-15"
         },
         {
-          "title": "How some cyclists paradoxically start 'from rest' with a non-zero velocity",
-          "summary": "Some track cyclists appear to break the rules of physics, but a new study, published in the journal Royal Society Open Science, has created a model explaining the illusion. The results suggest that a quick succession of…",
-          "url": "https://phys.org/news/2026-09-cyclists-paradoxically-rest-velocity.html",
+          "title": "Is dark matter 'natural?' Physicist puts the question to the test",
+          "summary": "Dark matter is one of the oldest open problems in physics. It makes up most of the matter in the universe and shapes how galaxies form and move, yet no one has ever directly detected it. Physicists have proposed dozens…",
+          "url": "https://phys.org/news/2026-09-dark-natural-physicist.html",
           "source": "Phys.org",
-          "date": "2026-09-16"
-        },
-        {
-          "title": "Dual findings reveal how to control coherence in plasmonic nanolasers",
-          "summary": "Researchers at the University of Eastern Finland have uncovered two complementary mechanisms that govern coherence in miniaturized lasers composed of metallic nanoparticle arrays incorporated into an optical gain…",
-          "url": "https://phys.org/news/2026-09-dual-reveal-coherence-plasmonic-nanolasers.html",
-          "source": "Phys.org",
-          "date": "2026-09-16"
-        },
-        {
-          "title": "Why can’t we cool water as quickly as we can heat it?",
-          "summary": "Our readers send in their thoughts – and one reveals they hold a Guinness World Record",
-          "url": "https://www.newscientist.com/article/2588897-why-cant-we-cool-water-as-quickly-as-we-can-heat-it/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-09-16"
+          "date": "2026-09-17"
         }
       ]
     }
