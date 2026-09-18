@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T17:29:57Z",
+  "updated": "2026-09-18T16:57:34Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
@@ -12,25 +12,18 @@
           "date": "2026-09-16"
         },
         {
-          "title": "Scientists stunned as volcano cloud starts destroying methane",
-          "summary": "The Hunga Tonga eruption may have triggered a surprising chemical reaction that destroyed some of the methane released into the atmosphere. Scientists say the discovery could reshape estimates of methane pollution and…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260915095750.htm",
+          "title": "Tiny atomic tweak makes plastic-eating enzymes more powerful",
+          "summary": "A new approach that changes just one atom in plastic-degrading enzymes could help make them more efficient while maintaining their stability, according to new research from The Australian National University published…",
+          "url": "https://phys.org/news/2026-09-tiny-atomic-tweak-plastic-enzymes.html",
+          "source": "Phys.org",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "Scientists restore a brain protein and reverse signs of aging in mice",
+          "summary": "Scientists found that declining levels of the brain protein Menin may help drive aging, with lower levels in mice linked to inflammation, cognitive decline, weaker bones, and thinner skin. Restoring Menin reversed…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260918000437.htm",
           "source": "Science Daily",
-          "date": "2026-09-15"
-        },
-        {
-          "title": "What ancient Mars rocks reveal about its buried carbonate stores",
-          "summary": "Carbonate minerals are among the best records of past liquid water on Mars: They form when water carrying dissolved carbon dioxide reacts with rock, and their composition reflects the chemistry of both. Yet Mars has…",
-          "url": "https://phys.org/news/2026-09-ancient-mars-reveal-carbonate.html",
-          "source": "Phys.org",
-          "date": "2026-09-17"
-        },
-        {
-          "title": "Robotic lab sets up and runs optics experiments on demand",
-          "summary": "Every new generation of phone display, television screen and solar panel is the result of precision optics experiments, which use lasers and other light sources to measure the optical properties of candidate materials…",
-          "url": "https://phys.org/news/2026-09-robotic-lab-optics-demand.html",
-          "source": "Phys.org",
-          "date": "2026-09-17"
+          "date": "2026-09-18"
         },
         {
           "title": "Scientists find a natural gut compound that helps heal the intestine",
@@ -38,6 +31,13 @@
           "url": "https://www.sciencedaily.com/releases/2026/09/260916232529.htm",
           "source": "Science Daily",
           "date": "2026-09-17"
+        },
+        {
+          "title": "Coffee on the nanoscale: Graphene oxide membrane removes half the caffeine while retaining key compounds",
+          "summary": "The humble coffee filter has the relatively simple job of letting the coffee through and leaving the grounds behind. But researchers from the ARC Center of Excellence for Carbon Science and Innovation (COE-CSI) are…",
+          "url": "https://phys.org/news/2026-09-coffee-nanoscale-graphene-oxide-membrane.html",
+          "source": "Phys.org",
+          "date": "2026-09-18"
         }
       ]
     },
@@ -45,39 +45,39 @@
       "emoji": "🚀",
       "articles": [
         {
-          "title": "NASA’s Moon Orbiter Spots New, ‘Once-in-Century’ Moon Crater",
-          "summary": "It started as a routine data-quality check. But as Robert Wagner, a scientist with NASA’s Lunar Reconnaissance Orbiter (LRO), scanned a giant Moon map on his computer screen, an unusually large bright spot circled by a…",
-          "url": "https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/",
+          "title": "NASA Awards Launch Services for StarBurst Gamma-Ray Detector",
+          "summary": "NASA has selected SpaceX to provide launch services for the agency’s StarBurst mission, a small satellite designed to investigate neutron star mergers and the origins of short gamma-ray bursts. StarBurst will launch…",
+          "url": "https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/",
           "source": "NASA",
-          "date": "2026-09-16"
+          "date": "2026-09-17"
         },
         {
-          "title": "James Webb reveals Chariklo’s mysterious rings are changing faster than expected",
-          "summary": "The James Webb Space Telescope has revealed surprising changes in the rings around Chariklo, a small object orbiting between Saturn and Uranus. Over just a few years, its inner ring became more opaque while its outer…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260915232124.htm",
+          "title": "SpaceX’s Starship will orbit Earth for first time during next flight",
+          "summary": "Starship's next test flight will be its first orbital mission. The craft will also release working Starlink V3 satellites for the first time, making the flight the first commercially useful Starship mission",
+          "url": "https://www.newscientist.com/article/2589461-spacexs-starship-will-orbit-earth-for-first-time-during-next-flight/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "NASA’s Hubble Spots an Out-of-Sync Galaxy",
+          "summary": "Though the spiral galaxy in this new image from the NASA/ESA Hubble Space Telescope seems serene, it hides a chaotic secret. This galaxy is NGC 4698, and it lies about 55 million light-years away in the constellation…",
+          "url": "https://science.nasa.gov/uncategorized/nasas-hubble-spots-an-out-of-sync-galaxy/",
+          "source": "NASA",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "NASA Invites Media to SpaceX’s 35th Resupply Launch to Space Station",
+          "summary": "Media accreditation is open for the next cargo launch that will deliver NASA science investigations, supplies, and equipment to the International Space Station. The 35th SpaceX commercial resupply services mission to…",
+          "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-35th-resupply-launch-to-space-station/",
+          "source": "NASA",
+          "date": "2026-09-17"
+        },
+        {
+          "title": "NASA’s Moon orbiter finds a 728-foot crater that wasn’t there before",
+          "summary": "NASA’s Lunar Reconnaissance Orbiter has revealed a 728-foot-wide crater that formed on the Moon in 2024, making it the largest newly formed crater ever identified in the solar system. The impact disturbed the surface…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260917003715.htm",
           "source": "Science Daily",
-          "date": "2026-09-16"
-        },
-        {
-          "title": "APOD: 2026 September 17 – A Treasure Chest in the Carina Nebula",
-          "summary": "APOD Science APOD APOD: 2026 September 17 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
-          "url": "https://science.nasa.gov/image-article/apod-2026-september-17-a-treasure-chest-in-the-carina-nebula/",
-          "source": "NASA",
-          "date": "2026-09-17"
-        },
-        {
-          "title": "The rings of Chariklo are unexpectedly dynamic and changing",
-          "summary": "New observations by the James Webb Space Telescope show that the rings of Chariklo, a Centaur in the outer solar system, changed over a period of a few years. The post The rings of Chariklo are unexpectedly dynamic and…",
-          "url": "https://earthsky.org/space/rings-of-chariklo-centaur-solar-system/",
-          "source": "EarthSky",
-          "date": "2026-09-16"
-        },
-        {
-          "title": "NASA Unveils Enterprise, the First Space Shuttle",
-          "summary": "Fifty years ago, on Sept. 17, 1976—Constitution Day of America’s bicentennial year—NASA unveiled its first space shuttle orbiter, OV-101, to the public. NASA had originally planned to name the vehicle Constitution, but…",
-          "url": "https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/",
-          "source": "NASA",
-          "date": "2026-09-17"
+          "date": "2026-09-18"
         }
       ]
     },
@@ -92,6 +92,20 @@
           "date": "2026-09-16"
         },
         {
+          "title": "Fishapod fossil shows early elbows came in a variety of forms",
+          "summary": "The fish that preceded the first four-legged land animals came in a wider variety of forms than we had thought, and fossils show that one had an elbow joint that moved in an oddly restrictive way",
+          "url": "https://www.newscientist.com/article/2589938-fishapod-fossil-shows-early-elbows-came-in-a-variety-of-forms/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "Scientists just named a new snake after Guns N’ Roses legend Slash",
+          "summary": "A newly discovered snake from New Guinea has been named after Guns N’ Roses guitarist Slash, who has loved reptiles since childhood. Genetic testing and physical differences confirmed that the reddish-brown groundsnake…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260918024816.htm",
+          "source": "Science Daily",
+          "date": "2026-09-18"
+        },
+        {
           "title": "Scientists discover a mysterious new frog hiding in the Amazon",
           "summary": "Scientists discovered a new frog species in the flooded forests of the western Amazon, distinguishing it from nearly identical relatives through DNA and its unique call. Adenomera varcena highlights how much Amazonian…",
           "url": "https://www.sciencedaily.com/releases/2026/09/260917003737.htm",
@@ -99,25 +113,11 @@
           "date": "2026-09-17"
         },
         {
-          "title": "UV light reveals possible camouflage on a 125-million-year-old crocodile",
-          "summary": "A 125-million-year-old crocodile fossil has revealed preserved skin, possible sensory organs, sophisticated respiratory structures, and an unexpected pattern on its tail. Ultraviolet light exposed alternating bands that…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260914102436.htm",
-          "source": "Science Daily",
-          "date": "2026-09-15"
-        },
-        {
-          "title": "We could soon be able to track changes in Australia's forests in near‑real time—using satellites",
-          "summary": "Forests and woodlands cover millions of hectares across Australia, from tropical rainforests and temperate eucalypt forests to the vast woodlands and shrublands of the arid interior. They store enormous amounts of…",
-          "url": "https://phys.org/news/2026-09-track-australia-forests-nearreal-satellites.html",
+          "title": "The art heist paradox: Why better police work can lead to more stolen masterpieces",
+          "summary": "When a multimillion-dollar masterpiece vanishes from a museum, the public calls for tougher criminal penalties and better-funded police task forces. But research from Wake Forest University suggests that some of these…",
+          "url": "https://phys.org/news/2026-09-art-heist-paradox-police-stolen.html",
           "source": "Phys.org",
-          "date": "2026-09-17"
-        },
-        {
-          "title": "Beautiful new cat species is first to be named in a century",
-          "summary": "The enigmatic tiger cats of South America now encompass a new species – the tilcayo – bringing the number of known tiger cat species to five",
-          "url": "https://www.newscientist.com/article/2589847-beautiful-new-cat-species-is-first-to-be-named-in-a-century/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-09-17"
+          "date": "2026-09-18"
         }
       ]
     },
@@ -125,39 +125,32 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Satellite data gives clearer picture of how ice sheets are losing mass",
-          "summary": "The longest satellite record ever compiled shows the vast majority of ice loss from Greenland and Antarctica is due to glaciers flowing faster, rather than warmer air temperatures melting them at the surface",
-          "url": "https://www.newscientist.com/article/2589537-satellite-data-gives-clearer-picture-of-how-ice-sheets-are-losing-mass/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-09-16"
+          "title": "In 2025, the ozone hole shrunk to one of its smallest sizes in decades",
+          "summary": "The Antarctic ozone hole in 2025 was one of the smallest in decades—a testament to the continuing success of international action to protect Earth's ozone layer, which shields us from the sun's harmful ultraviolet rays…",
+          "url": "https://phys.org/news/2026-09-ozone-hole-shrunk-smallest-sizes.html",
+          "source": "Phys.org",
+          "date": "2026-09-18"
         },
         {
-          "title": "Extreme rainfall caused by climate change creates uneven risks to farming in China",
-          "summary": "Climate change is increasing the likelihood and intensity of extreme rainfall, putting China's agricultural land at growing risk of flooding, disruption and damage, according to new research led by Dr. Haoyu Hu from the…",
-          "url": "https://phys.org/news/2026-09-extreme-rainfall-climate-uneven-farming.html",
-          "source": "Phys.org",
+          "title": "Summer Goes Out With a Heat Dome",
+          "summary": "Temperature records toppled across the central and southern U.S. as the autumnal equinox approached.",
+          "url": "https://science.nasa.gov/earth/earth-observatory/summer-goes-out-with-a-heat-dome/",
+          "source": "NASA",
           "date": "2026-09-17"
         },
         {
-          "title": "Climate change is making it easier for invasive species to succeed",
-          "summary": "In 2017, Hurricane Maria made landfall on Puerto Rico with maximum sustained winds of 250 kilometers per hour (155 mph). It devastated communities and infrastructure, was associated with nearly 3,000 deaths and caused…",
-          "url": "https://phys.org/news/2026-09-climate-easier-invasive-species-succeed.html",
-          "source": "Phys.org",
-          "date": "2026-09-17"
+          "title": "Anak Krakatau blasts ash nearly 10 miles high",
+          "summary": "Anak Krakatau erupted for more than 24 hours in early September, sending volcanic ash up to 50,000 feet into the atmosphere. The ash cloud shut down eight airports, disrupted nearly 3,000 flights, and affected air…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260917003718.htm",
+          "source": "Science Daily",
+          "date": "2026-09-18"
         },
         {
-          "title": "Deep-sea hydrothermal vents may be a hot spot for pregnant Antarctic krill",
-          "summary": "Antarctic krill are tiny shrimp-like creatures that were previously thought to mostly inhabit the upper layer of the Southern Ocean. Although they had occasionally been observed at deeper levels, they were never seen…",
-          "url": "https://phys.org/news/2026-09-deep-sea-hydrothermal-vents-hot.html",
-          "source": "Phys.org",
-          "date": "2026-09-17"
-        },
-        {
-          "title": "Temperature measurement error may cause climate-impact studies to understate impacts by 15% or more",
-          "summary": "When policymakers and city officials plan for climate change, they rely on economic studies showing how extreme heat affects violent crime, public health, energy grids and crop yields.",
-          "url": "https://phys.org/news/2026-09-temperature-error-climate-impact-understate.html",
-          "source": "Phys.org",
-          "date": "2026-09-17"
+          "title": "Scientists just discovered why Arctic sea ice moves so strangely",
+          "summary": "Arctic sea ice may move in unexpected ways because individual ice floes are constantly colliding and transferring energy. Researchers found that this simple process can explain several long-standing mysteries about how…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260917003708.htm",
+          "source": "Science Daily",
+          "date": "2026-09-18"
         }
       ]
     },
@@ -165,18 +158,11 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "Opt-out AI training plan could weaken Australian copyright protections",
-          "summary": "The ground is shifting beneath the feet of Australian authors and other creatives. A leaked proposal seen by the ABC suggests the government might grant artificial intelligence (AI) companies access to the copyrighted…",
-          "url": "https://phys.org/news/2026-09-opt-ai-weaken-australian-copyright.html",
+          "title": "As AI reshapes jobs and workers change industries, employers need to be more flexible too",
+          "summary": "Artificial intelligence (AI) is changing the tasks people do at work and the skills they need. As work changes, being able to move between jobs, and sometimes industries, may become increasingly important.",
+          "url": "https://phys.org/news/2026-09-ai-reshapes-jobs-workers-industries.html",
           "source": "Phys.org",
-          "date": "2026-09-17"
-        },
-        {
-          "title": "Diamond quantum sensors can detect heart magnetism at room temperature without skin contact",
-          "summary": "Physicists at Johannes Gutenberg University Mainz (JGU) have developed a technology that uses quantum sensors to measure biomagnetic signals, such as heart activity. Researchers from the DIAQNOS (DIAmond-based Quantum…",
-          "url": "https://phys.org/news/2026-09-diamond-quantum-sensors-heart-magnetism.html",
-          "source": "Phys.org",
-          "date": "2026-09-17"
+          "date": "2026-09-18"
         },
         {
           "title": "Robots clash in first naval engagement between uncrewed sea drones",
@@ -184,12 +170,33 @@
           "url": "https://www.newscientist.com/article/2589842-robots-clash-in-first-ever-naval-engagement-between-uncrewed-crafts/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
           "date": "2026-09-17"
+        },
+        {
+          "title": "Are bots changing how people talk? Language in the age of AI",
+          "summary": "A Facebook post about your trip to Peru. An Amazon review of a new toaster oven. An email to the super about the inflatable reindeer blocking the hallway. You phrase and rephrase things all day without thinking that…",
+          "url": "https://phys.org/news/2026-09-bots-people-language-age-ai.html",
+          "source": "Phys.org",
+          "date": "2026-09-18"
         }
       ]
     },
     "Physics": {
       "emoji": "⚡",
       "articles": [
+        {
+          "title": "Caltech’s tiny new chip can steer light in 74 quadrillionths of a second",
+          "summary": "A new Caltech device can redirect a beam of light in just 74 femtoseconds using another beam and a nanoscale silicon metasurface. The breakthrough could pave the way for dramatically faster photonic communications…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260918024823.htm",
+          "source": "Science Daily",
+          "date": "2026-09-18"
+        },
+        {
+          "title": "Scientists are about to test Einstein’s gravity with exotic matter",
+          "summary": "Scientists have found a new way to create a controlled beam of muonium, an exotic atom containing a heavier cousin of the electron. The advance could allow researchers to test for the first time whether gravity acts on…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260918024808.htm",
+          "source": "Science Daily",
+          "date": "2026-09-18"
+        },
         {
           "title": "A $100 detector can see invisible particles raining down from space",
           "summary": "A pocket-sized, roughly $100 detector can reveal the invisible stream of cosmic particles constantly passing through Earth and even through our bodies. What began as a student physics project is now being used in major…",
@@ -198,18 +205,18 @@
           "date": "2026-09-17"
         },
         {
-          "title": "The shape behind the Einstein problem just revealed strange new physics",
-          "summary": "A mathematical shape famous for covering a surface without ever repeating has revealed an unexpected ability to twist light into unusual chiral patterns. The discovery could lead to new ways of controlling light…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260914102432.htm",
-          "source": "Science Daily",
-          "date": "2026-09-15"
+          "title": "Physicists are scrambling to make sense of possible dark matter signal",
+          "summary": "Following the possible recent detection of a dark matter particle, researchers have already come up with a veritable cornucopia of possible models for what sort of particle it might have been",
+          "url": "https://www.newscientist.com/article/2589737-physicists-are-scrambling-to-make-sense-of-possible-dark-matter-signal/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-09-18"
         },
         {
-          "title": "Is dark matter 'natural?' Physicist puts the question to the test",
-          "summary": "Dark matter is one of the oldest open problems in physics. It makes up most of the matter in the universe and shapes how galaxies form and move, yet no one has ever directly detected it. Physicists have proposed dozens…",
-          "url": "https://phys.org/news/2026-09-dark-natural-physicist.html",
+          "title": "Black moms and pregnant women forced out of their homes in metro Detroit face health and safety threats",
+          "summary": "Is everyone entitled to a fair process before being forced out of their home?",
+          "url": "https://phys.org/news/2026-09-black-moms-pregnant-women-homes.html",
           "source": "Phys.org",
-          "date": "2026-09-17"
+          "date": "2026-09-18"
         }
       ]
     }
