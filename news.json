@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T16:57:34Z",
+  "updated": "2026-09-19T16:15:53Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
@@ -10,13 +10,6 @@
           "url": "https://www.sciencedaily.com/releases/2026/09/260915232130.htm",
           "source": "Science Daily",
           "date": "2026-09-16"
-        },
-        {
-          "title": "Tiny atomic tweak makes plastic-eating enzymes more powerful",
-          "summary": "A new approach that changes just one atom in plastic-degrading enzymes could help make them more efficient while maintaining their stability, according to new research from The Australian National University published…",
-          "url": "https://phys.org/news/2026-09-tiny-atomic-tweak-plastic-enzymes.html",
-          "source": "Phys.org",
-          "date": "2026-09-18"
         },
         {
           "title": "Scientists restore a brain protein and reverse signs of aging in mice",
@@ -33,11 +26,18 @@
           "date": "2026-09-17"
         },
         {
-          "title": "Coffee on the nanoscale: Graphene oxide membrane removes half the caffeine while retaining key compounds",
-          "summary": "The humble coffee filter has the relatively simple job of letting the coffee through and leaving the grounds behind. But researchers from the ARC Center of Excellence for Carbon Science and Innovation (COE-CSI) are…",
-          "url": "https://phys.org/news/2026-09-coffee-nanoscale-graphene-oxide-membrane.html",
+          "title": "Global population dataset uses buildings to reveal people's daily movement patterns",
+          "summary": "Researchers at the Department of Energy's (DOE) Oak Ridge National Laboratory (ORNL) have released LandScan Mosaic, a next-generation global population distribution dataset that estimates where people are by modeling…",
+          "url": "https://phys.org/news/2026-09-global-population-dataset-reveal-people.html",
           "source": "Phys.org",
-          "date": "2026-09-18"
+          "date": "2026-09-19"
+        },
+        {
+          "title": "Protein map reveals how red blood cells rapidly adjust to low oxygen",
+          "summary": "Scientists map the hidden protein network that helps red blood cells adapt to oxygen",
+          "url": "https://phys.org/news/2026-09-protein-reveals-red-blood-cells.html",
+          "source": "Phys.org",
+          "date": "2026-09-19"
         }
       ]
     },
@@ -92,6 +92,13 @@
           "date": "2026-09-16"
         },
         {
+          "title": "Meet Earth's newest wild cat species, the first named in over a century",
+          "summary": "A previously unknown cat species has been identified in plain sight: at a wildlife sanctuary in Bolivia, where the small, spotted feline had been living for years.",
+          "url": "https://phys.org/news/2026-09-earth-wild-cat-species-century.html",
+          "source": "Phys.org",
+          "date": "2026-09-19"
+        },
+        {
           "title": "Fishapod fossil shows early elbows came in a variety of forms",
           "summary": "The fish that preceded the first four-legged land animals came in a wider variety of forms than we had thought, and fossils show that one had an elbow joint that moved in an oddly restrictive way",
           "url": "https://www.newscientist.com/article/2589938-fishapod-fossil-shows-early-elbows-came-in-a-variety-of-forms/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
@@ -111,13 +118,6 @@
           "url": "https://www.sciencedaily.com/releases/2026/09/260917003737.htm",
           "source": "Science Daily",
           "date": "2026-09-17"
-        },
-        {
-          "title": "The art heist paradox: Why better police work can lead to more stolen masterpieces",
-          "summary": "When a multimillion-dollar masterpiece vanishes from a museum, the public calls for tougher criminal penalties and better-funded police task forces. But research from Wake Forest University suggests that some of these…",
-          "url": "https://phys.org/news/2026-09-art-heist-paradox-police-stolen.html",
-          "source": "Phys.org",
-          "date": "2026-09-18"
         }
       ]
     },
@@ -125,30 +125,37 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "In 2025, the ozone hole shrunk to one of its smallest sizes in decades",
-          "summary": "The Antarctic ozone hole in 2025 was one of the smallest in decades—a testament to the continuing success of international action to protect Earth's ozone layer, which shields us from the sun's harmful ultraviolet rays…",
-          "url": "https://phys.org/news/2026-09-ozone-hole-shrunk-smallest-sizes.html",
+          "title": "Sea surface temperature biases shift the North Pacific jet stream southward, study finds",
+          "summary": "Climate models are numerical models used to project future climate change. They simulate the climate from the present into the future by calculating changes in the atmosphere, ocean and other components of the climate…",
+          "url": "https://phys.org/news/2026-09-sea-surface-temperature-biases-shift.html",
+          "source": "Phys.org",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "Scientists hope deeper-rooted soybeans can withstand climate extremes and store more carbon",
+          "summary": "Research scientist Ashish Rajurkar kneels in the dirt, lifting a large clod of soil tangled around a soybean plant. He knocks away pieces of earth from the plant's roots, which slope straight down instead of out to the…",
+          "url": "https://phys.org/news/2026-09-scientists-deeper-rooted-soybeans-climate.html",
           "source": "Phys.org",
           "date": "2026-09-18"
         },
         {
-          "title": "Summer Goes Out With a Heat Dome",
-          "summary": "Temperature records toppled across the central and southern U.S. as the autumnal equinox approached.",
-          "url": "https://science.nasa.gov/earth/earth-observatory/summer-goes-out-with-a-heat-dome/",
-          "source": "NASA",
-          "date": "2026-09-17"
+          "title": "How narwhal 'scientists' track Arctic warming",
+          "summary": "The fight against climate change has a new, spiral-tusked ally: the narwhal.",
+          "url": "https://phys.org/news/2026-08-narwhal-scientists-track-arctic.html",
+          "source": "Phys.org",
+          "date": "2026-09-19"
+        },
+        {
+          "title": "North Korea's nuclear testing may have triggered hundreds of earthquakes over several years",
+          "summary": "Between 2006 and 2017, North Korea conducted six underground nuclear tests at its vast testing site at Mount Mantap in North Hamgyong province. Typically, underground explosions trigger an intense burst of minor…",
+          "url": "https://phys.org/news/2026-09-north-korea-nuclear-triggered-hundreds.html",
+          "source": "Phys.org",
+          "date": "2026-09-18"
         },
         {
           "title": "Anak Krakatau blasts ash nearly 10 miles high",
           "summary": "Anak Krakatau erupted for more than 24 hours in early September, sending volcanic ash up to 50,000 feet into the atmosphere. The ash cloud shut down eight airports, disrupted nearly 3,000 flights, and affected air…",
           "url": "https://www.sciencedaily.com/releases/2026/09/260917003718.htm",
-          "source": "Science Daily",
-          "date": "2026-09-18"
-        },
-        {
-          "title": "Scientists just discovered why Arctic sea ice moves so strangely",
-          "summary": "Arctic sea ice may move in unexpected ways because individual ice floes are constantly colliding and transferring energy. Researchers found that this simple process can explain several long-standing mysteries about how…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260917003708.htm",
           "source": "Science Daily",
           "date": "2026-09-18"
         }
@@ -158,11 +165,11 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "As AI reshapes jobs and workers change industries, employers need to be more flexible too",
-          "summary": "Artificial intelligence (AI) is changing the tasks people do at work and the skills they need. As work changes, being able to move between jobs, and sometimes industries, may become increasingly important.",
-          "url": "https://phys.org/news/2026-09-ai-reshapes-jobs-workers-industries.html",
+          "title": "Improving urban flood forecasting with real-time hazardous rainfall detection",
+          "summary": "The Korea Institute of Civil Engineering and Building Technology (KICT) announced that it will apply its early detection technology for quasi-stationary linear rainbands and sudden localized torrential rainfall to the…",
+          "url": "https://phys.org/news/2026-09-urban-real-hazardous-rainfall.html",
           "source": "Phys.org",
-          "date": "2026-09-18"
+          "date": "2026-09-19"
         },
         {
           "title": "Robots clash in first naval engagement between uncrewed sea drones",
@@ -170,19 +177,19 @@
           "url": "https://www.newscientist.com/article/2589842-robots-clash-in-first-ever-naval-engagement-between-uncrewed-crafts/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
           "date": "2026-09-17"
-        },
-        {
-          "title": "Are bots changing how people talk? Language in the age of AI",
-          "summary": "A Facebook post about your trip to Peru. An Amazon review of a new toaster oven. An email to the super about the inflatable reindeer blocking the hallway. You phrase and rephrase things all day without thinking that…",
-          "url": "https://phys.org/news/2026-09-bots-people-language-age-ai.html",
-          "source": "Phys.org",
-          "date": "2026-09-18"
         }
       ]
     },
     "Physics": {
       "emoji": "⚡",
       "articles": [
+        {
+          "title": "Laser experiments recreate solar flare physics and reveal consistent magnetic reconnection rates",
+          "summary": "Magnetic reconnection is a process that occurs when the magnetic fields of a conductive plasma quickly rearrange and release massive amounts of stored magnetic energy. It is widely thought to be the underlying mechanism…",
+          "url": "https://phys.org/news/2026-09-laser-recreate-solar-flare-physics.html",
+          "source": "Phys.org",
+          "date": "2026-09-18"
+        },
         {
           "title": "Caltech’s tiny new chip can steer light in 74 quadrillionths of a second",
           "summary": "A new Caltech device can redirect a beam of light in just 74 femtoseconds using another beam and a nanoscale silicon metasurface. The breakthrough could pave the way for dramatically faster photonic communications…",
@@ -205,16 +212,9 @@
           "date": "2026-09-17"
         },
         {
-          "title": "Physicists are scrambling to make sense of possible dark matter signal",
-          "summary": "Following the possible recent detection of a dark matter particle, researchers have already come up with a veritable cornucopia of possible models for what sort of particle it might have been",
-          "url": "https://www.newscientist.com/article/2589737-physicists-are-scrambling-to-make-sense-of-possible-dark-matter-signal/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-09-18"
-        },
-        {
-          "title": "Black moms and pregnant women forced out of their homes in metro Detroit face health and safety threats",
-          "summary": "Is everyone entitled to a fair process before being forced out of their home?",
-          "url": "https://phys.org/news/2026-09-black-moms-pregnant-women-homes.html",
+          "title": "Physicists extend the search for quantum black holes at the LHC",
+          "summary": "Physicists at UC Santa Barbara have extended the search for evidence of microscopic black holes produced at the Large Hadron Collider (LHC) at the European Organization for Nuclear Research (CERN). The formation of…",
+          "url": "https://phys.org/news/2026-09-physicists-quantum-black-holes-lhc.html",
           "source": "Phys.org",
           "date": "2026-09-18"
         }
