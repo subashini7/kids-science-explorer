@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T16:41:43Z",
+  "updated": "2026-09-21T18:29:41Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
@@ -10,6 +10,20 @@
           "url": "https://www.sciencedaily.com/releases/2026/09/260918024810.htm",
           "source": "Science Daily",
           "date": "2026-09-19"
+        },
+        {
+          "title": "Under stress, bacterial RNA and proteins tell different stories",
+          "summary": "During infection, bacteria encounter rapidly changing and stressful environments inside the body. To understand how they adapt, researchers often measure messenger RNA (mRNA), which carries information from genes that…",
+          "url": "https://phys.org/news/2026-09-stress-bacterial-rna-proteins-stories.html",
+          "source": "Phys.org",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "Q&A: Tiny spores for a big critical minerals challenge",
+          "summary": "Scientists at the Department of Energy's (DOE) Oak Ridge National Laboratory (ORNL) are exploring how durable, customizable bacterial spores could capture rare earth elements (REE) from acid mine drainage and other…",
+          "url": "https://phys.org/news/2026-09-qa-tiny-spores-big-critical.html",
+          "source": "Phys.org",
+          "date": "2026-09-21"
         },
         {
           "title": "Scientists discover a hidden “ID card” in cat urine",
@@ -24,20 +38,6 @@
           "url": "https://www.sciencedaily.com/releases/2026/09/260919031030.htm",
           "source": "Science Daily",
           "date": "2026-09-20"
-        },
-        {
-          "title": "Billions in rare earth elements may be hiding in America’s coal ash",
-          "summary": "Scientists are looking to diatoms, sea sponges, and plants for a cleaner way to recover rare earth elements and other valuable minerals hidden inside coal ash, red mud, and mine tailings. The bio-inspired approach could…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260918024759.htm",
-          "source": "Science Daily",
-          "date": "2026-09-19"
-        },
-        {
-          "title": "A deadly ebola relative is surging after years in the shadows",
-          "summary": "A growing Bundibugyo virus outbreak is showing how a little-known relative of Ebola can become a major threat when diagnosis and treatment options are limited. Experts warn that preparing only for familiar pathogens…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260919031042.htm",
-          "source": "Science Daily",
-          "date": "2026-09-20"
         }
       ]
     },
@@ -45,11 +45,11 @@
       "emoji": "🚀",
       "articles": [
         {
-          "title": "NASA Awards Launch Services for StarBurst Gamma-Ray Detector",
-          "summary": "NASA has selected SpaceX to provide launch services for the agency’s StarBurst mission, a small satellite designed to investigate neutron star mergers and the origins of short gamma-ray bursts. StarBurst will launch…",
-          "url": "https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/",
-          "source": "NASA",
-          "date": "2026-09-17"
+          "title": "NASA just powered up Roman’s massive 300-megapixel camera",
+          "summary": "NASA’s Roman Space Telescope has successfully activated its 300-megapixel infrared camera, which will capture enormous stretches of the cosmos with Hubble-like sharpness. Its planet-hunting coronagraph is also working…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260921081058.htm",
+          "source": "Science Daily",
+          "date": "2026-09-21"
         },
         {
           "title": "SpaceX’s Starship will orbit Earth for first time during next flight",
@@ -59,25 +59,25 @@
           "date": "2026-09-18"
         },
         {
-          "title": "NASA’s Hubble Spots an Out-of-Sync Galaxy",
-          "summary": "Though the spiral galaxy in this new image from the NASA/ESA Hubble Space Telescope seems serene, it hides a chaotic secret. This galaxy is NGC 4698, and it lies about 55 million light-years away in the constellation…",
-          "url": "https://science.nasa.gov/uncategorized/nasas-hubble-spots-an-out-of-sync-galaxy/",
-          "source": "NASA",
-          "date": "2026-09-18"
+          "title": "A 'rebellious' exoplanet orbits in the opposite direction of its star",
+          "summary": "A star and its planets form when a cloud of gas and dust collapses in on itself somewhere in space. The cloud then forms a disk around the nascent star, within which the planets will form. This protostar and its disk…",
+          "url": "https://phys.org/news/2026-09-rebellious-exoplanet-orbits-star.html",
+          "source": "Phys.org",
+          "date": "2026-09-21"
         },
         {
-          "title": "NASA Invites Media to SpaceX’s 35th Resupply Launch to Space Station",
-          "summary": "Media accreditation is open for the next cargo launch that will deliver NASA science investigations, supplies, and equipment to the International Space Station. The 35th SpaceX commercial resupply services mission to…",
-          "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-35th-resupply-launch-to-space-station/",
+          "title": "NASA Discovery Reveals Complex Water Systems on Early Mars",
+          "summary": "When NASA’s Perseverance rover reached the inner edge of Mars’ Jezero Crater in September 2023, mission scientists were surprised by what they found. Called the “Margin Unit,” the geologic area stretches along the…",
+          "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-discovery-reveals-complex-water-systems-on-early-mars/",
           "source": "NASA",
-          "date": "2026-09-17"
+          "date": "2026-09-21"
         },
         {
-          "title": "NASA-JAXA XRISM Mission Sees Pulsar Gathering Companion’s ‘Wind’",
-          "summary": "Using data from the Japan-led XRISM (X-ray Imaging and Spectroscopy Mission) observatory, astronomers have directly observed a giant star’s outflow, called a stellar wind, being captured by its compact companion and…",
-          "url": "https://science.nasa.gov/missions/xrism/xrism-sees-pulsar-gathering-companions-wind/",
+          "title": "APOD: 2026 September 21 – Cocoon Nebula Wide Field",
+          "summary": "APODScienceAPODAPOD: 2026 September 21 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our…",
+          "url": "https://science.nasa.gov/image-article/apod-2026-september-21-cocoon-nebula-wide-field/",
           "source": "NASA",
-          "date": "2026-09-18"
+          "date": "2026-09-21"
         }
       ]
     },
@@ -99,18 +99,18 @@
           "date": "2026-09-20"
         },
         {
-          "title": "Meet Earth's newest wild cat species, the first named in over a century",
-          "summary": "A previously unknown cat species has been identified in plain sight: at a wildlife sanctuary in Bolivia, where the small, spotted feline had been living for years.",
-          "url": "https://phys.org/news/2026-09-earth-wild-cat-species-century.html",
-          "source": "Phys.org",
-          "date": "2026-09-19"
-        },
-        {
           "title": "Fishapod fossil shows early elbows came in a variety of forms",
           "summary": "The fish that preceded the first four-legged land animals came in a wider variety of forms than we had thought, and fossils show that one had an elbow joint that moved in an oddly restrictive way",
           "url": "https://www.newscientist.com/article/2589938-fishapod-fossil-shows-early-elbows-came-in-a-variety-of-forms/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
           "date": "2026-09-18"
+        },
+        {
+          "title": "Amazon study reveals the best strategies for protecting biodiversity and carbon",
+          "summary": "A large Amazon study suggests the most powerful conservation move may be protecting the forests that are already standing. Preventing damage from wildfires and logging delivered the greatest biodiversity benefits and…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260920222356.htm",
+          "source": "Science Daily",
+          "date": "2026-09-21"
         },
         {
           "title": "Scientists just named a new snake after Guns N’ Roses legend Slash",
@@ -125,32 +125,11 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Bringing ice sheets to life: Releasing a dynamic ice sheet modeling workflow for Australia's climate model",
-          "summary": "Ice sheets are fundamental components of the Earth system. Antarctica and Greenland, the two ice sheets currently on Earth, don't just affect their own regions: What happens on these vast masses of land ice influences…",
-          "url": "https://phys.org/news/2026-09-ice-sheets-life-dynamic-sheet.html",
+          "title": "Planetary Health Check 2026 finds mounting pressures across Earth's life support systems",
+          "summary": "Seven breached Planetary Boundaries continue to worsen as record ocean heat, droughts, floods, wildfires and extreme heat reveal an Earth system under strain, according to the latest Planetary Health Check. The annual…",
+          "url": "https://phys.org/news/2026-09-planetary-health-mounting-pressures-earth.html",
           "source": "Phys.org",
-          "date": "2026-09-19"
-        },
-        {
-          "title": "Sea surface temperature biases shift the North Pacific jet stream southward, study finds",
-          "summary": "Climate models are numerical models used to project future climate change. They simulate the climate from the present into the future by calculating changes in the atmosphere, ocean and other components of the climate…",
-          "url": "https://phys.org/news/2026-09-sea-surface-temperature-biases-shift.html",
-          "source": "Phys.org",
-          "date": "2026-09-19"
-        },
-        {
-          "title": "Satellites show Earth lost more than 12 trillion tons of ice from Greenland, Antarctica in 47 years",
-          "summary": "About 12.5 trillion tons (11.3 trillion metric tons) of ice from glaciers in Greenland and Antarctica have melted since 1979, which is enough frozen water to stack ice 5 feet (1.5 meters) deep across the continental…",
-          "url": "https://phys.org/news/2026-09-satellites-earth-lost-trillion-tons.html",
-          "source": "Phys.org",
-          "date": "2026-09-20"
-        },
-        {
-          "title": "Scientists hope deeper-rooted soybeans can withstand climate extremes and store more carbon",
-          "summary": "Research scientist Ashish Rajurkar kneels in the dirt, lifting a large clod of soil tangled around a soybean plant. He knocks away pieces of earth from the plant's roots, which slope straight down instead of out to the…",
-          "url": "https://phys.org/news/2026-09-scientists-deeper-rooted-soybeans-climate.html",
-          "source": "Phys.org",
-          "date": "2026-09-18"
+          "date": "2026-09-21"
         },
         {
           "title": "Hurricane Hunters reveal 4 warning signs that a storm is about to strengthen",
@@ -158,6 +137,27 @@
           "url": "https://www.sciencedaily.com/releases/2026/09/260919031037.htm",
           "source": "Science Daily",
           "date": "2026-09-20"
+        },
+        {
+          "title": "Drought in the Northeastern United States has decreased",
+          "summary": "As climate change continues to affect the U.S., many regions throughout the country, especially the West, are experiencing more drought.",
+          "url": "https://phys.org/news/2026-09-drought-northeastern-states-decreased.html",
+          "source": "Phys.org",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "The collapse of the AMOC would be catastrophic. How will we know when it’s coming?",
+          "summary": "Europe faces incredibly harsh winters and unrelenting droughts if the vital AMOC ocean current fails – but when disaster will strike and how bad it will be remains uncertain. Now there is an ambitious plan to give us a…",
+          "url": "https://www.newscientist.com/article/2588588-the-collapse-of-the-amoc-would-be-catastrophic-how-will-we-know-when-its-coming/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "Antarctica's lost mountains may have helped early life flourish",
+          "summary": "Beneath the vast frozen wastes of Antarctica lie the remains of ancient mountains that have long since eroded. Even though they're no longer standing, they can still reveal a few lost secrets. New research published in…",
+          "url": "https://phys.org/news/2026-09-antarctica-lost-mountains-early-life.html",
+          "source": "Phys.org",
+          "date": "2026-09-21"
         }
       ]
     },
@@ -165,18 +165,11 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "Virtual cells built from 4D AI models and 'digital twins' could speed up drug discovery",
-          "summary": "Mitochondria—tiny structures that convert nutrients into energy—are often depicted as discrete kidney bean-shaped objects. But in reality, they form a dynamic, interconnected network throughout the entire cell, rapidly…",
-          "url": "https://phys.org/news/2026-09-virtual-cells-built-4d-ai.html",
+          "title": "Why AI resembles a charismatic religious leader",
+          "summary": "People are turning to artificial intelligence for a seemingly unending variety of reasons. Many ask AI what to cook for dinner or how to develop a workout plan. Some even rely on AI to create school handouts or revise a…",
+          "url": "https://phys.org/news/2026-09-ai-resembles-charismatic-religious-leader.html",
           "source": "Phys.org",
-          "date": "2026-09-20"
-        },
-        {
-          "title": "Improving urban flood forecasting with real-time hazardous rainfall detection",
-          "summary": "The Korea Institute of Civil Engineering and Building Technology (KICT) announced that it will apply its early detection technology for quasi-stationary linear rainbands and sudden localized torrential rainfall to the…",
-          "url": "https://phys.org/news/2026-09-urban-real-hazardous-rainfall.html",
-          "source": "Phys.org",
-          "date": "2026-09-19"
+          "date": "2026-09-21"
         },
         {
           "title": "Robots clash in first naval engagement between uncrewed sea drones",
@@ -198,6 +191,13 @@
           "date": "2026-09-20"
         },
         {
+          "title": "What kills Schrödinger’s cat? Gravity may not be the answer",
+          "summary": "Physicists have put a decades-old idea about why the strange rules of quantum mechanics disappear in our everyday world to one of its toughest experimental tests yet. Deep beneath Italy’s Gran Sasso mountain…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260920222350.htm",
+          "source": "Science Daily",
+          "date": "2026-09-21"
+        },
+        {
           "title": "Scientists opened a sealed envelope after 10 years. Gravity still didn’t make sense",
           "summary": "A decade-long NIST experiment has produced a new measurement of the universal gravitational constant that differs unexpectedly from another leading result, deepening a 225-year-old physics puzzle. The discrepancy is…",
           "url": "https://www.sciencedaily.com/releases/2026/09/260920032049.htm",
@@ -217,13 +217,6 @@
           "url": "https://www.sciencedaily.com/releases/2026/09/260918024808.htm",
           "source": "Science Daily",
           "date": "2026-09-18"
-        },
-        {
-          "title": "A $100 detector can see invisible particles raining down from space",
-          "summary": "A pocket-sized, roughly $100 detector can reveal the invisible stream of cosmic particles constantly passing through Earth and even through our bodies. What began as a student physics project is now being used in major…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260917003725.htm",
-          "source": "Science Daily",
-          "date": "2026-09-17"
         }
       ]
     }
