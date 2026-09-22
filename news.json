@@ -1,29 +1,15 @@
 {
-  "updated": "2026-09-21T18:29:41Z",
+  "updated": "2026-09-22T17:32:15Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "This deep-sea enzyme survives heat that destroys most proteins",
-          "summary": "A deep-sea microbe uses an exceptionally heat-resistant enzyme to turn atmospheric nitrogen into ammonia at temperatures that would destroy most proteins. Its unusual structure and a newly observed reaction state may…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260918024810.htm",
-          "source": "Science Daily",
-          "date": "2026-09-19"
-        },
-        {
-          "title": "Under stress, bacterial RNA and proteins tell different stories",
-          "summary": "During infection, bacteria encounter rapidly changing and stressful environments inside the body. To understand how they adapt, researchers often measure messenger RNA (mRNA), which carries information from genes that…",
-          "url": "https://phys.org/news/2026-09-stress-bacterial-rna-proteins-stories.html",
+          "title": "Microcrystal electron diffractometer brings hidden hydrogen into focus",
+          "summary": "Hydrogen—the lightest atom—does the heavy lifting when it comes to important chemical reactions. It can be stored and released as clean fuel, and its movements help catalysts build medicines, fertilizers and materials…",
+          "url": "https://phys.org/news/2026-09-microcrystal-electron-diffractometer-hidden-hydrogen.html",
           "source": "Phys.org",
-          "date": "2026-09-21"
-        },
-        {
-          "title": "Q&A: Tiny spores for a big critical minerals challenge",
-          "summary": "Scientists at the Department of Energy's (DOE) Oak Ridge National Laboratory (ORNL) are exploring how durable, customizable bacterial spores could capture rare earth elements (REE) from acid mine drainage and other…",
-          "url": "https://phys.org/news/2026-09-qa-tiny-spores-big-critical.html",
-          "source": "Phys.org",
-          "date": "2026-09-21"
+          "date": "2026-09-22"
         },
         {
           "title": "Scientists discover a hidden “ID card” in cat urine",
@@ -38,6 +24,20 @@
           "url": "https://www.sciencedaily.com/releases/2026/09/260919031030.htm",
           "source": "Science Daily",
           "date": "2026-09-20"
+        },
+        {
+          "title": "Liquid crystal takes page from steel in surprising phase transition",
+          "summary": "A type of transformation best known for hardening steel and enabling shape-memory alloys may also occur in a much softer class of materials, according to new research from Rice University. Researchers in the departments…",
+          "url": "https://phys.org/news/2026-09-liquid-crystal-page-steel-phase.html",
+          "source": "Phys.org",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "Stem cells reverse stroke damage and restore movement in mice",
+          "summary": "Stem cell transplants helped regenerate stroke-damaged brain tissue in mice, producing new neurons and restoring lost motor function. The treatment also improved blood vessels, inflammation, and the blood-brain barrier…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260921081116.htm",
+          "source": "Science Daily",
+          "date": "2026-09-22"
         }
       ]
     },
@@ -52,30 +52,30 @@
           "date": "2026-09-21"
         },
         {
-          "title": "SpaceX’s Starship will orbit Earth for first time during next flight",
-          "summary": "Starship's next test flight will be its first orbital mission. The craft will also release working Starlink V3 satellites for the first time, making the flight the first commercially useful Starship mission",
-          "url": "https://www.newscientist.com/article/2589461-spacexs-starship-will-orbit-earth-for-first-time-during-next-flight/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-09-18"
+          "title": "JUICE mission to fly by Earth next week! Details here",
+          "summary": "The JUICE mission will perform a flyby of Earth next week on September 28. The spacecraft is headed toward Jupiter's icy moons, where it will arrive in 2031. The post JUICE mission to fly by Earth next week! Details…",
+          "url": "https://earthsky.org/space/esas-juice-mission-explore-jupiters-icy-moons-ganymede/",
+          "source": "EarthSky",
+          "date": "2026-09-22"
         },
         {
-          "title": "A 'rebellious' exoplanet orbits in the opposite direction of its star",
-          "summary": "A star and its planets form when a cloud of gas and dust collapses in on itself somewhere in space. The cloud then forms a disk around the nascent star, within which the planets will form. This protostar and its disk…",
-          "url": "https://phys.org/news/2026-09-rebellious-exoplanet-orbits-star.html",
+          "title": "Astronomers detect radio signals coming from an exoplanet for the first time",
+          "summary": "Exoplanets are exotic worlds orbiting distant stars far beyond our solar system. Ever since the first ones were discovered in the 1990s, astronomers have turned their attention to these distant worlds to understand more…",
+          "url": "https://phys.org/news/2026-09-astronomers-radio-exoplanet.html",
           "source": "Phys.org",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "NASA Astronaut Reid Wiseman Attends Ravens vs. Saints Game",
+          "summary": "NASA astronaut and commander of the agency’s Artemis II mission, Reid Wiseman, a Baltimore native, takes a selfie with fans at an NFL game between the New Orleans Saints and the Baltimore Ravens at M&#38;T Bank Stadium…",
+          "url": "https://www.nasa.gov/image-article/nasa-astronaut-reid-wiseman-attends-ravens-vs-saints-game/",
+          "source": "NASA",
           "date": "2026-09-21"
         },
         {
           "title": "NASA Discovery Reveals Complex Water Systems on Early Mars",
           "summary": "When NASA’s Perseverance rover reached the inner edge of Mars’ Jezero Crater in September 2023, mission scientists were surprised by what they found. Called the “Margin Unit,” the geologic area stretches along the…",
           "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-discovery-reveals-complex-water-systems-on-early-mars/",
-          "source": "NASA",
-          "date": "2026-09-21"
-        },
-        {
-          "title": "APOD: 2026 September 21 – Cocoon Nebula Wide Field",
-          "summary": "APODScienceAPODAPOD: 2026 September 21 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our…",
-          "url": "https://science.nasa.gov/image-article/apod-2026-september-21-cocoon-nebula-wide-field/",
           "source": "NASA",
           "date": "2026-09-21"
         }
@@ -85,25 +85,18 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "Scientists discover the first diplodocus ever found outside North America",
-          "summary": "A 150-million-year-old dinosaur fossil from Spain has been identified as the first confirmed Diplodocus ever found outside North America. The giant sauropod measured about 25 meters long and was preserved well enough…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260918024807.htm",
-          "source": "Science Daily",
-          "date": "2026-09-19"
+          "title": "Can a long-lived seabird evolve fast enough to avoid extinction under a changing climate?",
+          "summary": "As the climate changes, species face a critical question: Can they evolve quickly enough to keep pace with their changing environment?",
+          "url": "https://phys.org/news/2026-09-seabird-evolve-fast-extinction-climate.html",
+          "source": "Phys.org",
+          "date": "2026-09-22"
         },
         {
-          "title": "A 66-million-year-old tooth reveals T. rex was nearly as warm as a human",
-          "summary": "Chemical clues preserved inside fossilized T. rex teeth reveal that the dinosaur maintained a body temperature of about 97 degrees Fahrenheit, almost identical to humans. The finding provides direct evidence that the…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260919031020.htm",
-          "source": "Science Daily",
-          "date": "2026-09-20"
-        },
-        {
-          "title": "Fishapod fossil shows early elbows came in a variety of forms",
-          "summary": "The fish that preceded the first four-legged land animals came in a wider variety of forms than we had thought, and fossils show that one had an elbow joint that moved in an oddly restrictive way",
-          "url": "https://www.newscientist.com/article/2589938-fishapod-fossil-shows-early-elbows-came-in-a-variety-of-forms/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-09-18"
+          "title": "Newly discovered orange killifish in the Brazilian Amazon may already be endangered",
+          "summary": "Researchers have discovered a new species of brilliantly colored fish from a network of forest streams in the Brazilian Amazon and have already recommended it for listing as Endangered because of the pressures facing…",
+          "url": "https://phys.org/news/2026-09-newly-orange-killifish-brazilian-amazon.html",
+          "source": "Phys.org",
+          "date": "2026-09-22"
         },
         {
           "title": "Amazon study reveals the best strategies for protecting biodiversity and carbon",
@@ -113,11 +106,18 @@
           "date": "2026-09-21"
         },
         {
-          "title": "Scientists just named a new snake after Guns N’ Roses legend Slash",
-          "summary": "A newly discovered snake from New Guinea has been named after Guns N’ Roses guitarist Slash, who has loved reptiles since childhood. Genetic testing and physical differences confirmed that the reddish-brown groundsnake…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260918024816.htm",
-          "source": "Science Daily",
-          "date": "2026-09-18"
+          "title": "Follow the fish: How marine life is helping reveal hidden shipwrecks",
+          "summary": "In September 2026, 20 Australian university students departed Brisbane for Fiji aboard the CSIRO research vessel (RV) Investigator on a CAPSTAN sea training voyage. While in coastal waters off Queensland, the students…",
+          "url": "https://phys.org/news/2026-09-fish-marine-life-reveal-hidden.html",
+          "source": "Phys.org",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "Scientists discover a new tiger cat hiding in plain sight",
+          "summary": "Scientists studying the tiger cat have found 5 distinct species, revealing more diversity among these familiar-looking wild cats than previously known. The post Scientists discover a new tiger cat hiding in plain sight…",
+          "url": "https://earthsky.org/earth/scientists-discover-a-new-tiger-cat-hiding-in-plain-sight/",
+          "source": "EarthSky",
+          "date": "2026-09-19"
         }
       ]
     },
@@ -125,10 +125,24 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Planetary Health Check 2026 finds mounting pressures across Earth's life support systems",
-          "summary": "Seven breached Planetary Boundaries continue to worsen as record ocean heat, droughts, floods, wildfires and extreme heat reveal an Earth system under strain, according to the latest Planetary Health Check. The annual…",
-          "url": "https://phys.org/news/2026-09-planetary-health-mounting-pressures-earth.html",
+          "title": "The end of humanity? What would happen if the Yellowstone supervolcano erupted now",
+          "summary": "A Yellowstone super-eruption would begin not with a sudden surprise, but with weeks of increasingly alarming warning signs such as migrating earthquake swarms, rapid ground uplift, changing geysers, and rising volcanic…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260922005655.htm",
+          "source": "Science Daily",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "Planetary crises deepen global health inequality, paper warns",
+          "summary": "The global inequality in health opportunities is being further heightened by the triple planetary crisis—climate change, biodiversity loss and environmental pollution. Addressing it is more than a question for health…",
+          "url": "https://phys.org/news/2026-09-planetary-crises-deepen-global-health.html",
           "source": "Phys.org",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "Embracing the Equinox",
+          "summary": "Depending on your locale, equinoxes can be seen as harbingers of longer nights and gloomy weather, or promising beacons of nicer temperatures and more sunlight. Observing and predicting equinoxes is one of the earliest…",
+          "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/embracing-the-equinox/",
+          "source": "NASA",
           "date": "2026-09-21"
         },
         {
@@ -139,25 +153,11 @@
           "date": "2026-09-20"
         },
         {
-          "title": "Drought in the Northeastern United States has decreased",
-          "summary": "As climate change continues to affect the U.S., many regions throughout the country, especially the West, are experiencing more drought.",
-          "url": "https://phys.org/news/2026-09-drought-northeastern-states-decreased.html",
+          "title": "Methane beneath the Greenland ice sheet shapes microbial life and influences the carbon cycle",
+          "summary": "A new study involving researchers from the Faculty of Science, Charles University, Prague, shows that methane concentration is among the key factors determining the composition of microbial communities at the margin of…",
+          "url": "https://phys.org/news/2026-09-methane-beneath-greenland-ice-sheet.html",
           "source": "Phys.org",
-          "date": "2026-09-21"
-        },
-        {
-          "title": "The collapse of the AMOC would be catastrophic. How will we know when it’s coming?",
-          "summary": "Europe faces incredibly harsh winters and unrelenting droughts if the vital AMOC ocean current fails – but when disaster will strike and how bad it will be remains uncertain. Now there is an ambitious plan to give us a…",
-          "url": "https://www.newscientist.com/article/2588588-the-collapse-of-the-amoc-would-be-catastrophic-how-will-we-know-when-its-coming/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-09-21"
-        },
-        {
-          "title": "Antarctica's lost mountains may have helped early life flourish",
-          "summary": "Beneath the vast frozen wastes of Antarctica lie the remains of ancient mountains that have long since eroded. Even though they're no longer standing, they can still reveal a few lost secrets. New research published in…",
-          "url": "https://phys.org/news/2026-09-antarctica-lost-mountains-early-life.html",
-          "source": "Phys.org",
-          "date": "2026-09-21"
+          "date": "2026-09-22"
         }
       ]
     },
@@ -165,18 +165,32 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "Why AI resembles a charismatic religious leader",
-          "summary": "People are turning to artificial intelligence for a seemingly unending variety of reasons. Many ask AI what to cook for dinner or how to develop a workout plan. Some even rely on AI to create school handouts or revise a…",
-          "url": "https://phys.org/news/2026-09-ai-resembles-charismatic-religious-leader.html",
-          "source": "Phys.org",
-          "date": "2026-09-21"
+          "title": "MIT’s tiny flying robot gets 450% faster with AI",
+          "summary": "A new AI control system lets MIT’s tiny flying robot move with insect-like agility, boosting its speed by about 450 percent and allowing it to pull off 10 somersaults in 11 seconds. The technology could eventually…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260921081114.htm",
+          "source": "Science Daily",
+          "date": "2026-09-22"
         },
         {
-          "title": "Robots clash in first naval engagement between uncrewed sea drones",
-          "summary": "Earlier this month, the Ukrainian Navy used an uncrewed vessel to attack and sink an uncrewed naval robot operated by Russian forces",
-          "url": "https://www.newscientist.com/article/2589842-robots-clash-in-first-ever-naval-engagement-between-uncrewed-crafts/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "title": "Gold nanoplasmonic chip tracks L-DOPA response in Parkinson's 'mini-brains'",
+          "summary": "Researchers have developed an organoid-on-a-chip technology that verifies the efficacy of Parkinson's disease treatments in real time. The technology combines a stem cell–derived \"mini-brain\" with a nanoplasmonic sensor…",
+          "url": "https://phys.org/news/2026-09-gold-nanoplasmonic-chip-tracks-dopa.html",
+          "source": "Phys.org",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "Quantum protocol securely verifies a device's position using stations 2 km apart",
+          "summary": "Reliably verifying the location of a device connected to the internet or other networks is important for various real-world applications. For instance, it could be valuable for authorizing financial transactions…",
+          "url": "https://phys.org/news/2026-09-quantum-protocol-device-position-stations.html",
+          "source": "Phys.org",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "Worried about an AI apocalypse? Here’s how to think about the risk of doom",
+          "summary": "Commentators say the probability of machines wiping us out ranges from 0 to over 95 per cent. Columnist Jacob Aron explains why you shouldn't trust any of those numbers",
+          "url": "https://www.newscientist.com/article/2590164-worried-about-an-ai-apocalypse-heres-how-to-think-about-the-risk-of-doom/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
-          "date": "2026-09-17"
+          "date": "2026-09-22"
         }
       ]
     },
@@ -184,11 +198,11 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "Einstein’s “spooky action” just survived one of physics’ most extreme tests",
-          "summary": "Physicists have detected strong evidence that heavy, fleeting Z bosons can become quantum entangled during Higgs boson decays at CERN’s Large Hadron Collider. The result shows that Einstein’s “spooky action at a…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260919031023.htm",
+          "title": "For the first time, scientists watch sound jump between quantum states",
+          "summary": "Stanford researchers have recorded the first real-time quantum jumps of sound, watching single phonons abruptly vanish from one energy state to another. The breakthrough could open new paths for quantum computing, error…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260921081054.htm",
           "source": "Science Daily",
-          "date": "2026-09-20"
+          "date": "2026-09-22"
         },
         {
           "title": "What kills Schrödinger’s cat? Gravity may not be the answer",
@@ -205,18 +219,18 @@
           "date": "2026-09-20"
         },
         {
-          "title": "Caltech’s tiny new chip can steer light in 74 quadrillionths of a second",
-          "summary": "A new Caltech device can redirect a beam of light in just 74 femtoseconds using another beam and a nanoscale silicon metasurface. The breakthrough could pave the way for dramatically faster photonic communications…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260918024823.htm",
+          "title": "Coffee doesn’t have to keep you awake to disrupt your sleep",
+          "summary": "Caffeine may make sleep less restorative even when you fall asleep normally and stay in bed for eight hours, with EEG recordings revealing fewer of the slow brain waves associated with deep sleep. Individual sensitivity…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260922005719.htm",
           "source": "Science Daily",
-          "date": "2026-09-18"
+          "date": "2026-09-22"
         },
         {
-          "title": "Scientists are about to test Einstein’s gravity with exotic matter",
-          "summary": "Scientists have found a new way to create a controlled beam of muonium, an exotic atom containing a heavier cousin of the electron. The advance could allow researchers to test for the first time whether gravity acts on…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260918024808.htm",
-          "source": "Science Daily",
-          "date": "2026-09-18"
+          "title": "Day and night get equal billing on Tuesday. A guide to the fall equinox",
+          "summary": "The fall equinox is Tuesday, when light and darkness split the day evenly. It marks the beginning of fall for the Northern Hemisphere and the beginning of spring in the Southern Hemisphere.",
+          "url": "https://phys.org/news/2026-09-day-night-equal-billing-tuesday.html",
+          "source": "Phys.org",
+          "date": "2026-09-22"
         }
       ]
     }
