@@ -1,36 +1,22 @@
 {
-  "updated": "2026-09-22T17:32:15Z",
+  "updated": "2026-09-23T17:44:08Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "Microcrystal electron diffractometer brings hidden hydrogen into focus",
-          "summary": "Hydrogen—the lightest atom—does the heavy lifting when it comes to important chemical reactions. It can be stored and released as clean fuel, and its movements help catalysts build medicines, fertilizers and materials…",
-          "url": "https://phys.org/news/2026-09-microcrystal-electron-diffractometer-hidden-hydrogen.html",
+          "title": "Variations in virus tails may help predict which phages kill more bacterial strains",
+          "summary": "Bacteriophages—or phages, for short—are viruses that kill bacteria, and scientists have been studying them for decades as a possible solution to antibiotic-resistant infections. But phages are notoriously picky eaters—a…",
+          "url": "https://phys.org/news/2026-09-variations-virus-tails-phages-bacterial.html",
           "source": "Phys.org",
-          "date": "2026-09-22"
+          "date": "2026-09-23"
         },
         {
-          "title": "Scientists discover a hidden “ID card” in cat urine",
-          "summary": "Cats may identify one another through a surprisingly durable chemical “calling card” made from 13 unusual fatty acids in their urine. The compounds appear linked to mysterious fat droplets in the kidneys and may…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260919031033.htm",
-          "source": "Science Daily",
-          "date": "2026-09-20"
-        },
-        {
-          "title": "New nanoparticles make hidden chemical differences light up",
-          "summary": "Scientists have developed ultra-bright nanoparticles that can detect tiny amounts of chemicals and distinguish between molecules that look almost identical. The technology could one day provide a cheaper way to catch…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260919031030.htm",
-          "source": "Science Daily",
-          "date": "2026-09-20"
-        },
-        {
-          "title": "Liquid crystal takes page from steel in surprising phase transition",
-          "summary": "A type of transformation best known for hardening steel and enabling shape-memory alloys may also occur in a much softer class of materials, according to new research from Rice University. Researchers in the departments…",
-          "url": "https://phys.org/news/2026-09-liquid-crystal-page-steel-phase.html",
+          "title": "How evolution shaped the human skeleton: Clues from cartilage",
+          "summary": "Human and chimpanzee genomes are more than 98% identical, and the genes themselves barely differ. The changes that make us human are thought to hide instead in the DNA that controls when and where genes switch on.",
+          "url": "https://phys.org/news/2026-09-evolution-human-skeleton-clues-cartilage.html",
           "source": "Phys.org",
-          "date": "2026-09-22"
+          "date": "2026-09-23"
         },
         {
           "title": "Stem cells reverse stroke damage and restore movement in mice",
@@ -38,12 +24,33 @@
           "url": "https://www.sciencedaily.com/releases/2026/09/260921081116.htm",
           "source": "Science Daily",
           "date": "2026-09-22"
+        },
+        {
+          "title": "Scientists create a needle-thin brain implant that can do three jobs at once",
+          "summary": "A new needle-thin brain implant can record neural activity, deliver drugs, and stimulate multiple brain regions using a single flexible fiber. Successful tests in mice suggest it could give scientists a more precise…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260920222416.htm",
+          "source": "Science Daily",
+          "date": "2026-09-21"
+        },
+        {
+          "title": "Stopping Ozempic may raise heart attack and stroke risk",
+          "summary": "A large study suggests the cardiovascular benefits of GLP-1 drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound can disappear surprisingly quickly when treatment stops. After two years off the medications, patients…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260920222414.htm",
+          "source": "Science Daily",
+          "date": "2026-09-21"
         }
       ]
     },
     "Space & Astronomy": {
       "emoji": "🚀",
       "articles": [
+        {
+          "title": "NASA’s Hubble Seeks Lensed Supernova, Marks 200,000 Orbits",
+          "summary": "NASA’s Hubble Space Telescope completed its 200,000th orbit around Earth on Sept. 19, marking another new milestone for an observatory that continues to transform our understanding of the universe. Hubble has traveled…",
+          "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-seeks-lensed-supernova-marks-200000-orbits/",
+          "source": "NASA",
+          "date": "2026-09-23"
+        },
         {
           "title": "NASA just powered up Roman’s massive 300-megapixel camera",
           "summary": "NASA’s Roman Space Telescope has successfully activated its 300-megapixel infrared camera, which will capture enormous stretches of the cosmos with Hubble-like sharpness. Its planet-hunting coronagraph is also working…",
@@ -59,25 +66,18 @@
           "date": "2026-09-22"
         },
         {
-          "title": "Astronomers detect radio signals coming from an exoplanet for the first time",
-          "summary": "Exoplanets are exotic worlds orbiting distant stars far beyond our solar system. Ever since the first ones were discovered in the 1990s, astronomers have turned their attention to these distant worlds to understand more…",
-          "url": "https://phys.org/news/2026-09-astronomers-radio-exoplanet.html",
-          "source": "Phys.org",
-          "date": "2026-09-22"
+          "title": "Shannon Lucid’s Record-Setting Mission Aboard Mir",
+          "summary": "Shannon Lucid’s Record-Setting Mission Aboard Mir&#160; Three days before returning to Earth, Shannon W. Lucid—who joined NASA in 1978 as one of its first six female astronauts—checked in on wheat growing in the Svet…",
+          "url": "https://www.nasa.gov/image-article/shannon-lucids-record-setting-mission-aboard-mir/",
+          "source": "NASA",
+          "date": "2026-09-23"
         },
         {
-          "title": "NASA Astronaut Reid Wiseman Attends Ravens vs. Saints Game",
-          "summary": "NASA astronaut and commander of the agency’s Artemis II mission, Reid Wiseman, a Baltimore native, takes a selfie with fans at an NFL game between the New Orleans Saints and the Baltimore Ravens at M&#38;T Bank Stadium…",
-          "url": "https://www.nasa.gov/image-article/nasa-astronaut-reid-wiseman-attends-ravens-vs-saints-game/",
-          "source": "NASA",
-          "date": "2026-09-21"
-        },
-        {
-          "title": "NASA Discovery Reveals Complex Water Systems on Early Mars",
-          "summary": "When NASA’s Perseverance rover reached the inner edge of Mars’ Jezero Crater in September 2023, mission scientists were surprised by what they found. Called the “Margin Unit,” the geologic area stretches along the…",
-          "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-discovery-reveals-complex-water-systems-on-early-mars/",
-          "source": "NASA",
-          "date": "2026-09-21"
+          "title": "Earth images from space: 13 incredible photos of our planet",
+          "summary": "Look at these Earth images from space. How does it make you feel about the planet you live on and about Earth's place in the solar system and cosmos? The post Earth images from space: 13 incredible photos of our planet…",
+          "url": "https://earthsky.org/todays-image/earth-images-from-space/",
+          "source": "EarthSky",
+          "date": "2026-09-23"
         }
       ]
     },
@@ -85,18 +85,11 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "Can a long-lived seabird evolve fast enough to avoid extinction under a changing climate?",
-          "summary": "As the climate changes, species face a critical question: Can they evolve quickly enough to keep pace with their changing environment?",
-          "url": "https://phys.org/news/2026-09-seabird-evolve-fast-extinction-climate.html",
+          "title": "How social brains allow animal groups to escape danger",
+          "summary": "Social behavior is found across the tree of life, with animals of all types benefiting from living in a group environment. Large bird flocks and fish schools coordinate their actions by sharing information among…",
+          "url": "https://phys.org/news/2026-09-social-brains-animal-groups-danger.html",
           "source": "Phys.org",
-          "date": "2026-09-22"
-        },
-        {
-          "title": "Newly discovered orange killifish in the Brazilian Amazon may already be endangered",
-          "summary": "Researchers have discovered a new species of brilliantly colored fish from a network of forest streams in the Brazilian Amazon and have already recommended it for listing as Endangered because of the pressures facing…",
-          "url": "https://phys.org/news/2026-09-newly-orange-killifish-brazilian-amazon.html",
-          "source": "Phys.org",
-          "date": "2026-09-22"
+          "date": "2026-09-23"
         },
         {
           "title": "Amazon study reveals the best strategies for protecting biodiversity and carbon",
@@ -106,18 +99,25 @@
           "date": "2026-09-21"
         },
         {
-          "title": "Follow the fish: How marine life is helping reveal hidden shipwrecks",
-          "summary": "In September 2026, 20 Australian university students departed Brisbane for Fiji aboard the CSIRO research vessel (RV) Investigator on a CAPSTAN sea training voyage. While in coastal waters off Queensland, the students…",
-          "url": "https://phys.org/news/2026-09-fish-marine-life-reveal-hidden.html",
+          "title": "Bat genomes and fossils point to a European origin 65 million years ago",
+          "summary": "New research from the University of St Andrews has created the largest combined study of bat genomes and fossils ever undertaken, finding that bats most likely originated in Europe around 65 million years ago before…",
+          "url": "https://phys.org/news/2026-09-genomes-fossils-european-million-years.html",
           "source": "Phys.org",
-          "date": "2026-09-22"
+          "date": "2026-09-23"
         },
         {
-          "title": "Scientists discover a new tiger cat hiding in plain sight",
-          "summary": "Scientists studying the tiger cat have found 5 distinct species, revealing more diversity among these familiar-looking wild cats than previously known. The post Scientists discover a new tiger cat hiding in plain sight…",
-          "url": "https://earthsky.org/earth/scientists-discover-a-new-tiger-cat-hiding-in-plain-sight/",
-          "source": "EarthSky",
-          "date": "2026-09-19"
+          "title": "Seabed surveys around the Isles of Scilly find more than 90 species across habitats poorly captured by classifications",
+          "summary": "Scientists have conducted an unprecedented assessment of the seabed around the Isles of Scilly, revealing complex mosaics of sediment that support a wide range of habitat-building species. The research, led by the…",
+          "url": "https://phys.org/news/2026-09-seabed-surveys-isles-scilly-species.html",
+          "source": "Phys.org",
+          "date": "2026-09-23"
+        },
+        {
+          "title": "Humpback whale mother may have mourned her dead calf for days",
+          "summary": "Researchers observed a humpback whale mother staying beside her presumed stillborn calf for hours and possibly days off Australia’s Gold Coast. She maintained eye contact and remained close to the calf in behavior…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260921081050.htm",
+          "source": "Science Daily",
+          "date": "2026-09-22"
         }
       ]
     },
@@ -132,20 +132,6 @@
           "date": "2026-09-22"
         },
         {
-          "title": "Planetary crises deepen global health inequality, paper warns",
-          "summary": "The global inequality in health opportunities is being further heightened by the triple planetary crisis—climate change, biodiversity loss and environmental pollution. Addressing it is more than a question for health…",
-          "url": "https://phys.org/news/2026-09-planetary-crises-deepen-global-health.html",
-          "source": "Phys.org",
-          "date": "2026-09-22"
-        },
-        {
-          "title": "Embracing the Equinox",
-          "summary": "Depending on your locale, equinoxes can be seen as harbingers of longer nights and gloomy weather, or promising beacons of nicer temperatures and more sunlight. Observing and predicting equinoxes is one of the earliest…",
-          "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/embracing-the-equinox/",
-          "source": "NASA",
-          "date": "2026-09-21"
-        },
-        {
           "title": "Hurricane Hunters reveal 4 warning signs that a storm is about to strengthen",
           "summary": "Nearly three decades of Hurricane Hunter data reveal four features that can help a tilted tropical cyclone straighten its circulation and become capable of intensifying. The findings could give forecasters an earlier…",
           "url": "https://www.sciencedaily.com/releases/2026/09/260919031037.htm",
@@ -153,11 +139,25 @@
           "date": "2026-09-20"
         },
         {
-          "title": "Methane beneath the Greenland ice sheet shapes microbial life and influences the carbon cycle",
-          "summary": "A new study involving researchers from the Faculty of Science, Charles University, Prague, shows that methane concentration is among the key factors determining the composition of microbial communities at the margin of…",
-          "url": "https://phys.org/news/2026-09-methane-beneath-greenland-ice-sheet.html",
+          "title": "Why a healthy seafloor matters for the Earth system",
+          "summary": "The seafloor is more than just the ground beneath the sea. Two-thirds of Earth's surface is covered by oceans, which have an average depth of almost 4 kilometers (2.5 miles). For a long time, the seafloor's remoteness…",
+          "url": "https://phys.org/news/2026-09-healthy-seafloor-earth.html",
           "source": "Phys.org",
-          "date": "2026-09-22"
+          "date": "2026-09-23"
+        },
+        {
+          "title": "Building a self-powered, smart warning system to detect local floods",
+          "summary": "When sudden rainstorms roll across Texas, flooding can erupt in a matter of minutes. From coastal bends facing storm surges to low-water crossings in San Antonio, flood risks often spike block by block long before…",
+          "url": "https://phys.org/news/2026-09-powered-smart-local.html",
+          "source": "Phys.org",
+          "date": "2026-09-23"
+        },
+        {
+          "title": "Hurricane Polo lurks off Mexico, now Category 4",
+          "summary": "Hurricane Polo has weakened to Category 4 as it moves north along Mexico's southwestern coast. It had strengthened from a tropical storm to Category 5 in a day. The post Hurricane Polo lurks off Mexico, now Category 4…",
+          "url": "https://earthsky.org/earth/hurricane-polo-mexico-sept-2026/",
+          "source": "EarthSky",
+          "date": "2026-09-23"
         }
       ]
     },
@@ -169,27 +169,6 @@
           "summary": "A new AI control system lets MIT’s tiny flying robot move with insect-like agility, boosting its speed by about 450 percent and allowing it to pull off 10 somersaults in 11 seconds. The technology could eventually…",
           "url": "https://www.sciencedaily.com/releases/2026/09/260921081114.htm",
           "source": "Science Daily",
-          "date": "2026-09-22"
-        },
-        {
-          "title": "Gold nanoplasmonic chip tracks L-DOPA response in Parkinson's 'mini-brains'",
-          "summary": "Researchers have developed an organoid-on-a-chip technology that verifies the efficacy of Parkinson's disease treatments in real time. The technology combines a stem cell–derived \"mini-brain\" with a nanoplasmonic sensor…",
-          "url": "https://phys.org/news/2026-09-gold-nanoplasmonic-chip-tracks-dopa.html",
-          "source": "Phys.org",
-          "date": "2026-09-22"
-        },
-        {
-          "title": "Quantum protocol securely verifies a device's position using stations 2 km apart",
-          "summary": "Reliably verifying the location of a device connected to the internet or other networks is important for various real-world applications. For instance, it could be valuable for authorizing financial transactions…",
-          "url": "https://phys.org/news/2026-09-quantum-protocol-device-position-stations.html",
-          "source": "Phys.org",
-          "date": "2026-09-22"
-        },
-        {
-          "title": "Worried about an AI apocalypse? Here’s how to think about the risk of doom",
-          "summary": "Commentators say the probability of machines wiping us out ranges from 0 to over 95 per cent. Columnist Jacob Aron explains why you shouldn't trust any of those numbers",
-          "url": "https://www.newscientist.com/article/2590164-worried-about-an-ai-apocalypse-heres-how-to-think-about-the-risk-of-doom/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
           "date": "2026-09-22"
         }
       ]
@@ -203,6 +182,13 @@
           "url": "https://www.sciencedaily.com/releases/2026/09/260921081054.htm",
           "source": "Science Daily",
           "date": "2026-09-22"
+        },
+        {
+          "title": "The LHC just ruled out another hiding place for quantum black holes",
+          "summary": "Physicists searching through Large Hadron Collider data found no evidence that the machine has been producing microscopic quantum black holes, but the result sharply narrows where such exotic physics could still be…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260922005649.htm",
+          "source": "Science Daily",
+          "date": "2026-09-23"
         },
         {
           "title": "What kills Schrödinger’s cat? Gravity may not be the answer",
@@ -219,18 +205,11 @@
           "date": "2026-09-20"
         },
         {
-          "title": "Coffee doesn’t have to keep you awake to disrupt your sleep",
-          "summary": "Caffeine may make sleep less restorative even when you fall asleep normally and stay in bed for eight hours, with EEG recordings revealing fewer of the slow brain waves associated with deep sleep. Individual sensitivity…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260922005719.htm",
-          "source": "Science Daily",
-          "date": "2026-09-22"
-        },
-        {
-          "title": "Day and night get equal billing on Tuesday. A guide to the fall equinox",
-          "summary": "The fall equinox is Tuesday, when light and darkness split the day evenly. It marks the beginning of fall for the Northern Hemisphere and the beginning of spring in the Southern Hemisphere.",
-          "url": "https://phys.org/news/2026-09-day-night-equal-billing-tuesday.html",
+          "title": "Tic-tac-toe simulator offers a way to teach quantum physics without matrix algebra",
+          "summary": "A team from SUNY Polytechnic Institute has designed a quantum rule-based simulator known as Quantum Tic-Tac-Toe. The simulator was originally designed to help students learn abstract concepts in quantum mechanics…",
+          "url": "https://phys.org/news/2026-09-tic-tac-toe-simulator-quantum.html",
           "source": "Phys.org",
-          "date": "2026-09-22"
+          "date": "2026-09-23"
         }
       ]
     }
