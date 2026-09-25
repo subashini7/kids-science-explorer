@@ -1,43 +1,43 @@
 {
-  "updated": "2026-09-24T17:45:27Z",
+  "updated": "2026-09-25T17:47:13Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "New AlphaFold Database release adds viral protein complexes to support pandemic preparedness",
-          "summary": "AI-predicted protein complex structures for more than 2,800 viruses are now openly available in the AlphaFold Database. To better understand and protect against emerging pathogens, the dataset prioritizes proteomes from…",
-          "url": "https://phys.org/news/2026-09-alphafold-database-viral-protein-complexes.html",
+          "title": "New form of flexible boron is 10 million times more electrically conductive",
+          "summary": "The atoms of the 5th element of the periodic table often find themselves in the company of each other, forming allotropes with a rich variety of structural motifs, each carrying a unique set of chemical and physical…",
+          "url": "https://phys.org/news/2026-09-flexible-boron-million-electrically.html",
           "source": "Phys.org",
-          "date": "2026-09-24"
+          "date": "2026-09-25"
         },
         {
-          "title": "ADHD and autism diagnoses have surged. A massive study may help explain why",
-          "summary": "A large Danish study found that children diagnosed with ADHD or autism today more closely resemble their peers in the general population than those diagnosed 10 years ago. The shift suggests that rising diagnosis rates…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260924020353.htm",
-          "source": "Science Daily",
-          "date": "2026-09-24"
+          "title": "Molecular network resource identifies unknown compounds for biomarker discovery",
+          "summary": "Medical researchers, clinicians and pharmaceutical scientists often study small molecules called metabolites, which are produced in living cells through a variety of processes, including the breakdown of food, chemicals…",
+          "url": "https://phys.org/news/2026-09-molecular-network-resource-unknown-compounds.html",
+          "source": "Phys.org",
+          "date": "2026-09-25"
         },
         {
-          "title": "Distant time crystals can somehow fall into the same rhythm",
-          "summary": "Researchers have shown that multiple time crystals inside a semiconductor can synchronize their oscillations, much like pendulum clocks gradually falling into the same rhythm. The coupling is carried by spin-polarized…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260923035934.htm",
-          "source": "Science Daily",
-          "date": "2026-09-24"
+          "title": "New type of human 'jumping gene' found in a poxvirus",
+          "summary": "Scientists at Cornell University have found a human genetic element in a poxvirus and discovered that it is both an important gene for brain function and a jumping gene capable of moving and inserting itself into…",
+          "url": "https://phys.org/news/2026-09-human-gene-poxvirus.html",
+          "source": "Phys.org",
+          "date": "2026-09-25"
         },
         {
-          "title": "Scientists thought they knew how this 70-year-old leukemia drug worked",
-          "summary": "A 70-year-old leukemia drug is still revealing new secrets. Researchers found that removing a protein called NUDT5 protected cells from the drug, even though simply blocking the protein had little effect. The unexpected…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260923035932.htm",
-          "source": "Science Daily",
-          "date": "2026-09-24"
+          "title": "Freezing threatens mRNA delivery, but Tris buffer helps nanoparticles retain their potency",
+          "summary": "Researchers at The University of Texas at Austin have teamed up with pharmaceutical company Eli Lilly and Company to uncover how storage conditions affect mRNA lipid nanoparticles (LNPs), the technology behind COVID-19…",
+          "url": "https://phys.org/news/2026-09-threatens-mrna-delivery-tris-buffer.html",
+          "source": "Phys.org",
+          "date": "2026-09-25"
         },
         {
-          "title": "GLP-1 weight loss and diabetes drugs linked to nutritional deficiencies in nearly 1 in 6 children",
-          "summary": "Children taking GLP-1 medications (such as Victoza, Saxenda, Trulicity, and Ozempic) for weight loss, prediabetes, or type 2 diabetes may face an overlooked risk: nutritional deficiencies. A new study found that nearly…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260923035926.htm",
-          "source": "Science Daily",
-          "date": "2026-09-24"
+          "title": "Discovery confirms rare, switchable electrical property in widely used electronics material",
+          "summary": "A Husker research team's latest research could open the door to broader use of a class of materials whose electrical properties may someday power next-generation electronics, high-density energy storage, improved…",
+          "url": "https://phys.org/news/2026-09-discovery-rare-switchable-electrical-property.html",
+          "source": "Phys.org",
+          "date": "2026-09-25"
         }
       ]
     },
@@ -45,25 +45,32 @@
       "emoji": "🚀",
       "articles": [
         {
-          "title": "NASA Selects Far-Infrared Telescope as First in New Mission Class",
-          "summary": "NASA announced Wednesday a mission to explore the history and evolution of the universe, PRIMA (PRobe far-Infrared Mission for Astrophysics), is advancing to the next phase of development. This space telescope is the…",
-          "url": "https://www.nasa.gov/news-release/nasa-selects-far-infrared-telescope-as-first-in-new-mission-class/",
-          "source": "NASA",
-          "date": "2026-09-23"
+          "title": "Private spacecraft falls back to Earth after failing to rescue aging NASA telescope",
+          "summary": "The robotic spacecraft that failed to rescue an aging NASA telescope plunged back to Earth on Friday less than three months after launching on the bold mission.",
+          "url": "https://phys.org/news/2026-09-private-spacecraft-falls-earth-aging.html",
+          "source": "Phys.org",
+          "date": "2026-09-25"
         },
         {
-          "title": "NASA to Study Human Health, Performance During Crew-13 Mission",
-          "summary": "During NASA’s SpaceX Crew‑13 mission aboard the International Space Station, astronauts will support a series of biomedical and human performance investigations, including a new collaborative effort to study how…",
-          "url": "https://www.nasa.gov/humans-in-space/nasa-to-study-human-health-performance-during-crew-13-mission/",
+          "title": "NASA Shares SpaceX Crew-14 Assignments for Space Station Mission",
+          "summary": "Four crew members from three space agencies will launch to the International Space Station no earlier than spring 2027 for a long-duration science expedition as part of NASA’s SpaceX Crew-14 mission. NASA astronauts…",
+          "url": "https://www.nasa.gov/news-release/nasa-shares-spacex-crew-14-assignments-for-space-station-mission/",
           "source": "NASA",
           "date": "2026-09-24"
         },
         {
-          "title": "APOD: 2026 September 24 – The Ghosts of Five Supernovas",
-          "summary": "APOD Science APOD APOD: 2026 September 24 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
-          "url": "https://science.nasa.gov/image-article/apod-2026-september-24-the-ghosts-of-five-supernovas/",
+          "title": "Hubble Spots Chaotic Secret in Galaxy",
+          "summary": "A chaotic secret hides within this seemingly serene image of spiral galaxy NGC 4698 taken by NASA&#8217;s Hubble Space Telescope and released on Sept. 18, 2026. As a spiral galaxy like our own Milky Way galaxy, NGC 4698…",
+          "url": "https://www.nasa.gov/image-article/hubble-spots-chaotic-secret-in-galaxy/",
           "source": "NASA",
-          "date": "2026-09-24"
+          "date": "2026-09-25"
+        },
+        {
+          "title": "APOD: 2026 September 25 – Globular Star Cluster Omega Centauri",
+          "summary": "APOD Science APOD APOD: 2026 September 25 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
+          "url": "https://science.nasa.gov/image-article/apod-2026-september-25-globular-star-cluster-omega-centauri/",
+          "source": "NASA",
+          "date": "2026-09-25"
         },
         {
           "title": "These massive stars could explain Webb’s strangest galaxies",
@@ -71,33 +78,12 @@
           "url": "https://www.sciencedaily.com/releases/2026/09/260923035922.htm",
           "source": "Science Daily",
           "date": "2026-09-24"
-        },
-        {
-          "title": "NASA Aircraft to Make Low-Altitude Research Flights Over Colorado",
-          "summary": "Agricultural emissions represent an important and understudied&#160;part of Earth’s land and atmosphere systems.&#160;The&#160;FarmFlux&#160;mission will&#160;deploy more than a dozen sensors to&#160;measure ozone…",
-          "url": "https://www.nasa.gov/general/nasa-aircraft-to-make-low-altitude-research-flights-over-colorado/",
-          "source": "NASA",
-          "date": "2026-09-23"
         }
       ]
     },
     "Animals & Nature": {
       "emoji": "🐾",
       "articles": [
-        {
-          "title": "'Jumping genes' helped ants in their evolutionary triumph after the extinction of the dinosaurs",
-          "summary": "About 66 million years ago, the asteroid that ended the age of the dinosaurs paved the way for a spectacular expansion of new animal species. During this period, ants rose to ecological dominance. Today, they form the…",
-          "url": "https://phys.org/news/2026-09-genes-ants-evolutionary-triumph-extinction.html",
-          "source": "Phys.org",
-          "date": "2026-09-24"
-        },
-        {
-          "title": "New species of proto-amphibian described by students, named in honor of their mothers",
-          "summary": "Around 309 million years ago, long before the dinosaurs, the area around Chicago was a swampy river delta swarming with early land-dwelling animals, giant insects and strange swimming animals. What was once a hotbed for…",
-          "url": "https://phys.org/news/2026-09-species-proto-amphibian-students-honor.html",
-          "source": "Phys.org",
-          "date": "2026-09-24"
-        },
         {
           "title": "A broken rib from the world’s largest T. rex hid a 66-million-year-old secret",
           "summary": "A broken rib from Scotty, the largest known T. rex skeleton, contains an extraordinary fossilized network of blood vessels formed while the dinosaur was healing. Scientists used neutron and X-ray imaging to look inside…",
@@ -106,18 +92,32 @@
           "date": "2026-09-24"
         },
         {
-          "title": "Sharks can hear sounds nearly 250 feet away and find the source",
-          "summary": "Sound travels through the ocean carrying clues about potential prey, predators and other animals, giving sharks an important way to detect what they cannot yet see. But exactly how far a free-swimming shark can hear a…",
-          "url": "https://phys.org/news/2026-09-sharks-feet-source.html",
-          "source": "Phys.org",
+          "title": "Scientists find two tiny new snails with shells that close like doors",
+          "summary": "Scientists discovered two tiny new snail species in Montenegro, showing that even Europe still holds animals unknown to science. One lives in the threatened Komarnica Canyon, where a proposed hydropower reservoir could…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260923035936.htm",
+          "source": "Science Daily",
           "date": "2026-09-24"
         },
         {
-          "title": "Montreal's squirrels provide insight into evolutionary change in urban species",
-          "summary": "By comparing variations in the coat colors of eastern gray squirrels (Sciurus carolinensis) in Montreal city parks, researchers found that hyperlocal conditions appear to play a bigger role in shaping wildlife traits…",
-          "url": "https://phys.org/news/2026-09-montreal-squirrels-insight-evolutionary-urban.html",
+          "title": "CRISPR could help doctors attack blood cancer without destroying healthy cells",
+          "summary": "Researchers used CRISPR to remove CD33 from donor stem cells, potentially giving doctors a way to attack aggressive blood cancers without destroying the healthy cells patients need after a transplant. In a 30-patient…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260924020408.htm",
+          "source": "Science Daily",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "Stonehenge’s 6-ton altar stone may have traveled from Scotland by glacier",
+          "summary": "Stonehenge’s six-ton Altar Stone may have been carried from Scotland to Dogger Bank by glaciers before prehistoric people transported it hundreds of kilometers to Salisbury Plain. The possible multistage journey…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260922005715.htm",
+          "source": "Science Daily",
+          "date": "2026-09-23"
+        },
+        {
+          "title": "Strategically placed garden plants offer a low-cost way to cool homes in summer",
+          "summary": "Climate change is bringing extreme summer heat to many more countries, but using the right plants in your garden could help keep your home a bit cooler next summer.",
+          "url": "https://phys.org/news/2026-09-strategically-garden-cool-homes-summer.html",
           "source": "Phys.org",
-          "date": "2026-09-24"
+          "date": "2026-09-25"
         }
       ]
     },
@@ -125,18 +125,18 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "US-India Satellite Captures Time-lapse Video of Volcanic Eruption",
-          "summary": "Like tendrils on a vine, lava spreads out from the northern crater of Krasheninnikov, a volcano pair on the Pacific coast of Russia’s Kamchatka Peninsula. On July 30, 2025, an 8.8-magnitude earthquake had struck in the…",
-          "url": "https://www.nasa.gov/missions/nisar/us-india-satellite-captures-time-lapse-video-of-volcanic-eruption/",
-          "source": "NASA",
-          "date": "2026-09-24"
+          "title": "Climate overshoot will leave lasting impacts even after global temperatures fall",
+          "summary": "Returning global temperatures to a climate target does not necessarily undo the damage caused by exceeding it, new Concordia-led research published in the journal Communications Earth & Environment finds.",
+          "url": "https://phys.org/news/2026-09-climate-overshoot-impacts-global-temperatures.html",
+          "source": "Phys.org",
+          "date": "2026-09-25"
         },
         {
-          "title": "The end of humanity? What would happen if the Yellowstone supervolcano erupted now",
-          "summary": "A Yellowstone super-eruption would begin not with a sudden surprise, but with weeks of increasingly alarming warning signs such as migrating earthquake swarms, rapid ground uplift, changing geysers, and rising volcanic…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260922005655.htm",
-          "source": "Science Daily",
-          "date": "2026-09-22"
+          "title": "Hurricane Nolo strengthening near Hawaii",
+          "summary": "Hurricane Nolo is strengthening south of Hawaii, and could bring potentially catastrophic flooding to the Big Island through the weekend. The post Hurricane Nolo strengthening near Hawaii first appeared on EarthSky .",
+          "url": "https://earthsky.org/earth/hurricane-nolo-hawaii-sept-2026/",
+          "source": "EarthSky",
+          "date": "2026-09-25"
         },
         {
           "title": "These tropical trees breathe at night to survive drought",
@@ -146,18 +146,18 @@
           "date": "2026-09-23"
         },
         {
-          "title": "Family resilience can help protect children from climate change",
-          "summary": "As climate change brings more extreme weather events, strengthening families before disasters strike can help protect children's health and well-being, says Mary McKay, a professor at the Brown School at Washington…",
-          "url": "https://phys.org/news/2026-09-family-resilience-children-climate.html",
+          "title": "Students help researchers study how people experience temperature",
+          "summary": "Are there any geographical differences in how people experience weather conditions? This question was investigated in the citizen science project Kallt och svettigt (Cold and sweaty) for a year with the help of school…",
+          "url": "https://phys.org/news/2026-09-students-people-temperature.html",
           "source": "Phys.org",
-          "date": "2026-09-24"
+          "date": "2026-09-25"
         },
         {
-          "title": "Greenland ice shelf weakened by estuary ahead of recent calving event",
-          "summary": "In August 2026, an iceberg the size of Manhattan broke away from the Petermann Ice Shelf in northern Greenland. It was the glacier's largest calving event since 2020. Long before the breakup, CIRES scientists were…",
-          "url": "https://phys.org/news/2026-09-greenland-ice-shelf-weakened-estuary.html",
+          "title": "Satellite data expose an escalating 'boom-and-bust' dynamic in greening drylands",
+          "summary": "Dryland ecosystems cover 40% of the Earth's land surface and support more than 2 billion people. According to a new study published in Nature Climate Change, they're becoming increasingly unstable.",
+          "url": "https://phys.org/news/2026-09-satellite-expose-escalating-boom-dynamic.html",
           "source": "Phys.org",
-          "date": "2026-09-24"
+          "date": "2026-09-25"
         }
       ]
     },
@@ -165,18 +165,18 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "MIT’s tiny flying robot gets 450% faster with AI",
-          "summary": "A new AI control system lets MIT’s tiny flying robot move with insect-like agility, boosting its speed by about 450 percent and allowing it to pull off 10 somersaults in 11 seconds. The technology could eventually…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260921081114.htm",
-          "source": "Science Daily",
-          "date": "2026-09-22"
+          "title": "Spin rephasing helps quantum memories store single-photon states longer for future networks",
+          "summary": "We are continuously sending information to each other, transmitting zeros and ones through a giant network of connected computers and devices. Scientists are now trying to extend this familiar concept of the internet to…",
+          "url": "https://phys.org/news/2026-09-rephasing-quantum-memories-photon-states.html",
+          "source": "Phys.org",
+          "date": "2026-09-25"
         },
         {
-          "title": "Public libraries emerge as key sites for building critical AI literacy",
-          "summary": "As artificial intelligence tools become increasingly embedded in work, government and everyday life, new research from UAlbany's Center for Technology in Government (CTG) suggests public libraries can play an important…",
-          "url": "https://phys.org/news/2026-09-libraries-emerge-key-sites-critical.html",
-          "source": "Phys.org",
-          "date": "2026-09-24"
+          "title": "Quantum computing’s “dark horse” just proved it can go universal",
+          "summary": "Researchers have shown that exotic quantum particles called non-Abelian anyons can perform the full range of operations needed for universal quantum computing. Using 54 qubits on Quantinuum’s H2 processor, they combined…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260924020403.htm",
+          "source": "Science Daily",
+          "date": "2026-09-25"
         }
       ]
     },
@@ -184,39 +184,39 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "Is the universe twisted? A new check on a possible twist in the universe's oldest light",
-          "summary": "The cosmic microwave background (CMB) is the universe's oldest light, leftover thermal radiation from about 380,000 years after the big bang. Maps of the CMB offer a picture of the \"baby universe\" as it was 13.8 billion…",
-          "url": "https://phys.org/news/2026-09-universe-oldest.html",
+          "title": "Ancient meteorites reveal a powerful force that helped build the Solar System",
+          "summary": "Ancient grains inside one of the oldest known meteorites reveal that a surprisingly strong magnetic field existed during the solar system’s first 200,000 years. The discovery suggests magnetism worked alongside gravity…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260924020355.htm",
+          "source": "Science Daily",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "Rare quantum state reveals particles with quarter-electron charge",
+          "summary": "An electron's charge is normally fixed, like a coin you can't break into pieces. But if electrons are cooled close to absolute zero and trapped in a two-dimensional layer under a powerful magnetic field, they organize…",
+          "url": "https://phys.org/news/2026-09-rare-quantum-state-reveals-particles.html",
           "source": "Phys.org",
-          "date": "2026-09-24"
+          "date": "2026-09-25"
         },
         {
-          "title": "The LHC just ruled out another hiding place for quantum black holes",
-          "summary": "Physicists searching through Large Hadron Collider data found no evidence that the machine has been producing microscopic quantum black holes, but the result sharply narrows where such exotic physics could still be…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260922005649.htm",
-          "source": "Science Daily",
-          "date": "2026-09-22"
+          "title": "2026-2027 DWU: Middle School Design Challenge",
+          "summary": "2026-2027 DWU: Middle School Design Challenge Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.”&#160; As more and more aircraft are a part of the US’ National Airspace…",
+          "url": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-middle-school-design-challenge/",
+          "source": "NASA",
+          "date": "2026-09-25"
         },
         {
-          "title": "Why Viking museums still can’t escape the warrior myth",
-          "summary": "Scandinavian museums are trying to move beyond the familiar image of Vikings as sword-wielding male warriors, highlighting women, farmers, traders, and a far more complicated society. But the enduring popularity of the…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260922005805.htm",
-          "source": "Science Daily",
-          "date": "2026-09-23"
+          "title": "2026-2027 DWU: High School Engineering Challenge",
+          "summary": "2026-2027 DWU: High School Engineering Challenge Challenge Materials Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.” As more and more aircraft are a part of the US’…",
+          "url": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-high-school-engineering-challenge/",
+          "source": "NASA",
+          "date": "2026-09-25"
         },
         {
-          "title": "Coffee doesn’t have to keep you awake to disrupt your sleep",
-          "summary": "Caffeine may make sleep less restorative even when you fall asleep normally and stay in bed for eight hours, with EEG recordings revealing fewer of the slow brain waves associated with deep sleep. Individual sensitivity…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260922005719.htm",
-          "source": "Science Daily",
-          "date": "2026-09-22"
-        },
-        {
-          "title": "The science gap fueling Africa's water wars",
-          "summary": "As countries across Africa face growing pressure over shared water resources, USC water scientists argue that one of the most powerful tools for preventing conflict may be found not at the negotiating table, but in the…",
-          "url": "https://phys.org/news/2026-09-science-gap-fueling-africa-wars.html",
+          "title": "What we evaluate, not just what we see, shapes pupil responses",
+          "summary": "Our pupils become smaller under brighter conditions and larger under darker conditions. In addition to responding to changes in light, pupil size is influenced by attention, emotion and how visual objects are perceived.",
+          "url": "https://phys.org/news/2026-09-pupil-responses.html",
           "source": "Phys.org",
-          "date": "2026-09-24"
+          "date": "2026-09-25"
         }
       ]
     }
