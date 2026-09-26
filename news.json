@@ -1,13 +1,20 @@
 {
-  "updated": "2026-09-25T17:47:13Z",
+  "updated": "2026-09-26T16:52:51Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "New form of flexible boron is 10 million times more electrically conductive",
-          "summary": "The atoms of the 5th element of the periodic table often find themselves in the company of each other, forming allotropes with a rich variety of structural motifs, each carrying a unique set of chemical and physical…",
-          "url": "https://phys.org/news/2026-09-flexible-boron-million-electrically.html",
+          "title": "How a century-old solvent can enable efficient amide synthesis",
+          "summary": "Amide bonds are chemical linkages essential to biology, medicine and materials chemistry. Peptide bonds, a class of amide bonds, link amino acids to form proteins. Amide bonds are also important in medicines and…",
+          "url": "https://phys.org/news/2026-09-century-solvent-enable-efficient-amide.html",
+          "source": "Phys.org",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "Blood pressure enzyme reveals second job: Making sulfur rings for cellular antioxidants",
+          "summary": "Antioxidants such as vitamins C and E protect cells by neutralizing free radicals, such as reactive oxygen species, before they can damage genetic material or cell membranes. Such damage can contribute to the…",
+          "url": "https://phys.org/news/2026-09-blood-pressure-enzyme-reveals-job.html",
           "source": "Phys.org",
           "date": "2026-09-25"
         },
@@ -19,23 +26,16 @@
           "date": "2026-09-25"
         },
         {
-          "title": "New type of human 'jumping gene' found in a poxvirus",
-          "summary": "Scientists at Cornell University have found a human genetic element in a poxvirus and discovered that it is both an important gene for brain function and a jumping gene capable of moving and inserting itself into…",
-          "url": "https://phys.org/news/2026-09-human-gene-poxvirus.html",
+          "title": "A 'library' of bacteria-killing viruses: Harnessing the power of phages",
+          "summary": "An estimated 38 trillion bacteria live in the human body—and only a small fraction are harmful to our health. However, the harmful ones can cause serious illness, especially when they develop resistance to antibiotics.",
+          "url": "https://phys.org/news/2026-09-library-bacteria-viruses-harnessing-power.html",
           "source": "Phys.org",
-          "date": "2026-09-25"
+          "date": "2026-09-26"
         },
         {
-          "title": "Freezing threatens mRNA delivery, but Tris buffer helps nanoparticles retain their potency",
-          "summary": "Researchers at The University of Texas at Austin have teamed up with pharmaceutical company Eli Lilly and Company to uncover how storage conditions affect mRNA lipid nanoparticles (LNPs), the technology behind COVID-19…",
-          "url": "https://phys.org/news/2026-09-threatens-mrna-delivery-tris-buffer.html",
-          "source": "Phys.org",
-          "date": "2026-09-25"
-        },
-        {
-          "title": "Discovery confirms rare, switchable electrical property in widely used electronics material",
-          "summary": "A Husker research team's latest research could open the door to broader use of a class of materials whose electrical properties may someday power next-generation electronics, high-density energy storage, improved…",
-          "url": "https://phys.org/news/2026-09-discovery-rare-switchable-electrical-property.html",
+          "title": "Mitochondrial protein complexes: A single amino acid can jeopardize their stability",
+          "summary": "Removing a single amino acid can determine whether new proteins assemble into stable complexes within mitochondria. An enzyme carries out this precise trimming at the start of mitochondrial proteins. Without it…",
+          "url": "https://phys.org/news/2026-09-mitochondrial-protein-complexes-amino-acid.html",
           "source": "Phys.org",
           "date": "2026-09-25"
         }
@@ -45,24 +45,24 @@
       "emoji": "🚀",
       "articles": [
         {
-          "title": "Private spacecraft falls back to Earth after failing to rescue aging NASA telescope",
-          "summary": "The robotic spacecraft that failed to rescue an aging NASA telescope plunged back to Earth on Friday less than three months after launching on the bold mission.",
-          "url": "https://phys.org/news/2026-09-private-spacecraft-falls-earth-aging.html",
-          "source": "Phys.org",
-          "date": "2026-09-25"
-        },
-        {
-          "title": "NASA Shares SpaceX Crew-14 Assignments for Space Station Mission",
-          "summary": "Four crew members from three space agencies will launch to the International Space Station no earlier than spring 2027 for a long-duration science expedition as part of NASA’s SpaceX Crew-14 mission. NASA astronauts…",
-          "url": "https://www.nasa.gov/news-release/nasa-shares-spacex-crew-14-assignments-for-space-station-mission/",
+          "title": "NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch",
+          "summary": "Spacecraft propulsion traditionally relies on volatile fuels and separate, bulky systems for different types of maneuvering in space. NASA is working to change that paradigm. Engineers at NASA’s Marshall Space Flight…",
+          "url": "https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/",
           "source": "NASA",
-          "date": "2026-09-24"
+          "date": "2026-09-25"
         },
         {
           "title": "Hubble Spots Chaotic Secret in Galaxy",
           "summary": "A chaotic secret hides within this seemingly serene image of spiral galaxy NGC 4698 taken by NASA&#8217;s Hubble Space Telescope and released on Sept. 18, 2026. As a spiral galaxy like our own Milky Way galaxy, NGC 4698…",
           "url": "https://www.nasa.gov/image-article/hubble-spots-chaotic-secret-in-galaxy/",
           "source": "NASA",
+          "date": "2026-09-25"
+        },
+        {
+          "title": "Great news from Saturn's moon Enceladus in the search for life in space",
+          "summary": "What are the chances of finding extraterrestrial life in our solar system? Frank Postberg, a professor of planetary science at Freie Universität Berlin, has published a study in Science Advances with an international…",
+          "url": "https://phys.org/news/2026-09-great-news-saturn-moon-enceladus.html",
+          "source": "Phys.org",
           "date": "2026-09-25"
         },
         {
@@ -85,11 +85,11 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "A broken rib from the world’s largest T. rex hid a 66-million-year-old secret",
-          "summary": "A broken rib from Scotty, the largest known T. rex skeleton, contains an extraordinary fossilized network of blood vessels formed while the dinosaur was healing. Scientists used neutron and X-ray imaging to look inside…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260922005709.htm",
+          "title": "Don’t toss cannabis leaves: They may contain rare compounds with medical potential",
+          "summary": "Scientists discovered rare flavoalkaloids in Cannabis leaves for the first time, along with dozens of other phenolic compounds that had never been reported in the plant. The findings suggest that Cannabis leaves, often…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260924231711.htm",
           "source": "Science Daily",
-          "date": "2026-09-24"
+          "date": "2026-09-26"
         },
         {
           "title": "Scientists find two tiny new snails with shells that close like doors",
@@ -99,24 +99,24 @@
           "date": "2026-09-24"
         },
         {
-          "title": "CRISPR could help doctors attack blood cancer without destroying healthy cells",
-          "summary": "Researchers used CRISPR to remove CD33 from donor stem cells, potentially giving doctors a way to attack aggressive blood cancers without destroying the healthy cells patients need after a transplant. In a 30-patient…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260924020408.htm",
-          "source": "Science Daily",
+          "title": "Guatemala ensures survival of vulnerable 'fossil' fish",
+          "summary": "In a freshwater canal surrounded by mangroves in southern Guatemala, hundreds of baby tropical gars—a torpedo-shaped fish with an alligator-like snout dubbed the \"fossil fish\"—are released into the wild.",
+          "url": "https://phys.org/news/2026-09-guatemala-survival-vulnerable-fossil-fish.html",
+          "source": "Phys.org",
+          "date": "2026-09-26"
+        },
+        {
+          "title": "Plant root injuries unleash pressure waves that travel long distances",
+          "summary": "When plant roots are injured—by insects, for example—the pressure inside the root drops, and a pressure wave spreads rapidly throughout the root system. In neighboring roots, tiny proteins that act as mechanical…",
+          "url": "https://phys.org/news/2026-09-root-injuries-unleash-pressure-distances.html",
+          "source": "Phys.org",
           "date": "2026-09-25"
         },
         {
-          "title": "Stonehenge’s 6-ton altar stone may have traveled from Scotland by glacier",
-          "summary": "Stonehenge’s six-ton Altar Stone may have been carried from Scotland to Dogger Bank by glaciers before prehistoric people transported it hundreds of kilometers to Salisbury Plain. The possible multistage journey…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260922005715.htm",
+          "title": "Scientists discovered two bizarre new sea spiders that are “nightmare fuel”",
+          "summary": "Scientists discovered two strange new sea spider species in the Salish Sea, including a hairy-legged, red-eyed species that can groom itself with comb-like appendages. Another is frequently covered in tiny parasites…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260925005412.htm",
           "source": "Science Daily",
-          "date": "2026-09-23"
-        },
-        {
-          "title": "Strategically placed garden plants offer a low-cost way to cool homes in summer",
-          "summary": "Climate change is bringing extreme summer heat to many more countries, but using the right plants in your garden could help keep your home a bit cooler next summer.",
-          "url": "https://phys.org/news/2026-09-strategically-garden-cool-homes-summer.html",
-          "source": "Phys.org",
           "date": "2026-09-25"
         }
       ]
@@ -125,11 +125,18 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Climate overshoot will leave lasting impacts even after global temperatures fall",
-          "summary": "Returning global temperatures to a climate target does not necessarily undo the damage caused by exceeding it, new Concordia-led research published in the journal Communications Earth & Environment finds.",
-          "url": "https://phys.org/news/2026-09-climate-overshoot-impacts-global-temperatures.html",
+          "title": "Climate crisis is affecting children's nutrition",
+          "summary": "Wildfires, floods and other extreme weather events are no longer the only ways climate change affects children around the world. Increasingly, it also affects their diets. Droughts reduce agricultural production, floods…",
+          "url": "https://phys.org/news/2026-09-climate-crisis-affecting-children-nutrition.html",
           "source": "Phys.org",
-          "date": "2026-09-25"
+          "date": "2026-09-26"
+        },
+        {
+          "title": "A real-time look inside spacecraft heat shields during extreme heat conditions",
+          "summary": "When a spacecraft reenters Earth's atmosphere at hypersonic velocities, its protective heat shield faces extreme conditions, including temperatures beyond 3,000 degrees Fahrenheit (1,650 degrees Celsius). To survive…",
+          "url": "https://phys.org/news/2026-09-real-spacecraft-shields-extreme-conditions.html",
+          "source": "Phys.org",
+          "date": "2026-09-26"
         },
         {
           "title": "Hurricane Nolo strengthening near Hawaii",
@@ -139,38 +146,17 @@
           "date": "2026-09-25"
         },
         {
-          "title": "These tropical trees breathe at night to survive drought",
-          "summary": "Some tropical trees have evolved a clever way to survive drought by taking in carbon dioxide at night, allowing them to keep their pores closed during the hot daytime and conserve water. By comparing three Clusia…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260922005712.htm",
-          "source": "Science Daily",
-          "date": "2026-09-23"
-        },
-        {
-          "title": "Students help researchers study how people experience temperature",
-          "summary": "Are there any geographical differences in how people experience weather conditions? This question was investigated in the citizen science project Kallt och svettigt (Cold and sweaty) for a year with the help of school…",
-          "url": "https://phys.org/news/2026-09-students-people-temperature.html",
+          "title": "Canals full, roads submerged as Bangkok declares flood disaster",
+          "summary": "Bangkok authorities declared a flood disaster across the Thai capital on Saturday after almost 48 hours of heavy rain left canals full, roads submerged and residents wading through deep water.",
+          "url": "https://phys.org/news/2026-09-canals-full-roads-submerged-bangkok.html",
           "source": "Phys.org",
-          "date": "2026-09-25"
-        },
-        {
-          "title": "Satellite data expose an escalating 'boom-and-bust' dynamic in greening drylands",
-          "summary": "Dryland ecosystems cover 40% of the Earth's land surface and support more than 2 billion people. According to a new study published in Nature Climate Change, they're becoming increasingly unstable.",
-          "url": "https://phys.org/news/2026-09-satellite-expose-escalating-boom-dynamic.html",
-          "source": "Phys.org",
-          "date": "2026-09-25"
+          "date": "2026-09-26"
         }
       ]
     },
     "Technology & Inventions": {
       "emoji": "🤖",
       "articles": [
-        {
-          "title": "Spin rephasing helps quantum memories store single-photon states longer for future networks",
-          "summary": "We are continuously sending information to each other, transmitting zeros and ones through a giant network of connected computers and devices. Scientists are now trying to extend this familiar concept of the internet to…",
-          "url": "https://phys.org/news/2026-09-rephasing-quantum-memories-photon-states.html",
-          "source": "Phys.org",
-          "date": "2026-09-25"
-        },
         {
           "title": "Quantum computing’s “dark horse” just proved it can go universal",
           "summary": "Researchers have shown that exotic quantum particles called non-Abelian anyons can perform the full range of operations needed for universal quantum computing. Using 54 qubits on Quantinuum’s H2 processor, they combined…",
@@ -184,6 +170,13 @@
       "emoji": "⚡",
       "articles": [
         {
+          "title": "Quantum computer simulates matter “popping into existence”",
+          "summary": "Scientists recreated a particle-forming process linked to the extreme physics of the early universe using a 13-ion quantum simulator. The breakthrough suggests quantum computers could eventually help researchers…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260925005416.htm",
+          "source": "Science Daily",
+          "date": "2026-09-26"
+        },
+        {
           "title": "Ancient meteorites reveal a powerful force that helped build the Solar System",
           "summary": "Ancient grains inside one of the oldest known meteorites reveal that a surprisingly strong magnetic field existed during the solar system’s first 200,000 years. The discovery suggests magnetism worked alongside gravity…",
           "url": "https://www.sciencedaily.com/releases/2026/09/260924020355.htm",
@@ -191,9 +184,9 @@
           "date": "2026-09-25"
         },
         {
-          "title": "Rare quantum state reveals particles with quarter-electron charge",
-          "summary": "An electron's charge is normally fixed, like a coin you can't break into pieces. But if electrons are cooled close to absolute zero and trapped in a two-dimensional layer under a powerful magnetic field, they organize…",
-          "url": "https://phys.org/news/2026-09-rare-quantum-state-reveals-particles.html",
+          "title": "Ultrathin materials could make quantum light circuits programmable",
+          "summary": "Quantum photonics could be a pivotal part of future quantum technology if the right materials can be created, a new review paper has found.",
+          "url": "https://phys.org/news/2026-09-ultrathin-materials-quantum-circuits-programmable.html",
           "source": "Phys.org",
           "date": "2026-09-25"
         },
@@ -209,13 +202,6 @@
           "summary": "2026-2027 DWU: High School Engineering Challenge Challenge Materials Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.” As more and more aircraft are a part of the US’…",
           "url": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-high-school-engineering-challenge/",
           "source": "NASA",
-          "date": "2026-09-25"
-        },
-        {
-          "title": "What we evaluate, not just what we see, shapes pupil responses",
-          "summary": "Our pupils become smaller under brighter conditions and larger under darker conditions. In addition to responding to changes in light, pupil size is influenced by attention, emotion and how visual objects are perceived.",
-          "url": "https://phys.org/news/2026-09-pupil-responses.html",
-          "source": "Phys.org",
           "date": "2026-09-25"
         }
       ]
