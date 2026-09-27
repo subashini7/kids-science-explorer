@@ -1,29 +1,36 @@
 {
-  "updated": "2026-09-26T16:52:51Z",
+  "updated": "2026-09-27T17:32:51Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "How a century-old solvent can enable efficient amide synthesis",
-          "summary": "Amide bonds are chemical linkages essential to biology, medicine and materials chemistry. Peptide bonds, a class of amide bonds, link amino acids to form proteins. Amide bonds are also important in medicines and…",
-          "url": "https://phys.org/news/2026-09-century-solvent-enable-efficient-amide.html",
+          "title": "Waste bulrush transformed into copper-enhanced material for dye removal from wastewater",
+          "summary": "Industrial activities such as textile manufacturing, paper production, leather processing and food processing can generate wastewater containing synthetic dyes. Because many synthetic dyes are chemically stable…",
+          "url": "https://phys.org/news/2026-09-bulrush-copper-material-dye-wastewater.html",
           "source": "Phys.org",
-          "date": "2026-09-25"
+          "date": "2026-09-27"
         },
         {
-          "title": "Blood pressure enzyme reveals second job: Making sulfur rings for cellular antioxidants",
-          "summary": "Antioxidants such as vitamins C and E protect cells by neutralizing free radicals, such as reactive oxygen species, before they can damage genetic material or cell membranes. Such damage can contribute to the…",
-          "url": "https://phys.org/news/2026-09-blood-pressure-enzyme-reveals-job.html",
+          "title": "DNA reveals chemosynthesis genes in bacteria living on coral reef fish gills",
+          "summary": "Chemosynthetic bacteria have been documented in various marine environments and in association with invertebrate hosts such as annelid worms and mollusks, but their presence in fish appears to be a new discovery. The…",
+          "url": "https://phys.org/news/2026-09-dna-reveals-chemosynthesis-genes-bacteria.html",
           "source": "Phys.org",
-          "date": "2026-09-25"
+          "date": "2026-09-27"
         },
         {
-          "title": "Molecular network resource identifies unknown compounds for biomarker discovery",
-          "summary": "Medical researchers, clinicians and pharmaceutical scientists often study small molecules called metabolites, which are produced in living cells through a variety of processes, including the breakdown of food, chemicals…",
-          "url": "https://phys.org/news/2026-09-molecular-network-resource-unknown-compounds.html",
+          "title": "Pumpkin-derived enzyme weakens peanut proteins' binding to allergy antibodies in lab tests",
+          "summary": "Peanut allergy is one of the most serious food allergies and can lead to sudden, life-threatening reactions. Researchers from Wroclaw University of Environmental and Life Sciences, in collaboration with Wroclaw Medical…",
+          "url": "https://phys.org/news/2026-09-pumpkin-derived-enzyme-weakens-peanut.html",
           "source": "Phys.org",
-          "date": "2026-09-25"
+          "date": "2026-09-26"
+        },
+        {
+          "title": "Sparse layers of 10-nanometer silver particles boost CO production from CO₂",
+          "summary": "Electrolysis can reduce CO2 to CO, a raw material for chemical products such as fuels. Within the GreenQUEST project, an international team led by HZB chemist Prashanth Menezes has systematically investigated catalyst…",
+          "url": "https://phys.org/news/2026-09-sparse-layers-nanometer-silver-particles.html",
+          "source": "Phys.org",
+          "date": "2026-09-26"
         },
         {
           "title": "A 'library' of bacteria-killing viruses: Harnessing the power of phages",
@@ -31,19 +38,19 @@
           "url": "https://phys.org/news/2026-09-library-bacteria-viruses-harnessing-power.html",
           "source": "Phys.org",
           "date": "2026-09-26"
-        },
-        {
-          "title": "Mitochondrial protein complexes: A single amino acid can jeopardize their stability",
-          "summary": "Removing a single amino acid can determine whether new proteins assemble into stable complexes within mitochondria. An enzyme carries out this precise trimming at the start of mitochondrial proteins. Without it…",
-          "url": "https://phys.org/news/2026-09-mitochondrial-protein-complexes-amino-acid.html",
-          "source": "Phys.org",
-          "date": "2026-09-25"
         }
       ]
     },
     "Space & Astronomy": {
       "emoji": "🚀",
       "articles": [
+        {
+          "title": "JUICE mission to fly by Earth Monday: Details here",
+          "summary": "The JUICE mission will perform a flyby of Earth next week on September 28. The spacecraft is headed toward Jupiter's icy moons, where it will arrive in 2031. The post JUICE mission to fly by Earth Monday: Details here…",
+          "url": "https://earthsky.org/space/esas-juice-mission-explore-jupiters-icy-moons-ganymede/",
+          "source": "EarthSky",
+          "date": "2026-09-27"
+        },
         {
           "title": "NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch",
           "summary": "Spacecraft propulsion traditionally relies on volatile fuels and separate, bulky systems for different types of maneuvering in space. NASA is working to change that paradigm. Engineers at NASA’s Marshall Space Flight…",
@@ -59,13 +66,6 @@
           "date": "2026-09-25"
         },
         {
-          "title": "Great news from Saturn's moon Enceladus in the search for life in space",
-          "summary": "What are the chances of finding extraterrestrial life in our solar system? Frank Postberg, a professor of planetary science at Freie Universität Berlin, has published a study in Science Advances with an international…",
-          "url": "https://phys.org/news/2026-09-great-news-saturn-moon-enceladus.html",
-          "source": "Phys.org",
-          "date": "2026-09-25"
-        },
-        {
           "title": "APOD: 2026 September 25 – Globular Star Cluster Omega Centauri",
           "summary": "APOD Science APOD APOD: 2026 September 25 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
           "url": "https://science.nasa.gov/image-article/apod-2026-september-25-globular-star-cluster-omega-centauri/",
@@ -73,17 +73,24 @@
           "date": "2026-09-25"
         },
         {
-          "title": "These massive stars could explain Webb’s strangest galaxies",
-          "summary": "Hubble observations of massive stars in metal-poor dwarf galaxies are revealing clues to why the early universe looks so unusual. Researchers found that stellar winds weaken sharply at extremely low metallicities…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260923035922.htm",
-          "source": "Science Daily",
-          "date": "2026-09-24"
+          "title": "Engineers teach spacecraft to 'dream' their way to the space station",
+          "summary": "Docking with the ISS may seem simple. However, actually doing so shows how difficult orbital mechanics can be. It's like traveling down a highway at 28,000 km/hr (17,000 mph) and parallel parking in an open garage on a…",
+          "url": "https://phys.org/news/2026-09-spacecraft-space-station.html",
+          "source": "Phys.org",
+          "date": "2026-09-26"
         }
       ]
     },
     "Animals & Nature": {
       "emoji": "🐾",
       "articles": [
+        {
+          "title": "1.7-billion-year-old fossils reveal a crucial clue to the rise of complex life",
+          "summary": "Scientists studying ancient Australian rocks uncovered more than 12,000 fossils from some of the oldest known eukaryotes on Earth. These early complex cells lived in settings ranging from coastal mudflats to the open…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260925005447.htm",
+          "source": "Science Daily",
+          "date": "2026-09-27"
+        },
         {
           "title": "Don’t toss cannabis leaves: They may contain rare compounds with medical potential",
           "summary": "Scientists discovered rare flavoalkaloids in Cannabis leaves for the first time, along with dozens of other phenolic compounds that had never been reported in the plant. The findings suggest that Cannabis leaves, often…",
@@ -92,11 +99,18 @@
           "date": "2026-09-26"
         },
         {
-          "title": "Scientists find two tiny new snails with shells that close like doors",
-          "summary": "Scientists discovered two tiny new snail species in Montenegro, showing that even Europe still holds animals unknown to science. One lives in the threatened Komarnica Canyon, where a proposed hydropower reservoir could…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260923035936.htm",
-          "source": "Science Daily",
-          "date": "2026-09-24"
+          "title": "How has evolution shaped men's and women's minds? A new book tells an outdated story",
+          "summary": "Psychologist Steve Stewart-Williams' third book about evolutionary psychology, a controversial field often drawn on (and distorted) by the manosphere, is A Billion Years of Sex Differences: How Evolution Shaped the…",
+          "url": "https://phys.org/news/2026-09-evolution-men-women-minds-outdated.html",
+          "source": "Phys.org",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "Why earwigs infected by parasitic worms head towards water",
+          "summary": "Earwigs, small, elongated insects with distinctive pincers at the rear of their abdomens, have little reason to enter open water. While many earwig species are attracted to damp environments, they typically avoid open…",
+          "url": "https://phys.org/news/2026-09-earwigs-infected-parasitic-worms.html",
+          "source": "Phys.org",
+          "date": "2026-09-26"
         },
         {
           "title": "Guatemala ensures survival of vulnerable 'fossil' fish",
@@ -104,20 +118,6 @@
           "url": "https://phys.org/news/2026-09-guatemala-survival-vulnerable-fossil-fish.html",
           "source": "Phys.org",
           "date": "2026-09-26"
-        },
-        {
-          "title": "Plant root injuries unleash pressure waves that travel long distances",
-          "summary": "When plant roots are injured—by insects, for example—the pressure inside the root drops, and a pressure wave spreads rapidly throughout the root system. In neighboring roots, tiny proteins that act as mechanical…",
-          "url": "https://phys.org/news/2026-09-root-injuries-unleash-pressure-distances.html",
-          "source": "Phys.org",
-          "date": "2026-09-25"
-        },
-        {
-          "title": "Scientists discovered two bizarre new sea spiders that are “nightmare fuel”",
-          "summary": "Scientists discovered two strange new sea spider species in the Salish Sea, including a hairy-legged, red-eyed species that can groom itself with comb-like appendages. Another is frequently covered in tiny parasites…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260925005412.htm",
-          "source": "Science Daily",
-          "date": "2026-09-25"
         }
       ]
     },
@@ -146,11 +146,18 @@
           "date": "2026-09-25"
         },
         {
-          "title": "Canals full, roads submerged as Bangkok declares flood disaster",
-          "summary": "Bangkok authorities declared a flood disaster across the Thai capital on Saturday after almost 48 hours of heavy rain left canals full, roads submerged and residents wading through deep water.",
-          "url": "https://phys.org/news/2026-09-canals-full-roads-submerged-bangkok.html",
+          "title": "Sun news: Fast solar wind might brush Earth",
+          "summary": "Sun news September 27, 2026: The sun stayed quiet as busy AR4534 slipped behind the limb. A small coronal hole stream could still bring a G1 storm today. The post Sun news: Fast solar wind might brush Earth first…",
+          "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+          "source": "EarthSky",
+          "date": "2026-09-27"
+        },
+        {
+          "title": "Powerful storm pummels Northeast US with rain, high winds",
+          "summary": "Heavy rain and strong winds battered the northeastern United States on Sunday as an unusually powerful autumn storm intensified, leaving tens of thousands without power. U.S. media reported one person dead.",
+          "url": "https://phys.org/news/2026-09-powerful-storm-pummels-northeast-high.html",
           "source": "Phys.org",
-          "date": "2026-09-26"
+          "date": "2026-09-27"
         }
       ]
     },
@@ -181,13 +188,6 @@
           "summary": "Ancient grains inside one of the oldest known meteorites reveal that a surprisingly strong magnetic field existed during the solar system’s first 200,000 years. The discovery suggests magnetism worked alongside gravity…",
           "url": "https://www.sciencedaily.com/releases/2026/09/260924020355.htm",
           "source": "Science Daily",
-          "date": "2026-09-25"
-        },
-        {
-          "title": "Ultrathin materials could make quantum light circuits programmable",
-          "summary": "Quantum photonics could be a pivotal part of future quantum technology if the right materials can be created, a new review paper has found.",
-          "url": "https://phys.org/news/2026-09-ultrathin-materials-quantum-circuits-programmable.html",
-          "source": "Phys.org",
           "date": "2026-09-25"
         },
         {
