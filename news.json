@@ -1,43 +1,43 @@
 {
-  "updated": "2026-09-27T17:32:51Z",
+  "updated": "2026-09-28T20:00:03Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "Waste bulrush transformed into copper-enhanced material for dye removal from wastewater",
-          "summary": "Industrial activities such as textile manufacturing, paper production, leather processing and food processing can generate wastewater containing synthetic dyes. Because many synthetic dyes are chemically stable…",
-          "url": "https://phys.org/news/2026-09-bulrush-copper-material-dye-wastewater.html",
+          "title": "Shared DNA switch turns on genes in both bacteria and yeast",
+          "summary": "Microbial cell factories that produce pharmaceutical ingredients and other useful compounds include both the bacterium Escherichia coli and yeast, the organism used to leaven bread and ferment alcohol. The two organisms…",
+          "url": "https://phys.org/news/2026-09-dna-genes-bacteria-yeast.html",
           "source": "Phys.org",
-          "date": "2026-09-27"
+          "date": "2026-09-28"
         },
         {
-          "title": "DNA reveals chemosynthesis genes in bacteria living on coral reef fish gills",
-          "summary": "Chemosynthetic bacteria have been documented in various marine environments and in association with invertebrate hosts such as annelid worms and mollusks, but their presence in fish appears to be a new discovery. The…",
-          "url": "https://phys.org/news/2026-09-dna-reveals-chemosynthesis-genes-bacteria.html",
-          "source": "Phys.org",
-          "date": "2026-09-27"
+          "title": "160-million-year-old proteins show surprising power against superbugs",
+          "summary": "Scientists resurrected antimicrobial peptides from mammals that lived millions of years ago and found that some were more potent against drug-resistant bacteria than modern human versions. These evolutionary relics…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260925093155.htm",
+          "source": "Science Daily",
+          "date": "2026-09-28"
         },
         {
-          "title": "Pumpkin-derived enzyme weakens peanut proteins' binding to allergy antibodies in lab tests",
-          "summary": "Peanut allergy is one of the most serious food allergies and can lead to sudden, life-threatening reactions. Researchers from Wroclaw University of Environmental and Life Sciences, in collaboration with Wroclaw Medical…",
-          "url": "https://phys.org/news/2026-09-pumpkin-derived-enzyme-weakens-peanut.html",
+          "title": "Automated lipid nanoparticle production could accelerate the development of RNA therapies",
+          "summary": "RNA vaccines and other nucleic acid therapeutics are typically packaged within fatty molecules known as lipid nanoparticles (LNPs). MIT researchers have now developed a way to produce these particles much more quickly…",
+          "url": "https://phys.org/news/2026-09-automated-lipid-nanoparticle-production-rna.html",
           "source": "Phys.org",
-          "date": "2026-09-26"
+          "date": "2026-09-28"
         },
         {
-          "title": "Sparse layers of 10-nanometer silver particles boost CO production from CO₂",
-          "summary": "Electrolysis can reduce CO2 to CO, a raw material for chemical products such as fuels. Within the GreenQUEST project, an international team led by HZB chemist Prashanth Menezes has systematically investigated catalyst…",
-          "url": "https://phys.org/news/2026-09-sparse-layers-nanometer-silver-particles.html",
-          "source": "Phys.org",
-          "date": "2026-09-26"
+          "title": "Blood tests reveal why astronauts get constipated in space",
+          "summary": "Spaceflight may dramatically change the gut within weeks, causing bacteria to break down more protein as food moves more slowly through the intestines. The shift could help explain astronaut constipation and may have…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260927225030.htm",
+          "source": "Science Daily",
+          "date": "2026-09-28"
         },
         {
-          "title": "A 'library' of bacteria-killing viruses: Harnessing the power of phages",
-          "summary": "An estimated 38 trillion bacteria live in the human body—and only a small fraction are harmful to our health. However, the harmful ones can cause serious illness, especially when they develop resistance to antibiotics.",
-          "url": "https://phys.org/news/2026-09-library-bacteria-viruses-harnessing-power.html",
+          "title": "New tool tracks a hidden protein involved in viral infection and cell cleanup",
+          "summary": "Viruses such as influenza A and dengue can hijack a cellular system that helps manage protein aggregates. Previous work by FMI emeritus group leader Patrick Matthias and his team showed that a small protein called…",
+          "url": "https://phys.org/news/2026-09-tool-tracks-hidden-protein-involved.html",
           "source": "Phys.org",
-          "date": "2026-09-26"
+          "date": "2026-09-28"
         }
       ]
     },
@@ -45,45 +45,52 @@
       "emoji": "🚀",
       "articles": [
         {
+          "title": "NASA, Boeing Share Update on Commercial Starliner Development Plans",
+          "summary": "On Monday, NASA and Boeing provided an update on the company’s Starliner spacecraft, including adding additional crew missions and certifying a new rocket for crew transportation to low Earth orbit. “We are living…",
+          "url": "https://www.nasa.gov/news-release/nasa-boeing-share-update-on-commercial-starliner-development-plans/",
+          "source": "NASA",
+          "date": "2026-09-28"
+        },
+        {
+          "title": "NASA Highlights Lessons Learned From Swift Boost Mission",
+          "summary": "A commercial mission to boost NASA’s Swift observatory concluded without raising the spacecraft’s orbit, but the agency and industry vendor gained valuable experience that will benefit future in-space servicing programs.",
+          "url": "https://science.nasa.gov/missions/swift/nasa-highlights-lessons-learned-from-swift-boost-mission/",
+          "source": "NASA",
+          "date": "2026-09-28"
+        },
+        {
+          "title": "What You Need to Know About NASA’s SpaceX Crew-13 Mission",
+          "summary": "Four crew members are set to launch to the International Space Station as part of NASA’s SpaceX Crew-13 mission to perform research, technology demonstrations, and maintenance aboard the orbiting laboratory.",
+          "url": "https://www.nasa.gov/missions/station/commercial-crew/what-you-need-to-know-about-nasas-spacex-crew-13-mission/",
+          "source": "NASA",
+          "date": "2026-09-28"
+        },
+        {
+          "title": "Testing tiny telescope robots reveals design changes that could improve galaxy maps",
+          "summary": "Astronomers have cataloged billions of stars and hundreds of billions of galaxies. We have found thousands of planets orbiting stars. We can also map where galaxies sit and trace how the universe changes over time.",
+          "url": "https://phys.org/news/2026-09-tiny-telescope-robots-reveals-galaxy.html",
+          "source": "Phys.org",
+          "date": "2026-09-28"
+        },
+        {
           "title": "JUICE mission to fly by Earth Monday: Details here",
           "summary": "The JUICE mission will perform a flyby of Earth next week on September 28. The spacecraft is headed toward Jupiter's icy moons, where it will arrive in 2031. The post JUICE mission to fly by Earth Monday: Details here…",
           "url": "https://earthsky.org/space/esas-juice-mission-explore-jupiters-icy-moons-ganymede/",
           "source": "EarthSky",
           "date": "2026-09-27"
-        },
-        {
-          "title": "NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch",
-          "summary": "Spacecraft propulsion traditionally relies on volatile fuels and separate, bulky systems for different types of maneuvering in space. NASA is working to change that paradigm. Engineers at NASA’s Marshall Space Flight…",
-          "url": "https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/",
-          "source": "NASA",
-          "date": "2026-09-25"
-        },
-        {
-          "title": "Hubble Spots Chaotic Secret in Galaxy",
-          "summary": "A chaotic secret hides within this seemingly serene image of spiral galaxy NGC 4698 taken by NASA&#8217;s Hubble Space Telescope and released on Sept. 18, 2026. As a spiral galaxy like our own Milky Way galaxy, NGC 4698…",
-          "url": "https://www.nasa.gov/image-article/hubble-spots-chaotic-secret-in-galaxy/",
-          "source": "NASA",
-          "date": "2026-09-25"
-        },
-        {
-          "title": "APOD: 2026 September 25 – Globular Star Cluster Omega Centauri",
-          "summary": "APOD Science APOD APOD: 2026 September 25 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
-          "url": "https://science.nasa.gov/image-article/apod-2026-september-25-globular-star-cluster-omega-centauri/",
-          "source": "NASA",
-          "date": "2026-09-25"
-        },
-        {
-          "title": "Engineers teach spacecraft to 'dream' their way to the space station",
-          "summary": "Docking with the ISS may seem simple. However, actually doing so shows how difficult orbital mechanics can be. It's like traveling down a highway at 28,000 km/hr (17,000 mph) and parallel parking in an open garage on a…",
-          "url": "https://phys.org/news/2026-09-spacecraft-space-station.html",
-          "source": "Phys.org",
-          "date": "2026-09-26"
         }
       ]
     },
     "Animals & Nature": {
       "emoji": "🐾",
       "articles": [
+        {
+          "title": "Scientists were wrong about this strange mammal for nearly 40 years",
+          "summary": "A beautifully preserved fossil from Mongolia’s Gobi Desert has solved a mystery that puzzled paleontologists for nearly 40 years. Tamirkhan balcarceli shows that zhelestids were not early relatives of modern placental…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260925093204.htm",
+          "source": "Science Daily",
+          "date": "2026-09-28"
+        },
         {
           "title": "1.7-billion-year-old fossils reveal a crucial clue to the rise of complex life",
           "summary": "Scientists studying ancient Australian rocks uncovered more than 12,000 fossils from some of the oldest known eukaryotes on Earth. These early complex cells lived in settings ranging from coastal mudflats to the open…",
@@ -99,45 +106,24 @@
           "date": "2026-09-26"
         },
         {
-          "title": "How has evolution shaped men's and women's minds? A new book tells an outdated story",
-          "summary": "Psychologist Steve Stewart-Williams' third book about evolutionary psychology, a controversial field often drawn on (and distorted) by the manosphere, is A Billion Years of Sex Differences: How Evolution Shaped the…",
-          "url": "https://phys.org/news/2026-09-evolution-men-women-minds-outdated.html",
-          "source": "Phys.org",
-          "date": "2026-09-27"
+          "title": "Scientists discovered two bizarre new sea spiders that are “nightmare fuel”",
+          "summary": "Scientists discovered two strange new sea spider species in the Salish Sea, including a hairy-legged, red-eyed species that can groom itself with comb-like appendages. Another is frequently covered in tiny parasites…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260925005412.htm",
+          "source": "Science Daily",
+          "date": "2026-09-25"
         },
         {
-          "title": "Why earwigs infected by parasitic worms head towards water",
-          "summary": "Earwigs, small, elongated insects with distinctive pincers at the rear of their abdomens, have little reason to enter open water. While many earwig species are attracted to damp environments, they typically avoid open…",
-          "url": "https://phys.org/news/2026-09-earwigs-infected-parasitic-worms.html",
-          "source": "Phys.org",
-          "date": "2026-09-26"
-        },
-        {
-          "title": "Guatemala ensures survival of vulnerable 'fossil' fish",
-          "summary": "In a freshwater canal surrounded by mangroves in southern Guatemala, hundreds of baby tropical gars—a torpedo-shaped fish with an alligator-like snout dubbed the \"fossil fish\"—are released into the wild.",
-          "url": "https://phys.org/news/2026-09-guatemala-survival-vulnerable-fossil-fish.html",
-          "source": "Phys.org",
-          "date": "2026-09-26"
+          "title": "CRISPR could help doctors attack blood cancer without destroying healthy cells",
+          "summary": "Researchers used CRISPR to remove CD33 from donor stem cells, potentially giving doctors a way to attack aggressive blood cancers without destroying the healthy cells patients need after a transplant. In a 30-patient…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260924020408.htm",
+          "source": "Science Daily",
+          "date": "2026-09-25"
         }
       ]
     },
     "Earth & Climate": {
       "emoji": "🌍",
       "articles": [
-        {
-          "title": "Climate crisis is affecting children's nutrition",
-          "summary": "Wildfires, floods and other extreme weather events are no longer the only ways climate change affects children around the world. Increasingly, it also affects their diets. Droughts reduce agricultural production, floods…",
-          "url": "https://phys.org/news/2026-09-climate-crisis-affecting-children-nutrition.html",
-          "source": "Phys.org",
-          "date": "2026-09-26"
-        },
-        {
-          "title": "A real-time look inside spacecraft heat shields during extreme heat conditions",
-          "summary": "When a spacecraft reenters Earth's atmosphere at hypersonic velocities, its protective heat shield faces extreme conditions, including temperatures beyond 3,000 degrees Fahrenheit (1,650 degrees Celsius). To survive…",
-          "url": "https://phys.org/news/2026-09-real-spacecraft-shields-extreme-conditions.html",
-          "source": "Phys.org",
-          "date": "2026-09-26"
-        },
         {
           "title": "Hurricane Nolo strengthening near Hawaii",
           "summary": "Hurricane Nolo is strengthening south of Hawaii, and could bring potentially catastrophic flooding to the Big Island through the weekend. The post Hurricane Nolo strengthening near Hawaii first appeared on EarthSky .",
@@ -146,18 +132,11 @@
           "date": "2026-09-25"
         },
         {
-          "title": "Sun news: Fast solar wind might brush Earth",
-          "summary": "Sun news September 27, 2026: The sun stayed quiet as busy AR4534 slipped behind the limb. A small coronal hole stream could still bring a G1 storm today. The post Sun news: Fast solar wind might brush Earth first…",
-          "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
-          "source": "EarthSky",
-          "date": "2026-09-27"
-        },
-        {
-          "title": "Powerful storm pummels Northeast US with rain, high winds",
-          "summary": "Heavy rain and strong winds battered the northeastern United States on Sunday as an unusually powerful autumn storm intensified, leaving tens of thousands without power. U.S. media reported one person dead.",
-          "url": "https://phys.org/news/2026-09-powerful-storm-pummels-northeast-high.html",
-          "source": "Phys.org",
-          "date": "2026-09-27"
+          "title": "Our food system is vulnerable to El Niño, warns UK climate minister",
+          "summary": "Extreme weather could damage harvests worldwide, but the answer is more local food production, not stockpiling, Katie White said in an interview with New Scientist",
+          "url": "https://www.newscientist.com/article/2590994-our-food-system-is-vulnerable-to-el-nino-warns-uk-climate-minister/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-09-28"
         }
       ]
     },
@@ -165,11 +144,32 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "Quantum computing’s “dark horse” just proved it can go universal",
-          "summary": "Researchers have shown that exotic quantum particles called non-Abelian anyons can perform the full range of operations needed for universal quantum computing. Using 54 qubits on Quantinuum’s H2 processor, they combined…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260924020403.htm",
-          "source": "Science Daily",
-          "date": "2026-09-25"
+          "title": "Quantum computer boldly goes where no quantum computer has gone before: Space",
+          "summary": "There's big news from the quantum world. A quantum computer has been used in space for the first time. The device was aboard a spacecraft in low Earth orbit and demonstrated technology that could eventually help solve a…",
+          "url": "https://phys.org/news/2026-09-quantum-boldly-space.html",
+          "source": "Phys.org",
+          "date": "2026-09-28"
+        },
+        {
+          "title": "NASA Armstrong Celebrates 80 Years of Flight Innovation",
+          "summary": "On Sept. 30, 1946, five National Advisory Committee of Aeronautics (NACA) engineers arrived at Muroc Army Airfield in California’s high desert to achieve supersonic flight for the first time. In less than two years…",
+          "url": "https://www.nasa.gov/news-release/nasa-armstrong-celebrates-80-years-of-flight-innovation/",
+          "source": "NASA",
+          "date": "2026-09-28"
+        },
+        {
+          "title": "Study examines risks companies face when relying too heavily on AI systems",
+          "summary": "A new framework for thinking about artificial intelligence at work starts with a question companies have spent relatively little time asking.",
+          "url": "https://phys.org/news/2026-09-companies-heavily-ai.html",
+          "source": "Phys.org",
+          "date": "2026-09-28"
+        },
+        {
+          "title": "Scientists can’t stop using AI, even when forbidden from doing so",
+          "summary": "When scientists were asked to review papers for a conference without using AI tools, many of them ignored the request and used AI anyway",
+          "url": "https://www.newscientist.com/article/2590949-scientists-cant-stop-using-ai-even-when-forbidden-from-doing-so/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-09-28"
         }
       ]
     },
@@ -184,25 +184,32 @@
           "date": "2026-09-26"
         },
         {
-          "title": "Ancient meteorites reveal a powerful force that helped build the Solar System",
-          "summary": "Ancient grains inside one of the oldest known meteorites reveal that a surprisingly strong magnetic field existed during the solar system’s first 200,000 years. The discovery suggests magnetism worked alongside gravity…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260924020355.htm",
-          "source": "Science Daily",
-          "date": "2026-09-25"
+          "title": "New model explains why glass becomes less transparent to terahertz light",
+          "summary": "Electromagnetic waves in the gigahertz (GHz) range, such as those used in mobile communications, can readily pass through many types of glass. However, transmission decreases significantly at terahertz frequencies above…",
+          "url": "https://phys.org/news/2026-09-glass-transparent-terahertz.html",
+          "source": "Phys.org",
+          "date": "2026-09-28"
         },
         {
-          "title": "2026-2027 DWU: Middle School Design Challenge",
-          "summary": "2026-2027 DWU: Middle School Design Challenge Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.”&#160; As more and more aircraft are a part of the US’ National Airspace…",
-          "url": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-middle-school-design-challenge/",
-          "source": "NASA",
-          "date": "2026-09-25"
+          "title": "DarkSide detector puts 'nuclear' dark matter to the test",
+          "summary": "Researchers at the DarkSide collaboration have unveiled results from a seven-year experiment that tested whether dark matter particles could exist as composites of smaller, elementary particles. While the search turned…",
+          "url": "https://phys.org/news/2026-09-darkside-detector-nuclear-dark.html",
+          "source": "Phys.org",
+          "date": "2026-09-28"
         },
         {
-          "title": "2026-2027 DWU: High School Engineering Challenge",
-          "summary": "2026-2027 DWU: High School Engineering Challenge Challenge Materials Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.” As more and more aircraft are a part of the US’…",
-          "url": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-high-school-engineering-challenge/",
-          "source": "NASA",
-          "date": "2026-09-25"
+          "title": "Embracing the glitches in gravity could give us a unified theory of reality",
+          "summary": "Physicists have long struggled with their goal of making gravity a quantum force. A radical post-quantum approach might solve that problem – and clear up other cosmic mysteries, too",
+          "url": "https://www.newscientist.com/article/2589429-embracing-the-glitches-in-gravity-could-give-us-a-unified-theory-of-reality/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-09-28"
+        },
+        {
+          "title": "Light and electricity offer new way to control ion separation in membranes",
+          "summary": "Lithium, magnesium, potassium and many other ions usually occur together in natural and industrial solutions. Separating them from one another is a challenge, for example, in the extraction and processing of raw…",
+          "url": "https://phys.org/news/2026-09-electricity-ion-membranes.html",
+          "source": "Phys.org",
+          "date": "2026-09-28"
         }
       ]
     }
