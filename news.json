@@ -1,15 +1,22 @@
 {
-  "updated": "2026-09-29T18:28:13Z",
+  "updated": "2026-09-30T18:17:05Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "160-million-year-old proteins show surprising power against superbugs",
-          "summary": "Scientists resurrected antimicrobial peptides from mammals that lived millions of years ago and found that some were more potent against drug-resistant bacteria than modern human versions. These evolutionary relics…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260925093155.htm",
+          "title": "Light-activated crystals break down DNA-like molecules in water, potentially curbing antibiotic resistance",
+          "summary": "Engineers have developed a new approach for turning ordinary water into a weapon against antibiotic-resistant bacteria, according to a study published in the journal Chem Catalysis.",
+          "url": "https://phys.org/news/2026-09-crystals-dna-molecules-potentially-curbing.html",
+          "source": "Phys.org",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "Mulberry may reshape gut bacteria and influence metabolism",
+          "summary": "Mulberry compounds may reshape the gut microbiome in ways that support intestinal health and metabolism, with some combinations showing especially strong effects in animal studies. However, the results vary depending on…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260928100551.htm",
           "source": "Science Daily",
-          "date": "2026-09-28"
+          "date": "2026-09-30"
         },
         {
           "title": "Blood tests reveal why astronauts get constipated in space",
@@ -19,25 +26,18 @@
           "date": "2026-09-28"
         },
         {
-          "title": "How ocean chemistry helped life keep breathing",
-          "summary": "Scientists have helped solve a longstanding mystery about how Earth remained habitable after oxygen first accumulated in its atmosphere more than 2 billion years ago, providing evidence that ancient ocean chemistry…",
-          "url": "https://phys.org/news/2026-09-ocean-chemistry-life.html",
+          "title": "Alpine bacteria show unexpected ability to fight viruses",
+          "summary": "A silent, long-running competition has been taking place in Swiss alpine lakes for millions of years, killing trillions of organisms every day without anyone noticing. This competition between bacteria and viruses…",
+          "url": "https://phys.org/news/2026-09-alpine-bacteria-unexpected-ability-viruses.html",
           "source": "Phys.org",
-          "date": "2026-09-29"
+          "date": "2026-09-30"
         },
         {
-          "title": "Same plant species, different chemistry: Why chemotype labels matter",
-          "summary": "Plants of the same species can differ considerably in their chemical composition, affecting their smell, taste and even toxicity. A new study shows that the term \"chemotype\" has not been used consistently.",
-          "url": "https://phys.org/news/2026-09-species-chemistry-chemotype.html",
+          "title": "Zinc oxide quantum dots enable faster charge detection, laying groundwork for spin qubits",
+          "summary": "Researchers at Tohoku University, in collaboration with the National Institute for Materials Science (NIMS) and the University of Tokyo, have taken an important step toward semiconductor quantum computing using zinc…",
+          "url": "https://phys.org/news/2026-09-zinc-oxide-quantum-dots-enable.html",
           "source": "Phys.org",
-          "date": "2026-09-29"
-        },
-        {
-          "title": "NSTGRO 2026",
-          "summary": "NSTGRO Homepage Omar AlyousefUniversity Of MemphisPolycatenated Architected Materials (PAM) for Origami-Inspired Space Docking Ports Cade ArmstrongUniversity Of Texas at AustinIntelligent Multi-Agent Constellations for…",
-          "url": "https://www.nasa.gov/directorates/stmd/space-tech-research-grants/nstgro/nstgro-2026/",
-          "source": "NASA",
-          "date": "2026-09-29"
+          "date": "2026-09-30"
         }
       ]
     },
@@ -45,18 +45,18 @@
       "emoji": "🚀",
       "articles": [
         {
-          "title": "NASA, Boeing Share Update on Commercial Starliner Development Plans",
-          "summary": "On Monday, NASA and Boeing provided an update on the company’s Starliner spacecraft, including adding additional crew missions and certifying a new rocket for crew transportation to low Earth orbit. “We are living…",
-          "url": "https://www.nasa.gov/news-release/nasa-boeing-share-update-on-commercial-starliner-development-plans/",
-          "source": "NASA",
-          "date": "2026-09-28"
-        },
-        {
           "title": "Crew-13 Rocket and Spacecraft at Launch Pad",
           "summary": "Ahead of NASA’s SpaceX Crew-13 mission launch, a SpaceX Falcon 9 rocket and Dragon spacecraft are vertical at the launch pad of Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida in this Sept. 27…",
           "url": "https://www.nasa.gov/image-article/crew-13-rocket-and-spacecraft-at-launch-pad/",
           "source": "NASA",
           "date": "2026-09-29"
+        },
+        {
+          "title": "Watch Live: NASA’s Crew-13 could make the fastest U.S. trip to the ISS ever",
+          "summary": "NASA’s SpaceX Crew-13 mission is scheduled to launch four astronauts to the International Space Station on October 1. The Dragon could reach the orbiting laboratory in just 7 hours and 50 minutes, making it the fastest…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260930020312.htm",
+          "source": "Science Daily",
+          "date": "2026-09-30"
         },
         {
           "title": "NASA’s Crew-13 could go from Florida to the ISS in under 9 hours",
@@ -66,18 +66,18 @@
           "date": "2026-09-29"
         },
         {
-          "title": "SpaceX's Starship rocket does its job during first orbital flight",
-          "summary": "SpaceX sent its Starship super-rocket on its first orbital flight—a shorter-than-planned test mission that put operational Starlink satellites into orbit for the first time.",
-          "url": "https://phys.org/news/2026-09-spacex-starship-rocket-job-orbital.html",
-          "source": "Phys.org",
+          "title": "This suitcase-sized spacecraft could hear the universe before stars existed",
+          "summary": "CosmoCube will use the far side of the Moon as a shield from Earth’s radio noise to search for a faint signal from the universe before the first stars existed. The suitcase-sized satellite could reveal how the cosmic…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260927225034.htm",
+          "source": "Science Daily",
           "date": "2026-09-29"
         },
         {
-          "title": "NASA announces new missions for Boeing Starliner spacecraft",
-          "summary": "NASA announced Monday that it is planning new missions using Boeing's Starliner spacecraft, the first since a troubled test flight left two astronauts stranded at the International Space Station for months.",
-          "url": "https://phys.org/news/2026-09-nasa-missions-boeing-starliner-spacecraft.html",
-          "source": "Phys.org",
-          "date": "2026-09-29"
+          "title": "JUICE mission completes flyby of Earth: New pics!",
+          "summary": "The JUICE mission made a successful flyby of Earth on September 28. See new images of Earth and the moon here. The spacecraft will reach Jupiter in 2031. The post JUICE mission completes flyby of Earth: New pics! first…",
+          "url": "https://earthsky.org/space/esas-juice-mission-explore-jupiters-icy-moons-ganymede/",
+          "source": "EarthSky",
+          "date": "2026-09-30"
         }
       ]
     },
@@ -85,39 +85,39 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "Plant lovers wanted: Study highlights demand for citizen science",
-          "summary": "Over the last several years, invasive plant and insect species have found their way into more and more social media feeds. From the tree of heaven to Bradford pear trees and the ubiquitous spotted lanternfly, home…",
-          "url": "https://phys.org/news/2026-09-lovers-highlights-demand-citizen-science.html",
-          "source": "Phys.org",
-          "date": "2026-09-29"
-        },
-        {
-          "title": "How does a bird virus infect a person?",
-          "summary": "How do we know when an animal virus might pose a risk to humans? Canada confirmed a human case of H5N1 avian influenza (often called \"bird flu\") in 2024, the first known to have been acquired in Canada. The patient, a…",
-          "url": "https://phys.org/news/2026-09-bird-virus-infect-person.html",
-          "source": "Phys.org",
-          "date": "2026-09-29"
-        },
-        {
-          "title": "Spectacular feathered dinosaur fossil shows bird-like adaptations",
-          "summary": "An exquisitely preserved fossil found in China shows that many anatomical features seen in birds also evolved independently in another group of dinosaurs",
-          "url": "https://www.newscientist.com/article/2591243-spectacular-feathered-dinosaur-fossil-shows-bird-like-adaptations/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-09-29"
-        },
-        {
-          "title": "Scientists were wrong about this strange mammal for nearly 40 years",
-          "summary": "A beautifully preserved fossil from Mongolia’s Gobi Desert has solved a mystery that puzzled paleontologists for nearly 40 years. Tamirkhan balcarceli shows that zhelestids were not early relatives of modern placental…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260925093204.htm",
+          "title": "This 245-million-year-old fossil still has its stomach and intestines",
+          "summary": "A 245-million-year-old marine reptile fossil preserves an astonishing amount of detail, including its stomach, liver, and intestines. The discovery reveals that Austronaga minuta was highly adapted for swimming even…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260927225036.htm",
           "source": "Science Daily",
-          "date": "2026-09-28"
+          "date": "2026-09-29"
         },
         {
-          "title": "1.7-billion-year-old fossils reveal a crucial clue to the rise of complex life",
-          "summary": "Scientists studying ancient Australian rocks uncovered more than 12,000 fossils from some of the oldest known eukaryotes on Earth. These early complex cells lived in settings ranging from coastal mudflats to the open…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260925005447.htm",
+          "title": "Adult fossil strengthens evidence for Homo erectus in southern Africa 2 million years ago",
+          "summary": "La Trobe archaeologists have described 18 new hominin fossils, including a second Homo erectus skull fragment that confirms the species first appeared in southern Africa 2.0 million years ago—200,000 years earlier than…",
+          "url": "https://phys.org/news/2026-09-adult-fossil-evidence-homo-erectus.html",
+          "source": "Phys.org",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "Butterflies use optical illusions to dodge predators",
+          "summary": "A bird attacking a butterfly will often find its beak snapping at thin air. According to new research, that split-second miss isn't just bad luck. It's caused by a visual illusion from the butterfly's wings.",
+          "url": "https://phys.org/news/2026-09-butterflies-optical-illusions-dodge-predators.html",
+          "source": "Phys.org",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "Bats may have first evolved in Europe 65 million years ago",
+          "summary": "A huge genomic and fossil study suggests bats first evolved in Europe around 65 to 60 million years ago before spreading across the globe. The findings also indicate that flight and echolocation emerged near the…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260929053531.htm",
           "source": "Science Daily",
-          "date": "2026-09-27"
+          "date": "2026-09-30"
+        },
+        {
+          "title": "Asgard archaea suggest crawling motility may be far older than previously thought",
+          "summary": "Asgard archaea, our closest known microbial relatives, play a key role in current models of the origin of more complex organisms, known as eukaryotes (all animals, plants, protists and fungi). However, their biology has…",
+          "url": "https://phys.org/news/2026-09-asgard-archaea-motility-older-previously.html",
+          "source": "Phys.org",
+          "date": "2026-09-30"
         }
       ]
     },
@@ -125,39 +125,39 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Tropical weather patterns steer West Antarctic snowfall, ice cores reveal",
-          "summary": "Climate patterns in the tropics help determine how much snow falls from year to year in Antarctica, one of the coldest, windiest and driest places on Earth. New research from the University of Utah shows that tropical…",
-          "url": "https://phys.org/news/2026-09-tropical-weather-patterns-west-antarctic.html",
+          "title": "Polar oceans transformed as warming melts ice habitats: Research",
+          "summary": "Climate change is increasingly reshaping the polar oceans, with Arctic waters warming rapidly, sea ice shrinking and wildlife losing habitat at both ends of the planet, an annual report said Wednesday.",
+          "url": "https://phys.org/news/2026-09-polar-oceans-ice-habitats.html",
           "source": "Phys.org",
-          "date": "2026-09-29"
+          "date": "2026-09-30"
         },
         {
-          "title": "Survey reveals plastic 12,800 feet deep off Ecuador as beach waste rises",
-          "summary": "Plastic pollution is a growing threat to marine environments, with discarded waste reaching from coastlines to the deepest parts of the ocean. Now, a six-year study has revealed how quickly debris can accumulate on a…",
-          "url": "https://phys.org/news/2026-09-survey-reveals-plastic-feet-deep.html",
-          "source": "Phys.org",
-          "date": "2026-09-29"
+          "title": "Powerful Storms Continue to Prowl the Pacific",
+          "summary": "Hurricanes Polo and Nolo sent destructive effects ashore amid an active season in the northeastern and central Pacific.",
+          "url": "https://science.nasa.gov/earth/earth-observatory/powerful-storms-continue-to-prowl-the-pacific/",
+          "source": "NASA",
+          "date": "2026-09-30"
         },
         {
-          "title": "Studies map microclimates beneath solar panels to help native vegetation thrive in the shadow of renewable energy",
-          "summary": "Using solar energy is good for the environment, but look down, and the grass isn't always greener. Solar farms can generate massive amounts of renewable energy, but when they're built in natural areas, they change the…",
-          "url": "https://phys.org/news/2026-09-microclimates-beneath-solar-panels-native.html",
-          "source": "Phys.org",
-          "date": "2026-09-29"
+          "title": "Ocean heatwaves are hiding months of extra warming",
+          "summary": "Marine heatwaves may be only the most intense part of much longer warming events, with elevated temperatures sometimes lingering for months. Researchers found that conventional measurements underestimate total heat…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260928100603.htm",
+          "source": "Science Daily",
+          "date": "2026-09-30"
         },
         {
-          "title": "How the moon and sun may trigger slow earthquakes on Earth",
-          "summary": "While not quite a fatal attraction, the gravitational pull of the moon and sun creates tiny stresses on Earth that can trigger events known as slow earthquakes. These are movements along fault lines (fault slips) that…",
-          "url": "https://phys.org/news/2026-09-moon-sun-trigger-earthquakes-earth.html",
+          "title": "Why the nor'easter's storm surge was so high, and what it says about the El Niño winter ahead",
+          "summary": "As a powerful nor'easter hit the U.S. Atlantic coast in late September 2026, the ocean poured into coastal neighborhoods from North Carolina to New York. Water from the storm surge and heavy rain filled streets and…",
+          "url": "https://phys.org/news/2026-09-noreaster-storm-surge-high-el.html",
           "source": "Phys.org",
-          "date": "2026-09-29"
+          "date": "2026-09-30"
         },
         {
-          "title": "Polo makes landfall in Mexico as a category 3 hurricane",
-          "summary": "Hurricane Polo made landfall on Mexico's Baja California peninsula on Tuesday, cutting power and causing flooding as the sea breached coastal defenses.",
-          "url": "https://phys.org/news/2026-09-polo-landfall-mexico-category-hurricane.html",
+          "title": "Little-studied Antarctic basin could raise sea levels, but melt timing remains unknown",
+          "summary": "Over a century ago, Australian geologist Sir Douglas Mawson led a sledding expedition over hundreds of kilometers of ice into a remote part of East Antarctica. The party turned back after the tragic death of a party…",
+          "url": "https://phys.org/news/2026-09-antarctic-basin-sea-unknown.html",
           "source": "Phys.org",
-          "date": "2026-09-29"
+          "date": "2026-09-30"
         }
       ]
     },
@@ -165,18 +165,18 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "NASA Armstrong Celebrates 80 Years of Flight Innovation",
-          "summary": "On Sept. 30, 1946, five National Advisory Committee of Aeronautics (NACA) engineers arrived at Muroc Army Airfield in California’s high desert to achieve supersonic flight for the first time. In less than two years…",
-          "url": "https://www.nasa.gov/news-release/nasa-armstrong-celebrates-80-years-of-flight-innovation/",
-          "source": "NASA",
-          "date": "2026-09-28"
+          "title": "Using an AI chatbot to practice new languages can be helpful, but it doesn't replace speaking with an actual person",
+          "summary": "Approximately 30% of U.S. adults who were learning a language in 2025 reported that they were using artificial intelligence as a resource.",
+          "url": "https://phys.org/news/2026-09-ai-chatbot-languages-doesnt-actual.html",
+          "source": "Phys.org",
+          "date": "2026-09-30"
         },
         {
-          "title": "Scientists can’t stop using AI, even when forbidden from doing so",
-          "summary": "When scientists were asked to review papers for a conference without using AI tools, many of them ignored the request and used AI anyway",
-          "url": "https://www.newscientist.com/article/2590949-scientists-cant-stop-using-ai-even-when-forbidden-from-doing-so/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-09-28"
+          "title": "Drones, satellites and AI help scientists watch over Antarctica's smallest lifeforms",
+          "summary": "Monitoring Antarctica's tiny, scattered ecosystems is a challenge that has long plagued researchers. But a new study led by the University of Wollongong (UOW) offers a new approach to tracking life in one of the most…",
+          "url": "https://phys.org/news/2026-09-drones-satellites-ai-scientists-antarctica.html",
+          "source": "Phys.org",
+          "date": "2026-09-30"
         }
       ]
     },
@@ -184,32 +184,25 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "Quantum computer simulates matter “popping into existence”",
-          "summary": "Scientists recreated a particle-forming process linked to the extreme physics of the early universe using a 13-ion quantum simulator. The breakthrough suggests quantum computers could eventually help researchers…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260925005416.htm",
+          "title": "3D light fields push electrons into quantum states previously beyond experimental reach",
+          "summary": "By superimposing two ultrashort laser pulses that converge from different directions, a team of physicists at the University of Oldenburg has succeeded in generating three-dimensional light fields.",
+          "url": "https://phys.org/news/2026-09-3d-fields-electrons-quantum-states.html",
+          "source": "Phys.org",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "Quantum teleportation breakthrough: Scientists crack a 25-year entanglement challenge",
+          "summary": "Scientists have developed and experimentally demonstrated a long-sought method for identifying W states, an important form of multi-photon quantum entanglement. The technique could make complex entangled systems much…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260929053550.htm",
           "source": "Science Daily",
-          "date": "2026-09-26"
-        },
-        {
-          "title": "Embracing the glitches in gravity could give us a unified theory of reality",
-          "summary": "Physicists have long struggled with their goal of making gravity a quantum force. A radical post-quantum approach might solve that problem – and clear up other cosmic mysteries, too",
-          "url": "https://www.newscientist.com/article/2589429-embracing-the-glitches-in-gravity-could-give-us-a-unified-theory-of-reality/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-09-28"
-        },
-        {
-          "title": "Rotating light pattern reveals laser frequency in a single image",
-          "summary": "An international team of physicists has developed a new method for determining the precise color of laser light using an image that rotates as the laser's frequency shifts.",
-          "url": "https://phys.org/news/2026-09-rotating-pattern-reveals-laser-frequency.html",
-          "source": "Phys.org",
           "date": "2026-09-29"
         },
         {
-          "title": "Scandium's electrons may explain predicted room-temperature superconductivity",
-          "summary": "Scientists have confirmed the existence of a predicted room temperature superconductor, while explaining the microscopic mechanism that distinguishes it from a similar one discovered several years ago. The work…",
-          "url": "https://phys.org/news/2026-09-scandium-electrons-room-temperature-superconductivity.html",
+          "title": "Physicists identify 'octupolar' magnetism, with implications for quantum technologies",
+          "summary": "Most magnets have two poles: north and south, or positive and negative, in a familiar arrangement called a \"dipole.\" But researchers are increasingly uncovering more complex forms of magnetism.",
+          "url": "https://phys.org/news/2026-09-physicists-octupolar-magnetism-implications-quantum.html",
           "source": "Phys.org",
-          "date": "2026-09-29"
+          "date": "2026-09-30"
         }
       ]
     }
