@@ -1,15 +1,22 @@
 {
-  "updated": "2026-09-30T18:17:05Z",
+  "updated": "2026-10-01T18:42:27Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "Light-activated crystals break down DNA-like molecules in water, potentially curbing antibiotic resistance",
-          "summary": "Engineers have developed a new approach for turning ordinary water into a weapon against antibiotic-resistant bacteria, according to a study published in the journal Chem Catalysis.",
-          "url": "https://phys.org/news/2026-09-crystals-dna-molecules-potentially-curbing.html",
+          "title": "Viral enzyme cuts bacterial sensor protein, triggering defense against invading phages",
+          "summary": "In the fight to find better treatments for bacterial infections, one rapidly evolving therapy uses a group of viruses called bacteriophages (phages). Phages can attack and kill dangerous bacteria while leaving human…",
+          "url": "https://phys.org/news/2026-09-viral-enzyme-bacterial-sensor-protein.html",
           "source": "Phys.org",
-          "date": "2026-09-30"
+          "date": "2026-10-01"
+        },
+        {
+          "title": "Sex-like DNA exchange in starving bacteria occurs over 100 times more often than spontaneous mutations",
+          "summary": "How do bacteria adapt when resources run low? ISTA researchers have found that, under starvation stress, E. coli can use bacteriophages and CRISPR-Cas immunity to transfer and incorporate DNA, accelerating genetic…",
+          "url": "https://phys.org/news/2026-10-sex-dna-exchange-starving-bacteria.html",
+          "source": "Phys.org",
+          "date": "2026-10-01"
         },
         {
           "title": "Mulberry may reshape gut bacteria and influence metabolism",
@@ -19,38 +26,24 @@
           "date": "2026-09-30"
         },
         {
-          "title": "Blood tests reveal why astronauts get constipated in space",
-          "summary": "Spaceflight may dramatically change the gut within weeks, causing bacteria to break down more protein as food moves more slowly through the intestines. The shift could help explain astronaut constipation and may have…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260927225030.htm",
-          "source": "Science Daily",
-          "date": "2026-09-28"
+          "title": "Stable salts unlock alternative to potentially explosive reagents in carbene chemistry",
+          "summary": "Many useful reactions in chemistry come with a trade-off: the reactive reagents that make them effective can also present practical and safety challenges. Carbene chemistry is one such example. For decades, chemists…",
+          "url": "https://phys.org/news/2026-10-stable-salts-alternative-potentially-explosive.html",
+          "source": "Phys.org",
+          "date": "2026-10-01"
         },
         {
-          "title": "Alpine bacteria show unexpected ability to fight viruses",
-          "summary": "A silent, long-running competition has been taking place in Swiss alpine lakes for millions of years, killing trillions of organisms every day without anyone noticing. This competition between bacteria and viruses…",
-          "url": "https://phys.org/news/2026-09-alpine-bacteria-unexpected-ability-viruses.html",
+          "title": "Catalog of mitochondria across life's family tree unearths unusual functions",
+          "summary": "A research consortium has generated the broadest look yet at the proteins that make up mitochondria, capturing the organelle's diversity across multiple branches on the tree of complex life. With major contributions…",
+          "url": "https://phys.org/news/2026-09-mitochondria-life-family-tree-unearths.html",
           "source": "Phys.org",
-          "date": "2026-09-30"
-        },
-        {
-          "title": "Zinc oxide quantum dots enable faster charge detection, laying groundwork for spin qubits",
-          "summary": "Researchers at Tohoku University, in collaboration with the National Institute for Materials Science (NIMS) and the University of Tokyo, have taken an important step toward semiconductor quantum computing using zinc…",
-          "url": "https://phys.org/news/2026-09-zinc-oxide-quantum-dots-enable.html",
-          "source": "Phys.org",
-          "date": "2026-09-30"
+          "date": "2026-10-01"
         }
       ]
     },
     "Space & Astronomy": {
       "emoji": "🚀",
       "articles": [
-        {
-          "title": "Crew-13 Rocket and Spacecraft at Launch Pad",
-          "summary": "Ahead of NASA’s SpaceX Crew-13 mission launch, a SpaceX Falcon 9 rocket and Dragon spacecraft are vertical at the launch pad of Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida in this Sept. 27…",
-          "url": "https://www.nasa.gov/image-article/crew-13-rocket-and-spacecraft-at-launch-pad/",
-          "source": "NASA",
-          "date": "2026-09-29"
-        },
         {
           "title": "Watch Live: NASA’s Crew-13 could make the fastest U.S. trip to the ISS ever",
           "summary": "NASA’s SpaceX Crew-13 mission is scheduled to launch four astronauts to the International Space Station on October 1. The Dragon could reach the orbiting laboratory in just 7 hours and 50 minutes, making it the fastest…",
@@ -66,18 +59,25 @@
           "date": "2026-09-29"
         },
         {
-          "title": "This suitcase-sized spacecraft could hear the universe before stars existed",
-          "summary": "CosmoCube will use the far side of the Moon as a shield from Earth’s radio noise to search for a faint signal from the universe before the first stars existed. The suitcase-sized satellite could reveal how the cosmic…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260927225034.htm",
-          "source": "Science Daily",
-          "date": "2026-09-29"
+          "title": "SpaceX launches 4 astronauts on a fast track to the International Space Station",
+          "summary": "Four astronauts rocketed into orbit Thursday on a space station mission that will stretch until spring, among them a Canadian whose wife will give birth while he's away.",
+          "url": "https://phys.org/news/2026-10-spacex-astronauts-fast-track-international.html",
+          "source": "Phys.org",
+          "date": "2026-10-01"
         },
         {
-          "title": "JUICE mission completes flyby of Earth: New pics!",
-          "summary": "The JUICE mission made a successful flyby of Earth on September 28. See new images of Earth and the moon here. The spacecraft will reach Jupiter in 2031. The post JUICE mission completes flyby of Earth: New pics! first…",
-          "url": "https://earthsky.org/space/esas-juice-mission-explore-jupiters-icy-moons-ganymede/",
-          "source": "EarthSky",
-          "date": "2026-09-30"
+          "title": "NASA’s SpaceX Crew-13 Launches",
+          "summary": "In this Oct. 1, 2026, photo, a SpaceX Falcon 9 rocket and Dragon spacecraft launch from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida. The spacecraft is carrying NASA astronauts Jessica…",
+          "url": "https://www.nasa.gov/image-article/nasas-spacex-crew-13-launches/",
+          "source": "NASA",
+          "date": "2026-10-01"
+        },
+        {
+          "title": "NASA’s Webb Provides Crash Course on Planet-Shattering Collisions",
+          "summary": "In the early history of our solar system, scientists theorize that a Mars-sized object called Theia smashed into the infant Earth, vaporizing massive amounts of rock and blasting it into space. Some of that material…",
+          "url": "https://science.nasa.gov/missions/webb/nasas-webb-provides-crash-course-on-planet-shattering-collisions/",
+          "source": "NASA",
+          "date": "2026-10-01"
         }
       ]
     },
@@ -92,18 +92,18 @@
           "date": "2026-09-29"
         },
         {
-          "title": "Adult fossil strengthens evidence for Homo erectus in southern Africa 2 million years ago",
-          "summary": "La Trobe archaeologists have described 18 new hominin fossils, including a second Homo erectus skull fragment that confirms the species first appeared in southern Africa 2.0 million years ago—200,000 years earlier than…",
-          "url": "https://phys.org/news/2026-09-adult-fossil-evidence-homo-erectus.html",
-          "source": "Phys.org",
-          "date": "2026-09-30"
+          "title": "This giant stick insect fooled scientists for decades",
+          "summary": "Scientists have identified two new species of large Australian stick insects, including one that lays extraordinary “lidded” eggs never before recorded in the group. The discovery also revealed that a familiar stick…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260930020315.htm",
+          "source": "Science Daily",
+          "date": "2026-10-01"
         },
         {
-          "title": "Butterflies use optical illusions to dodge predators",
-          "summary": "A bird attacking a butterfly will often find its beak snapping at thin air. According to new research, that split-second miss isn't just bad luck. It's caused by a visual illusion from the butterfly's wings.",
-          "url": "https://phys.org/news/2026-09-butterflies-optical-illusions-dodge-predators.html",
-          "source": "Phys.org",
-          "date": "2026-09-30"
+          "title": "New “plant armor” more than triples strawberry yields",
+          "summary": "A new protective fabric boosted strawberry yields by as much as 3.56 times while blocking insects and still allowing sunlight, rain, and airflow to reach the plants. Originally inspired by research on military clothing…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260930020257.htm",
+          "source": "Science Daily",
+          "date": "2026-10-01"
         },
         {
           "title": "Bats may have first evolved in Europe 65 million years ago",
@@ -113,31 +113,17 @@
           "date": "2026-09-30"
         },
         {
-          "title": "Asgard archaea suggest crawling motility may be far older than previously thought",
-          "summary": "Asgard archaea, our closest known microbial relatives, play a key role in current models of the origin of more complex organisms, known as eukaryotes (all animals, plants, protists and fungi). However, their biology has…",
-          "url": "https://phys.org/news/2026-09-asgard-archaea-motility-older-previously.html",
+          "title": "Sea change: WildFin aims to improve fish behavior analysis in the wild",
+          "summary": "In the first year of her doctoral research, Abigail Grassick collected hours of underwater video as she studied fish communities living on bommies—individual clumps of coral—on the seafloor off the coast of Curaçao.",
+          "url": "https://phys.org/news/2026-10-sea-wildfin-aims-fish-behavior.html",
           "source": "Phys.org",
-          "date": "2026-09-30"
+          "date": "2026-10-01"
         }
       ]
     },
     "Earth & Climate": {
       "emoji": "🌍",
       "articles": [
-        {
-          "title": "Polar oceans transformed as warming melts ice habitats: Research",
-          "summary": "Climate change is increasingly reshaping the polar oceans, with Arctic waters warming rapidly, sea ice shrinking and wildlife losing habitat at both ends of the planet, an annual report said Wednesday.",
-          "url": "https://phys.org/news/2026-09-polar-oceans-ice-habitats.html",
-          "source": "Phys.org",
-          "date": "2026-09-30"
-        },
-        {
-          "title": "Powerful Storms Continue to Prowl the Pacific",
-          "summary": "Hurricanes Polo and Nolo sent destructive effects ashore amid an active season in the northeastern and central Pacific.",
-          "url": "https://science.nasa.gov/earth/earth-observatory/powerful-storms-continue-to-prowl-the-pacific/",
-          "source": "NASA",
-          "date": "2026-09-30"
-        },
         {
           "title": "Ocean heatwaves are hiding months of extra warming",
           "summary": "Marine heatwaves may be only the most intense part of much longer warming events, with elevated temperatures sometimes lingering for months. Researchers found that conventional measurements underestimate total heat…",
@@ -146,18 +132,32 @@
           "date": "2026-09-30"
         },
         {
-          "title": "Why the nor'easter's storm surge was so high, and what it says about the El Niño winter ahead",
-          "summary": "As a powerful nor'easter hit the U.S. Atlantic coast in late September 2026, the ocean poured into coastal neighborhoods from North Carolina to New York. Water from the storm surge and heavy rain filled streets and…",
-          "url": "https://phys.org/news/2026-09-noreaster-storm-surge-high-el.html",
+          "title": "In Alaska, soil in permafrost regions is warming the fastest",
+          "summary": "Soils are warming quickly and at considerable depth across Alaska, with temperatures rising fastest in the state's permafrost region, a trend that could accelerate climate change and undermine the stability of roads…",
+          "url": "https://phys.org/news/2026-10-alaska-soil-permafrost-regions-fastest.html",
           "source": "Phys.org",
-          "date": "2026-09-30"
+          "date": "2026-10-01"
         },
         {
-          "title": "Little-studied Antarctic basin could raise sea levels, but melt timing remains unknown",
-          "summary": "Over a century ago, Australian geologist Sir Douglas Mawson led a sledding expedition over hundreds of kilometers of ice into a remote part of East Antarctica. The party turned back after the tragic death of a party…",
-          "url": "https://phys.org/news/2026-09-antarctic-basin-sea-unknown.html",
+          "title": "What is helping some Florida wildfires burn hotter, spread faster?",
+          "summary": "What is helping some Florida wildfires burn hotter and spread farther? A University of Florida study suggests cogongrass, an invasive grass that has spread across much of Florida and the southeastern United States, is…",
+          "url": "https://phys.org/news/2026-10-florida-wildfires-hotter-faster.html",
           "source": "Phys.org",
-          "date": "2026-09-30"
+          "date": "2026-10-01"
+        },
+        {
+          "title": "And the Fat Bear Week winner is … Backpack!",
+          "summary": "Congrats to Backpack, the winner of Fat Bear Week 2026! Take a look at the final brackets and see where your favorite fatties fell. The post And the Fat Bear Week winner is … Backpack! first appeared on EarthSky .",
+          "url": "https://earthsky.org/earth/fat-bear-week-2026/",
+          "source": "EarthSky",
+          "date": "2026-10-01"
+        },
+        {
+          "title": "Sun news: Heart-shaped coronal hole facing Earth?",
+          "summary": "Sun news October 1, 2026: What does the coronal hole on today's sun look like to you? A heart ... or something more sinister? The post Sun news: Heart-shaped coronal hole facing Earth? first appeared on EarthSky .",
+          "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+          "source": "EarthSky",
+          "date": "2026-10-01"
         }
       ]
     },
@@ -165,18 +165,32 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "Using an AI chatbot to practice new languages can be helpful, but it doesn't replace speaking with an actual person",
-          "summary": "Approximately 30% of U.S. adults who were learning a language in 2025 reported that they were using artificial intelligence as a resource.",
-          "url": "https://phys.org/news/2026-09-ai-chatbot-languages-doesnt-actual.html",
-          "source": "Phys.org",
-          "date": "2026-09-30"
+          "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
+          "summary": "A proposed qubit made with superfluid helium could cut quantum computing error rates by around 100 times by shielding quantum information from common forms of electromagnetic noise. If experiments confirm the…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
+          "source": "Science Daily",
+          "date": "2026-10-01"
         },
         {
-          "title": "Drones, satellites and AI help scientists watch over Antarctica's smallest lifeforms",
-          "summary": "Monitoring Antarctica's tiny, scattered ecosystems is a challenge that has long plagued researchers. But a new study led by the University of Wollongong (UOW) offers a new approach to tracking life in one of the most…",
-          "url": "https://phys.org/news/2026-09-drones-satellites-ai-scientists-antarctica.html",
+          "title": "How going digital offers families more than annual adoption letters",
+          "summary": "Digital technology could transform the way adopted children stay connected with their birth families, according to new research from the University of East Anglia. A study published in the journal Adoption & Fostering…",
+          "url": "https://phys.org/news/2026-10-digital-families-annual-letters.html",
           "source": "Phys.org",
-          "date": "2026-09-30"
+          "date": "2026-10-01"
+        },
+        {
+          "title": "Ukraine rolls out drone-stopping razor fence to thwart attacks",
+          "summary": "Most of the drones being used by Russia in the war with Ukraine are controlled by cables several tens of kilometres long. A new defensive tool cuts the cables to stop the drones",
+          "url": "https://www.newscientist.com/article/2591491-ukraine-technology-thwarts-drones-by-cutting-their-control-cables/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-10-01"
+        },
+        {
+          "title": "The best popular-science books of October 2026",
+          "summary": "With a new book from the late primatologist Frans de Waal and a deep dive into artificial intelligence from New York Times tech columnist Kevin Roose, there is some hard-hitting popular science to look forward to this…",
+          "url": "https://www.newscientist.com/article/2591705-the-best-popular-science-books-of-october-2026/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-10-01"
         }
       ]
     },
@@ -184,11 +198,11 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "3D light fields push electrons into quantum states previously beyond experimental reach",
-          "summary": "By superimposing two ultrashort laser pulses that converge from different directions, a team of physicists at the University of Oldenburg has succeeded in generating three-dimensional light fields.",
-          "url": "https://phys.org/news/2026-09-3d-fields-electrons-quantum-states.html",
-          "source": "Phys.org",
-          "date": "2026-09-30"
+          "title": "Caltech physicists finally measure a quantum energy ladder predicted 40 years ago",
+          "summary": "Researchers have experimentally observed energy patterns that physicists have predicted for about 40 years. By arranging laser-trapped atoms into a quantum simulator, they recreated two different quantum tipping points…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260928100554.htm",
+          "source": "Science Daily",
+          "date": "2026-10-01"
         },
         {
           "title": "Quantum teleportation breakthrough: Scientists crack a 25-year entanglement challenge",
@@ -198,11 +212,18 @@
           "date": "2026-09-29"
         },
         {
-          "title": "Physicists identify 'octupolar' magnetism, with implications for quantum technologies",
-          "summary": "Most magnets have two poles: north and south, or positive and negative, in a familiar arrangement called a \"dipole.\" But researchers are increasingly uncovering more complex forms of magnetism.",
-          "url": "https://phys.org/news/2026-09-physicists-octupolar-magnetism-implications-quantum.html",
-          "source": "Phys.org",
-          "date": "2026-09-30"
+          "title": "This light-powered AI can spot deepfakes with nearly 98% accuracy",
+          "summary": "UCLA researchers built an AI system that uses light to analyze more than a dozen videos simultaneously, detecting deepfakes with nearly 98% accuracy. Its speed, low energy demands, and resistance to attacks could make…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260929053534.htm",
+          "source": "Science Daily",
+          "date": "2026-10-01"
+        },
+        {
+          "title": "This common mistake can add nearly 7 points to your blood pressure reading",
+          "summary": "A common mistake during blood pressure checks could make readings appear substantially higher than they really are. Johns Hopkins researchers found that leaving the arm unsupported can raise systolic readings by about…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260928100606.htm",
+          "source": "Science Daily",
+          "date": "2026-10-01"
         }
       ]
     }
