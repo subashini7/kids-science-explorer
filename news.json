@@ -1,43 +1,43 @@
 {
-  "updated": "2026-10-02T18:13:48Z",
+  "updated": "2026-10-03T17:00:02Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "Enzymes become sturdy beads that could support more sustainable chemical production",
-          "summary": "Thanks to enzyme-based biocatalysis, an enormous range of pharmaceutical active ingredients and other complex molecules can be synthesized in an environmentally friendly manner. Researchers at the Karlsruhe Institute of…",
-          "url": "https://phys.org/news/2026-10-enzymes-sturdy-beads-sustainable-chemical.html",
+          "title": "Changes to platinum surface chemistry boost solar hydrogen production in organic photocatalysts",
+          "summary": "Researchers from the LIMNO laboratory at EPFL have uncovered how different halides modify the surface chemistry of organic semiconductor nanoparticle photocatalysts. By controlling these phenomena, they have…",
+          "url": "https://phys.org/news/2026-10-platinum-surface-chemistry-boost-solar.html",
           "source": "Phys.org",
           "date": "2026-10-02"
         },
         {
-          "title": "Uranium forms rare triple bond with carbon in newly isolated compound",
-          "summary": "In a study published in Nature Chemistry, an international team of researchers from Germany and the U.K., including chemists from The University of Manchester, has synthesized and characterized what they describe as the…",
-          "url": "https://phys.org/news/2026-10-uranium-rare-triple-bond-carbon.html",
-          "source": "Phys.org",
-          "date": "2026-10-02"
-        },
-        {
-          "title": "Mulberry may reshape gut bacteria and influence metabolism",
-          "summary": "Mulberry compounds may reshape the gut microbiome in ways that support intestinal health and metabolism, with some combinations showing especially strong effects in animal studies. However, the results vary depending on…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260928100551.htm",
+          "title": "Your gut may be making a molecule that raises Alzheimer’s risk",
+          "summary": "Scientists have linked a gut bacterial compound called ImP to greater Alzheimer’s risk, harmful brain protein buildup, and faster cognitive decline. The finding raises the possibility that reducing ImP in the blood…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260930225459.htm",
           "source": "Science Daily",
-          "date": "2026-09-30"
+          "date": "2026-10-03"
         },
         {
-          "title": "Smart silicone coatings can change their friction and stickiness as surroundings reshape nanoscale layers",
-          "summary": "Research led by a group from the University of Newcastle has found a new way to make silicone surfaces—and control how slippery they are. The work was published in the journal Chemistry of Materials.",
-          "url": "https://phys.org/news/2026-10-smart-silicone-coatings-friction-stickiness.html",
-          "source": "Phys.org",
+          "title": "The early universe wasn’t nearly as pristine as scientists thought",
+          "summary": "JWST has revealed that galaxies were spreading carbon, oxygen, and other heavy elements through space just 500 million years after the Big Bang. The surprising discovery suggests the young universe became chemically…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260930225443.htm",
+          "source": "Science Daily",
           "date": "2026-10-02"
         },
         {
-          "title": "Millions of years of evolution guide AI search for pollution-fighting enzymes",
-          "summary": "Databases around the world contain information on millions upon millions of enzymes that have the potential to degrade pollutants like plastic. Scientists at Murdoch University's Bioplastics Innovation Hub are combining…",
-          "url": "https://phys.org/news/2026-10-millions-years-evolution-ai-pollution.html",
-          "source": "Phys.org",
-          "date": "2026-10-02"
+          "title": "Powerful simulations reveal how the first stars changed the universe",
+          "summary": "Ultra-detailed simulations are showing how the first stars lit up the dark Universe and seeded space with elements such as carbon, oxygen, and iron. The MEGATRON project could bridge JWST observations of the earliest…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261001214012.htm",
+          "source": "Science Daily",
+          "date": "2026-10-03"
+        },
+        {
+          "title": "Leucine does more than build muscle. It powers up your cells",
+          "summary": "The essential amino acid leucine can boost cellular energy production by protecting key proteins on mitochondria from being destroyed. The discovery reveals a new connection between nutrition and metabolism that could…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261001095319.htm",
+          "source": "Science Daily",
+          "date": "2026-10-03"
         }
       ]
     },
@@ -52,30 +52,30 @@
           "date": "2026-09-30"
         },
         {
-          "title": "NASA’s Crew-13 could go from Florida to the ISS in under 9 hours",
-          "summary": "NASA and SpaceX could launch four astronauts to the International Space Station on October 1, with the Dragon spacecraft reaching orbiting outpost less than nine hours after liftoff. Crew-13 will join Expedition 75…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260928100534.htm",
-          "source": "Science Daily",
-          "date": "2026-09-29"
-        },
-        {
-          "title": "NASA’s SpaceX Crew-13 Launches",
-          "summary": "In this Oct. 1, 2026, photo, a SpaceX Falcon 9 rocket and Dragon spacecraft launch from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida. The spacecraft is carrying NASA astronauts Jessica…",
-          "url": "https://www.nasa.gov/image-article/nasas-spacex-crew-13-launches/",
+          "title": "Heading Home: NASA’s SpaceX Crew-12 Concludes Station Science Mission",
+          "summary": "NASA’s SpaceX Crew-12 mission is ending, with the crew scheduled to return in early October. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut…",
+          "url": "https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission/",
           "source": "NASA",
-          "date": "2026-10-01"
+          "date": "2026-10-02"
         },
         {
-          "title": "This suitcase-sized spacecraft could hear the universe before stars existed",
-          "summary": "CosmoCube will use the far side of the Moon as a shield from Earth’s radio noise to search for a faint signal from the universe before the first stars existed. The suitcase-sized satellite could reveal how the cosmic…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260927225034.htm",
+          "title": "NASA’s Roman telescope just opened its planet-hunting eye",
+          "summary": "NASA’s Roman Space Telescope has demonstrated remarkable pointing stability and given its powerful planet-imaging coronagraph its first look at the cosmos. The telescope can already stay locked on a target with…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261001214057.htm",
           "source": "Science Daily",
-          "date": "2026-09-29"
+          "date": "2026-10-02"
         },
         {
           "title": "NASA Opens Applications for Next Class of Flight Directors",
           "summary": "NASA is seeking leaders for one of the most esteemed positions on Earth for human spaceflight: flight director in mission control at the agency’s Johnson Space Center in Houston. This role is critical to advancing…",
           "url": "https://www.nasa.gov/news-release/nasa-opens-applications-for-next-class-of-flight-directors/",
+          "source": "NASA",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "10 Things: Movie Night",
+          "summary": "Join Us for Movie Night with NASA NASA’s mission is to pioneer the future in space exploration and scientific discovery. NASA+ documentaries allow you to come along for the ride. It’s free. It’s on demand. And no…",
+          "url": "https://science.nasa.gov/solar-system/10-things-movie-night/",
           "source": "NASA",
           "date": "2026-10-02"
         }
@@ -92,24 +92,10 @@
           "date": "2026-10-02"
         },
         {
-          "title": "This 245-million-year-old fossil still has its stomach and intestines",
-          "summary": "A 245-million-year-old marine reptile fossil preserves an astonishing amount of detail, including its stomach, liver, and intestines. The discovery reveals that Austronaga minuta was highly adapted for swimming even…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260927225036.htm",
+          "title": "97-million-year-old fossils reveal the earliest known animal “GPS”",
+          "summary": "Mysterious 97-million-year-old magnetic fossils may be the oldest evidence of an animal using Earth’s magnetic field like a built-in GPS. Their sophisticated magnetic structure could have helped an unknown ocean…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260930020329.htm",
           "source": "Science Daily",
-          "date": "2026-09-29"
-        },
-        {
-          "title": "Animals may have evolved vastly earlier than fossil evidence suggests",
-          "summary": "The earliest animals may have evolved hundreds of millions of years before their first unmistakable fossils appear in the fossil record, according to a new study led by the University of Oxford. The findings, published…",
-          "url": "https://phys.org/news/2026-10-animals-evolved-vastly-earlier-fossil.html",
-          "source": "Phys.org",
-          "date": "2026-10-02"
-        },
-        {
-          "title": "Birdsong tells only part of a forest's story: Evolutionary trees reveal the rest",
-          "summary": "Birds calling back and forth in the morning make up one of the defining sounds of tropical forests. We're likely to assume that hearing or seeing more types of birds indicates a healthy forest.",
-          "url": "https://phys.org/news/2026-10-birdsong-forest-story-evolutionary-trees.html",
-          "source": "Phys.org",
           "date": "2026-10-02"
         },
         {
@@ -118,6 +104,20 @@
           "url": "https://www.sciencedaily.com/releases/2026/09/260930020315.htm",
           "source": "Science Daily",
           "date": "2026-10-01"
+        },
+        {
+          "title": "New “plant armor” more than triples strawberry yields",
+          "summary": "A new protective fabric boosted strawberry yields by as much as 3.56 times while blocking insects and still allowing sunlight, rain, and airflow to reach the plants. Originally inspired by research on military clothing…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260930020257.htm",
+          "source": "Science Daily",
+          "date": "2026-10-01"
+        },
+        {
+          "title": "A short breath extends the mating calls of male tokay geckos",
+          "summary": "Tokay geckos (Gekko gecko), large and mostly nocturnal geckos native to parts of Asia, are among the few nonbird reptiles that make sounds to attract potential mates, defend their territory and signal distress. Male…",
+          "url": "https://phys.org/news/2026-09-short-male-tokay-geckos.html",
+          "source": "Phys.org",
+          "date": "2026-10-03"
         }
       ]
     },
@@ -125,39 +125,39 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "How much are the world's oceans warming? New method reveals double-digit percentage gaps from climate models",
-          "summary": "The world's oceans behave like a thermometer: As the water warms, it expands and sea levels rise. Geodesy researchers at the University of Bonn are able to measure this and determine how much the oceans are warming. For…",
-          "url": "https://phys.org/news/2026-10-world-oceans-method-reveals-digit.html",
+          "title": "When the atmosphere slows the Earth: Uncovering a subtle signal of climate change",
+          "summary": "Atmospheric circulation governs weather and climate, but it also carries angular momentum. When winds shift or mass redistributes, the atmosphere can exchange momentum with the solid Earth, slightly altering the…",
+          "url": "https://phys.org/news/2026-10-atmosphere-earth-uncovering-subtle-climate.html",
+          "source": "Phys.org",
+          "date": "2026-10-03"
+        },
+        {
+          "title": "Scientists zero in on tiny particles to improve weather and air quality forecasts",
+          "summary": "Aerosols are small particles suspended in our atmosphere. They come in many flavors: Wildfire smoke, pollen, desert dust, sea salt lofted by powerful storms, volcanic sulfates and emissions from engines and industrial…",
+          "url": "https://phys.org/news/2026-10-scientists-tiny-particles-weather-air.html",
           "source": "Phys.org",
           "date": "2026-10-02"
         },
         {
-          "title": "Ocean heatwaves are hiding months of extra warming",
-          "summary": "Marine heatwaves may be only the most intense part of much longer warming events, with elevated temperatures sometimes lingering for months. Researchers found that conventional measurements underestimate total heat…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260928100603.htm",
+          "title": "Scientists find an “earthquake gate” as California fault stress hits a 1,000-year high",
+          "summary": "Researchers say stress on Southern California’s San Andreas and San Jacinto faults has reached some of the highest levels seen in a 1,000-year simulation. Because both faults are highly stressed at the same time, the…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261001095521.htm",
           "source": "Science Daily",
-          "date": "2026-09-30"
-        },
-        {
-          "title": "Ancient sea levels reveal when the Earth's poles went wandering",
-          "summary": "Earth's poles do not always stay in the same place. For example, a region once near the North Pole can end up near the equator, and an area near the equator can shift up toward the pole. This is known as true polar…",
-          "url": "https://phys.org/news/2026-10-ancient-sea-reveal-earth-poles.html",
-          "source": "Phys.org",
           "date": "2026-10-02"
         },
         {
-          "title": "And the Fat Bear Week winner is … Backpack!",
-          "summary": "Congrats to Backpack, the winner of Fat Bear Week 2026! Take a look at the final brackets and see where your favorite fatties fell. The post And the Fat Bear Week winner is … Backpack! first appeared on EarthSky .",
-          "url": "https://earthsky.org/earth/fat-bear-week-2026/",
-          "source": "EarthSky",
-          "date": "2026-10-01"
+          "title": "Cooper pairs found above superconducting critical temperature in pair density waves",
+          "summary": "Physicists with the University of Illinois Urbana-Champaign's Grainger College of Engineering have identified a new form of superconducting behavior. Experiments on the metal uranium ditelluride reveal that Cooper…",
+          "url": "https://phys.org/news/2026-10-cooper-pairs-superconducting-critical-temperature.html",
+          "source": "Phys.org",
+          "date": "2026-10-03"
         },
         {
-          "title": "Earth’s geographic poles wander more than we had thought",
-          "summary": "A phenomenon known as true polar wander, different to the movement of the magnetic poles, may be more common and more dramatic than previously known",
-          "url": "https://www.newscientist.com/article/2591587-earths-geographic-poles-wander-more-than-we-had-thought/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-10-01"
+          "title": "Sea levels to rise in California as a coastal wave surges up the West Coast",
+          "summary": "Sea levels in California are set to rise by as much as a foot (30 centimeters) in the coming days as an enormous wave washes up the U.S. West Coast.",
+          "url": "https://phys.org/news/2026-10-sea-california-coastal-surges-west.html",
+          "source": "Phys.org",
+          "date": "2026-10-03"
         }
       ]
     },
@@ -172,11 +172,11 @@
           "date": "2026-10-01"
         },
         {
-          "title": "Multitasking in magenta: Colored solar panels could help farms grow crops and generate electricity on shared land",
-          "summary": "Broccoli grown under magenta solar panels absorbed sunlight more efficiently than plants grown out in the open, according to a study to be published Oct. 2 in Cell Reports Physical Science.",
-          "url": "https://phys.org/news/2026-10-multitasking-magenta-solar-panels-farms.html",
+          "title": "How the Smithsonian is using AI to connect artifacts from the American Revolution",
+          "summary": "The distance in the march from the American Revolution to the age of artificial intelligence is almost beyond comprehension. But leaders of the Smithsonian Institution are using AI to bridge the divide.",
+          "url": "https://phys.org/news/2026-10-smithsonian-ai-artifacts-american-revolution.html",
           "source": "Phys.org",
-          "date": "2026-10-02"
+          "date": "2026-10-03"
         },
         {
           "title": "Will the backlash against AI data centres hit quantum computing too?",
@@ -205,18 +205,11 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "Protons ride moving waves to reach record energy with long-pulse lasers",
-          "summary": "Imagine a proton catching a wave and surfing it to gain speed. While the imagery may seem wild, the premise of laser-driven ion acceleration has promise as an alternative to conventional accelerators. However, the…",
-          "url": "https://phys.org/news/2026-10-protons-energy-pulse-lasers.html",
+          "title": "Scientists discover first type I superconductor that breaks time-reversal symmetry",
+          "summary": "Superconductors are materials that conduct electricity with no resistance and expel magnetic fields when cooled to ultralow temperatures. And depending on their quantum structure, they can also showcase strange…",
+          "url": "https://phys.org/news/2026-10-scientists-superconductor-reversal-symmetry.html",
           "source": "Phys.org",
           "date": "2026-10-02"
-        },
-        {
-          "title": "Caltech physicists finally measure a quantum energy ladder predicted 40 years ago",
-          "summary": "Researchers have experimentally observed energy patterns that physicists have predicted for about 40 years. By arranging laser-trapped atoms into a quantum simulator, they recreated two different quantum tipping points…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260928100554.htm",
-          "source": "Science Daily",
-          "date": "2026-10-01"
         },
         {
           "title": "NASA Model Wing Lights Up During First Pressure Sensitive Paint Tests",
@@ -226,18 +219,25 @@
           "date": "2026-10-02"
         },
         {
-          "title": "Quantum teleportation breakthrough: Scientists crack a 25-year entanglement challenge",
-          "summary": "Scientists have developed and experimentally demonstrated a long-sought method for identifying W states, an important form of multi-photon quantum entanglement. The technique could make complex entangled systems much…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260929053550.htm",
+          "title": "Scientists just pushed superconductors beyond their usual current limit",
+          "summary": "Ultrashort electrical pulses allowed scientists to push superconductors closer than ever to the point where their electron pairs actually break apart. The method revealed hidden differences between superconducting…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260930225452.htm",
           "source": "Science Daily",
-          "date": "2026-09-29"
+          "date": "2026-10-02"
         },
         {
-          "title": "This light-powered AI can spot deepfakes with nearly 98% accuracy",
-          "summary": "UCLA researchers built an AI system that uses light to analyze more than a dozen videos simultaneously, detecting deepfakes with nearly 98% accuracy. Its speed, low energy demands, and resistance to attacks could make…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260929053534.htm",
+          "title": "Electrons slow to a crawl in a strange new quantum state",
+          "summary": "Scientists at the University of Chicago have uncovered a surprising quantum state in the layered magnetic material Fe5GeTe2, where huge numbers of electrons move together unusually slowly while remaining quantum…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260929053548.htm",
           "source": "Science Daily",
-          "date": "2026-10-01"
+          "date": "2026-10-02"
+        },
+        {
+          "title": "Visible light does not speed up water evaporation, rigorous experiments suggest",
+          "summary": "In recent experiments involving hydrogels and water droplets, researchers have proposed that exposure to visible light could make water evaporate faster without heating it. However, direct evidence that light acts on…",
+          "url": "https://phys.org/news/2026-10-visible-evaporation-rigorous.html",
+          "source": "Phys.org",
+          "date": "2026-10-03"
         }
       ]
     }
