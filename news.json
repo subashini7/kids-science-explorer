@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-03T17:00:02Z",
+  "updated": "2026-10-04T17:19:06Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "Changes to platinum surface chemistry boost solar hydrogen production in organic photocatalysts",
-          "summary": "Researchers from the LIMNO laboratory at EPFL have uncovered how different halides modify the surface chemistry of organic semiconductor nanoparticle photocatalysts. By controlling these phenomena, they have…",
-          "url": "https://phys.org/news/2026-10-platinum-surface-chemistry-boost-solar.html",
-          "source": "Phys.org",
-          "date": "2026-10-02"
+          "title": "Scientists just found a new way to make hydrogen from water",
+          "summary": "A new light-activated material can efficiently produce hydrogen from water without requiring an additional expensive metal catalyst. Researchers say its unusual sulfur-based chemistry could point toward cheaper and more…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261001214017.htm",
+          "source": "Science Daily",
+          "date": "2026-10-04"
         },
         {
           "title": "Your gut may be making a molecule that raises Alzheimer’s risk",
@@ -26,16 +26,16 @@
           "date": "2026-10-02"
         },
         {
-          "title": "Powerful simulations reveal how the first stars changed the universe",
-          "summary": "Ultra-detailed simulations are showing how the first stars lit up the dark Universe and seeded space with elements such as carbon, oxygen, and iron. The MEGATRON project could bridge JWST observations of the earliest…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261001214012.htm",
-          "source": "Science Daily",
+          "title": "New reactor design improves plastic feedstock synthesis using oxygen and electricity",
+          "summary": "A \"hidden variable\" that can determine the success or failure of a chemical reaction has been found in the immediate vicinity of electrodes.",
+          "url": "https://phys.org/news/2026-09-reactor-plastic-feedstock-synthesis-oxygen.html",
+          "source": "Phys.org",
           "date": "2026-10-03"
         },
         {
-          "title": "Leucine does more than build muscle. It powers up your cells",
-          "summary": "The essential amino acid leucine can boost cellular energy production by protecting key proteins on mitochondria from being destroyed. The discovery reveals a new connection between nutrition and metabolism that could…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261001095319.htm",
+          "title": "Powerful simulations reveal how the first stars changed the universe",
+          "summary": "Ultra-detailed simulations are showing how the first stars lit up the dark Universe and seeded space with elements such as carbon, oxygen, and iron. The MEGATRON project could bridge JWST observations of the earliest…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261001214012.htm",
           "source": "Science Daily",
           "date": "2026-10-03"
         }
@@ -44,13 +44,6 @@
     "Space & Astronomy": {
       "emoji": "🚀",
       "articles": [
-        {
-          "title": "Watch Live: NASA’s Crew-13 could make the fastest U.S. trip to the ISS ever",
-          "summary": "NASA’s SpaceX Crew-13 mission is scheduled to launch four astronauts to the International Space Station on October 1. The Dragon could reach the orbiting laboratory in just 7 hours and 50 minutes, making it the fastest…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260930020312.htm",
-          "source": "Science Daily",
-          "date": "2026-09-30"
-        },
         {
           "title": "Heading Home: NASA’s SpaceX Crew-12 Concludes Station Science Mission",
           "summary": "NASA’s SpaceX Crew-12 mission is ending, with the crew scheduled to return in early October. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut…",
@@ -66,6 +59,13 @@
           "date": "2026-10-02"
         },
         {
+          "title": "Watch Live: NASA’s Crew-13 could make the fastest U.S. trip to the ISS ever",
+          "summary": "NASA’s SpaceX Crew-13 mission is scheduled to launch four astronauts to the International Space Station on October 1. The Dragon could reach the orbiting laboratory in just 7 hours and 50 minutes, making it the fastest…",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260930020312.htm",
+          "source": "Science Daily",
+          "date": "2026-09-30"
+        },
+        {
           "title": "NASA Opens Applications for Next Class of Flight Directors",
           "summary": "NASA is seeking leaders for one of the most esteemed positions on Earth for human spaceflight: flight director in mission control at the agency’s Johnson Space Center in Houston. This role is critical to advancing…",
           "url": "https://www.nasa.gov/news-release/nasa-opens-applications-for-next-class-of-flight-directors/",
@@ -73,11 +73,11 @@
           "date": "2026-10-02"
         },
         {
-          "title": "10 Things: Movie Night",
-          "summary": "Join Us for Movie Night with NASA NASA’s mission is to pioneer the future in space exploration and scientific discovery. NASA+ documentaries allow you to come along for the ride. It’s free. It’s on demand. And no…",
-          "url": "https://science.nasa.gov/solar-system/10-things-movie-night/",
-          "source": "NASA",
-          "date": "2026-10-02"
+          "title": "ESA’s Juice just used Earth as a slingshot to Jupiter",
+          "summary": "ESA’s Juice spacecraft raced past Earth on September 28, using our planet’s gravity to dramatically reshape its path toward Jupiter without burning much fuel. The flyby changed its direction by 20 degrees and increased…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261001214102.htm",
+          "source": "Science Daily",
+          "date": "2026-10-03"
         }
       ]
     },
@@ -106,11 +106,11 @@
           "date": "2026-10-01"
         },
         {
-          "title": "New “plant armor” more than triples strawberry yields",
-          "summary": "A new protective fabric boosted strawberry yields by as much as 3.56 times while blocking insects and still allowing sunlight, rain, and airflow to reach the plants. Originally inspired by research on military clothing…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260930020257.htm",
-          "source": "Science Daily",
-          "date": "2026-10-01"
+          "title": "Heat-trapping gas once frozen in Arctic ground is slowly leaking and warming the planet",
+          "summary": "As Ted Schuur stepped along the edges of Smith Lake, a bubble surfaced from the muck underfoot. And then another. They're bubbles of methane, a potent heat-trapping gas made from decomposing plants and animals that had…",
+          "url": "https://phys.org/news/2026-10-gas-frozen-arctic-ground-slowly.html",
+          "source": "Phys.org",
+          "date": "2026-10-04"
         },
         {
           "title": "A short breath extends the mating calls of male tokay geckos",
@@ -132,11 +132,11 @@
           "date": "2026-10-03"
         },
         {
-          "title": "Scientists zero in on tiny particles to improve weather and air quality forecasts",
-          "summary": "Aerosols are small particles suspended in our atmosphere. They come in many flavors: Wildfire smoke, pollen, desert dust, sea salt lofted by powerful storms, volcanic sulfates and emissions from engines and industrial…",
-          "url": "https://phys.org/news/2026-10-scientists-tiny-particles-weather-air.html",
+          "title": "How can the same El Niño cause drought in one part of the world and floods in another?",
+          "summary": "The Pacific Ocean is warming unusually quickly, and this year's El Niño has already surpassed previous records. Forecasters expect it to strengthen even further before approaching its usual peak around December.",
+          "url": "https://phys.org/news/2026-09-el-nio-drought-world.html",
           "source": "Phys.org",
-          "date": "2026-10-02"
+          "date": "2026-10-03"
         },
         {
           "title": "Scientists find an “earthquake gate” as California fault stress hits a 1,000-year high",
@@ -164,13 +164,6 @@
     "Technology & Inventions": {
       "emoji": "🤖",
       "articles": [
-        {
-          "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
-          "summary": "A proposed qubit made with superfluid helium could cut quantum computing error rates by around 100 times by shielding quantum information from common forms of electromagnetic noise. If experiments confirm the…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
-          "source": "Science Daily",
-          "date": "2026-10-01"
-        },
         {
           "title": "How the Smithsonian is using AI to connect artifacts from the American Revolution",
           "summary": "The distance in the march from the American Revolution to the age of artificial intelligence is almost beyond comprehension. But leaders of the Smithsonian Institution are using AI to bridge the divide.",
@@ -205,13 +198,6 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "Scientists discover first type I superconductor that breaks time-reversal symmetry",
-          "summary": "Superconductors are materials that conduct electricity with no resistance and expel magnetic fields when cooled to ultralow temperatures. And depending on their quantum structure, they can also showcase strange…",
-          "url": "https://phys.org/news/2026-10-scientists-superconductor-reversal-symmetry.html",
-          "source": "Phys.org",
-          "date": "2026-10-02"
-        },
-        {
           "title": "NASA Model Wing Lights Up During First Pressure Sensitive Paint Tests",
           "summary": "Groundbreaking tests at NASA’s Langley Research Center in Hampton, Virginia, are paving the way for new wind tunnel capabilities for designing the aircraft technologies of the future.&#160; In a first-of-its-kind test…",
           "url": "https://www.nasa.gov/centers-and-facilities/langley/nasa-model-wing-lights-up-during-first-pressure-sensitive-paint-tests/",
@@ -226,11 +212,18 @@
           "date": "2026-10-02"
         },
         {
-          "title": "Electrons slow to a crawl in a strange new quantum state",
-          "summary": "Scientists at the University of Chicago have uncovered a surprising quantum state in the layered magnetic material Fe5GeTe2, where huge numbers of electrons move together unusually slowly while remaining quantum…",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260929053548.htm",
-          "source": "Science Daily",
-          "date": "2026-10-02"
+          "title": "Hidden X-ray phase revealed in likely neutron star merger",
+          "summary": "An international team of astronomers, including researchers from the Department of Physics and the Hong Kong Institute for Astronomy and Astrophysics (HKIAA) at The University of Hong Kong (HKU), has discovered a…",
+          "url": "https://phys.org/news/2026-09-hidden-ray-phase-revealed-neutron.html",
+          "source": "Phys.org",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "Reading hidden topology in light, even when energy leaks away",
+          "summary": "When I explain topology to students, I start with a knot in a rope. You can stretch it, twist it or shake it, but the knot stays until you cut the rope. Physicists have found that some materials and devices carry…",
+          "url": "https://phys.org/news/2026-10-hidden-topology-energy-leaks.html",
+          "source": "Phys.org",
+          "date": "2026-10-03"
         },
         {
           "title": "Visible light does not speed up water evaporation, rigorous experiments suggest",
