@@ -1,22 +1,29 @@
 {
-  "updated": "2026-10-07T19:13:14Z",
+  "updated": "2026-10-08T19:09:39Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "Compact CRISPR alternative uses bacterial proteins to insert large DNA segments",
-          "summary": "A new engineered gene-editing system, proven in bacteria and showing promise for use in plants, animals and humans, addresses some limitations of current gene-editing tools, with the goal of improving their use in…",
-          "url": "https://phys.org/news/2026-10-compact-crispr-alternative-bacterial-proteins.html",
+          "title": "Light-driven method puts notoriously reactive hydrogen atoms to work for chemical synthesis",
+          "summary": "Hydrogen is the simplest element in the periodic table, consisting of just one proton and one electron. In chemistry, however, the smallest of atoms is anything but simple. First produced by Nobel laureate Irving…",
+          "url": "https://phys.org/news/2026-10-driven-method-notoriously-reactive-hydrogen.html",
           "source": "Phys.org",
-          "date": "2026-10-07"
+          "date": "2026-10-08"
         },
         {
-          "title": "Tortoise beetles use pigmentation protein to shield bacteria that help digest plants",
-          "summary": "More than 80 years ago, scientists discovered that differences in yellow pigmentation were critical to courtship success and failure for fruit flies. It was one of the first demonstrations linking genes to complex…",
-          "url": "https://phys.org/news/2026-10-tortoise-beetles-pigmentation-protein-shield.html",
+          "title": "A biologist queries whether AI 'borrowed' his work to make major discovery—an expert explains the rules",
+          "summary": "AI company Anthropic recently announced that its popular system Claude had identified an unusual family of biological molecules. These molecules were enzymes, a type of protein that speeds up chemical reactions in…",
+          "url": "https://phys.org/news/2026-10-biologist-queries-ai-major-discovery.html",
           "source": "Phys.org",
-          "date": "2026-10-07"
+          "date": "2026-10-08"
+        },
+        {
+          "title": "Nickel catalyst unlocks hard-to-make β-amino alcohols",
+          "summary": "Many molecules in living organisms and pharmaceuticals share a structure called a β-amino alcohol, in which an amino group and a hydroxyl group sit on neighboring carbon atoms. These groups, important building blocks in…",
+          "url": "https://phys.org/news/2026-10-nickel-catalyst-hard-amino-alcohols.html",
+          "source": "Phys.org",
+          "date": "2026-10-08"
         },
         {
           "title": "Scientists finally see how nature moves energy so efficiently",
@@ -26,24 +33,24 @@
           "date": "2026-10-06"
         },
         {
-          "title": "Deep-sea clams adjust bacterial partnerships to cope with dwindling chemical energy",
-          "summary": "A research team led by professor Qian Peiyuan, chair professor in the Department of Ocean Science at The Hong Kong University of Science and Technology (HKUST), in collaboration with international partners, has made…",
-          "url": "https://phys.org/news/2026-10-deep-sea-clams-adjust-bacterial.html",
-          "source": "Phys.org",
-          "date": "2026-10-07"
-        },
-        {
-          "title": "Gut bacteria reveal ancient ties to human migrations across continents, genetic analysis suggests",
-          "summary": "As waves of humans left Africa tens of thousands of years ago, eventually populating the entire planet, they were joined on their world-conquering ride by the trillions of microorganisms that compose the gut microbiome.",
-          "url": "https://phys.org/news/2026-10-gut-bacteria-reveal-ancient-human.html",
-          "source": "Phys.org",
-          "date": "2026-10-07"
+          "title": "NASA, Energy Department Advance New Era of Nuclear-Powered Exploration",
+          "summary": "As the Golden Age of deep-space exploration begins, NASA and the U.S. Department of Energy are advancing the development of safe, reliable, next-generation nuclear technologies for space. Together, the agencies will…",
+          "url": "https://www.nasa.gov/news-release/nasa-energy-department-advance-new-era-of-nuclear-powered-exploration/",
+          "source": "NASA",
+          "date": "2026-10-08"
         }
       ]
     },
     "Space & Astronomy": {
       "emoji": "🚀",
       "articles": [
+        {
+          "title": "NASA’s SSPICY Mission to Demonstrate In-Space Inspection Technologies",
+          "summary": "A new NASA-supported spacecraft will get up close to satellites that are no longer in service, demonstrating technologies that could support future in-space repairs and reduce orbital debris. The Small Spacecraft…",
+          "url": "https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/",
+          "source": "NASA",
+          "date": "2026-10-08"
+        },
         {
           "title": "NASA’s Webb finds signs of Mars-sized worlds smashing together",
           "summary": "NASA’s James Webb Space Telescope is giving astronomers a glimpse of the kinds of violent collisions that may have shaped our own solar system, including the giant impact thought to have created the Moon. By studying 21…",
@@ -52,32 +59,25 @@
           "date": "2026-10-07"
         },
         {
+          "title": "NASA’s SPHEREx Telescope Sees Menagerie of Brown Dwarfs",
+          "summary": "NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer) space telescope is shedding light on brown dwarfs, celestial objects that blur the line between stars and…",
+          "url": "https://www.nasa.gov/missions/spherex/nasas-spherex-telescope-sees-menagerie-of-brown-dwarfs/",
+          "source": "NASA",
+          "date": "2026-10-08"
+        },
+        {
+          "title": "NASA Advances LISA Mission Contributions With New Test Telescope",
+          "summary": "NASA has taken the next step in the process of developing a new all-glass telescope for the LISA (Laser Interferometer Space Antenna) mission, a space observatory designed to detect ripples in space-time called…",
+          "url": "https://science.nasa.gov/missions/lisa/nasa-advances-lisa-mission-contributions-with-new-test-telescope/",
+          "source": "NASA",
+          "date": "2026-10-08"
+        },
+        {
           "title": "Don't miss: Watch Saturn shine and Halley’s Comet debris streak across the sky",
           "summary": "October skywatchers can see Saturn at opposition, catch meteors from Halley’s Comet during the Orionid peak, and watch the Moon sweep past the famous Pleiades star cluster. Moonlight may obscure some Orionids, but the…",
           "url": "https://www.sciencedaily.com/releases/2026/10/261005071523.htm",
           "source": "Science Daily",
           "date": "2026-10-05"
-        },
-        {
-          "title": "NASA’s Curiosity Looks Back After Reaching Elevation Milestone",
-          "summary": "Description NASA’s Curiosity Mars rover captured this view looking back at the floor of Gale Crater, with the crater’s rim visible in the distance, on Sept. 5, 2026, the 5,006th Martian day, or sol, of the mission. Just…",
-          "url": "https://science.nasa.gov/photojournal/nasas-curiosity-looks-back-after-reaching-elevation-milestone/",
-          "source": "NASA",
-          "date": "2026-10-07"
-        },
-        {
-          "title": "NASA’s Curiosity Captures Dawn Breaking on Wind-Carved Cliffs",
-          "summary": "Description NASA’s Curiosity Mars rover captured this panorama of sunrise illuminating distant, wind-carved features called yardangs on Aug. 11, 2026, the 4,982nd Martian day, or sol, of the mission. Scientists are…",
-          "url": "https://science.nasa.gov/photojournal/nasas-curiosity-captures-dawn-breaking-on-wind-carved-cliffs/",
-          "source": "NASA",
-          "date": "2026-10-07"
-        },
-        {
-          "title": "APOD: 2026 October 7 – Supernova Remnant Pa 30",
-          "summary": "APOD Science APOD APOD: 2026 October 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
-          "url": "https://science.nasa.gov/image-article/apod-2026-october-7-supernova-remnant-pa-30/",
-          "source": "NASA",
-          "date": "2026-10-07"
         }
       ]
     },
@@ -85,11 +85,18 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "A honey trap: Female-baited beetle traps reveal habitat variation in Japanese forests",
-          "summary": "Monitoring biological indicators plays a crucial role in forest management, which requires finding a delicate balance between timber use and biodiversity conservation. Across forests and species, responses to forestry…",
-          "url": "https://phys.org/news/2026-10-honey-female-baited-beetle-reveal.html",
+          "title": "One ancient swimming mammal fossil and two evolutionary surprises, including a third set of teeth",
+          "summary": "What may have looked like a cross between a platypus and a beaverlike rodent and lived around 120 million years ago? Dongoconodon platycauda, a newly discovered fossil mammal from northeastern China. Beyond its unusual…",
+          "url": "https://phys.org/news/2026-10-ancient-mammal-fossil-evolutionary-teeth.html",
           "source": "Phys.org",
-          "date": "2026-10-07"
+          "date": "2026-10-08"
+        },
+        {
+          "title": "Scientists found Homo erectus 200,000 years earlier than expected",
+          "summary": "New fossils from South Africa are reshaping the story of early human evolution. Researchers have described 18 hominin fossils from Drimolen Cave, including an adult Homo erectus skull fragment dated to about 2 million…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261007042113.htm",
+          "source": "Science Daily",
+          "date": "2026-10-08"
         },
         {
           "title": "Tropical trees built homes for ants. Wasps are taking them over",
@@ -99,24 +106,17 @@
           "date": "2026-10-06"
         },
         {
+          "title": "Fading control over 'jumping genes' may explain why big dogs age faster",
+          "summary": "Across mammals, larger species typically have longer lifespans, ranging from only a couple of years for mice to almost 200 years for some whales.",
+          "url": "https://phys.org/news/2026-10-genes-big-dogs-age-faster.html",
+          "source": "Phys.org",
+          "date": "2026-10-08"
+        },
+        {
           "title": "Animals may have evolved 200 million years earlier than we thought",
           "summary": "New research suggests animals could have evolved as early as 800 to 700 million years ago, roughly 200 million years earlier than some previous estimates. If so, the first animals may have lived before or during…",
           "url": "https://www.sciencedaily.com/releases/2026/10/261003234023.htm",
           "source": "Science Daily",
-          "date": "2026-10-07"
-        },
-        {
-          "title": "Scientists uncover how the world's smallest flowering plant became so tiny",
-          "summary": "A new study has revealed how some plants pack the same structures as larger species into a tiny space, making them promising candidates for future crops.",
-          "url": "https://phys.org/news/2026-10-scientists-uncover-world-smallest-tiny.html",
-          "source": "Phys.org",
-          "date": "2026-10-07"
-        },
-        {
-          "title": "Ancient spotted bat samples help researchers understand present-day population dynamics",
-          "summary": "Understanding changes in North American bat populations is critical to measuring the risk of extinction from emerging threats such as habitat loss, climate change, white-nose syndrome and other disturbances. A study…",
-          "url": "https://phys.org/news/2026-10-ancient-samples-day-population-dynamics.html",
-          "source": "Phys.org",
           "date": "2026-10-07"
         }
       ]
@@ -125,39 +125,39 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Arctic Sea Ice Shrinks to Its 2026 Minimum",
-          "summary": "Satellite records show Arctic sea ice covering less of the ocean in both winter and summer.",
-          "url": "https://science.nasa.gov/earth/earth-observatory/arctic-sea-ice-shrinks-to-its-2026-minimum/",
-          "source": "NASA",
-          "date": "2026-10-07"
-        },
-        {
-          "title": "Soil evidence suggests early farming in Maya region 6,000 years ago",
-          "summary": "A new study on ancient food production in tropical Belize, co-led by the University of New Mexico and published in Communications Earth & Environment, provides evidence that people in the Maya-speaking region were…",
-          "url": "https://phys.org/news/2026-10-soil-evidence-early-farming-maya.html",
+          "title": "Sperm whale study highlights need for 'extensive and dynamic' conservation",
+          "summary": "A new study of sperm whales highlights the need for ocean conservation that covers large areas—with boundaries redrawn as our climate changes. The research team, led by the University of Exeter, combined sperm whale…",
+          "url": "https://phys.org/news/2026-10-sperm-whale-highlights-extensive-dynamic.html",
           "source": "Phys.org",
-          "date": "2026-10-07"
+          "date": "2026-10-08"
         },
         {
-          "title": "Hurricane Nolo is now Typhoon Nolo. Where is it going next?",
-          "summary": "Hurricane Nolo became Typhoon Nolo on October 4, 2026, after crossing the International Date Line. It is slowly churning toward Japan. The post Hurricane Nolo is now Typhoon Nolo. Where is it going next? first appeared…",
-          "url": "https://earthsky.org/earth/hurricane-nolo-hawaii-sept-2026/",
+          "title": "Sun news: Sun-stuff coming to Earth, auroras ahead!",
+          "summary": "Sun news, October 8, 2026: A CME is heading to Earth, with G2 storms and auroras likely tomorrow, October 9. Plus. a 2nd CME is following close behind. The post Sun news: Sun-stuff coming to Earth, auroras ahead! first…",
+          "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
           "source": "EarthSky",
-          "date": "2026-10-06"
+          "date": "2026-10-08"
         },
         {
-          "title": "Top climate scientists set out five steps to help the world prepare for super El Niño",
-          "summary": "Researchers have identified five key ways countries across the globe can be better prepared for the impending El Niño—and reduce its potentially devastating toll on human health.",
-          "url": "https://phys.org/news/2026-10-climate-scientists-world-super-el.html",
+          "title": "Hurricane Isaias is the 1st hurricane of the Atlantic season",
+          "summary": "Hurricane Isaias has become the 1st hurricane of the 2026 Atlantic season. It should bring dangerous storm surge to the Gulf Coast Friday and Saturday. The post Hurricane Isaias is the 1st hurricane of the Atlantic…",
+          "url": "https://earthsky.org/earth/tropical-storm-hurricane-isaias-oct-2026/",
+          "source": "EarthSky",
+          "date": "2026-10-08"
+        },
+        {
+          "title": "Scientists turn handheld car gadget into wildfire early-warning tool",
+          "summary": "Researchers at King's College London have converted an off-the-shelf product, usually used to determine whether car window tint is legal, into a scientific instrument that can measure leaf water content in seconds.",
+          "url": "https://phys.org/news/2026-10-scientists-handheld-car-gadget-wildfire.html",
           "source": "Phys.org",
-          "date": "2026-10-07"
+          "date": "2026-10-08"
         },
         {
-          "title": "Kelvin waves: Will El Niño bring coastal flooding to American west?",
-          "summary": "As El Niño continues to strengthen, it could cause Kelvin waves to move east and eventually trigger coastal flooding in the North American west. The post Kelvin waves: Will El Niño bring coastal flooding to American…",
-          "url": "https://earthsky.org/earth/kelvin-waves-coastal-flooding-west-coast-el-nino/",
-          "source": "EarthSky",
-          "date": "2026-10-07"
+          "title": "Could grass become the clothes of the future?",
+          "summary": "Producing textile fibers from wood involves extracting cellulose from a structure that is tougher and more resistant than that of grass. But what if grass offered an easier—and potentially more environmentally…",
+          "url": "https://phys.org/news/2026-10-grass-future.html",
+          "source": "Phys.org",
+          "date": "2026-10-08"
         }
       ]
     },
@@ -165,11 +165,25 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "First observation of quantum spins shifting a centimeter-scale object in the lab",
-          "summary": "Modern technological breakthroughs like lasers, MRI scanners, semiconductors and quantum computers rest on the study of quantum mechanics. However, the field has predominantly focused on (sub)atomic phenomena far…",
-          "url": "https://phys.org/news/2026-10-quantum-shifting-centimeter-scale-lab.html",
+          "title": "All-electrical imaging offers innovative alternative for tracking cell movement",
+          "summary": "Engineers from Brown University have developed a new way of imaging cell migration dynamics that are important in understanding critical processes like cancer metastasis, wound healing and immune response.",
+          "url": "https://phys.org/news/2026-10-electrical-imaging-alternative-tracking-cell.html",
           "source": "Phys.org",
-          "date": "2026-10-07"
+          "date": "2026-10-08"
+        },
+        {
+          "title": "AI is changing pilgrims' journeys, but sacred journeys have always adapted to new technology",
+          "summary": "In 2025, two scholars of religion decided to make a multiday pilgrimage along the Kumano Kodō trail—an ancient route in Japan connecting Shinto shrines and Buddhist temples—guided by an artificial intelligence assistant.",
+          "url": "https://phys.org/news/2026-10-ai-pilgrims-journeys-sacred-technology.html",
+          "source": "Phys.org",
+          "date": "2026-10-08"
+        },
+        {
+          "title": "New electrode design breaks key barrier to greener ammonia production",
+          "summary": "A new approach to producing ammonia using renewable electricity has overcome a fundamental energy limitation of the technology, opening new possibilities for cleaner and potentially more cost-effective production of one…",
+          "url": "https://phys.org/news/2026-10-electrode-key-barrier-greener-ammonia.html",
+          "source": "Phys.org",
+          "date": "2026-10-08"
         },
         {
           "title": "Scientists reprogram immune cells inside the body to fight cancer",
@@ -179,31 +193,17 @@
           "date": "2026-10-07"
         },
         {
-          "title": "Tom Gauld on the real risks of AI",
-          "summary": "Tom Gauld's weekly cartoon",
-          "url": "https://www.newscientist.com/article/2592467-tom-gauld-on-the-real-risks-of-ai/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-10-07"
-        },
-        {
-          "title": "Why gatekeeping is needed in the age of AI",
-          "summary": "Large language models have unleashed a torrent of text – dealing with it won't be easy",
-          "url": "https://www.newscientist.com/article/2592280-__trashed-141/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-10-07"
+          "title": "AI skills not enough to level the playing field—study",
+          "summary": "Training in AI skills improves the chances of women from underrepresented backgrounds being invited to job interviews, but not enough to eliminate the inequalities they face in the labor market, according to a new study.",
+          "url": "https://phys.org/news/2026-10-ai-skills-playing-field.html",
+          "source": "Phys.org",
+          "date": "2026-10-08"
         }
       ]
     },
     "Physics": {
       "emoji": "⚡",
       "articles": [
-        {
-          "title": "One quantum material, two superconducting states: Stretching helps explain conflicting experiments",
-          "summary": "Unconventional superconductors can host unusual electronic states, but understanding what drives their superconductivity becomes difficult when different forms of order coexist. The kagome metal CsV3Sb5 has become a…",
-          "url": "https://phys.org/news/2026-10-quantum-material-superconducting-states-conflicting.html",
-          "source": "Phys.org",
-          "date": "2026-10-07"
-        },
         {
           "title": "Physicists just found the ‘ghost’ of superconductivity",
           "summary": "Physicists have found striking evidence for an unusual form of superconducting behavior in uranium ditelluride, where electron pairs organize into rippling patterns called pair density waves. Even more surprisingly…",
@@ -217,20 +217,6 @@
           "url": "https://www.sciencedaily.com/releases/2026/10/261004002556.htm",
           "source": "Science Daily",
           "date": "2026-10-06"
-        },
-        {
-          "title": "A few drops of this Japanese tree oil may help you sleep more soundly",
-          "summary": "In a small study, sleeping near the scent of Hinoki root essential oil was linked to fewer nighttime awakenings, better morning alertness, and brain-wave changes associated with smoother sleep onset. The findings…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261002080030.htm",
-          "source": "Science Daily",
-          "date": "2026-10-06"
-        },
-        {
-          "title": "Levitating glass sphere becomes entangled with light at room temperature",
-          "summary": "Today, many physicists are actively exploring how light could be used to link objects through quantum entanglement. By fully harnessing the effect, they hope to unlock a wide array of applications, from secure…",
-          "url": "https://phys.org/news/2026-10-levitating-glass-sphere-entangled-room.html",
-          "source": "Phys.org",
-          "date": "2026-10-07"
         }
       ]
     }
