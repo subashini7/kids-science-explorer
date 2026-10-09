@@ -1,43 +1,43 @@
 {
-  "updated": "2026-10-08T19:09:39Z",
+  "updated": "2026-10-09T18:40:11Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "Light-driven method puts notoriously reactive hydrogen atoms to work for chemical synthesis",
-          "summary": "Hydrogen is the simplest element in the periodic table, consisting of just one proton and one electron. In chemistry, however, the smallest of atoms is anything but simple. First produced by Nobel laureate Irving…",
-          "url": "https://phys.org/news/2026-10-driven-method-notoriously-reactive-hydrogen.html",
-          "source": "Phys.org",
-          "date": "2026-10-08"
-        },
-        {
-          "title": "A biologist queries whether AI 'borrowed' his work to make major discovery—an expert explains the rules",
-          "summary": "AI company Anthropic recently announced that its popular system Claude had identified an unusual family of biological molecules. These molecules were enzymes, a type of protein that speeds up chemical reactions in…",
-          "url": "https://phys.org/news/2026-10-biologist-queries-ai-major-discovery.html",
-          "source": "Phys.org",
-          "date": "2026-10-08"
-        },
-        {
-          "title": "Nickel catalyst unlocks hard-to-make β-amino alcohols",
-          "summary": "Many molecules in living organisms and pharmaceuticals share a structure called a β-amino alcohol, in which an amino group and a hydroxyl group sit on neighboring carbon atoms. These groups, important building blocks in…",
-          "url": "https://phys.org/news/2026-10-nickel-catalyst-hard-amino-alcohols.html",
-          "source": "Phys.org",
-          "date": "2026-10-08"
-        },
-        {
-          "title": "Scientists finally see how nature moves energy so efficiently",
-          "summary": "Researchers have captured key steps in a chemical reaction that helps nature transfer energy with remarkable efficiency. Ultrafast X-rays revealed how changes involving electrons and protons are closely linked to the…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261004001841.htm",
+          "title": "Bacteria turn a virus’ own weapon against it",
+          "summary": "Researchers have uncovered a new way bacteria detect viral attacks: a virus-produced enzyme cuts a bacterial sensor protein, triggering a self-destructing immune response. The discovery could lead to more effective…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261007042100.htm",
           "source": "Science Daily",
-          "date": "2026-10-06"
+          "date": "2026-10-09"
         },
         {
-          "title": "NASA, Energy Department Advance New Era of Nuclear-Powered Exploration",
-          "summary": "As the Golden Age of deep-space exploration begins, NASA and the U.S. Department of Energy are advancing the development of safe, reliable, next-generation nuclear technologies for space. Together, the agencies will…",
-          "url": "https://www.nasa.gov/news-release/nasa-energy-department-advance-new-era-of-nuclear-powered-exploration/",
-          "source": "NASA",
-          "date": "2026-10-08"
+          "title": "Light reads electron spins inside porous crystals, opening path to quantum chemical sensors",
+          "summary": "University of Glasgow researchers are part of an international collaboration that could lead to a new generation of quantum sensors. The team, which included researchers from the University of Tokyo, University of…",
+          "url": "https://phys.org/news/2026-10-electron-porous-crystals-path-quantum.html",
+          "source": "Phys.org",
+          "date": "2026-10-09"
+        },
+        {
+          "title": "Scientists find hidden materials that could improve batteries and solar fuels",
+          "summary": "Scientists have uncovered a hidden world of “in-between” materials that briefly form as chemical ingredients are heated, revealing structures that conventional methods can miss. Among the discoveries is a previously…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261007042118.htm",
+          "source": "Science Daily",
+          "date": "2026-10-09"
+        },
+        {
+          "title": "Ultrafast core-level spectroscopy reveals elusive precursors of exciton condensation in quantum materials",
+          "summary": "Many fascinating phases in quantum materials emerge when electrons, atoms and other microscopic components begin to act collectively. But these phases do not necessarily appear out of nowhere when a material crosses a…",
+          "url": "https://phys.org/news/2026-08-ultrafast-core-spectroscopy-reveals-elusive.html",
+          "source": "Phys.org",
+          "date": "2026-10-09"
+        },
+        {
+          "title": "Did formaldehyde on ancient Mars help kickstart life?",
+          "summary": "Formaldehyde in the ancient rains on Mars might have provided crucial chemical reactions needed for life to begin on the red planet billions of years ago. The post Did formaldehyde on ancient Mars help kickstart life?…",
+          "url": "https://earthsky.org/space/ancient-rains-on-mars-formaldehyde-life-on-mars/",
+          "source": "EarthSky",
+          "date": "2026-10-09"
         }
       ]
     },
@@ -59,25 +59,25 @@
           "date": "2026-10-07"
         },
         {
-          "title": "NASA’s SPHEREx Telescope Sees Menagerie of Brown Dwarfs",
-          "summary": "NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer) space telescope is shedding light on brown dwarfs, celestial objects that blur the line between stars and…",
-          "url": "https://www.nasa.gov/missions/spherex/nasas-spherex-telescope-sees-menagerie-of-brown-dwarfs/",
+          "title": "NASA Demonstrates Next-Generation Heat Shield Technologies",
+          "summary": "NASA is testing heat shields that can keep astronauts safe as they return from missions to the Moon and Mars in an unusual way: by taking out the trash. When Northrop Grumman 24th cargo resupply mission for NASA…",
+          "url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/",
           "source": "NASA",
-          "date": "2026-10-08"
+          "date": "2026-10-09"
         },
         {
-          "title": "NASA Advances LISA Mission Contributions With New Test Telescope",
-          "summary": "NASA has taken the next step in the process of developing a new all-glass telescope for the LISA (Laser Interferometer Space Antenna) mission, a space observatory designed to detect ripples in space-time called…",
-          "url": "https://science.nasa.gov/missions/lisa/nasa-advances-lisa-mission-contributions-with-new-test-telescope/",
-          "source": "NASA",
-          "date": "2026-10-08"
-        },
-        {
-          "title": "Don't miss: Watch Saturn shine and Halley’s Comet debris streak across the sky",
-          "summary": "October skywatchers can see Saturn at opposition, catch meteors from Halley’s Comet during the Orionid peak, and watch the Moon sweep past the famous Pleiades star cluster. Moonlight may obscure some Orionids, but the…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261005071523.htm",
+          "title": "NASA astronauts splash down after 100 million miles in space",
+          "summary": "NASA’s SpaceX Crew-12 astronauts have returned to Earth after 237 days in space, traveling more than 100 million miles and completing over 3,792 orbits while conducting research to prepare for future missions to the…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261008232629.htm",
           "source": "Science Daily",
-          "date": "2026-10-05"
+          "date": "2026-10-09"
+        },
+        {
+          "title": "Cosmic House of Mirrors",
+          "summary": "Galaxies warp and multiply as if in a house of mirrors in this image from NASA&#8217;s James Webb Space Telescope released on Sept. 29, 2026. The brilliant golden galaxies seen here are part of a galaxy cluster called…",
+          "url": "https://www.nasa.gov/image-article/cosmic-house-of-mirrors/",
+          "source": "NASA",
+          "date": "2026-10-09"
         }
       ]
     },
@@ -85,11 +85,11 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "One ancient swimming mammal fossil and two evolutionary surprises, including a third set of teeth",
-          "summary": "What may have looked like a cross between a platypus and a beaverlike rodent and lived around 120 million years ago? Dongoconodon platycauda, a newly discovered fossil mammal from northeastern China. Beyond its unusual…",
-          "url": "https://phys.org/news/2026-10-ancient-mammal-fossil-evolutionary-teeth.html",
+          "title": "From bogong moths to Christmas beetles—how to slow down and spot more insects",
+          "summary": "Millions of people worldwide watched as the Sydney Olympics came to a close in 2000. Meanwhile, thousands of bogong moths (Agrotis infusa) were airborne, making their annual migration to the Australian Alps.",
+          "url": "https://phys.org/news/2026-10-bogong-moths-christmas-beetles-insects.html",
           "source": "Phys.org",
-          "date": "2026-10-08"
+          "date": "2026-10-09"
         },
         {
           "title": "Scientists found Homo erectus 200,000 years earlier than expected",
@@ -99,25 +99,18 @@
           "date": "2026-10-08"
         },
         {
-          "title": "Tropical trees built homes for ants. Wasps are taking them over",
-          "summary": "Predatory wasps are hijacking shelters built by tropical trees for their ant defenders, potentially disrupting an ancient partnership that protects the plants from hungry insects. The takeover is far more common in…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261004001832.htm",
-          "source": "Science Daily",
-          "date": "2026-10-06"
-        },
-        {
-          "title": "Fading control over 'jumping genes' may explain why big dogs age faster",
-          "summary": "Across mammals, larger species typically have longer lifespans, ranging from only a couple of years for mice to almost 200 years for some whales.",
-          "url": "https://phys.org/news/2026-10-genes-big-dogs-age-faster.html",
+          "title": "African antelopes spreading in New Mexico: How far could they go under climate change?",
+          "summary": "Majestic African antelopes known as gemsbok have been roaming the U.S. Southwest since their introduction in the 1960s and 1970s. Brought to New Mexico as a game species for hunting, gemsbok quickly settled in…",
+          "url": "https://phys.org/news/2026-10-african-antelopes-mexico-climate.html",
           "source": "Phys.org",
-          "date": "2026-10-08"
+          "date": "2026-10-09"
         },
         {
-          "title": "Animals may have evolved 200 million years earlier than we thought",
-          "summary": "New research suggests animals could have evolved as early as 800 to 700 million years ago, roughly 200 million years earlier than some previous estimates. If so, the first animals may have lived before or during…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261003234023.htm",
-          "source": "Science Daily",
-          "date": "2026-10-07"
+          "title": "Rising water is creating inland ghost forests in the US",
+          "summary": "Forests full of dead trees aren’t just found by the US coasts – they are also appearing far from the sea around freshwater lakes",
+          "url": "https://www.newscientist.com/article/2593032-rising-water-is-creating-inland-ghost-forests-in-the-us/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-10-09"
         }
       ]
     },
@@ -125,39 +118,39 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Sperm whale study highlights need for 'extensive and dynamic' conservation",
-          "summary": "A new study of sperm whales highlights the need for ocean conservation that covers large areas—with boundaries redrawn as our climate changes. The research team, led by the University of Exeter, combined sperm whale…",
-          "url": "https://phys.org/news/2026-10-sperm-whale-highlights-extensive-dynamic.html",
+          "title": "Some climate tipping points are being studied far more than others",
+          "summary": "Parts of Earth's climate system can change abruptly once warming pushes them beyond critical thresholds. The Greenland and Antarctic ice sheets, the Amazon rainforest, coral reefs and major ocean currents are all among…",
+          "url": "https://phys.org/news/2026-10-climate.html",
           "source": "Phys.org",
-          "date": "2026-10-08"
+          "date": "2026-10-09"
         },
         {
-          "title": "Sun news: Sun-stuff coming to Earth, auroras ahead!",
-          "summary": "Sun news, October 8, 2026: A CME is heading to Earth, with G2 storms and auroras likely tomorrow, October 9. Plus. a 2nd CME is following close behind. The post Sun news: Sun-stuff coming to Earth, auroras ahead! first…",
-          "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
-          "source": "EarthSky",
-          "date": "2026-10-08"
+          "title": "Hoping for a 'new normal' climate is pointless. We must learn to adapt",
+          "summary": "Climate change is worsening. There's now no chance of holding temperature rise to 1.5°C. The future will bring worsening floods, glacial melt, megafires and lethal heat.",
+          "url": "https://phys.org/news/2026-10-climate-pointless.html",
+          "source": "Phys.org",
+          "date": "2026-10-09"
         },
         {
-          "title": "Hurricane Isaias is the 1st hurricane of the Atlantic season",
-          "summary": "Hurricane Isaias has become the 1st hurricane of the 2026 Atlantic season. It should bring dangerous storm surge to the Gulf Coast Friday and Saturday. The post Hurricane Isaias is the 1st hurricane of the Atlantic…",
+          "title": "Broken bones in ancient homes shed new light on Viking violence",
+          "summary": "Fragmented bones and skull pieces found in hearths, beneath floors and in other domestic settings in early Scandinavian settlement sites are providing fresh insights into Iron Age and Viking Age violence.",
+          "url": "https://phys.org/news/2026-10-broken-bones-ancient-homes-viking.html",
+          "source": "Phys.org",
+          "date": "2026-10-09"
+        },
+        {
+          "title": "Isaias is a major hurricane, headed for the Gulf Coast",
+          "summary": "Hurricane Isaias is the 1st hurricane of the 2026 Atlantic season. It is now a major hurricane, making landfall around midnight tonight near Pensacola. The post Isaias is a major hurricane, headed for the Gulf Coast…",
           "url": "https://earthsky.org/earth/tropical-storm-hurricane-isaias-oct-2026/",
           "source": "EarthSky",
-          "date": "2026-10-08"
+          "date": "2026-10-09"
         },
         {
-          "title": "Scientists turn handheld car gadget into wildfire early-warning tool",
-          "summary": "Researchers at King's College London have converted an off-the-shelf product, usually used to determine whether car window tint is legal, into a scientific instrument that can measure leaf water content in seconds.",
-          "url": "https://phys.org/news/2026-10-scientists-handheld-car-gadget-wildfire.html",
-          "source": "Phys.org",
-          "date": "2026-10-08"
-        },
-        {
-          "title": "Could grass become the clothes of the future?",
-          "summary": "Producing textile fibers from wood involves extracting cellulose from a structure that is tougher and more resistant than that of grass. But what if grass offered an easier—and potentially more environmentally…",
-          "url": "https://phys.org/news/2026-10-grass-future.html",
-          "source": "Phys.org",
-          "date": "2026-10-08"
+          "title": "Why leaves change color in the autumn",
+          "summary": "Did you know the vivid colors of autumn leaves are there throughout spring and summer, but hidden? Here's why leaves change color in the fall. The post Why leaves change color in the autumn first appeared on EarthSky .",
+          "url": "https://earthsky.org/earth/why-do-tree-leaves-change-color-in-fall/",
+          "source": "EarthSky",
+          "date": "2026-10-09"
         }
       ]
     },
@@ -165,25 +158,32 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "All-electrical imaging offers innovative alternative for tracking cell movement",
-          "summary": "Engineers from Brown University have developed a new way of imaging cell migration dynamics that are important in understanding critical processes like cancer metastasis, wound healing and immune response.",
-          "url": "https://phys.org/news/2026-10-electrical-imaging-alternative-tracking-cell.html",
+          "title": "Canada's settlement services are going digital. AI should support workers, not replace them",
+          "summary": "Artificial intelligence is no longer just a technology-sector issue. It's transforming how public services are organized and delivered, including settlement services for immigrants and newcomers in Canada.",
+          "url": "https://phys.org/news/2026-10-canada-settlement-digital-ai-workers.html",
           "source": "Phys.org",
-          "date": "2026-10-08"
+          "date": "2026-10-09"
         },
         {
-          "title": "AI is changing pilgrims' journeys, but sacred journeys have always adapted to new technology",
-          "summary": "In 2025, two scholars of religion decided to make a multiday pilgrimage along the Kumano Kodō trail—an ancient route in Japan connecting Shinto shrines and Buddhist temples—guided by an artificial intelligence assistant.",
-          "url": "https://phys.org/news/2026-10-ai-pilgrims-journeys-sacred-technology.html",
+          "title": "Q&A: How does AI affect our engagement at work?",
+          "summary": "AI is being integrated into our work at a growing rate. Andreas Bergqvist, a Ph.D. student at the Department of Information Technology, has teamed up with colleagues to investigate how AI, automation and robotization…",
+          "url": "https://phys.org/news/2026-10-qa-ai-affect-engagement.html",
           "source": "Phys.org",
-          "date": "2026-10-08"
+          "date": "2026-10-09"
         },
         {
-          "title": "New electrode design breaks key barrier to greener ammonia production",
-          "summary": "A new approach to producing ammonia using renewable electricity has overcome a fundamental energy limitation of the technology, opening new possibilities for cleaner and potentially more cost-effective production of one…",
-          "url": "https://phys.org/news/2026-10-electrode-key-barrier-greener-ammonia.html",
+          "title": "Physics model reveals fundamental trade-off between prediction and energy efficiency in intelligent systems",
+          "summary": "Artificial intelligence is increasingly becoming part of our everyday lives, from digital assistants to robots that respond to their surroundings. Each of these capabilities is based on physical computational processes…",
+          "url": "https://phys.org/news/2026-10-physics-reveals-fundamental-energy-efficiency.html",
           "source": "Phys.org",
-          "date": "2026-10-08"
+          "date": "2026-10-09"
+        },
+        {
+          "title": "Light-responsive inks could make tattoos visible on demand, but safety remains unproven",
+          "summary": "A team of engineers has designed a new line of multicolored tattoo inks that switch on and off with different kinds of light. Described in a study published in Matter & Light, the technology could one day help people…",
+          "url": "https://phys.org/news/2026-10-responsive-inks-tattoos-visible-demand.html",
+          "source": "Phys.org",
+          "date": "2026-10-09"
         },
         {
           "title": "Scientists reprogram immune cells inside the body to fight cancer",
@@ -191,19 +191,19 @@
           "url": "https://www.sciencedaily.com/releases/2026/10/261005071532.htm",
           "source": "Science Daily",
           "date": "2026-10-07"
-        },
-        {
-          "title": "AI skills not enough to level the playing field—study",
-          "summary": "Training in AI skills improves the chances of women from underrepresented backgrounds being invited to job interviews, but not enough to eliminate the inequalities they face in the labor market, according to a new study.",
-          "url": "https://phys.org/news/2026-10-ai-skills-playing-field.html",
-          "source": "Phys.org",
-          "date": "2026-10-08"
         }
       ]
     },
     "Physics": {
       "emoji": "⚡",
       "articles": [
+        {
+          "title": "Quantum chip holds multiple photons at once, opening path to scalable memory",
+          "summary": "For highly fragile quantum information systems, the ability to store quantum information is vital—but also challenging. Quantum information is transported in particles of light called photons, which often must be…",
+          "url": "https://phys.org/news/2026-10-quantum-chip-multiple-photons-path.html",
+          "source": "Phys.org",
+          "date": "2026-10-09"
+        },
         {
           "title": "Physicists just found the ‘ghost’ of superconductivity",
           "summary": "Physicists have found striking evidence for an unusual form of superconducting behavior in uranium ditelluride, where electron pairs organize into rippling patterns called pair density waves. Even more surprisingly…",
@@ -212,11 +212,18 @@
           "date": "2026-10-07"
         },
         {
-          "title": "Physicists just saw quarks make waves in the Big Bang’s primordial soup",
-          "summary": "Physicists at CERN’s Large Hadron Collider have captured the clearest evidence yet that quark-gluon plasma, the scorching-hot matter that filled the newborn universe, behaves like a true liquid. By tracking individual…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261004002556.htm",
-          "source": "Science Daily",
-          "date": "2026-10-06"
+          "title": "The oil market that sets today's gas prices was invented in western Pennsylvania",
+          "summary": "The fall of 2026 is a moment when energy takes center stage, as geopolitics unfolding far away shows up in Americans' everyday lives.",
+          "url": "https://phys.org/news/2026-10-oil-today-gas-prices-western.html",
+          "source": "Phys.org",
+          "date": "2026-10-09"
+        },
+        {
+          "title": "Tattoos could be turned on and off with light",
+          "summary": "A new type of ink could overcome one of the main downsides of tattoos: the inability to make them invisible",
+          "url": "https://www.newscientist.com/article/2592938-tattoos-could-be-turned-on-and-off-with-light/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-10-09"
         }
       ]
     }
