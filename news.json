@@ -1,21 +1,21 @@
 {
-  "updated": "2026-10-09T18:40:11Z",
+  "updated": "2026-10-10T17:39:33Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
+          "title": "New catalyst enables lower-temperature methane conversion with sustained performance",
+          "summary": "Oxidative coupling of methane (OCM) is a chemical reaction that directly converts methane and oxygen, the main components of natural gas, into higher-value hydrocarbons such as ethane and ethylene. However, the reaction…",
+          "url": "https://phys.org/news/2026-10-catalyst-enables-temperature-methane-conversion.html",
+          "source": "Phys.org",
+          "date": "2026-10-10"
+        },
+        {
           "title": "Bacteria turn a virus’ own weapon against it",
           "summary": "Researchers have uncovered a new way bacteria detect viral attacks: a virus-produced enzyme cuts a bacterial sensor protein, triggering a self-destructing immune response. The discovery could lead to more effective…",
           "url": "https://www.sciencedaily.com/releases/2026/10/261007042100.htm",
           "source": "Science Daily",
-          "date": "2026-10-09"
-        },
-        {
-          "title": "Light reads electron spins inside porous crystals, opening path to quantum chemical sensors",
-          "summary": "University of Glasgow researchers are part of an international collaboration that could lead to a new generation of quantum sensors. The team, which included researchers from the University of Tokyo, University of…",
-          "url": "https://phys.org/news/2026-10-electron-porous-crystals-path-quantum.html",
-          "source": "Phys.org",
           "date": "2026-10-09"
         },
         {
@@ -26,9 +26,9 @@
           "date": "2026-10-09"
         },
         {
-          "title": "Ultrafast core-level spectroscopy reveals elusive precursors of exciton condensation in quantum materials",
-          "summary": "Many fascinating phases in quantum materials emerge when electrons, atoms and other microscopic components begin to act collectively. But these phases do not necessarily appear out of nowhere when a material crosses a…",
-          "url": "https://phys.org/news/2026-08-ultrafast-core-spectroscopy-reveals-elusive.html",
+          "title": "Plant-bacteria partnership reveals how roots access iron locked in soil",
+          "summary": "A new study led by Paul Schulze-Lefert from the Max Planck Institute for Plant Breeding Research in Cologne, in collaboration with Ricardo F.H. Giehl at the Leibniz Institute of Plant Genetics and Crop Plant Research in…",
+          "url": "https://phys.org/news/2026-10-bacteria-partnership-reveals-roots-access.html",
           "source": "Phys.org",
           "date": "2026-10-09"
         },
@@ -85,13 +85,6 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "From bogong moths to Christmas beetles—how to slow down and spot more insects",
-          "summary": "Millions of people worldwide watched as the Sydney Olympics came to a close in 2000. Meanwhile, thousands of bogong moths (Agrotis infusa) were airborne, making their annual migration to the Australian Alps.",
-          "url": "https://phys.org/news/2026-10-bogong-moths-christmas-beetles-insects.html",
-          "source": "Phys.org",
-          "date": "2026-10-09"
-        },
-        {
           "title": "Scientists found Homo erectus 200,000 years earlier than expected",
           "summary": "New fossils from South Africa are reshaping the story of early human evolution. Researchers have described 18 hominin fossils from Drimolen Cave, including an adult Homo erectus skull fragment dated to about 2 million…",
           "url": "https://www.sciencedaily.com/releases/2026/10/261007042113.htm",
@@ -99,17 +92,31 @@
           "date": "2026-10-08"
         },
         {
-          "title": "African antelopes spreading in New Mexico: How far could they go under climate change?",
-          "summary": "Majestic African antelopes known as gemsbok have been roaming the U.S. Southwest since their introduction in the 1960s and 1970s. Brought to New Mexico as a game species for hunting, gemsbok quickly settled in…",
-          "url": "https://phys.org/news/2026-10-african-antelopes-mexico-climate.html",
+          "title": "Against the odds: Why some ecosystems thrive",
+          "summary": "From coral reefs in Papua New Guinea to chimpanzees in West Africa, grizzly bears in Canada and albatross colonies off Tasmania, some ecosystems are thriving despite climate change, habitat loss and other environmental…",
+          "url": "https://phys.org/news/2026-10-odds-ecosystems.html",
+          "source": "Phys.org",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "Why some young ants start hunting and caring for others early",
+          "summary": "Some insects, including honeybees and ants, live in highly organized colonies where individuals take on specific roles. In many ant societies, young adult workers typically care for developing young inside the nest…",
+          "url": "https://phys.org/news/2026-10-young-ants-early.html",
+          "source": "Phys.org",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "What a swordfish washing up on British Columbia's coast says about our changing oceans",
+          "summary": "Filmmaker and outdoorsperson Quinn Barabash recently made headlines when he found a swordfish carcass nearly two meters (6.6 feet) long on the remote shores of Haida Gwaii in northern British Columbia.",
+          "url": "https://phys.org/news/2026-10-swordfish-british-columbia-coast-oceans.html",
           "source": "Phys.org",
           "date": "2026-10-09"
         },
         {
-          "title": "Rising water is creating inland ghost forests in the US",
-          "summary": "Forests full of dead trees aren’t just found by the US coasts – they are also appearing far from the sea around freshwater lakes",
-          "url": "https://www.newscientist.com/article/2593032-rising-water-is-creating-inland-ghost-forests-in-the-us/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
+          "title": "Nightjar wings reveal a trade-off between hunting slowly and traveling far",
+          "summary": "The European nightjar (Caprimulgus europaeus) is a nocturnal migratory bird that travels between Europe and southern Africa each year. However, its wings are not only used for long-distance journeys. When hunting…",
+          "url": "https://phys.org/news/2026-10-nightjar-wings-reveal-slowly.html",
+          "source": "Phys.org",
           "date": "2026-10-09"
         }
       ]
@@ -118,52 +125,45 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Some climate tipping points are being studied far more than others",
-          "summary": "Parts of Earth's climate system can change abruptly once warming pushes them beyond critical thresholds. The Greenland and Antarctic ice sheets, the Amazon rainforest, coral reefs and major ocean currents are all among…",
-          "url": "https://phys.org/news/2026-10-climate.html",
+          "title": "Tsunami alert after major earthquake rocks Panama",
+          "summary": "A magnitude 7.7 earthquake jolted Panama on Friday, setting off panic in the capital city and warnings of dangerous tsunami waves.",
+          "url": "https://phys.org/news/2026-10-tsunami-major-earthquake-panama.html",
+          "source": "Phys.org",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "Geologists uncover evidence of a missing Late Cretaceous magmatic arc in northwestern Iran",
+          "summary": "Mountains preserve evidence of ancient oceans, moving continents and tectonic processes that have shaped Earth over millions of years. Later deformation, erosion and burial, however, can obscure important parts of this…",
+          "url": "https://phys.org/news/2026-10-geologists-uncover-evidence-late-cretaceous.html",
+          "source": "Phys.org",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "Polar oceans store carbon—but policy is not yet ready to count it",
+          "summary": "Polar oceans may play an important role in storing carbon and supporting biodiversity, but current science and policy frameworks are not yet ready to fully recognize their potential.",
+          "url": "https://phys.org/news/2026-10-polar-oceans-carbon-policy-ready.html",
           "source": "Phys.org",
           "date": "2026-10-09"
         },
         {
-          "title": "Hoping for a 'new normal' climate is pointless. We must learn to adapt",
-          "summary": "Climate change is worsening. There's now no chance of holding temperature rise to 1.5°C. The future will bring worsening floods, glacial melt, megafires and lethal heat.",
-          "url": "https://phys.org/news/2026-10-climate-pointless.html",
+          "title": "Powerful waves lash California coast as storm threatens more damage",
+          "summary": "Powerful waves thrashed communities along California's southern coast Friday, damaging homes and sending water cascading through streets as residents braced for more potential damage wrought by Tropical Storm Rachel.",
+          "url": "https://phys.org/news/2026-10-powerful-lash-california-coast-storm.html",
           "source": "Phys.org",
-          "date": "2026-10-09"
+          "date": "2026-10-10"
         },
         {
-          "title": "Broken bones in ancient homes shed new light on Viking violence",
-          "summary": "Fragmented bones and skull pieces found in hearths, beneath floors and in other domestic settings in early Scandinavian settlement sites are providing fresh insights into Iron Age and Viking Age violence.",
-          "url": "https://phys.org/news/2026-10-broken-bones-ancient-homes-viking.html",
+          "title": "Wildfire smoke shuts schools in Amazon's biggest city",
+          "summary": "The largest city in the Brazilian Amazon, Manaus, closed public schools on Friday as smoke from hundreds of wildfires blanketed the metropolis amid an intensifying El Niño event.",
+          "url": "https://phys.org/news/2026-10-wildfire-schools-amazon-biggest-city.html",
           "source": "Phys.org",
-          "date": "2026-10-09"
-        },
-        {
-          "title": "Isaias is a major hurricane, headed for the Gulf Coast",
-          "summary": "Hurricane Isaias is the 1st hurricane of the 2026 Atlantic season. It is now a major hurricane, making landfall around midnight tonight near Pensacola. The post Isaias is a major hurricane, headed for the Gulf Coast…",
-          "url": "https://earthsky.org/earth/tropical-storm-hurricane-isaias-oct-2026/",
-          "source": "EarthSky",
-          "date": "2026-10-09"
-        },
-        {
-          "title": "Why leaves change color in the autumn",
-          "summary": "Did you know the vivid colors of autumn leaves are there throughout spring and summer, but hidden? Here's why leaves change color in the fall. The post Why leaves change color in the autumn first appeared on EarthSky .",
-          "url": "https://earthsky.org/earth/why-do-tree-leaves-change-color-in-fall/",
-          "source": "EarthSky",
-          "date": "2026-10-09"
+          "date": "2026-10-10"
         }
       ]
     },
     "Technology & Inventions": {
       "emoji": "🤖",
       "articles": [
-        {
-          "title": "Canada's settlement services are going digital. AI should support workers, not replace them",
-          "summary": "Artificial intelligence is no longer just a technology-sector issue. It's transforming how public services are organized and delivered, including settlement services for immigrants and newcomers in Canada.",
-          "url": "https://phys.org/news/2026-10-canada-settlement-digital-ai-workers.html",
-          "source": "Phys.org",
-          "date": "2026-10-09"
-        },
         {
           "title": "Q&A: How does AI affect our engagement at work?",
           "summary": "AI is being integrated into our work at a growing rate. Andreas Bergqvist, a Ph.D. student at the Department of Information Technology, has teamed up with colleagues to investigate how AI, automation and robotization…",
@@ -172,18 +172,11 @@
           "date": "2026-10-09"
         },
         {
-          "title": "Physics model reveals fundamental trade-off between prediction and energy efficiency in intelligent systems",
-          "summary": "Artificial intelligence is increasingly becoming part of our everyday lives, from digital assistants to robots that respond to their surroundings. Each of these capabilities is based on physical computational processes…",
-          "url": "https://phys.org/news/2026-10-physics-reveals-fundamental-energy-efficiency.html",
+          "title": "Hybrid quantum computer observes foundational quantum effect in a new setting",
+          "summary": "Physicists in the Department of Physics at the University of Oxford have used a hybrid quantum computer, made up of qubits and quantum oscillators, to observe the Aharonov–Bohm effect in a quantum simulation. The effect…",
+          "url": "https://phys.org/news/2026-10-hybrid-quantum-foundational-effect.html",
           "source": "Phys.org",
-          "date": "2026-10-09"
-        },
-        {
-          "title": "Light-responsive inks could make tattoos visible on demand, but safety remains unproven",
-          "summary": "A team of engineers has designed a new line of multicolored tattoo inks that switch on and off with different kinds of light. Described in a study published in Matter & Light, the technology could one day help people…",
-          "url": "https://phys.org/news/2026-10-responsive-inks-tattoos-visible-demand.html",
-          "source": "Phys.org",
-          "date": "2026-10-09"
+          "date": "2026-10-10"
         },
         {
           "title": "Scientists reprogram immune cells inside the body to fight cancer",
@@ -191,19 +184,26 @@
           "url": "https://www.sciencedaily.com/releases/2026/10/261005071532.htm",
           "source": "Science Daily",
           "date": "2026-10-07"
+        },
+        {
+          "title": "New stability rules distinguish quantum phases of matter that an older method wrongly groups together",
+          "summary": "Most of us recognize basic phases of matter and their properties: solids maintain their shape, liquids flow freely with constant volume, and gases expand to fill their container. Quantum phases, on the other hand, are…",
+          "url": "https://phys.org/news/2026-10-stability-distinguish-quantum-phases-older.html",
+          "source": "Phys.org",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "AI or ‘super intelligence’? Trump isn’t the only one who is confused",
+          "summary": "US President Donald Trump has declared that artificial intelligence should now be called “super intelligence”. Columnist Jacob Aron explains where that term came from and explores whether its many historical meanings…",
+          "url": "https://www.newscientist.com/article/2592404-ai-or-super-intelligence-trump-isnt-the-only-one-who-is-confused/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-10-08"
         }
       ]
     },
     "Physics": {
       "emoji": "⚡",
       "articles": [
-        {
-          "title": "Quantum chip holds multiple photons at once, opening path to scalable memory",
-          "summary": "For highly fragile quantum information systems, the ability to store quantum information is vital—but also challenging. Quantum information is transported in particles of light called photons, which often must be…",
-          "url": "https://phys.org/news/2026-10-quantum-chip-multiple-photons-path.html",
-          "source": "Phys.org",
-          "date": "2026-10-09"
-        },
         {
           "title": "Physicists just found the ‘ghost’ of superconductivity",
           "summary": "Physicists have found striking evidence for an unusual form of superconducting behavior in uranium ditelluride, where electron pairs organize into rippling patterns called pair density waves. Even more surprisingly…",
@@ -212,9 +212,9 @@
           "date": "2026-10-07"
         },
         {
-          "title": "The oil market that sets today's gas prices was invented in western Pennsylvania",
-          "summary": "The fall of 2026 is a moment when energy takes center stage, as geopolitics unfolding far away shows up in Americans' everyday lives.",
-          "url": "https://phys.org/news/2026-10-oil-today-gas-prices-western.html",
+          "title": "Fluorescent imaging tracks metabolism of cells in real time",
+          "summary": "Cornell researchers have designed a new, faster form of two-photon fluorescence imaging for observing cell metabolism in real time, a method that could enable quicker screening of new therapeutic treatments. The…",
+          "url": "https://phys.org/news/2026-10-fluorescent-imaging-tracks-metabolism-cells.html",
           "source": "Phys.org",
           "date": "2026-10-09"
         },
