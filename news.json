@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T17:39:33Z",
+  "updated": "2026-10-11T17:54:50Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
@@ -26,38 +26,24 @@
           "date": "2026-10-09"
         },
         {
-          "title": "Plant-bacteria partnership reveals how roots access iron locked in soil",
-          "summary": "A new study led by Paul Schulze-Lefert from the Max Planck Institute for Plant Breeding Research in Cologne, in collaboration with Ricardo F.H. Giehl at the Leibniz Institute of Plant Genetics and Crop Plant Research in…",
-          "url": "https://phys.org/news/2026-10-bacteria-partnership-reveals-roots-access.html",
-          "source": "Phys.org",
-          "date": "2026-10-09"
-        },
-        {
           "title": "Did formaldehyde on ancient Mars help kickstart life?",
           "summary": "Formaldehyde in the ancient rains on Mars might have provided crucial chemical reactions needed for life to begin on the red planet billions of years ago. The post Did formaldehyde on ancient Mars help kickstart life?…",
           "url": "https://earthsky.org/space/ancient-rains-on-mars-formaldehyde-life-on-mars/",
           "source": "EarthSky",
           "date": "2026-10-09"
+        },
+        {
+          "title": "NASA is searching for hidden caves to build its first Moon base",
+          "summary": "NASA is preparing for humanity’s first Moon base with three investigations that will hunt for underground shelters, uncover hidden ice, and track dangerous conditions on the lunar surface. The findings could reveal how…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261008005247.htm",
+          "source": "Science Daily",
+          "date": "2026-10-08"
         }
       ]
     },
     "Space & Astronomy": {
       "emoji": "🚀",
       "articles": [
-        {
-          "title": "NASA’s SSPICY Mission to Demonstrate In-Space Inspection Technologies",
-          "summary": "A new NASA-supported spacecraft will get up close to satellites that are no longer in service, demonstrating technologies that could support future in-space repairs and reduce orbital debris. The Small Spacecraft…",
-          "url": "https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/",
-          "source": "NASA",
-          "date": "2026-10-08"
-        },
-        {
-          "title": "NASA’s Webb finds signs of Mars-sized worlds smashing together",
-          "summary": "NASA’s James Webb Space Telescope is giving astronomers a glimpse of the kinds of violent collisions that may have shaped our own solar system, including the giant impact thought to have created the Moon. By studying 21…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261007042108.htm",
-          "source": "Science Daily",
-          "date": "2026-10-07"
-        },
         {
           "title": "NASA Demonstrates Next-Generation Heat Shield Technologies",
           "summary": "NASA is testing heat shields that can keep astronauts safe as they return from missions to the Moon and Mars in an unusual way: by taking out the trash. When Northrop Grumman 24th cargo resupply mission for NASA…",
@@ -78,12 +64,33 @@
           "url": "https://www.nasa.gov/image-article/cosmic-house-of-mirrors/",
           "source": "NASA",
           "date": "2026-10-09"
+        },
+        {
+          "title": "NASA Briefing to Highlight Contributions to Martian Moons Mission",
+          "summary": "Media are invited to join NASA for a media teleconference at 4 p.m. EDT, Thursday, Oct. 15, to preview the agency’s contributions to JAXA’s (Japan Aerospace Exploration Agency) Martian Moons eXploration (MMX) mission…",
+          "url": "https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/",
+          "source": "NASA",
+          "date": "2026-10-08"
+        },
+        {
+          "title": "NASA’s Webb finds signs of Mars-sized worlds smashing together",
+          "summary": "NASA’s James Webb Space Telescope is giving astronomers a glimpse of the kinds of violent collisions that may have shaped our own solar system, including the giant impact thought to have created the Moon. By studying 21…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261007042108.htm",
+          "source": "Science Daily",
+          "date": "2026-10-07"
         }
       ]
     },
     "Animals & Nature": {
       "emoji": "🐾",
       "articles": [
+        {
+          "title": "Zimbabwe's dinosaurs were different from South Africa's: New species offers clues",
+          "summary": "Africa boasts up to 25% of Earth's animal and plant species. This diversity is driven by varied habitats: harsh deserts, vast grasslands, dense forests, towering mountains, lush coastlines and teeming seas. It is also…",
+          "url": "https://phys.org/news/2026-10-zimbabwe-dinosaurs-south-africa-species.html",
+          "source": "Phys.org",
+          "date": "2026-10-11"
+        },
         {
           "title": "Scientists found Homo erectus 200,000 years earlier than expected",
           "summary": "New fossils from South Africa are reshaping the story of early human evolution. Researchers have described 18 hominin fossils from Drimolen Cave, including an adult Homo erectus skull fragment dated to about 2 million…",
@@ -92,38 +99,52 @@
           "date": "2026-10-08"
         },
         {
-          "title": "Against the odds: Why some ecosystems thrive",
-          "summary": "From coral reefs in Papua New Guinea to chimpanzees in West Africa, grizzly bears in Canada and albatross colonies off Tasmania, some ecosystems are thriving despite climate change, habitat loss and other environmental…",
-          "url": "https://phys.org/news/2026-10-odds-ecosystems.html",
+          "title": "Jurassic fossil reveals ancient origins of how mammals drink milk",
+          "summary": "An international team of researchers has uncovered new evidence illuminating the evolutionary origins of one of the defining features of mammals: the ability to suckle and consume milk during infancy. Their findings…",
+          "url": "https://phys.org/news/2026-10-jurassic-fossil-reveals-ancient-mammals.html",
           "source": "Phys.org",
-          "date": "2026-10-10"
+          "date": "2026-10-11"
         },
         {
-          "title": "Why some young ants start hunting and caring for others early",
-          "summary": "Some insects, including honeybees and ants, live in highly organized colonies where individuals take on specific roles. In many ant societies, young adult workers typically care for developing young inside the nest…",
-          "url": "https://phys.org/news/2026-10-young-ants-early.html",
+          "title": "Conservation groups alarmed at marine mammals' deaths in Spain",
+          "summary": "Conservation groups on Sunday condemned the death of a dolphin transferred from France to a Spanish marine park, saying it added to the deaths of other sea mammals recently moved to Spain from Canada.",
+          "url": "https://phys.org/news/2026-10-groups-alarmed-marine-mammals-deaths.html",
           "source": "Phys.org",
-          "date": "2026-10-10"
+          "date": "2026-10-11"
         },
         {
-          "title": "What a swordfish washing up on British Columbia's coast says about our changing oceans",
-          "summary": "Filmmaker and outdoorsperson Quinn Barabash recently made headlines when he found a swordfish carcass nearly two meters (6.6 feet) long on the remote shores of Haida Gwaii in northern British Columbia.",
-          "url": "https://phys.org/news/2026-10-swordfish-british-columbia-coast-oceans.html",
+          "title": "Indonesia releases eight orangutans rescued from fires to protected forest",
+          "summary": "Eight orangutans rescued in recent weeks from blazes that tore through Borneo island have been released into a protected forest, Indonesian authorities and rescuers said on Sunday.",
+          "url": "https://phys.org/news/2026-10-indonesia-orangutans-forest.html",
           "source": "Phys.org",
-          "date": "2026-10-09"
-        },
-        {
-          "title": "Nightjar wings reveal a trade-off between hunting slowly and traveling far",
-          "summary": "The European nightjar (Caprimulgus europaeus) is a nocturnal migratory bird that travels between Europe and southern Africa each year. However, its wings are not only used for long-distance journeys. When hunting…",
-          "url": "https://phys.org/news/2026-10-nightjar-wings-reveal-slowly.html",
-          "source": "Phys.org",
-          "date": "2026-10-09"
+          "date": "2026-10-11"
         }
       ]
     },
     "Earth & Climate": {
       "emoji": "🌍",
       "articles": [
+        {
+          "title": "New algorithm could predict Arctic sea ice up to 9 months ahead, offering new climate insights",
+          "summary": "Researchers at the Mubadala Arabian Center for Climate and Environmental Sciences (ACCESS) at NYU Abu Dhabi have developed a new algorithm that can forecast Arctic sea ice extent up to nine months in advance, offering a…",
+          "url": "https://phys.org/news/2026-10-algorithm-arctic-sea-ice-months.html",
+          "source": "Phys.org",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "At least 4 dead as cyclone Isaias drenches southern U.S.",
+          "summary": "Four people died in the southeastern United States as post-tropical cyclone Isaias posed flooding and tornado risks Saturday as it moved northward after making landfall on Florida's Gulf Coast.",
+          "url": "https://phys.org/news/2026-10-dead-cyclone-isaias-drenches-southern.html",
+          "source": "Phys.org",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "Hurricane Simon strengthens as it nears western Mexico",
+          "summary": "Hurricane Simon strengthened into a powerful Category 4 storm and was expected to make landfall or skirt the coast of west-central Mexico on Sunday, according to the U.S. National Hurricane Center.",
+          "url": "https://phys.org/news/2026-10-hurricane-simon-nears-western-mexico.html",
+          "source": "Phys.org",
+          "date": "2026-10-11"
+        },
         {
           "title": "Tsunami alert after major earthquake rocks Panama",
           "summary": "A magnitude 7.7 earthquake jolted Panama on Friday, setting off panic in the capital city and warnings of dangerous tsunami waves.",
@@ -137,27 +158,6 @@
           "url": "https://phys.org/news/2026-10-geologists-uncover-evidence-late-cretaceous.html",
           "source": "Phys.org",
           "date": "2026-10-10"
-        },
-        {
-          "title": "Polar oceans store carbon—but policy is not yet ready to count it",
-          "summary": "Polar oceans may play an important role in storing carbon and supporting biodiversity, but current science and policy frameworks are not yet ready to fully recognize their potential.",
-          "url": "https://phys.org/news/2026-10-polar-oceans-carbon-policy-ready.html",
-          "source": "Phys.org",
-          "date": "2026-10-09"
-        },
-        {
-          "title": "Powerful waves lash California coast as storm threatens more damage",
-          "summary": "Powerful waves thrashed communities along California's southern coast Friday, damaging homes and sending water cascading through streets as residents braced for more potential damage wrought by Tropical Storm Rachel.",
-          "url": "https://phys.org/news/2026-10-powerful-lash-california-coast-storm.html",
-          "source": "Phys.org",
-          "date": "2026-10-10"
-        },
-        {
-          "title": "Wildfire smoke shuts schools in Amazon's biggest city",
-          "summary": "The largest city in the Brazilian Amazon, Manaus, closed public schools on Friday as smoke from hundreds of wildfires blanketed the metropolis amid an intensifying El Niño event.",
-          "url": "https://phys.org/news/2026-10-wildfire-schools-amazon-biggest-city.html",
-          "source": "Phys.org",
-          "date": "2026-10-10"
         }
       ]
     },
@@ -165,25 +165,11 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "Q&A: How does AI affect our engagement at work?",
-          "summary": "AI is being integrated into our work at a growing rate. Andreas Bergqvist, a Ph.D. student at the Department of Information Technology, has teamed up with colleagues to investigate how AI, automation and robotization…",
-          "url": "https://phys.org/news/2026-10-qa-ai-affect-engagement.html",
-          "source": "Phys.org",
-          "date": "2026-10-09"
-        },
-        {
           "title": "Hybrid quantum computer observes foundational quantum effect in a new setting",
           "summary": "Physicists in the Department of Physics at the University of Oxford have used a hybrid quantum computer, made up of qubits and quantum oscillators, to observe the Aharonov–Bohm effect in a quantum simulation. The effect…",
           "url": "https://phys.org/news/2026-10-hybrid-quantum-foundational-effect.html",
           "source": "Phys.org",
           "date": "2026-10-10"
-        },
-        {
-          "title": "Scientists reprogram immune cells inside the body to fight cancer",
-          "summary": "Scientists at UC San Francisco have developed a way to create cancer-fighting CAR-T cells directly inside the body, potentially avoiding the slow and extremely expensive process of removing, engineering, and reinfusing…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261005071532.htm",
-          "source": "Science Daily",
-          "date": "2026-10-07"
         },
         {
           "title": "New stability rules distinguish quantum phases of matter that an older method wrongly groups together",
@@ -205,18 +191,25 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "Physicists just found the ‘ghost’ of superconductivity",
-          "summary": "Physicists have found striking evidence for an unusual form of superconducting behavior in uranium ditelluride, where electron pairs organize into rippling patterns called pair density waves. Even more surprisingly…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261005071517.htm",
+          "title": "Scientists may have found a shortcut to fusion energy",
+          "summary": "Princeton Plasma Physics Laboratory may have found a dramatically more efficient route to fusion energy by reversing the traditional approach: heating plasma first, then increasing its density. Their calculations could…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261008005242.htm",
           "source": "Science Daily",
-          "date": "2026-10-07"
+          "date": "2026-10-10"
         },
         {
-          "title": "Fluorescent imaging tracks metabolism of cells in real time",
-          "summary": "Cornell researchers have designed a new, faster form of two-photon fluorescence imaging for observing cell metabolism in real time, a method that could enable quicker screening of new therapeutic treatments. The…",
-          "url": "https://phys.org/news/2026-10-fluorescent-imaging-tracks-metabolism-cells.html",
-          "source": "Phys.org",
+          "title": "Scientists create a lightsaber-like laser antenna that transmits radio waves",
+          "summary": "Scientists have demonstrated a remarkable new antenna that resembles a lightsaber, using a laser to create a tunable beam of plasma capable of transmitting radio waves. The technology could revolutionize wireless…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261008005239.htm",
+          "source": "Science Daily",
           "date": "2026-10-09"
+        },
+        {
+          "title": "Spinach nanoparticles help failing rat hearts via 'borrowed photosynthesis'",
+          "summary": "A spinach leaf can turn light into chemical energy. A struggling heart cannot. Researchers in China have brought part of the leaf's energy-making machinery into rat heart cells to test whether borrowed photosynthesis…",
+          "url": "https://phys.org/news/2026-10-spinach-nanoparticles-rat-hearts-photosynthesis.html",
+          "source": "Phys.org",
+          "date": "2026-10-11"
         },
         {
           "title": "Tattoos could be turned on and off with light",
