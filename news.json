@@ -1,22 +1,15 @@
 {
-  "updated": "2026-10-11T17:54:50Z",
+  "updated": "2026-10-12T21:34:40Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "New catalyst enables lower-temperature methane conversion with sustained performance",
-          "summary": "Oxidative coupling of methane (OCM) is a chemical reaction that directly converts methane and oxygen, the main components of natural gas, into higher-value hydrocarbons such as ethane and ethylene. However, the reaction…",
-          "url": "https://phys.org/news/2026-10-catalyst-enables-temperature-methane-conversion.html",
-          "source": "Phys.org",
-          "date": "2026-10-10"
-        },
-        {
-          "title": "Bacteria turn a virus’ own weapon against it",
-          "summary": "Researchers have uncovered a new way bacteria detect viral attacks: a virus-produced enzyme cuts a bacterial sensor protein, triggering a self-destructing immune response. The discovery could lead to more effective…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261007042100.htm",
+          "title": "Scientists discover a hidden factor that can make or break chemical reactions",
+          "summary": "Researchers discovered a hidden factor that can determine whether chemical reactions succeed or fail, and then used it to boost the proportion of the desired product from 16% to 97%. By controlling acidity near…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261008005244.htm",
           "source": "Science Daily",
-          "date": "2026-10-09"
+          "date": "2026-10-12"
         },
         {
           "title": "Scientists find hidden materials that could improve batteries and solar fuels",
@@ -26,24 +19,45 @@
           "date": "2026-10-09"
         },
         {
-          "title": "Did formaldehyde on ancient Mars help kickstart life?",
-          "summary": "Formaldehyde in the ancient rains on Mars might have provided crucial chemical reactions needed for life to begin on the red planet billions of years ago. The post Did formaldehyde on ancient Mars help kickstart life?…",
-          "url": "https://earthsky.org/space/ancient-rains-on-mars-formaldehyde-life-on-mars/",
-          "source": "EarthSky",
-          "date": "2026-10-09"
+          "title": "Cholesterol-linked drug boosts gene-targeting potency in early findings",
+          "summary": "Nucleic acid therapeutics, such as antisense oligonucleotides (ASOs), have emerged as promising platforms for treating a variety of previously hard-to-treat diseases, including neurological diseases.",
+          "url": "https://phys.org/news/2026-10-cholesterol-linked-drug-boosts-gene.html",
+          "source": "Phys.org",
+          "date": "2026-10-12"
         },
         {
-          "title": "NASA is searching for hidden caves to build its first Moon base",
-          "summary": "NASA is preparing for humanity’s first Moon base with three investigations that will hunt for underground shelters, uncover hidden ice, and track dangerous conditions on the lunar surface. The findings could reveal how…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261008005247.htm",
-          "source": "Science Daily",
-          "date": "2026-10-08"
+          "title": "Vapor-based method creates ultralight aerogels without conventional liquid-based chemistry",
+          "summary": "Researchers at National Taiwan University (NTU), working across the College of Engineering, College of Medicine and National Taiwan University Hospital (NTUH), have developed a new method for producing aerogels…",
+          "url": "https://phys.org/news/2026-10-vapor-based-method-ultralight-aerogels.html",
+          "source": "Phys.org",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "Water-based process turns wood industry byproduct into carbon nanofibers for sodium-ion batteries",
+          "summary": "A new study led by researchers at the University of Limerick (UL) has identified a new battery material from a renewable wood industry byproduct that could help reduce reliance on scarce and expensive materials.",
+          "url": "https://phys.org/news/2026-10-based-wood-industry-byproduct-carbon.html",
+          "source": "Phys.org",
+          "date": "2026-10-12"
         }
       ]
     },
     "Space & Astronomy": {
       "emoji": "🚀",
       "articles": [
+        {
+          "title": "The moon could turn astronauts into 'walking, high voltage capacitors' that accidentally zap spacecraft",
+          "summary": "NASA is asking for ideas to stop static electricity from zapping astronauts or critical hardware during moon missions.",
+          "url": "https://www.space.com/astronomy/moon/the-moon-could-turn-astronauts-into-walking-high-voltage-capacitors-that-accidentally-zap-spacecraft",
+          "source": "Space.com",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "UAE unveils lander for bold 7-asteroid mission set to launch in 2028 (photos)",
+          "summary": "In March 2028, the UAE is set to launch an ambitious mission to the asteroid belt between Mars and Jupiter that will culminate with a landing attempt on a mysteriously reddish space rock.",
+          "url": "https://www.space.com/astronomy/asteroids/uae-unveils-lander-for-bold-7-asteroid-mission-set-to-launch-in-2028-photos",
+          "source": "Space.com",
+          "date": "2026-10-12"
+        },
         {
           "title": "NASA Demonstrates Next-Generation Heat Shield Technologies",
           "summary": "NASA is testing heat shields that can keep astronauts safe as they return from missions to the Moon and Mars in an unusual way: by taking out the trash. When Northrop Grumman 24th cargo resupply mission for NASA…",
@@ -59,25 +73,11 @@
           "date": "2026-10-09"
         },
         {
-          "title": "Cosmic House of Mirrors",
-          "summary": "Galaxies warp and multiply as if in a house of mirrors in this image from NASA&#8217;s James Webb Space Telescope released on Sept. 29, 2026. The brilliant golden galaxies seen here are part of a galaxy cluster called…",
-          "url": "https://www.nasa.gov/image-article/cosmic-house-of-mirrors/",
-          "source": "NASA",
-          "date": "2026-10-09"
-        },
-        {
-          "title": "NASA Briefing to Highlight Contributions to Martian Moons Mission",
-          "summary": "Media are invited to join NASA for a media teleconference at 4 p.m. EDT, Thursday, Oct. 15, to preview the agency’s contributions to JAXA’s (Japan Aerospace Exploration Agency) Martian Moons eXploration (MMX) mission…",
-          "url": "https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/",
-          "source": "NASA",
-          "date": "2026-10-08"
-        },
-        {
-          "title": "NASA’s Webb finds signs of Mars-sized worlds smashing together",
-          "summary": "NASA’s James Webb Space Telescope is giving astronomers a glimpse of the kinds of violent collisions that may have shaped our own solar system, including the giant impact thought to have created the Moon. By studying 21…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261007042108.htm",
-          "source": "Science Daily",
-          "date": "2026-10-07"
+          "title": "NASA demonstrates next-generation heat shield technologies",
+          "summary": "NASA is taking an unusual approach to testing heat shields that can keep astronauts safe as they return from missions to the moon and Mars: taking out the trash.",
+          "url": "https://phys.org/news/2026-10-nasa-generation-shield-technologies.html",
+          "source": "Phys.org",
+          "date": "2026-10-12"
         }
       ]
     },
@@ -85,39 +85,39 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "Zimbabwe's dinosaurs were different from South Africa's: New species offers clues",
-          "summary": "Africa boasts up to 25% of Earth's animal and plant species. This diversity is driven by varied habitats: harsh deserts, vast grasslands, dense forests, towering mountains, lush coastlines and teeming seas. It is also…",
-          "url": "https://phys.org/news/2026-10-zimbabwe-dinosaurs-south-africa-species.html",
+          "title": "Fijian bee genomics suggest 99% effective population decline since European colonization",
+          "summary": "The decline of pollinator species due to habitat loss and pesticide use over recent decades has been a global concern. Pollinators like bees and butterflies support both wild plants and agricultural food production, but…",
+          "url": "https://phys.org/news/2026-10-fijian-bee-genomics-effective-population.html",
           "source": "Phys.org",
-          "date": "2026-10-11"
+          "date": "2026-10-12"
         },
         {
-          "title": "Scientists found Homo erectus 200,000 years earlier than expected",
-          "summary": "New fossils from South Africa are reshaping the story of early human evolution. Researchers have described 18 hominin fossils from Drimolen Cave, including an adult Homo erectus skull fragment dated to about 2 million…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261007042113.htm",
-          "source": "Science Daily",
-          "date": "2026-10-08"
+          "title": "New Jurassic crocodile species had unusually slender teeth, suggesting it fed on shrimp and tiny fish",
+          "summary": "A new species of ancient crocodile relative that lived around 170 million years ago has been discovered by scientists at the University of Portsmouth and Hassan II University of Casablanca, Morocco.",
+          "url": "https://phys.org/news/2026-10-jurassic-crocodile-species-unusually-slender.html",
+          "source": "Phys.org",
+          "date": "2026-10-12"
         },
         {
-          "title": "Jurassic fossil reveals ancient origins of how mammals drink milk",
-          "summary": "An international team of researchers has uncovered new evidence illuminating the evolutionary origins of one of the defining features of mammals: the ability to suckle and consume milk during infancy. Their findings…",
-          "url": "https://phys.org/news/2026-10-jurassic-fossil-reveals-ancient-mammals.html",
+          "title": "Reinforced vertebrae allow plunge-diving seabirds to survive high-speed impact",
+          "summary": "A northern gannet scans the sea for fish from 100 feet (30 meters) in the air. Upon seeing a school, it pitches its body into a nosedive, somehow breaking the surface at 70 miles per hour (113 kilometers per hour)…",
+          "url": "https://phys.org/news/2026-10-vertebrae-plunge-seabirds-survive-high.html",
           "source": "Phys.org",
-          "date": "2026-10-11"
+          "date": "2026-10-12"
         },
         {
-          "title": "Conservation groups alarmed at marine mammals' deaths in Spain",
-          "summary": "Conservation groups on Sunday condemned the death of a dolphin transferred from France to a Spanish marine park, saying it added to the deaths of other sea mammals recently moved to Spain from Canada.",
-          "url": "https://phys.org/news/2026-10-groups-alarmed-marine-mammals-deaths.html",
+          "title": "Tiny fossils reveal a missing chapter of ocean life after Snowball Earth",
+          "summary": "A rare assemblage of micro- and macro-fossils found in a roadside outcrop in South China, featuring thin ribbons, branching shapes and a tiny balloon on a stalk, offers a glimpse of marine life after one of Earth's most…",
+          "url": "https://phys.org/news/2026-10-tiny-fossils-reveal-chapter-ocean.html",
           "source": "Phys.org",
-          "date": "2026-10-11"
+          "date": "2026-10-12"
         },
         {
-          "title": "Indonesia releases eight orangutans rescued from fires to protected forest",
-          "summary": "Eight orangutans rescued in recent weeks from blazes that tore through Borneo island have been released into a protected forest, Indonesian authorities and rescuers said on Sunday.",
-          "url": "https://phys.org/news/2026-10-indonesia-orangutans-forest.html",
+          "title": "Elephants continue to shape the savanna even after death",
+          "summary": "Elephants shape the African savanna. They consume huge amounts of forage, dig for water, topple trees and affect all the animals around them. So, what happens to their outsized presence after these iconic animals pass…",
+          "url": "https://phys.org/news/2026-10-elephants-savanna-death.html",
           "source": "Phys.org",
-          "date": "2026-10-11"
+          "date": "2026-10-12"
         }
       ]
     },
@@ -125,67 +125,38 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "New algorithm could predict Arctic sea ice up to 9 months ahead, offering new climate insights",
-          "summary": "Researchers at the Mubadala Arabian Center for Climate and Environmental Sciences (ACCESS) at NYU Abu Dhabi have developed a new algorithm that can forecast Arctic sea ice extent up to nine months in advance, offering a…",
-          "url": "https://phys.org/news/2026-10-algorithm-arctic-sea-ice-months.html",
-          "source": "Phys.org",
-          "date": "2026-10-11"
+          "title": "Amazon wildfires hide another threat to the rainforest",
+          "summary": "Amazon wildfires are weakening the rainforest’s ability to absorb carbon, as ozone pollution damages trees that survive the flames. The post Amazon wildfires hide another threat to the rainforest first appeared on…",
+          "url": "https://earthsky.org/earth/amazon-wildfires-hide-another-threat-to-the-rainforest/",
+          "source": "EarthSky",
+          "date": "2026-10-12"
         },
         {
-          "title": "At least 4 dead as cyclone Isaias drenches southern U.S.",
-          "summary": "Four people died in the southeastern United States as post-tropical cyclone Isaias posed flooding and tornado risks Saturday as it moved northward after making landfall on Florida's Gulf Coast.",
-          "url": "https://phys.org/news/2026-10-dead-cyclone-isaias-drenches-southern.html",
+          "title": "How much rain can a hurricane make, and does the storm size matter?",
+          "summary": "Hurricanes can produce enormous amounts of rain, adding up to trillions of gallons of water. But the big risk isn't the total amount—it's how much rain falls on each location.",
+          "url": "https://phys.org/news/2026-10-hurricane-storm-size.html",
           "source": "Phys.org",
-          "date": "2026-10-11"
+          "date": "2026-10-12"
         },
         {
-          "title": "Hurricane Simon strengthens as it nears western Mexico",
-          "summary": "Hurricane Simon strengthened into a powerful Category 4 storm and was expected to make landfall or skirt the coast of west-central Mexico on Sunday, according to the U.S. National Hurricane Center.",
-          "url": "https://phys.org/news/2026-10-hurricane-simon-nears-western-mexico.html",
-          "source": "Phys.org",
-          "date": "2026-10-11"
+          "title": "Sun news: Sun-stuff and solar wind on the way",
+          "summary": "Sun news, October 12, 2026: A blast of sun-stuff could reach Earth today. It could combine with a fast solar wind stream to trigger geomagnetic storms. The post Sun news: Sun-stuff and solar wind on the way first…",
+          "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+          "source": "EarthSky",
+          "date": "2026-10-12"
         },
         {
-          "title": "Tsunami alert after major earthquake rocks Panama",
-          "summary": "A magnitude 7.7 earthquake jolted Panama on Friday, setting off panic in the capital city and warnings of dangerous tsunami waves.",
-          "url": "https://phys.org/news/2026-10-tsunami-major-earthquake-panama.html",
-          "source": "Phys.org",
-          "date": "2026-10-10"
-        },
-        {
-          "title": "Geologists uncover evidence of a missing Late Cretaceous magmatic arc in northwestern Iran",
-          "summary": "Mountains preserve evidence of ancient oceans, moving continents and tectonic processes that have shaped Earth over millions of years. Later deformation, erosion and burial, however, can obscure important parts of this…",
-          "url": "https://phys.org/news/2026-10-geologists-uncover-evidence-late-cretaceous.html",
-          "source": "Phys.org",
-          "date": "2026-10-10"
+          "title": "Isaias is a major hurricane, headed for the Gulf Coast",
+          "summary": "Hurricane Isaias is the 1st hurricane of the 2026 Atlantic season. It is now a major hurricane, making landfall around midnight tonight near Pensacola. The post Isaias is a major hurricane, headed for the Gulf Coast…",
+          "url": "https://earthsky.org/earth/tropical-storm-hurricane-isaias-oct-2026/",
+          "source": "EarthSky",
+          "date": "2026-10-09"
         }
       ]
     },
     "Technology & Inventions": {
       "emoji": "🤖",
-      "articles": [
-        {
-          "title": "Hybrid quantum computer observes foundational quantum effect in a new setting",
-          "summary": "Physicists in the Department of Physics at the University of Oxford have used a hybrid quantum computer, made up of qubits and quantum oscillators, to observe the Aharonov–Bohm effect in a quantum simulation. The effect…",
-          "url": "https://phys.org/news/2026-10-hybrid-quantum-foundational-effect.html",
-          "source": "Phys.org",
-          "date": "2026-10-10"
-        },
-        {
-          "title": "New stability rules distinguish quantum phases of matter that an older method wrongly groups together",
-          "summary": "Most of us recognize basic phases of matter and their properties: solids maintain their shape, liquids flow freely with constant volume, and gases expand to fill their container. Quantum phases, on the other hand, are…",
-          "url": "https://phys.org/news/2026-10-stability-distinguish-quantum-phases-older.html",
-          "source": "Phys.org",
-          "date": "2026-10-10"
-        },
-        {
-          "title": "AI or ‘super intelligence’? Trump isn’t the only one who is confused",
-          "summary": "US President Donald Trump has declared that artificial intelligence should now be called “super intelligence”. Columnist Jacob Aron explains where that term came from and explores whether its many historical meanings…",
-          "url": "https://www.newscientist.com/article/2592404-ai-or-super-intelligence-trump-isnt-the-only-one-who-is-confused/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-10-08"
-        }
-      ]
+      "articles": []
     },
     "Physics": {
       "emoji": "⚡",
@@ -198,6 +169,13 @@
           "date": "2026-10-10"
         },
         {
+          "title": "Physics Nobel highlights Antarctica's role in exploring the cosmos",
+          "summary": "When Belgian American particle physicist Francis Halzen was awarded the 2026 Nobel Prize in physics \"for decisive contributions to the IceCube Neutrino Observatory and the discovery of high-energy neutrinos of…",
+          "url": "https://phys.org/news/2026-10-physics-nobel-highlights-antarctica-role.html",
+          "source": "Phys.org",
+          "date": "2026-10-12"
+        },
+        {
           "title": "Scientists create a lightsaber-like laser antenna that transmits radio waves",
           "summary": "Scientists have demonstrated a remarkable new antenna that resembles a lightsaber, using a laser to create a tunable beam of plasma capable of transmitting radio waves. The technology could revolutionize wireless…",
           "url": "https://www.sciencedaily.com/releases/2026/10/261008005239.htm",
@@ -205,11 +183,11 @@
           "date": "2026-10-09"
         },
         {
-          "title": "Spinach nanoparticles help failing rat hearts via 'borrowed photosynthesis'",
-          "summary": "A spinach leaf can turn light into chemical energy. A struggling heart cannot. Researchers in China have brought part of the leaf's energy-making machinery into rat heart cells to test whether borrowed photosynthesis…",
-          "url": "https://phys.org/news/2026-10-spinach-nanoparticles-rat-hearts-photosynthesis.html",
+          "title": "Alternative gravity theory offers possible explanation for dark energy changing over time",
+          "summary": "For many years, the simplest view of dark energy has been that it remains unchanged. Throughout cosmic history, the mysterious ingredient believed to drive the universe's accelerated expansion is thought to have behaved…",
+          "url": "https://phys.org/news/2026-10-alternative-gravity-theory-explanation-dark.html",
           "source": "Phys.org",
-          "date": "2026-10-11"
+          "date": "2026-10-12"
         },
         {
           "title": "Tattoos could be turned on and off with light",
