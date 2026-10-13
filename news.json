@@ -1,49 +1,56 @@
 {
-  "updated": "2026-10-12T21:34:40Z",
+  "updated": "2026-10-13T19:45:31Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "Scientists discover a hidden factor that can make or break chemical reactions",
-          "summary": "Researchers discovered a hidden factor that can determine whether chemical reactions succeed or fail, and then used it to boost the proportion of the desired product from 16% to 97%. By controlling acidity near…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261008005244.htm",
+          "title": "Powerful X-rays reveal unexpected roles for water in enzymes linked to cancer and penicillin",
+          "summary": "In biology, a group of enzymes called 2-oxoglutarate-dependent oxygenases is responsible for catalyzing a wide range of reactions that play a role in everything from how genetic code is used by cells to the synthesis of…",
+          "url": "https://phys.org/news/2026-10-powerful-rays-reveal-unexpected-roles.html",
+          "source": "Phys.org",
+          "date": "2026-10-13"
+        },
+        {
+          "title": "Scientists find a surprising genetic twist behind octopus intelligence",
+          "summary": "The remarkable intelligence of octopuses, squid, and cuttlefish may trace back to an ancient reshuffling of their DNA that created new connections between genes. Scientists discovered that these changes in the genome's…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261011211552.htm",
           "source": "Science Daily",
           "date": "2026-10-12"
         },
         {
-          "title": "Scientists find hidden materials that could improve batteries and solar fuels",
-          "summary": "Scientists have uncovered a hidden world of “in-between” materials that briefly form as chemical ingredients are heated, revealing structures that conventional methods can miss. Among the discoveries is a previously…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261007042118.htm",
+          "title": "Chemical surroundings, not size alone, help glucose-processing enzyme stay active as temperatures rise",
+          "summary": "Cells must produce energy despite changing conditions. But what keeps metabolic enzymes functional during temperature fluctuations? A team led by professor Simon Ebbinghaus and Dr. Harshita Rastogi at Ruhr University…",
+          "url": "https://phys.org/news/2026-10-chemical-size-glucose-enzyme-stay.html",
+          "source": "Phys.org",
+          "date": "2026-10-13"
+        },
+        {
+          "title": "Natural RNA modifications in archaea mirror those used in medicine",
+          "summary": "RNA therapeutics open up new possibilities for the targeted and precise treatment of diseases. To ensure that RNA molecules remain stable in the body and can reliably exert their effects, they undergo specific chemical…",
+          "url": "https://phys.org/news/2026-10-natural-rna-modifications-archaea-mirror.html",
+          "source": "Phys.org",
+          "date": "2026-10-13"
+        },
+        {
+          "title": "Scientists uncover a hidden map of the brain with 539 distinct regions",
+          "summary": "Scientists have uncovered a hidden layer of organization in the brain by creating the first detailed 3D map of its lipids, the fatty molecules essential for brain structure and communication. By analyzing millions of…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261012185011.htm",
           "source": "Science Daily",
-          "date": "2026-10-09"
-        },
-        {
-          "title": "Cholesterol-linked drug boosts gene-targeting potency in early findings",
-          "summary": "Nucleic acid therapeutics, such as antisense oligonucleotides (ASOs), have emerged as promising platforms for treating a variety of previously hard-to-treat diseases, including neurological diseases.",
-          "url": "https://phys.org/news/2026-10-cholesterol-linked-drug-boosts-gene.html",
-          "source": "Phys.org",
-          "date": "2026-10-12"
-        },
-        {
-          "title": "Vapor-based method creates ultralight aerogels without conventional liquid-based chemistry",
-          "summary": "Researchers at National Taiwan University (NTU), working across the College of Engineering, College of Medicine and National Taiwan University Hospital (NTUH), have developed a new method for producing aerogels…",
-          "url": "https://phys.org/news/2026-10-vapor-based-method-ultralight-aerogels.html",
-          "source": "Phys.org",
-          "date": "2026-10-12"
-        },
-        {
-          "title": "Water-based process turns wood industry byproduct into carbon nanofibers for sodium-ion batteries",
-          "summary": "A new study led by researchers at the University of Limerick (UL) has identified a new battery material from a renewable wood industry byproduct that could help reduce reliance on scarce and expensive materials.",
-          "url": "https://phys.org/news/2026-10-based-wood-industry-byproduct-carbon.html",
-          "source": "Phys.org",
-          "date": "2026-10-12"
+          "date": "2026-10-13"
         }
       ]
     },
     "Space & Astronomy": {
       "emoji": "🚀",
       "articles": [
+        {
+          "title": "SpaceX launches Falcon 9 Starlink mission for 1st time in more than 3 weeks (video)",
+          "summary": "SpaceX launched 27 of its Starlink broadband satellites to orbit today (Oct. 12), the first such mission for a Falcon 9 rocket since Sept. 19.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-falcon-9-starlink-mission-for-1st-time-in-more-than-3-weeks-photo",
+          "source": "Space.com",
+          "date": "2026-10-13"
+        },
         {
           "title": "The moon could turn astronauts into 'walking, high voltage capacitors' that accidentally zap spacecraft",
           "summary": "NASA is asking for ideas to stop static electricity from zapping astronauts or critical hardware during moon missions.",
@@ -59,25 +66,18 @@
           "date": "2026-10-12"
         },
         {
-          "title": "NASA Demonstrates Next-Generation Heat Shield Technologies",
-          "summary": "NASA is testing heat shields that can keep astronauts safe as they return from missions to the Moon and Mars in an unusual way: by taking out the trash. When Northrop Grumman 24th cargo resupply mission for NASA…",
-          "url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/",
+          "title": "NASA Science, Cargo Launch on 35th SpaceX Resupply Mission to Station",
+          "summary": "NASA’s SpaceX 35th commercial resupply mission lifted off at 6:33 a.m. EDT Tuesday aboard a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida, carrying more than 6,300 pounds…",
+          "url": "https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-35th-spacex-resupply-mission-to-station/",
           "source": "NASA",
-          "date": "2026-10-09"
+          "date": "2026-10-13"
         },
         {
-          "title": "NASA astronauts splash down after 100 million miles in space",
-          "summary": "NASA’s SpaceX Crew-12 astronauts have returned to Earth after 237 days in space, traveling more than 100 million miles and completing over 3,792 orbits while conducting research to prepare for future missions to the…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261008232629.htm",
+          "title": "James Webb reveals a massive cosmic structure that challenges our understanding of the Universe",
+          "summary": "NASA’s James Webb Space Telescope has revealed an ancient galaxy cluster with an unexpectedly dense concentration of dark matter, challenging theories about how the universe developed. The discovery also uncovered a…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261012185021.htm",
           "source": "Science Daily",
-          "date": "2026-10-09"
-        },
-        {
-          "title": "NASA demonstrates next-generation heat shield technologies",
-          "summary": "NASA is taking an unusual approach to testing heat shields that can keep astronauts safe as they return from missions to the moon and Mars: taking out the trash.",
-          "url": "https://phys.org/news/2026-10-nasa-generation-shield-technologies.html",
-          "source": "Phys.org",
-          "date": "2026-10-12"
+          "date": "2026-10-13"
         }
       ]
     },
@@ -85,39 +85,39 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "Fijian bee genomics suggest 99% effective population decline since European colonization",
-          "summary": "The decline of pollinator species due to habitat loss and pesticide use over recent decades has been a global concern. Pollinators like bees and butterflies support both wild plants and agricultural food production, but…",
-          "url": "https://phys.org/news/2026-10-fijian-bee-genomics-effective-population.html",
-          "source": "Phys.org",
-          "date": "2026-10-12"
+          "title": "This tiny jurassic predator helped pave the way for the human brain",
+          "summary": "A 165-million-year-old fossil has revealed an extraordinary Jurassic predator that may help explain how mammals developed one of their most important evolutionary advantages. Although only 20 inches long, Megacauda…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261012185005.htm",
+          "source": "Science Daily",
+          "date": "2026-10-13"
         },
         {
-          "title": "New Jurassic crocodile species had unusually slender teeth, suggesting it fed on shrimp and tiny fish",
-          "summary": "A new species of ancient crocodile relative that lived around 170 million years ago has been discovered by scientists at the University of Portsmouth and Hassan II University of Casablanca, Morocco.",
-          "url": "https://phys.org/news/2026-10-jurassic-crocodile-species-unusually-slender.html",
+          "title": "Winged insect evolution: New evidence sheds light on century-old debate",
+          "summary": "A new study combining genomic analyses and fossil evidence sheds light on the century-old \"Palaeoptera Problem,\" a longstanding debate over the evolutionary relationships among major groups of winged insects.",
+          "url": "https://phys.org/news/2026-10-winged-insect-evolution-evidence-century.html",
           "source": "Phys.org",
-          "date": "2026-10-12"
+          "date": "2026-10-13"
         },
         {
-          "title": "Reinforced vertebrae allow plunge-diving seabirds to survive high-speed impact",
-          "summary": "A northern gannet scans the sea for fish from 100 feet (30 meters) in the air. Upon seeing a school, it pitches its body into a nosedive, somehow breaking the surface at 70 miles per hour (113 kilometers per hour)…",
-          "url": "https://phys.org/news/2026-10-vertebrae-plunge-seabirds-survive-high.html",
-          "source": "Phys.org",
-          "date": "2026-10-12"
+          "title": "Earth's poles shifted surprisingly fast during the age of dinosaurs, ancient sea levels reveal",
+          "summary": "The location of Earth's geographic poles has changed several times over the past 320 million years in a process known as true polar wander.",
+          "url": "https://www.space.com/astronomy/earth/earths-poles-shifted-surprisingly-fast-during-the-age-of-dinosaurs-ancient-sea-levels-reveal",
+          "source": "Space.com",
+          "date": "2026-10-13"
         },
         {
-          "title": "Tiny fossils reveal a missing chapter of ocean life after Snowball Earth",
-          "summary": "A rare assemblage of micro- and macro-fossils found in a roadside outcrop in South China, featuring thin ribbons, branching shapes and a tiny balloon on a stalk, offers a glimpse of marine life after one of Earth's most…",
-          "url": "https://phys.org/news/2026-10-tiny-fossils-reveal-chapter-ocean.html",
-          "source": "Phys.org",
-          "date": "2026-10-12"
+          "title": "Meet Aquarius the Water Bearer and its stars",
+          "summary": "Aquarius lies in a “watery” part of the sky, near Pisces the Fish, Cetus the Whale, Eridanus the River and Piscis Austrinus the Southern Fish. The post Meet Aquarius the Water Bearer and its stars first appeared on…",
+          "url": "https://earthsky.org/constellations/aquarius-heres-your-constellation/",
+          "source": "EarthSky",
+          "date": "2026-10-13"
         },
         {
-          "title": "Elephants continue to shape the savanna even after death",
-          "summary": "Elephants shape the African savanna. They consume huge amounts of forage, dig for water, topple trees and affect all the animals around them. So, what happens to their outsized presence after these iconic animals pass…",
-          "url": "https://phys.org/news/2026-10-elephants-savanna-death.html",
-          "source": "Phys.org",
-          "date": "2026-10-12"
+          "title": "10 times 'Red Dwarf' beat other TV shows and movies to brilliant sci-fi ideas",
+          "summary": "The British sitcom has always been a breeding ground for memorable genre concepts.",
+          "url": "https://www.space.com/entertainment/space-movies-shows/10-times-red-dwarf-beat-other-tv-shows-and-movies-to-brilliant-sci-fi-ideas",
+          "source": "Space.com",
+          "date": "2026-10-10"
         }
       ]
     },
@@ -132,69 +132,77 @@
           "date": "2026-10-12"
         },
         {
-          "title": "How much rain can a hurricane make, and does the storm size matter?",
-          "summary": "Hurricanes can produce enormous amounts of rain, adding up to trillions of gallons of water. But the big risk isn't the total amount—it's how much rain falls on each location.",
-          "url": "https://phys.org/news/2026-10-hurricane-storm-size.html",
+          "title": "'Atmospheric rivers' helped open a Portugal-sized hole in Antarctica's winter sea ice",
+          "summary": "Polynyas are patches of open water surrounded by sea ice, where heat and moisture can pass freely between the ocean and atmosphere. In August 2024, a vast polynya opened up in Breid Bay, off the coast of East…",
+          "url": "https://phys.org/news/2026-10-atmospheric-rivers-portugal-sized-hole.html",
           "source": "Phys.org",
-          "date": "2026-10-12"
+          "date": "2026-10-13"
         },
         {
-          "title": "Sun news: Sun-stuff and solar wind on the way",
-          "summary": "Sun news, October 12, 2026: A blast of sun-stuff could reach Earth today. It could combine with a fast solar wind stream to trigger geomagnetic storms. The post Sun news: Sun-stuff and solar wind on the way first…",
-          "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
-          "source": "EarthSky",
-          "date": "2026-10-12"
+          "title": "Structure in the unstructured: New phenomenon discovered in the solar wind",
+          "summary": "Turbulence is ubiquitous and occurs every day, such as when milk is stirred into coffee or in the stormy motions of the ocean and the atmosphere. Media in space and astrophysical systems can also develop turbulence, but…",
+          "url": "https://phys.org/news/2026-10-unstructured-phenomenon-solar.html",
+          "source": "Phys.org",
+          "date": "2026-10-13"
         },
         {
-          "title": "Isaias is a major hurricane, headed for the Gulf Coast",
-          "summary": "Hurricane Isaias is the 1st hurricane of the 2026 Atlantic season. It is now a major hurricane, making landfall around midnight tonight near Pensacola. The post Isaias is a major hurricane, headed for the Gulf Coast…",
-          "url": "https://earthsky.org/earth/tropical-storm-hurricane-isaias-oct-2026/",
-          "source": "EarthSky",
-          "date": "2026-10-09"
+          "title": "The ocean circulation that persists even after a key AMOC component fails",
+          "summary": "The Atlantic meridional overturning circulation (AMOC) is thought to face a potentially existential threat from climate change. But attempts to model what happens to AMOC as the oceans warm show divergent outcomes…",
+          "url": "https://phys.org/news/2026-10-ocean-circulation-persists-key-amoc.html",
+          "source": "Phys.org",
+          "date": "2026-10-13"
+        },
+        {
+          "title": "Across the US, people don't want data centers coming to their communities",
+          "summary": "Regardless of their views on politics or climate change, most Americans oppose the development of data centers in their communities.",
+          "url": "https://phys.org/news/2026-10-people-dont-centers-communities.html",
+          "source": "Phys.org",
+          "date": "2026-10-13"
         }
       ]
     },
     "Technology & Inventions": {
       "emoji": "🤖",
-      "articles": []
+      "articles": [
+        {
+          "title": "Scientists recreate a bizarre quantum effect that stops a particle cold",
+          "summary": "Oxford physicists have recreated a bizarre quantum effect in which a particle responds to a magnetic field without ever traveling through it. Using a hybrid quantum computer, they demonstrated how introducing a…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261011211554.htm",
+          "source": "Science Daily",
+          "date": "2026-10-13"
+        }
+      ]
     },
     "Physics": {
       "emoji": "⚡",
       "articles": [
         {
-          "title": "Scientists may have found a shortcut to fusion energy",
-          "summary": "Princeton Plasma Physics Laboratory may have found a dramatically more efficient route to fusion energy by reversing the traditional approach: heating plasma first, then increasing its density. Their calculations could…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261008005242.htm",
-          "source": "Science Daily",
-          "date": "2026-10-10"
-        },
-        {
-          "title": "Physics Nobel highlights Antarctica's role in exploring the cosmos",
-          "summary": "When Belgian American particle physicist Francis Halzen was awarded the 2026 Nobel Prize in physics \"for decisive contributions to the IceCube Neutrino Observatory and the discovery of high-energy neutrinos of…",
-          "url": "https://phys.org/news/2026-10-physics-nobel-highlights-antarctica-role.html",
-          "source": "Phys.org",
-          "date": "2026-10-12"
-        },
-        {
-          "title": "Scientists create a lightsaber-like laser antenna that transmits radio waves",
-          "summary": "Scientists have demonstrated a remarkable new antenna that resembles a lightsaber, using a laser to create a tunable beam of plasma capable of transmitting radio waves. The technology could revolutionize wireless…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261008005239.htm",
-          "source": "Science Daily",
-          "date": "2026-10-09"
-        },
-        {
-          "title": "Alternative gravity theory offers possible explanation for dark energy changing over time",
-          "summary": "For many years, the simplest view of dark energy has been that it remains unchanged. Throughout cosmic history, the mysterious ingredient believed to drive the universe's accelerated expansion is thought to have behaved…",
-          "url": "https://phys.org/news/2026-10-alternative-gravity-theory-explanation-dark.html",
-          "source": "Phys.org",
-          "date": "2026-10-12"
-        },
-        {
-          "title": "Tattoos could be turned on and off with light",
-          "summary": "A new type of ink could overcome one of the main downsides of tattoos: the inability to make them invisible",
-          "url": "https://www.newscientist.com/article/2592938-tattoos-could-be-turned-on-and-off-with-light/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "title": "Will we observe dark matter as a particle or a wave?",
+          "summary": "We have arguably already discovered dark matter, says columnist Chanda Prescod-Weinstein. To observe it, we will need to figure out whether we expect it to act like a particle or a wave.",
+          "url": "https://www.newscientist.com/article/2591125-will-we-observe-dark-matter-as-a-particle-or-a-wave/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
-          "date": "2026-10-09"
+          "date": "2026-10-13"
+        },
+        {
+          "title": "Sexual violence survivors often expect systems to fail or harm them, study finds",
+          "summary": "University students who are survivors of sexual violence are forced to perform a constant, exhausting \"calculus\"—weighing risks, safety, stigma, emotional costs, institutional consequences and likelihood of being…",
+          "url": "https://phys.org/news/2026-10-sexual-violence-survivors.html",
+          "source": "Phys.org",
+          "date": "2026-10-13"
+        },
+        {
+          "title": "Weirdest cloud on Mars formed via ‘exotic physics’",
+          "summary": "The weirdest cloud on Mars has a funny-sounding name. Scientists call it the Arsia Mons Elongated Cloud. Come find out what's weird about it! The post Weirdest cloud on Mars formed via ‘exotic physics’ first appeared on…",
+          "url": "https://earthsky.org/space/weirdest-cloud-on-mars-formed-via-exotic-physics/",
+          "source": "EarthSky",
+          "date": "2026-10-13"
+        },
+        {
+          "title": "Scientists just gave the powerhouses of our cells a high-tech upgrade",
+          "summary": "Scientists have created a new coating for mitochondria that preserves their ability to produce energy, potentially opening the door to new treatments for diseases involving these tiny cellular powerhouses. The…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261012185008.htm",
+          "source": "Science Daily",
+          "date": "2026-10-13"
         }
       ]
     }
