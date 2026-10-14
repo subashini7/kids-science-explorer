@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-13T19:45:31Z",
+  "updated": "2026-10-14T17:48:24Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "Powerful X-rays reveal unexpected roles for water in enzymes linked to cancer and penicillin",
-          "summary": "In biology, a group of enzymes called 2-oxoglutarate-dependent oxygenases is responsible for catalyzing a wide range of reactions that play a role in everything from how genetic code is used by cells to the synthesis of…",
-          "url": "https://phys.org/news/2026-10-powerful-rays-reveal-unexpected-roles.html",
-          "source": "Phys.org",
-          "date": "2026-10-13"
+          "title": "AI reveals a hidden chemical shortcut that could turn CO2 into fuel",
+          "summary": "Scientists used artificial intelligence to uncover nearly 10,000 chemical reactions involved in transforming carbon dioxide into fuels and chemicals, revealing crucial pathways that traditional models had missed. The…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261013015758.htm",
+          "source": "Science Daily",
+          "date": "2026-10-14"
         },
         {
           "title": "Scientists find a surprising genetic twist behind octopus intelligence",
@@ -19,25 +19,25 @@
           "date": "2026-10-12"
         },
         {
-          "title": "Chemical surroundings, not size alone, help glucose-processing enzyme stay active as temperatures rise",
-          "summary": "Cells must produce energy despite changing conditions. But what keeps metabolic enzymes functional during temperature fluctuations? A team led by professor Simon Ebbinghaus and Dr. Harshita Rastogi at Ruhr University…",
-          "url": "https://phys.org/news/2026-10-chemical-size-glucose-enzyme-stay.html",
+          "title": "Bacteria turn 3D-printed sand into solid building elements",
+          "summary": "Cement manufacturing is one of the largest sources of CO₂ emissions in the construction industry. At the Department of Architecture, Karen Antorveza Paez, who has just completed her doctorate at ETH Zurich, is…",
+          "url": "https://phys.org/news/2026-10-bacteria-3d-sand-solid-elements.html",
           "source": "Phys.org",
-          "date": "2026-10-13"
+          "date": "2026-10-14"
         },
         {
-          "title": "Natural RNA modifications in archaea mirror those used in medicine",
-          "summary": "RNA therapeutics open up new possibilities for the targeted and precise treatment of diseases. To ensure that RNA molecules remain stable in the body and can reliably exert their effects, they undergo specific chemical…",
-          "url": "https://phys.org/news/2026-10-natural-rna-modifications-archaea-mirror.html",
+          "title": "Local DNA motion inside the cell stays nearly constant throughout interphase",
+          "summary": "Human genomic DNA is wrapped around core histone proteins to form nucleosomes, the fundamental units of chromatin. During interphase, the period between cell divisions, DNA is replicated and the nucleus becomes larger…",
+          "url": "https://phys.org/news/2026-10-local-dna-motion-cell-stays.html",
           "source": "Phys.org",
-          "date": "2026-10-13"
+          "date": "2026-10-14"
         },
         {
-          "title": "Scientists uncover a hidden map of the brain with 539 distinct regions",
-          "summary": "Scientists have uncovered a hidden layer of organization in the brain by creating the first detailed 3D map of its lipids, the fatty molecules essential for brain structure and communication. By analyzing millions of…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261012185011.htm",
-          "source": "Science Daily",
-          "date": "2026-10-13"
+          "title": "Enzyme discovery opens a new route to natural UV-absorbing saclipins",
+          "summary": "Ultraviolet (UV)-absorbing compounds from natural sources are attracting interest as potential ingredients for cosmetics and other protective materials. Saclipins A and B are unusual UV-absorbing oxylipins produced by…",
+          "url": "https://phys.org/news/2026-10-enzyme-discovery-route-natural-uv.html",
+          "source": "Phys.org",
+          "date": "2026-10-14"
         }
       ]
     },
@@ -66,11 +66,11 @@
           "date": "2026-10-12"
         },
         {
-          "title": "NASA Science, Cargo Launch on 35th SpaceX Resupply Mission to Station",
-          "summary": "NASA’s SpaceX 35th commercial resupply mission lifted off at 6:33 a.m. EDT Tuesday aboard a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida, carrying more than 6,300 pounds…",
-          "url": "https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-35th-spacex-resupply-mission-to-station/",
+          "title": "NASA to Discuss Artemis Acceleration, Status of Upcoming Moon Missions",
+          "summary": "NASA will provide an update on its plans to return American astronauts to the surface of the Moon by 2028 at 2 p.m. EDT, Friday, Oct. 23, at the agency’s Kennedy Space Center in Florida. Learn where to watch online…",
+          "url": "https://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions/",
           "source": "NASA",
-          "date": "2026-10-13"
+          "date": "2026-10-14"
         },
         {
           "title": "James Webb reveals a massive cosmic structure that challenges our understanding of the Universe",
@@ -92,38 +92,45 @@
           "date": "2026-10-13"
         },
         {
-          "title": "Winged insect evolution: New evidence sheds light on century-old debate",
-          "summary": "A new study combining genomic analyses and fossil evidence sheds light on the century-old \"Palaeoptera Problem,\" a longstanding debate over the evolutionary relationships among major groups of winged insects.",
-          "url": "https://phys.org/news/2026-10-winged-insect-evolution-evidence-century.html",
+          "title": "Toothless 'hell chicken' dinosaur may have had a taste for fruit",
+          "summary": "While many dinosaurs were fearsome predators with razor-sharp teeth, others were peaceful herbivores munching on plants. We can now add a new species to the list of plant-eaters, Infernogallus jamesi. Its name means…",
+          "url": "https://phys.org/news/2026-10-toothless-hell-chicken-dinosaur-fruit.html",
           "source": "Phys.org",
-          "date": "2026-10-13"
+          "date": "2026-10-14"
         },
         {
-          "title": "Earth's poles shifted surprisingly fast during the age of dinosaurs, ancient sea levels reveal",
-          "summary": "The location of Earth's geographic poles has changed several times over the past 320 million years in a process known as true polar wander.",
-          "url": "https://www.space.com/astronomy/earth/earths-poles-shifted-surprisingly-fast-during-the-age-of-dinosaurs-ancient-sea-levels-reveal",
-          "source": "Space.com",
-          "date": "2026-10-13"
+          "title": "Not all early birds evolved toward better flight, Jurassic fossil suggests",
+          "summary": "For early birds, evolution wasn't always about becoming better flyers. This conclusion is supported by the recent discovery of a remarkably well-preserved, 150-million-year-old bird fossil from Fujian province, China…",
+          "url": "https://phys.org/news/2026-10-early-birds-evolved-flight-jurassic.html",
+          "source": "Phys.org",
+          "date": "2026-10-14"
         },
         {
-          "title": "Meet Aquarius the Water Bearer and its stars",
-          "summary": "Aquarius lies in a “watery” part of the sky, near Pisces the Fish, Cetus the Whale, Eridanus the River and Piscis Austrinus the Southern Fish. The post Meet Aquarius the Water Bearer and its stars first appeared on…",
-          "url": "https://earthsky.org/constellations/aquarius-heres-your-constellation/",
-          "source": "EarthSky",
-          "date": "2026-10-13"
+          "title": "Gigantic prehistoric snake discovered in India may have been one of the largest ever",
+          "summary": "A massive prehistoric snake discovered in India may have rivaled the largest snake ever known. Called Vasuki indicus, the 47-million-year-old giant could have reached up to 50 feet long, making it comparable to the…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261014001406.htm",
+          "source": "Science Daily",
+          "date": "2026-10-14"
         },
         {
-          "title": "10 times 'Red Dwarf' beat other TV shows and movies to brilliant sci-fi ideas",
-          "summary": "The British sitcom has always been a breeding ground for memorable genre concepts.",
-          "url": "https://www.space.com/entertainment/space-movies-shows/10-times-red-dwarf-beat-other-tv-shows-and-movies-to-brilliant-sci-fi-ideas",
-          "source": "Space.com",
-          "date": "2026-10-10"
+          "title": "210-million-year-old dinosaur discovery reveals a lost world in Africa",
+          "summary": "A newly identified 210-million-year-old dinosaur from Zimbabwe is helping scientists uncover a surprisingly distinct prehistoric ecosystem. The discovery suggests that ancient climate differences may have separated…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261012185013.htm",
+          "source": "Science Daily",
+          "date": "2026-10-13"
         }
       ]
     },
     "Earth & Climate": {
       "emoji": "🌍",
       "articles": [
+        {
+          "title": "Hurricane Simon Lurks Off the Mexican Coast",
+          "summary": "Though it remained offshore, the storm lashed coastal areas with high winds and flooding—and produced remarkable rippling patterns in the upper atmosphere.",
+          "url": "https://science.nasa.gov/earth/earth-observatory/hurricane-simon-lurks-off-the-mexican-coast/",
+          "source": "NASA",
+          "date": "2026-10-14"
+        },
         {
           "title": "Amazon wildfires hide another threat to the rainforest",
           "summary": "Amazon wildfires are weakening the rainforest’s ability to absorb carbon, as ozone pollution damages trees that survive the flames. The post Amazon wildfires hide another threat to the rainforest first appeared on…",
@@ -132,32 +139,25 @@
           "date": "2026-10-12"
         },
         {
-          "title": "'Atmospheric rivers' helped open a Portugal-sized hole in Antarctica's winter sea ice",
-          "summary": "Polynyas are patches of open water surrounded by sea ice, where heat and moisture can pass freely between the ocean and atmosphere. In August 2024, a vast polynya opened up in Breid Bay, off the coast of East…",
-          "url": "https://phys.org/news/2026-10-atmospheric-rivers-portugal-sized-hole.html",
+          "title": "Rising seas could weaken Chesapeake Bay's natural storm surge buffer",
+          "summary": "A hurricane does not have to make a direct hit to affect the Chesapeake Bay. Even from out at sea, a hurricane's winds, waves and rising tides can cause major flooding.",
+          "url": "https://phys.org/news/2026-10-seas-weaken-chesapeake-bay-natural.html",
           "source": "Phys.org",
-          "date": "2026-10-13"
+          "date": "2026-10-14"
         },
         {
-          "title": "Structure in the unstructured: New phenomenon discovered in the solar wind",
-          "summary": "Turbulence is ubiquitous and occurs every day, such as when milk is stirred into coffee or in the stormy motions of the ocean and the atmosphere. Media in space and astrophysical systems can also develop turbulence, but…",
-          "url": "https://phys.org/news/2026-10-unstructured-phenomenon-solar.html",
-          "source": "Phys.org",
-          "date": "2026-10-13"
+          "title": "This El Niño will bring predictable disasters, so why aren’t we ready?",
+          "summary": "We know that this monster El Niño will bring floods, droughts, cyclones and wildfires, but some governments aren’t putting in the necessary resources to prepare for disaster",
+          "url": "https://www.newscientist.com/article/2593320-__trashed-111/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-10-14"
         },
         {
-          "title": "The ocean circulation that persists even after a key AMOC component fails",
-          "summary": "The Atlantic meridional overturning circulation (AMOC) is thought to face a potentially existential threat from climate change. But attempts to model what happens to AMOC as the oceans warm show divergent outcomes…",
-          "url": "https://phys.org/news/2026-10-ocean-circulation-persists-key-amoc.html",
+          "title": "Gathering rare airborne observations of firestorm clouds",
+          "summary": "Just minutes into a planned research flight from Colorado to Oregon in August to study massive storm clouds fueled by intense wildfires, scientists discovered that a fire in Utah offered a more promising target. The…",
+          "url": "https://phys.org/news/2026-10-rare-airborne-firestorm-clouds.html",
           "source": "Phys.org",
-          "date": "2026-10-13"
-        },
-        {
-          "title": "Across the US, people don't want data centers coming to their communities",
-          "summary": "Regardless of their views on politics or climate change, most Americans oppose the development of data centers in their communities.",
-          "url": "https://phys.org/news/2026-10-people-dont-centers-communities.html",
-          "source": "Phys.org",
-          "date": "2026-10-13"
+          "date": "2026-10-14"
         }
       ]
     },
@@ -170,6 +170,27 @@
           "url": "https://www.sciencedaily.com/releases/2026/10/261011211554.htm",
           "source": "Science Daily",
           "date": "2026-10-13"
+        },
+        {
+          "title": "Workers who fear AI replacement show worse workplace behavior",
+          "summary": "Workers who fear artificial intelligence is threatening their occupation are more likely to slack off on the job, swipe a coworker's lunch or engage in other counterproductive workplace behavior, a new study finds.",
+          "url": "https://phys.org/news/2026-10-workers-ai-worse-workplace-behavior.html",
+          "source": "Phys.org",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "AI can act exactly like a human, but we still don't think it's conscious",
+          "summary": "A new study reveals that people draw a surprisingly sharp line between human consciousness and artificial intelligence, even when both behave identically. Researchers found that participants considered even the most…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261012185017.htm",
+          "source": "Science Daily",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "AI ethics analysis clarifies why different goals call for different ethical approaches",
+          "summary": "AI ethics has come under increasing criticism. Critics argue that while companies publish guidelines for AI development and use, the AI systems themselves often remain problematic. Researchers from the University of…",
+          "url": "https://phys.org/news/2026-10-ai-ethics-analysis-goals-ethical.html",
+          "source": "Phys.org",
+          "date": "2026-10-14"
         }
       ]
     },
@@ -177,18 +198,11 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "Will we observe dark matter as a particle or a wave?",
-          "summary": "We have arguably already discovered dark matter, says columnist Chanda Prescod-Weinstein. To observe it, we will need to figure out whether we expect it to act like a particle or a wave.",
-          "url": "https://www.newscientist.com/article/2591125-will-we-observe-dark-matter-as-a-particle-or-a-wave/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-10-13"
-        },
-        {
-          "title": "Sexual violence survivors often expect systems to fail or harm them, study finds",
-          "summary": "University students who are survivors of sexual violence are forced to perform a constant, exhausting \"calculus\"—weighing risks, safety, stigma, emotional costs, institutional consequences and likelihood of being…",
-          "url": "https://phys.org/news/2026-10-sexual-violence-survivors.html",
+          "title": "From spin wave to superconducting circuit: A one-way street for quantum information",
+          "summary": "Quantum information systems could one day shape everyday life through faster computing, sharper sensing and more secure communication. A new result from the U.S. Department of Energy's (DOE) Argonne National Laboratory…",
+          "url": "https://phys.org/news/2026-10-superconducting-circuit-street-quantum.html",
           "source": "Phys.org",
-          "date": "2026-10-13"
+          "date": "2026-10-14"
         },
         {
           "title": "Weirdest cloud on Mars formed via ‘exotic physics’",
@@ -203,6 +217,13 @@
           "url": "https://www.sciencedaily.com/releases/2026/10/261012185008.htm",
           "source": "Science Daily",
           "date": "2026-10-13"
+        },
+        {
+          "title": "Hidden sounds of nature brought to life in fascinating new book",
+          "summary": "From ice groaning to a very noisy troop of monkeys, Wilderness Songs by Justin Anderson shows some of the best nature stories are told through soundscapes as well as words – with added QR codes, finds Dhruti Shah",
+          "url": "https://www.newscientist.com/article/2593189-hidden-sounds-of-nature-brought-to-life-in-fascinating-new-book/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-10-14"
         }
       ]
     }
