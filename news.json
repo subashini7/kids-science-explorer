@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T17:48:24Z",
+  "updated": "2026-10-15T17:38:02Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
@@ -12,32 +12,32 @@
           "date": "2026-10-14"
         },
         {
-          "title": "Scientists find a surprising genetic twist behind octopus intelligence",
-          "summary": "The remarkable intelligence of octopuses, squid, and cuttlefish may trace back to an ancient reshuffling of their DNA that created new connections between genes. Scientists discovered that these changes in the genome's…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261011211552.htm",
+          "title": "Laser pulses bring order to a quantum material's tiny electrical regions",
+          "summary": "Physicists at Auburn University have used flashes of laser light to bring order to tiny electrically charged \"islands\" inside a crystal. The discovery helps answer a decades-old question about how the material organizes…",
+          "url": "https://phys.org/news/2026-10-laser-pulses-quantum-material-tiny.html",
+          "source": "Phys.org",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "Ozempic and Wegovy linked to rare risk of sudden vision loss",
+          "summary": "Popular diabetes and weight loss drugs such as Ozempic and Wegovy have been linked to a slightly increased risk of a rare condition that can cause sudden, potentially permanent vision loss. Although the risk remains…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261014015521.htm",
           "source": "Science Daily",
-          "date": "2026-10-12"
+          "date": "2026-10-15"
         },
         {
-          "title": "Bacteria turn 3D-printed sand into solid building elements",
-          "summary": "Cement manufacturing is one of the largest sources of CO₂ emissions in the construction industry. At the Department of Architecture, Karen Antorveza Paez, who has just completed her doctorate at ETH Zurich, is…",
-          "url": "https://phys.org/news/2026-10-bacteria-3d-sand-solid-elements.html",
-          "source": "Phys.org",
+          "title": "A planet 320 light-years away confirms what scientists long suspected",
+          "summary": "Astronomers have discovered that a scorching-hot planet 320 light-years away shares a striking chemical similarity with its host star, providing the first direct evidence for a fundamental assumption about planet…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261012185015.htm",
+          "source": "Science Daily",
           "date": "2026-10-14"
         },
         {
-          "title": "Local DNA motion inside the cell stays nearly constant throughout interphase",
-          "summary": "Human genomic DNA is wrapped around core histone proteins to form nucleosomes, the fundamental units of chromatin. During interphase, the period between cell divisions, DNA is replicated and the nucleus becomes larger…",
-          "url": "https://phys.org/news/2026-10-local-dna-motion-cell-stays.html",
-          "source": "Phys.org",
-          "date": "2026-10-14"
-        },
-        {
-          "title": "Enzyme discovery opens a new route to natural UV-absorbing saclipins",
-          "summary": "Ultraviolet (UV)-absorbing compounds from natural sources are attracting interest as potential ingredients for cosmetics and other protective materials. Saclipins A and B are unusual UV-absorbing oxylipins produced by…",
-          "url": "https://phys.org/news/2026-10-enzyme-discovery-route-natural-uv.html",
-          "source": "Phys.org",
-          "date": "2026-10-14"
+          "title": "Scientists uncover a hidden map of the brain with 539 distinct regions",
+          "summary": "Scientists have uncovered a hidden layer of organization in the brain by creating the first detailed 3D map of its lipids, the fatty molecules essential for brain structure and communication. By analyzing millions of…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261012185011.htm",
+          "source": "Science Daily",
+          "date": "2026-10-13"
         }
       ]
     },
@@ -52,38 +52,45 @@
           "date": "2026-10-13"
         },
         {
-          "title": "The moon could turn astronauts into 'walking, high voltage capacitors' that accidentally zap spacecraft",
-          "summary": "NASA is asking for ideas to stop static electricity from zapping astronauts or critical hardware during moon missions.",
-          "url": "https://www.space.com/astronomy/moon/the-moon-could-turn-astronauts-into-walking-high-voltage-capacitors-that-accidentally-zap-spacecraft",
-          "source": "Space.com",
-          "date": "2026-10-12"
-        },
-        {
-          "title": "UAE unveils lander for bold 7-asteroid mission set to launch in 2028 (photos)",
-          "summary": "In March 2028, the UAE is set to launch an ambitious mission to the asteroid belt between Mars and Jupiter that will culminate with a landing attempt on a mysteriously reddish space rock.",
-          "url": "https://www.space.com/astronomy/asteroids/uae-unveils-lander-for-bold-7-asteroid-mission-set-to-launch-in-2028-photos",
-          "source": "Space.com",
-          "date": "2026-10-12"
-        },
-        {
-          "title": "NASA to Discuss Artemis Acceleration, Status of Upcoming Moon Missions",
-          "summary": "NASA will provide an update on its plans to return American astronauts to the surface of the Moon by 2028 at 2 p.m. EDT, Friday, Oct. 23, at the agency’s Kennedy Space Center in Florida. Learn where to watch online…",
-          "url": "https://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions/",
-          "source": "NASA",
-          "date": "2026-10-14"
-        },
-        {
           "title": "James Webb reveals a massive cosmic structure that challenges our understanding of the Universe",
           "summary": "NASA’s James Webb Space Telescope has revealed an ancient galaxy cluster with an unexpectedly dense concentration of dark matter, challenging theories about how the universe developed. The discovery also uncovered a…",
           "url": "https://www.sciencedaily.com/releases/2026/10/261012185021.htm",
           "source": "Science Daily",
           "date": "2026-10-13"
+        },
+        {
+          "title": "Life after the moon: Artemis II's Christina Koch steps down from active astronaut duty",
+          "summary": "Artemis II mission specialist Christina Koch will become NASA's acting deputy chief engineer on Nov. 1. All four Artemis II crewmates have now stepped away from active spaceflight duties.",
+          "url": "https://www.space.com/space-exploration/artemis/life-after-the-moon-artemis-iis-christina-koch-steps-down-from-active-astronaut-duty",
+          "source": "Space.com",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "Four years ago, NASA punched an asteroid. Europe's Hera probe arrives this month to inspect the wreckage",
+          "summary": "NASA's DART mission made a cosmic mess four years ago — and now a new spacecraft is ready to scout out exactly what the first-of-its-kind collision accomplished.",
+          "url": "https://www.space.com/space-exploration/asteroid-comet-missions/four-years-ago-nasa-punched-an-asteroid-europes-hera-probe-arrives-this-month-to-inspect-the-wreckage",
+          "source": "Space.com",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "Rigorous Analysis Confirms NASA’s Artemis II Heat Shield Performance",
+          "summary": "NASA’s Artemis II mission sent four astronauts around the Moon and brought them safely back to Earth, laying a foundation for crewed flights to the Moon’s surface. Additional engineering data analysis of the Orion…",
+          "url": "https://www.nasa.gov/missions/artemis/artemis-2/rigorous-analysis-confirms-nasas-artemis-ii-heat-shield-performance/",
+          "source": "NASA",
+          "date": "2026-10-15"
         }
       ]
     },
     "Animals & Nature": {
       "emoji": "🐾",
       "articles": [
+        {
+          "title": "A forgotten fossil reveals a fearsome dinosaur with giant claws",
+          "summary": "A 120-million-year-old fossil forgotten in a museum for nearly a century has revealed a terrifying new dinosaur that may have been more dangerous to humans than a T. rex. The tiger-sized predator also provides the first…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261014015457.htm",
+          "source": "Science Daily",
+          "date": "2026-10-14"
+        },
         {
           "title": "This tiny jurassic predator helped pave the way for the human brain",
           "summary": "A 165-million-year-old fossil has revealed an extraordinary Jurassic predator that may help explain how mammals developed one of their most important evolutionary advantages. Although only 20 inches long, Megacauda…",
@@ -92,18 +99,11 @@
           "date": "2026-10-13"
         },
         {
-          "title": "Toothless 'hell chicken' dinosaur may have had a taste for fruit",
-          "summary": "While many dinosaurs were fearsome predators with razor-sharp teeth, others were peaceful herbivores munching on plants. We can now add a new species to the list of plant-eaters, Infernogallus jamesi. Its name means…",
-          "url": "https://phys.org/news/2026-10-toothless-hell-chicken-dinosaur-fruit.html",
+          "title": "Drowned 5,000-year-old forests reborn as thriving peat reefs and biodiversity hotspots off Mozambique",
+          "summary": "Researchers from the Bazaruto Center for Scientific Studies (BCSS) Ocean Observatory have documented ancient forests that grew on the Mozambican coast thousands of years ago and have been found beneath the sea, where…",
+          "url": "https://phys.org/news/2026-10-year-forests-reborn-peat-reefs.html",
           "source": "Phys.org",
-          "date": "2026-10-14"
-        },
-        {
-          "title": "Not all early birds evolved toward better flight, Jurassic fossil suggests",
-          "summary": "For early birds, evolution wasn't always about becoming better flyers. This conclusion is supported by the recent discovery of a remarkably well-preserved, 150-million-year-old bird fossil from Fujian province, China…",
-          "url": "https://phys.org/news/2026-10-early-birds-evolved-flight-jurassic.html",
-          "source": "Phys.org",
-          "date": "2026-10-14"
+          "date": "2026-10-15"
         },
         {
           "title": "Gigantic prehistoric snake discovered in India may have been one of the largest ever",
@@ -125,38 +125,38 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Hurricane Simon Lurks Off the Mexican Coast",
-          "summary": "Though it remained offshore, the storm lashed coastal areas with high winds and flooding—and produced remarkable rippling patterns in the upper atmosphere.",
-          "url": "https://science.nasa.gov/earth/earth-observatory/hurricane-simon-lurks-off-the-mexican-coast/",
-          "source": "NASA",
-          "date": "2026-10-14"
-        },
-        {
-          "title": "Amazon wildfires hide another threat to the rainforest",
-          "summary": "Amazon wildfires are weakening the rainforest’s ability to absorb carbon, as ozone pollution damages trees that survive the flames. The post Amazon wildfires hide another threat to the rainforest first appeared on…",
-          "url": "https://earthsky.org/earth/amazon-wildfires-hide-another-threat-to-the-rainforest/",
-          "source": "EarthSky",
-          "date": "2026-10-12"
-        },
-        {
-          "title": "Rising seas could weaken Chesapeake Bay's natural storm surge buffer",
-          "summary": "A hurricane does not have to make a direct hit to affect the Chesapeake Bay. Even from out at sea, a hurricane's winds, waves and rising tides can cause major flooding.",
-          "url": "https://phys.org/news/2026-10-seas-weaken-chesapeake-bay-natural.html",
-          "source": "Phys.org",
-          "date": "2026-10-14"
-        },
-        {
-          "title": "This El Niño will bring predictable disasters, so why aren’t we ready?",
-          "summary": "We know that this monster El Niño will bring floods, droughts, cyclones and wildfires, but some governments aren’t putting in the necessary resources to prepare for disaster",
-          "url": "https://www.newscientist.com/article/2593320-__trashed-111/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "title": "We can rescue the AMOC after its collapse – but it won’t be easy",
+          "summary": "An AMOC weakened by climate change can be revived by cooling global temperatures, but we don't have the technology to remove huge quantities of CO2 and drive that cooling",
+          "url": "https://www.newscientist.com/article/2593766-we-can-rescue-the-amoc-after-its-collapse-but-it-wont-be-easy/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
           "date": "2026-10-14"
         },
         {
-          "title": "Gathering rare airborne observations of firestorm clouds",
-          "summary": "Just minutes into a planned research flight from Colorado to Oregon in August to study massive storm clouds fueled by intense wildfires, scientists discovered that a fire in Utah offered a more promising target. The…",
-          "url": "https://phys.org/news/2026-10-rare-airborne-firestorm-clouds.html",
+          "title": "How did early Māori society develop? New research reveals a clearer timeline",
+          "summary": "When the first Polynesian settlers arrived in Aotearoa New Zealand some 750 years ago, they found an environment very different from the lands they left behind.",
+          "url": "https://phys.org/news/2026-10-early-mori-society-reveals-clearer.html",
           "source": "Phys.org",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "Fatal Neanderthal wound may be earliest evidence of a wooden spear attack on a human ancestor",
+          "summary": "A round hole in the shoulder blade (scapula) of a Neanderthal whose partial remains were unearthed in a cave in Iraqi Kurdistan may be the earliest known example of lethal interpersonal violence with a wooden spear in…",
+          "url": "https://phys.org/news/2026-10-fatal-neanderthal-wound-earliest-evidence.html",
+          "source": "Phys.org",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "Q&A: Expanding climate models to better capture the complexities of public health",
+          "summary": "About a decade ago, a group of climate scientists described five scenarios for the future. Called the Shared Socioeconomic Pathways (SSPs), these scenarios suggest how socioeconomic development could evolve in worlds…",
+          "url": "https://phys.org/news/2026-10-qa-climate-capture-complexities-health.html",
+          "source": "Phys.org",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "Best deep-sky photos of September 2026 from EarthSky community",
+          "summary": "Enjoy this gallery of deep-sky photos from September 2026 by our EarthSky community. If you have a great photo to share, we'd love to see it! The post Best deep-sky photos of September 2026 from EarthSky community first…",
+          "url": "https://earthsky.org/todays-image/deep-sky-photos-september-2026/",
+          "source": "EarthSky",
           "date": "2026-10-14"
         }
       ]
@@ -165,17 +165,10 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "Scientists recreate a bizarre quantum effect that stops a particle cold",
-          "summary": "Oxford physicists have recreated a bizarre quantum effect in which a particle responds to a magnetic field without ever traveling through it. Using a hybrid quantum computer, they demonstrated how introducing a…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261011211554.htm",
-          "source": "Science Daily",
-          "date": "2026-10-13"
-        },
-        {
-          "title": "Workers who fear AI replacement show worse workplace behavior",
-          "summary": "Workers who fear artificial intelligence is threatening their occupation are more likely to slack off on the job, swipe a coworker's lunch or engage in other counterproductive workplace behavior, a new study finds.",
-          "url": "https://phys.org/news/2026-10-workers-ai-worse-workplace-behavior.html",
-          "source": "Phys.org",
+          "title": "Self-replicating AIs are a great digital horror story – here’s the reality",
+          "summary": "Anthropic announced that an AI could self-replicate inside smart devices within months, stoking fear around the internet. Columnist Jacob Aron explains the technical limitations that make this spook story less than…",
+          "url": "https://www.newscientist.com/article/2593983-self-replicating-ais-are-a-great-digital-horror-story-heres-the-reality/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
           "date": "2026-10-14"
         },
         {
@@ -186,11 +179,18 @@
           "date": "2026-10-14"
         },
         {
-          "title": "AI ethics analysis clarifies why different goals call for different ethical approaches",
-          "summary": "AI ethics has come under increasing criticism. Critics argue that while companies publish guidelines for AI development and use, the AI systems themselves often remain problematic. Researchers from the University of…",
-          "url": "https://phys.org/news/2026-10-ai-ethics-analysis-goals-ethical.html",
+          "title": "Research finds vegan honey could be made with similar antimicrobial properties to mānuka honey",
+          "summary": "Vegan honey alternatives could be engineered to have antimicrobial properties similar to those of prized mānuka honey from New Zealand, according to research at Aston University.",
+          "url": "https://phys.org/news/2026-10-vegan-honey-similar-antimicrobial-properties.html",
           "source": "Phys.org",
-          "date": "2026-10-14"
+          "date": "2026-10-15"
+        },
+        {
+          "title": "Russia and China are using AI to stage relentless cyberattacks against the UK",
+          "summary": "AI is increasing the speed of attacks against infrastructure in the UK but also being used to help defend against it",
+          "url": "https://www.newscientist.com/article/2593414-russia-and-china-are-using-ai-to-stage-relentless-cyber-attacks-against-the-uk/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-10-15"
         }
       ]
     },
@@ -198,11 +198,11 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "From spin wave to superconducting circuit: A one-way street for quantum information",
-          "summary": "Quantum information systems could one day shape everyday life through faster computing, sharper sensing and more secure communication. A new result from the U.S. Department of Energy's (DOE) Argonne National Laboratory…",
-          "url": "https://phys.org/news/2026-10-superconducting-circuit-street-quantum.html",
+          "title": "Quantum calculations reveal how spin defects lose energy",
+          "summary": "When light hits a tiny defect embedded in a solid material like diamond or silicon carbide, it can kick the defect's electrons into an excited state. These spin defects have the potential to be used as stable, readable…",
+          "url": "https://phys.org/news/2026-10-quantum-reveal-defects-energy.html",
           "source": "Phys.org",
-          "date": "2026-10-14"
+          "date": "2026-10-15"
         },
         {
           "title": "Weirdest cloud on Mars formed via ‘exotic physics’",
@@ -219,11 +219,11 @@
           "date": "2026-10-13"
         },
         {
-          "title": "Hidden sounds of nature brought to life in fascinating new book",
-          "summary": "From ice groaning to a very noisy troop of monkeys, Wilderness Songs by Justin Anderson shows some of the best nature stories are told through soundscapes as well as words – with added QR codes, finds Dhruti Shah",
-          "url": "https://www.newscientist.com/article/2593189-hidden-sounds-of-nature-brought-to-life-in-fascinating-new-book/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-10-14"
+          "title": "Turning up the heat on chickpea yield",
+          "summary": "A University of Queensland study has outlined a practical pathway for accelerating the development of heat-adapted chickpeas using data from new 'omic' technologies. Ph.D. candidate Callum Jamie said the suite of…",
+          "url": "https://phys.org/news/2026-10-chickpea-yield.html",
+          "source": "Phys.org",
+          "date": "2026-10-15"
         }
       ]
     }
