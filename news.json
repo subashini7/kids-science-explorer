@@ -1,43 +1,43 @@
 {
-  "updated": "2026-10-15T17:38:02Z",
+  "updated": "2026-10-16T17:10:43Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "AI reveals a hidden chemical shortcut that could turn CO2 into fuel",
-          "summary": "Scientists used artificial intelligence to uncover nearly 10,000 chemical reactions involved in transforming carbon dioxide into fuels and chemicals, revealing crucial pathways that traditional models had missed. The…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261013015758.htm",
+          "title": "Scientists discover a plastic-eating “Pac-Man” enzyme with a surprising secret",
+          "summary": "Scientists have discovered a remarkable “Pac-Man enzyme” that helps bacteria devour certain types of plastic and may offer new hope in the fight against plastic pollution. Researchers found that several biodegradable…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261014015509.htm",
           "source": "Science Daily",
-          "date": "2026-10-14"
+          "date": "2026-10-16"
         },
         {
-          "title": "Laser pulses bring order to a quantum material's tiny electrical regions",
-          "summary": "Physicists at Auburn University have used flashes of laser light to bring order to tiny electrically charged \"islands\" inside a crystal. The discovery helps answer a decades-old question about how the material organizes…",
-          "url": "https://phys.org/news/2026-10-laser-pulses-quantum-material-tiny.html",
+          "title": "'Excess oxygen' stored in deep Earth magma may help explain how Earth's atmosphere became oxygen-rich",
+          "summary": "A research team has found that molten rock can carry more oxygen than its chemical composition would seem to allow. Their study is published in National Science Review.",
+          "url": "https://phys.org/news/2026-10-excess-oxygen-deep-earth-magma.html",
           "source": "Phys.org",
-          "date": "2026-10-15"
+          "date": "2026-10-16"
         },
         {
-          "title": "Ozempic and Wegovy linked to rare risk of sudden vision loss",
-          "summary": "Popular diabetes and weight loss drugs such as Ozempic and Wegovy have been linked to a slightly increased risk of a rare condition that can cause sudden, potentially permanent vision loss. Although the risk remains…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261014015521.htm",
-          "source": "Science Daily",
-          "date": "2026-10-15"
+          "title": "AI designs working molecular scissors that recognize and cut selected protein targets",
+          "summary": "Proteases are naturally occurring enzymes that break down proteins into peptides and even single amino acids. They are useful in medicine and industrial processes, where they clean tissue, digest waste and help in the…",
+          "url": "https://phys.org/news/2026-10-ai-molecular-scissors-protein.html",
+          "source": "Phys.org",
+          "date": "2026-10-16"
         },
         {
-          "title": "A planet 320 light-years away confirms what scientists long suspected",
-          "summary": "Astronomers have discovered that a scorching-hot planet 320 light-years away shares a striking chemical similarity with its host star, providing the first direct evidence for a fundamental assumption about planet…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261012185015.htm",
-          "source": "Science Daily",
-          "date": "2026-10-14"
+          "title": "AI and wastewater DNA-based mapping help identify sewer pipes at risk of corrosion",
+          "summary": "Underground sewers that safely manage wastewater are essential to modern cities. However, since they are buried underground and difficult to access, their condition can be hard to monitor. Traditional camera inspections…",
+          "url": "https://phys.org/news/2026-10-ai-wastewater-dna-based-sewer.html",
+          "source": "Phys.org",
+          "date": "2026-10-16"
         },
         {
-          "title": "Scientists uncover a hidden map of the brain with 539 distinct regions",
-          "summary": "Scientists have uncovered a hidden layer of organization in the brain by creating the first detailed 3D map of its lipids, the fatty molecules essential for brain structure and communication. By analyzing millions of…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261012185011.htm",
+          "title": "A quantum highway just one atom high could transform superconductors",
+          "summary": "Scientists discovered that atomic steps just one atom high can guide quantum vortices through superconductors, making them move more than 1,000 times more easily in one direction than another. This remarkable control…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261014072018.htm",
           "source": "Science Daily",
-          "date": "2026-10-13"
+          "date": "2026-10-16"
         }
       ]
     },
@@ -45,18 +45,25 @@
       "emoji": "🚀",
       "articles": [
         {
-          "title": "SpaceX launches Falcon 9 Starlink mission for 1st time in more than 3 weeks (video)",
-          "summary": "SpaceX launched 27 of its Starlink broadband satellites to orbit today (Oct. 12), the first such mission for a Falcon 9 rocket since Sept. 19.",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-falcon-9-starlink-mission-for-1st-time-in-more-than-3-weeks-photo",
-          "source": "Space.com",
-          "date": "2026-10-13"
+          "title": "Japan is launching a mission to Mars’s largest moon Phobos",
+          "summary": "The Martian Moons eXploration spacecraft, set to launch on 20 October, will bring back samples that should solve a moon mystery that has been vexing scientists for more than a century",
+          "url": "https://www.newscientist.com/article/2594332-japan-is-launching-a-mission-to-marss-largest-moon-phobos/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-10-16"
         },
         {
-          "title": "James Webb reveals a massive cosmic structure that challenges our understanding of the Universe",
-          "summary": "NASA’s James Webb Space Telescope has revealed an ancient galaxy cluster with an unexpectedly dense concentration of dark matter, challenging theories about how the universe developed. The discovery also uncovered a…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261012185021.htm",
-          "source": "Science Daily",
-          "date": "2026-10-13"
+          "title": "NASA to Help Unlock Mysteries of Mars’ Moons in Upcoming Mission",
+          "summary": "NASA is playing an important role in JAXA’s (Japan Aerospace Exploration Agency) MMX (Martian Moons eXploration) mission, to advance our understanding of Mars’ moons and build on the agency’s long history of exploring…",
+          "url": "https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/",
+          "source": "NASA",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "Forecasting air drag with deep learning helps predict when uncontrolled satellites and rocket stages fall to Earth",
+          "summary": "On May 10, 2025, a spacecraft built in the Soviet Union to land on Venus came home. Launched in 1972, Cosmos-482 was stranded by a failed upper stage of its rocket and circled Earth for 53 years. In its last days…",
+          "url": "https://phys.org/news/2026-10-air-deep-uncontrolled-satellites-rocket.html",
+          "source": "Phys.org",
+          "date": "2026-10-16"
         },
         {
           "title": "Life after the moon: Artemis II's Christina Koch steps down from active astronaut duty",
@@ -71,13 +78,6 @@
           "url": "https://www.space.com/space-exploration/asteroid-comet-missions/four-years-ago-nasa-punched-an-asteroid-europes-hera-probe-arrives-this-month-to-inspect-the-wreckage",
           "source": "Space.com",
           "date": "2026-10-14"
-        },
-        {
-          "title": "Rigorous Analysis Confirms NASA’s Artemis II Heat Shield Performance",
-          "summary": "NASA’s Artemis II mission sent four astronauts around the Moon and brought them safely back to Earth, laying a foundation for crewed flights to the Moon’s surface. Additional engineering data analysis of the Orion…",
-          "url": "https://www.nasa.gov/missions/artemis/artemis-2/rigorous-analysis-confirms-nasas-artemis-ii-heat-shield-performance/",
-          "source": "NASA",
-          "date": "2026-10-15"
         }
       ]
     },
@@ -92,20 +92,6 @@
           "date": "2026-10-14"
         },
         {
-          "title": "This tiny jurassic predator helped pave the way for the human brain",
-          "summary": "A 165-million-year-old fossil has revealed an extraordinary Jurassic predator that may help explain how mammals developed one of their most important evolutionary advantages. Although only 20 inches long, Megacauda…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261012185005.htm",
-          "source": "Science Daily",
-          "date": "2026-10-13"
-        },
-        {
-          "title": "Drowned 5,000-year-old forests reborn as thriving peat reefs and biodiversity hotspots off Mozambique",
-          "summary": "Researchers from the Bazaruto Center for Scientific Studies (BCSS) Ocean Observatory have documented ancient forests that grew on the Mozambican coast thousands of years ago and have been found beneath the sea, where…",
-          "url": "https://phys.org/news/2026-10-year-forests-reborn-peat-reefs.html",
-          "source": "Phys.org",
-          "date": "2026-10-15"
-        },
-        {
           "title": "Gigantic prehistoric snake discovered in India may have been one of the largest ever",
           "summary": "A massive prehistoric snake discovered in India may have rivaled the largest snake ever known. Called Vasuki indicus, the 47-million-year-old giant could have reached up to 50 feet long, making it comparable to the…",
           "url": "https://www.sciencedaily.com/releases/2026/10/261014001406.htm",
@@ -113,11 +99,18 @@
           "date": "2026-10-14"
         },
         {
-          "title": "210-million-year-old dinosaur discovery reveals a lost world in Africa",
-          "summary": "A newly identified 210-million-year-old dinosaur from Zimbabwe is helping scientists uncover a surprisingly distinct prehistoric ecosystem. The discovery suggests that ancient climate differences may have separated…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261012185013.htm",
+          "title": "A fungus is threatening the world’s food supply. Scientists just found a new defense",
+          "summary": "Scientists have discovered a potential new weapon against a devastating fungus that threatens rice, wheat, and barley worldwide. By engineering a special type of plant immune receptor, researchers created defenses…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261014015501.htm",
           "source": "Science Daily",
-          "date": "2026-10-13"
+          "date": "2026-10-15"
+        },
+        {
+          "title": "Can social media bans protect young people's mental health? Early research suggests that bans aren't the answer",
+          "summary": "The year 2026 has been an expensive one for social media platforms. Since March, YouTube and Meta, the parent company of Instagram and Facebook, have settled or paid out in multiple lawsuits totaling more than $17…",
+          "url": "https://phys.org/news/2026-10-social-media-young-people-mental.html",
+          "source": "Phys.org",
+          "date": "2026-10-16"
         }
       ]
     },
@@ -125,39 +118,39 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "We can rescue the AMOC after its collapse – but it won’t be easy",
-          "summary": "An AMOC weakened by climate change can be revived by cooling global temperatures, but we don't have the technology to remove huge quantities of CO2 and drive that cooling",
-          "url": "https://www.newscientist.com/article/2593766-we-can-rescue-the-amoc-after-its-collapse-but-it-wont-be-easy/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "title": "NASA captures strange waves high above Hurricane Simon",
+          "summary": "As Hurricane Simon unleashed destructive winds and flooding along Mexico’s coast, NASA satellites captured an extraordinary sight: massive atmospheric waves rippling high above the storm. The rare images reveal how…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261015073207.htm",
+          "source": "Science Daily",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "Antarctica’s ‘doomsday’ glacier will keep melting even if oceans cool",
+          "summary": "Computer models suggest that unrealistically cold oceans would be insufficient to stop Thwaites glacier retreating, although a neighbouring glacier might begin to grow",
+          "url": "https://www.newscientist.com/article/2594246-antarcticas-doomsday-glacier-will-keep-melting-even-if-oceans-cool/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
-          "date": "2026-10-14"
-        },
-        {
-          "title": "How did early Māori society develop? New research reveals a clearer timeline",
-          "summary": "When the first Polynesian settlers arrived in Aotearoa New Zealand some 750 years ago, they found an environment very different from the lands they left behind.",
-          "url": "https://phys.org/news/2026-10-early-mori-society-reveals-clearer.html",
-          "source": "Phys.org",
           "date": "2026-10-15"
         },
         {
-          "title": "Fatal Neanderthal wound may be earliest evidence of a wooden spear attack on a human ancestor",
-          "summary": "A round hole in the shoulder blade (scapula) of a Neanderthal whose partial remains were unearthed in a cave in Iraqi Kurdistan may be the earliest known example of lethal interpersonal violence with a wooden spear in…",
-          "url": "https://phys.org/news/2026-10-fatal-neanderthal-wound-earliest-evidence.html",
-          "source": "Phys.org",
-          "date": "2026-10-15"
-        },
-        {
-          "title": "Q&A: Expanding climate models to better capture the complexities of public health",
-          "summary": "About a decade ago, a group of climate scientists described five scenarios for the future. Called the Shared Socioeconomic Pathways (SSPs), these scenarios suggest how socioeconomic development could evolve in worlds…",
-          "url": "https://phys.org/news/2026-10-qa-climate-capture-complexities-health.html",
-          "source": "Phys.org",
-          "date": "2026-10-15"
-        },
-        {
-          "title": "Best deep-sky photos of September 2026 from EarthSky community",
-          "summary": "Enjoy this gallery of deep-sky photos from September 2026 by our EarthSky community. If you have a great photo to share, we'd love to see it! The post Best deep-sky photos of September 2026 from EarthSky community first…",
-          "url": "https://earthsky.org/todays-image/deep-sky-photos-september-2026/",
+          "title": "US winter weather outlook: What will El Niño bring?",
+          "summary": "NOAA's winter winter outlook says El Niño will bring a warm and wet winter for much of the U.S. The post US winter weather outlook: What will El Niño bring? first appeared on EarthSky .",
+          "url": "https://earthsky.org/earth/us-winter-weather-outlook-what-will-el-nino-bring/",
           "source": "EarthSky",
-          "date": "2026-10-14"
+          "date": "2026-10-16"
+        },
+        {
+          "title": "Antarctica’s sea ice has undergone a stunning reversal",
+          "summary": "Antarctic sea ice reached its third-lowest winter maximum in 2026, extending a remarkable decline that began after years of record-breaking growth. Scientists are investigating whether the dramatic reversal signals a…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261015073210.htm",
+          "source": "Science Daily",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "Wind emerges as overlooked factor in ecosystems' carbon uptake and water loss",
+          "summary": "Wind does more than sway trees. It also plays an important role in determining an ecosystem's water-use efficiency—defined as the amount of carbon an ecosystem absorbs per unit of water lost. Water-use efficiency is an…",
+          "url": "https://phys.org/news/2026-10-emerges-overlooked-factor-ecosystems-carbon.html",
+          "source": "Phys.org",
+          "date": "2026-10-16"
         }
       ]
     },
@@ -165,30 +158,37 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "Self-replicating AIs are a great digital horror story – here’s the reality",
-          "summary": "Anthropic announced that an AI could self-replicate inside smart devices within months, stoking fear around the internet. Columnist Jacob Aron explains the technical limitations that make this spook story less than…",
-          "url": "https://www.newscientist.com/article/2593983-self-replicating-ais-are-a-great-digital-horror-story-heres-the-reality/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-10-14"
-        },
-        {
-          "title": "AI can act exactly like a human, but we still don't think it's conscious",
-          "summary": "A new study reveals that people draw a surprisingly sharp line between human consciousness and artificial intelligence, even when both behave identically. Researchers found that participants considered even the most…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261012185017.htm",
-          "source": "Science Daily",
-          "date": "2026-10-14"
-        },
-        {
-          "title": "Research finds vegan honey could be made with similar antimicrobial properties to mānuka honey",
-          "summary": "Vegan honey alternatives could be engineered to have antimicrobial properties similar to those of prized mānuka honey from New Zealand, according to research at Aston University.",
-          "url": "https://phys.org/news/2026-10-vegan-honey-similar-antimicrobial-properties.html",
+          "title": "Physics-guided AI reconstructs hidden patterns inside ultrathin magnets from external fields",
+          "summary": "To build faster and more energy-efficient computers, researchers need to understand nanoscale magnetic materials. But looking inside these tiny magnets is surprisingly difficult: Modern microscopes only measure the…",
+          "url": "https://phys.org/news/2026-10-physics-ai-reconstructs-hidden-patterns.html",
           "source": "Phys.org",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "'We are getting a lot of pressure from the administrator himself': How NASA is racing to obey Trump's 'Super Intelligence' order",
+          "summary": "Internal NASA documents and meeting recordings reveal how Trump's executive order to rename AI as \"super intelligence\" is reshaping agency communications and digital systems — and raising concerns among employees as top…",
+          "url": "https://www.space.com/technology/we-are-getting-a-lot-of-pressure-from-the-administrator-himself-how-nasa-is-racing-to-obey-trumps-super-intelligence-order",
+          "source": "Space.com",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "Will physics be the next field to be turned upside down by AI?",
+          "summary": "AI has taken huge strides in computer programming and mathematics – physics could be next",
+          "url": "https://www.newscientist.com/article/2593273-will-physics-be-the-next-field-to-get-turned-upside-down-by-ai/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "Why a high school in Virginia is getting a quantum computer",
+          "summary": "Starting in January, students attending Skyview High School in Virginia will learn about the building blocks and principles underlying quantum computers by working with one directly",
+          "url": "https://www.newscientist.com/article/2593536-why-a-high-school-in-virginia-is-getting-a-quantum-computer/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
           "date": "2026-10-15"
         },
         {
-          "title": "Russia and China are using AI to stage relentless cyberattacks against the UK",
-          "summary": "AI is increasing the speed of attacks against infrastructure in the UK but also being used to help defend against it",
-          "url": "https://www.newscientist.com/article/2593414-russia-and-china-are-using-ai-to-stage-relentless-cyber-attacks-against-the-uk/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "title": "Google showcases way to fix quantum computer errors more efficiently",
+          "summary": "Error-proofing the most important operations performed on a quantum computer has so far required lots of resources, but a new experiment shows a more efficient way to make the devices reliable",
+          "url": "https://www.newscientist.com/article/2593999-google-showcases-way-to-fix-quantum-computer-errors-more-efficiently/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
           "date": "2026-10-15"
         }
@@ -198,32 +198,18 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "Quantum calculations reveal how spin defects lose energy",
-          "summary": "When light hits a tiny defect embedded in a solid material like diamond or silicon carbide, it can kick the defect's electrons into an excited state. These spin defects have the potential to be used as stable, readable…",
-          "url": "https://phys.org/news/2026-10-quantum-reveal-defects-energy.html",
-          "source": "Phys.org",
-          "date": "2026-10-15"
-        },
-        {
-          "title": "Weirdest cloud on Mars formed via ‘exotic physics’",
-          "summary": "The weirdest cloud on Mars has a funny-sounding name. Scientists call it the Arsia Mons Elongated Cloud. Come find out what's weird about it! The post Weirdest cloud on Mars formed via ‘exotic physics’ first appeared on…",
-          "url": "https://earthsky.org/space/weirdest-cloud-on-mars-formed-via-exotic-physics/",
-          "source": "EarthSky",
-          "date": "2026-10-13"
-        },
-        {
-          "title": "Scientists just gave the powerhouses of our cells a high-tech upgrade",
-          "summary": "Scientists have created a new coating for mitochondria that preserves their ability to produce energy, potentially opening the door to new treatments for diseases involving these tiny cellular powerhouses. The…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261012185008.htm",
+          "title": "The uranium cubes that exposed Nazi Germany’s nuclear failure",
+          "summary": "Scientists investigating Nazi Germany's secret nuclear program have uncovered evidence that its final experimental reactor was nowhere near as close to working as previously claimed. Analysis of surviving uranium cubes…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261015073218.htm",
           "source": "Science Daily",
-          "date": "2026-10-13"
+          "date": "2026-10-16"
         },
         {
-          "title": "Turning up the heat on chickpea yield",
-          "summary": "A University of Queensland study has outlined a practical pathway for accelerating the development of heat-adapted chickpeas using data from new 'omic' technologies. Ph.D. candidate Callum Jamie said the suite of…",
-          "url": "https://phys.org/news/2026-10-chickpea-yield.html",
+          "title": "Could your plastic film packaging serve a purpose? We won't know until recycling laws change",
+          "summary": "From the clear covering on your microwave meal to the flimsy bread bag lying on the kitchen counter, plastic film is notoriously tricky to recycle. But what if those annoying bits of plastic waste could be put to better…",
+          "url": "https://phys.org/news/2026-10-plastic-packaging-purpose-wont-recycling.html",
           "source": "Phys.org",
-          "date": "2026-10-15"
+          "date": "2026-10-16"
         }
       ]
     }
