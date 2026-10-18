@@ -1,43 +1,43 @@
 {
-  "updated": "2026-10-17T16:08:53Z",
+  "updated": "2026-10-18T16:22:55Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "Scientists discover a plastic-eating “Pac-Man” enzyme with a surprising secret",
-          "summary": "Scientists have discovered a remarkable “Pac-Man enzyme” that helps bacteria devour certain types of plastic and may offer new hope in the fight against plastic pollution. Researchers found that several biodegradable…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261014015509.htm",
+          "title": "Physicists create a bizarre new quantum state called a fractional fermi sea",
+          "summary": "Physicists have discovered a strange new state of quantum matter in which ultracold atoms defy familiar organizational rules, forming a highly excited yet surprisingly orderly configuration called a \"fractional Fermi…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261018084644.htm",
           "source": "Science Daily",
+          "date": "2026-10-18"
+        },
+        {
+          "title": "Scientists tested 39 sweeteners and uncovered surprising gut effects",
+          "summary": "Scientists have discovered that many common sweeteners can interfere with gut bacteria, with some combinations involving medications producing surprisingly strong effects. One sweetener mixed with a widely prescribed…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261016081103.htm",
+          "source": "Science Daily",
+          "date": "2026-10-18"
+        },
+        {
+          "title": "Isaias Dims the Gulf Coast",
+          "summary": "High-definition images of nighttime lights show where the hurricane knocked out power along the Florida Panhandle and how quickly the lights came back.",
+          "url": "https://science.nasa.gov/earth/earth-observatory/isaias-dims-the-gulf-coast/",
+          "source": "NASA",
           "date": "2026-10-16"
         },
         {
-          "title": "A quantum highway just one atom high could transform superconductors",
-          "summary": "Scientists discovered that atomic steps just one atom high can guide quantum vortices through superconductors, making them move more than 1,000 times more easily in one direction than another. This remarkable control…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261014072018.htm",
+          "title": "Magic mushroom ingredient takes the fight out of aggressive fish",
+          "summary": "A psychedelic compound found in magic mushrooms appears to have an unexpected effect: calming highly aggressive fish. Researchers discovered that low doses of psilocybin significantly reduced aggressive attacks in…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261017230036.htm",
           "source": "Science Daily",
-          "date": "2026-10-16"
+          "date": "2026-10-18"
         },
         {
-          "title": "Ozempic and Wegovy linked to rare risk of sudden vision loss",
-          "summary": "Popular diabetes and weight loss drugs such as Ozempic and Wegovy have been linked to a slightly increased risk of a rare condition that can cause sudden, potentially permanent vision loss. Although the risk remains…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261014015521.htm",
+          "title": "Scientists discover a natural compound that could protect the brain from too much salt",
+          "summary": "Eating too much salt may do more than raise blood pressure. It could also harm memory and social behavior. In a new study, Japanese researchers discovered that a soy-derived compound called LPC70 helped protect mice…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261017230032.htm",
           "source": "Science Daily",
-          "date": "2026-10-15"
-        },
-        {
-          "title": "Scientists discover 'chemical starter kit' for life in planetary birthplaces",
-          "summary": "The discovery of surprising molecules of methanol and associated maser activity has expanded the inventory of the chemical starter kit that builds planets in young star systems.",
-          "url": "https://www.space.com/space-exploration/search-for-life/scientists-discover-chemical-starter-kit-for-life-in-planetary-birthplaces",
-          "source": "Space.com",
-          "date": "2026-10-15"
-        },
-        {
-          "title": "Probiotic cuts risk of respiratory infections in formula-fed babies",
-          "summary": "Babies who are formula fed are more prone to infections, but the addition of a probiotic supplement containing sugars from breast milk slashed the risk of such infants catching respiratory viruses",
-          "url": "https://www.newscientist.com/article/2594148-probiotic-cuts-risk-of-respiratory-infections-in-formula-fed-babies/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-10-15"
+          "date": "2026-10-18"
         }
       ]
     },
@@ -59,6 +59,13 @@
           "date": "2026-10-15"
         },
         {
+          "title": "NASA’s SpaceX launch lights up the sky with a giant glowing jellyfish",
+          "summary": "A SpaceX Falcon 9 rocket created a dazzling, jellyfish-shaped glow across the eastern United States as sunlight illuminated its exhaust during an early morning launch. The mission delivered equipment and scientific…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261016070635.htm",
+          "source": "Science Daily",
+          "date": "2026-10-18"
+        },
+        {
           "title": "Scientists find 'gemstones' in atmosphere of bizarre, scorching-hot 'marshmallow' exoplanet",
           "summary": "Using data from the James Webb Space Telescope, astronomers have unravelled some of the secrets of a bizarre, blisteringly hot exoplanet that has the consistency of marshmallow.",
           "url": "https://www.space.com/astronomy/exoplanets/scientists-find-gemstones-in-atmosphere-of-bizarre-scorching-hot-marshmallow-exoplanet",
@@ -71,13 +78,6 @@
           "url": "https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/",
           "source": "NASA",
           "date": "2026-10-16"
-        },
-        {
-          "title": "NASA’s Hubble Spies Spiral’s Edge",
-          "summary": "This NASA Hubble Space Telescope image features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove.",
-          "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-spirals-edge/",
-          "source": "NASA",
-          "date": "2026-10-16"
         }
       ]
     },
@@ -85,32 +85,11 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "A forgotten fossil reveals a fearsome dinosaur with giant claws",
-          "summary": "A 120-million-year-old fossil forgotten in a museum for nearly a century has revealed a terrifying new dinosaur that may have been more dangerous to humans than a T. rex. The tiger-sized predator also provides the first…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261014015457.htm",
-          "source": "Science Daily",
-          "date": "2026-10-14"
-        },
-        {
           "title": "This bird flies thousands of miles, but its wings have a catch",
           "summary": "Scientists have uncovered an unexpected trade-off in the wings of the European nightjar, a bird that migrates thousands of kilometers but sacrifices high-speed flight efficiency to hunt insects with remarkable agility…",
           "url": "https://www.sciencedaily.com/releases/2026/10/261016070624.htm",
           "source": "Science Daily",
           "date": "2026-10-17"
-        },
-        {
-          "title": "Gigantic prehistoric snake discovered in India may have been one of the largest ever",
-          "summary": "A massive prehistoric snake discovered in India may have rivaled the largest snake ever known. Called Vasuki indicus, the 47-million-year-old giant could have reached up to 50 feet long, making it comparable to the…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261014001406.htm",
-          "source": "Science Daily",
-          "date": "2026-10-14"
-        },
-        {
-          "title": "A fungus is threatening the world’s food supply. Scientists just found a new defense",
-          "summary": "Scientists have discovered a potential new weapon against a devastating fungus that threatens rice, wheat, and barley worldwide. By engineering a special type of plant immune receptor, researchers created defenses…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261014015501.htm",
-          "source": "Science Daily",
-          "date": "2026-10-15"
         }
       ]
     },
@@ -123,13 +102,6 @@
           "url": "https://www.sciencedaily.com/releases/2026/10/261015073207.htm",
           "source": "Science Daily",
           "date": "2026-10-16"
-        },
-        {
-          "title": "A 24-year study uncovers a surprising climate benefit beneath forests",
-          "summary": "Scientists have discovered that some forest soils are becoming surprisingly better at removing methane from the atmosphere as temperatures rise and rainfall declines. A study spanning up to 24 years found methane…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261014015525.htm",
-          "source": "Science Daily",
-          "date": "2026-10-17"
         },
         {
           "title": "Antarctica’s ‘doomsday’ glacier will keep melting even if oceans cool",
@@ -150,6 +122,13 @@
           "summary": "Antarctic sea ice reached its third-lowest winter maximum in 2026, extending a remarkable decline that began after years of record-breaking growth. Scientists are investigating whether the dramatic reversal signals a…",
           "url": "https://www.sciencedaily.com/releases/2026/10/261015073210.htm",
           "source": "Science Daily",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "El Niño has killed hundreds of children in Sudan",
+          "summary": "Drought driven by El Niño is causing hunger and disease in Sudan that has already killed hundreds of children",
+          "url": "https://www.newscientist.com/article/2594324-el-nino-has-killed-hundreds-of-children-in-sudan/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
           "date": "2026-10-16"
         }
       ]
@@ -190,6 +169,13 @@
     "Physics": {
       "emoji": "⚡",
       "articles": [
+        {
+          "title": "Scientists who discovered a third form of magnetism win major physics prize",
+          "summary": "Physicists have uncovered a hidden third form of magnetism that challenges more than 100 years of established physics. Called altermagnetism, the discovery could transform future computing and electronics while opening…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261017230035.htm",
+          "source": "Science Daily",
+          "date": "2026-10-18"
+        },
         {
           "title": "The uranium cubes that exposed Nazi Germany’s nuclear failure",
           "summary": "Scientists investigating Nazi Germany's secret nuclear program have uncovered evidence that its final experimental reactor was nowhere near as close to working as previously claimed. Analysis of surviving uranium cubes…",
