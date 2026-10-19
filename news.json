@@ -1,9 +1,16 @@
 {
-  "updated": "2026-10-18T16:22:55Z",
+  "updated": "2026-10-19T19:03:20Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
+        {
+          "title": "Why some people escape Alzheimer’s despite carrying a high-risk gene",
+          "summary": "Scientists have discovered why some people with a high genetic risk of Alzheimer’s remain mentally sharp into their 80s, uncovering a rare mutation that protects the brain from harmful protein buildup. The findings…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261018205044.htm",
+          "source": "Science Daily",
+          "date": "2026-10-19"
+        },
         {
           "title": "Physicists create a bizarre new quantum state called a fractional fermi sea",
           "summary": "Physicists have discovered a strange new state of quantum matter in which ultracold atoms defy familiar organizational rules, forming a highly excited yet surprisingly orderly configuration called a \"fractional Fermi…",
@@ -19,25 +26,18 @@
           "date": "2026-10-18"
         },
         {
-          "title": "Isaias Dims the Gulf Coast",
-          "summary": "High-definition images of nighttime lights show where the hurricane knocked out power along the Florida Panhandle and how quickly the lights came back.",
-          "url": "https://science.nasa.gov/earth/earth-observatory/isaias-dims-the-gulf-coast/",
+          "title": "Experimental Facilities",
+          "summary": "Research teams at the NASA Glenn Research Center perform experiments in world-class facilities such as the 9- by 15-Foot Low-Speed Wind Tunnel (9 x15 LSWT), the Aero-Acoustic Propulsion Laboratory (AAPL), the Small Hot…",
+          "url": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-experimental-facilities/",
           "source": "NASA",
-          "date": "2026-10-16"
+          "date": "2026-10-19"
         },
         {
-          "title": "Magic mushroom ingredient takes the fight out of aggressive fish",
-          "summary": "A psychedelic compound found in magic mushrooms appears to have an unexpected effect: calming highly aggressive fish. Researchers discovered that low doses of psilocybin significantly reduced aggressive attacks in…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261017230036.htm",
-          "source": "Science Daily",
-          "date": "2026-10-18"
-        },
-        {
-          "title": "Scientists discover a natural compound that could protect the brain from too much salt",
-          "summary": "Eating too much salt may do more than raise blood pressure. It could also harm memory and social behavior. In a new study, Japanese researchers discovered that a soy-derived compound called LPC70 helped protect mice…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261017230032.htm",
-          "source": "Science Daily",
-          "date": "2026-10-18"
+          "title": "Autumn Paints Poland’s Bieszczady Mountains",
+          "summary": "Fall color covers the forested slopes of Bieszczady National Park, while patches of polonina, a type of high-mountain meadow, have turned tan.",
+          "url": "https://science.nasa.gov/earth/earth-observatory/autumn-paints-polands-bieszczady-mountains/",
+          "source": "NASA",
+          "date": "2026-10-19"
         }
       ]
     },
@@ -45,18 +45,18 @@
       "emoji": "🚀",
       "articles": [
         {
+          "title": "Returning the first samples from a Martian moon: Inside the science of Japan's bold MMX mission to Mars",
+          "summary": "Japan's mission to Mars' moons could answer a decades old question dividing the origins of Phobos and Deimos between two conflicting theories, and make history as the first spacecraft to return to Earth from orbit of…",
+          "url": "https://www.space.com/space-exploration/missions/returning-samples-from-a-mars-moon-inside-the-science-of-japans-bold-mmx-mission",
+          "source": "Space.com",
+          "date": "2026-10-18"
+        },
+        {
           "title": "Japan is launching a mission to Mars’s largest moon Phobos",
           "summary": "The Martian Moons eXploration spacecraft, set to launch on 20 October, will bring back samples that should solve a moon mystery that has been vexing scientists for more than a century",
           "url": "https://www.newscientist.com/article/2594332-japan-is-launching-a-mission-to-marss-largest-moon-phobos/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
           "date": "2026-10-16"
-        },
-        {
-          "title": "NASA to Help Unlock Mysteries of Mars’ Moons in Upcoming Mission",
-          "summary": "NASA is playing an important role in JAXA’s (Japan Aerospace Exploration Agency) MMX (Martian Moons eXploration) mission, to advance our understanding of Mars’ moons and build on the agency’s long history of exploring…",
-          "url": "https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/",
-          "source": "NASA",
-          "date": "2026-10-15"
         },
         {
           "title": "NASA’s SpaceX launch lights up the sky with a giant glowing jellyfish",
@@ -73,11 +73,11 @@
           "date": "2026-10-16"
         },
         {
-          "title": "Artemis II Heat Shield After Splashdown",
-          "summary": "Shortly after NASA&#8217;s Artemis II mission splashed down on April 10, 2026, U.S. Navy divers captured underwater imagery of the Orion spacecraft’s heat shield. In the months after, the agency measured whether the…",
-          "url": "https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/",
+          "title": "NASA’s Simulated Mars Crew Marks One Year Inside Habitat",
+          "summary": "The four crew members in NASA’s simulated Mars mission have spent the past year living and working in isolation in a confined habitat at NASA’s Johnson Space Center in Houston.",
+          "url": "https://www.nasa.gov/humans-in-space/nasas-simulated-mars-crew-marks-one-year-inside-habitat/",
           "source": "NASA",
-          "date": "2026-10-16"
+          "date": "2026-10-19"
         }
       ]
     },
@@ -85,31 +85,31 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "This bird flies thousands of miles, but its wings have a catch",
-          "summary": "Scientists have uncovered an unexpected trade-off in the wings of the European nightjar, a bird that migrates thousands of kilometers but sacrifices high-speed flight efficiency to hunt insects with remarkable agility…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261016070624.htm",
-          "source": "Science Daily",
-          "date": "2026-10-17"
+          "title": "New dinosaur species identified from fossil stashed in drawer for a century",
+          "summary": "Researchers identified a new dinosaur species from a fossil on Isle of Wight in the UK. The carnivorous dino would have been as tall as a human. The post New dinosaur species identified from fossil stashed in drawer for…",
+          "url": "https://earthsky.org/earth/new-dinosaur-species-invictibellatrix-amberina/",
+          "source": "EarthSky",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "Discovery of T. rex’s cousin upends our understanding of tyrannosaur evolution",
+          "summary": "A dinosaur that is new to science has features of both subfamilies of the tyrannosaur group, complicating our understanding of how they evolved",
+          "url": "https://www.newscientist.com/article/2594525-discovery-of-t-rexs-cousin-upends-our-understanding-of-tyrannosaur-evolution/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "Bottlenose whales may look after each other when they’re sick",
+          "summary": "Northern bottlenose whales are more likely to stick together when individuals are poorly or emaciated",
+          "url": "https://www.newscientist.com/article/2594663-bottlenose-whales-may-look-after-each-other-when-theyre-sick/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-10-19"
         }
       ]
     },
     "Earth & Climate": {
       "emoji": "🌍",
       "articles": [
-        {
-          "title": "NASA captures strange waves high above Hurricane Simon",
-          "summary": "As Hurricane Simon unleashed destructive winds and flooding along Mexico’s coast, NASA satellites captured an extraordinary sight: massive atmospheric waves rippling high above the storm. The rare images reveal how…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261015073207.htm",
-          "source": "Science Daily",
-          "date": "2026-10-16"
-        },
-        {
-          "title": "Antarctica’s ‘doomsday’ glacier will keep melting even if oceans cool",
-          "summary": "Computer models suggest that unrealistically cold oceans would be insufficient to stop Thwaites glacier retreating, although a neighbouring glacier might begin to grow",
-          "url": "https://www.newscientist.com/article/2594246-antarcticas-doomsday-glacier-will-keep-melting-even-if-oceans-cool/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-10-15"
-        },
         {
           "title": "US winter weather outlook: What will El Niño bring?",
           "summary": "NOAA's winter winter outlook says El Niño will bring a warm and wet winter for much of the U.S. The post US winter weather outlook: What will El Niño bring? first appeared on EarthSky .",
@@ -118,11 +118,11 @@
           "date": "2026-10-16"
         },
         {
-          "title": "Antarctica’s sea ice has undergone a stunning reversal",
-          "summary": "Antarctic sea ice reached its third-lowest winter maximum in 2026, extending a remarkable decline that began after years of record-breaking growth. Scientists are investigating whether the dramatic reversal signals a…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261015073210.htm",
-          "source": "Science Daily",
-          "date": "2026-10-16"
+          "title": "El Niño is dramatically increasing sea levels – how bad could it get?",
+          "summary": "El Niño has already raised sea levels in part of the eastern Pacific by 40 centimetres and as it continues to strengthen, there could be coastal flooding from Alaska to Chile",
+          "url": "https://www.newscientist.com/article/2594376-el-nino-is-dramatically-increasing-sea-levels-how-bad-could-it-get/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-10-19"
         },
         {
           "title": "El Niño has killed hundreds of children in Sudan",
@@ -137,6 +137,13 @@
       "emoji": "🤖",
       "articles": [
         {
+          "title": "Software",
+          "summary": "Research teams at NASA&#8217;s Glenn Research Center are involved in developing theory and software to predict the noise from aircraft engines. This software helps engineers to design and analyze new and improved…",
+          "url": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-software/",
+          "source": "NASA",
+          "date": "2026-10-19"
+        },
+        {
           "title": "'We are getting a lot of pressure from the administrator himself': How NASA is racing to obey Trump's 'Super Intelligence' order",
           "summary": "Internal NASA documents and meeting recordings reveal how Trump's executive order to rename AI as \"super intelligence\" is reshaping agency communications and digital systems — and raising concerns among employees as top…",
           "url": "https://www.space.com/technology/we-are-getting-a-lot-of-pressure-from-the-administrator-himself-how-nasa-is-racing-to-obey-trumps-super-intelligence-order",
@@ -144,25 +151,11 @@
           "date": "2026-10-16"
         },
         {
-          "title": "Will physics be the next field to be turned upside down by AI?",
-          "summary": "AI has taken huge strides in computer programming and mathematics – physics could be next",
-          "url": "https://www.newscientist.com/article/2593273-will-physics-be-the-next-field-to-get-turned-upside-down-by-ai/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "title": "Error-correction record pushes quantum computers closer to usefulness",
+          "summary": "Useful quantum computers will have to use many “logical qubits” as their computational building blocks, and researchers just broke the record for how reliable they can be",
+          "url": "https://www.newscientist.com/article/2594366-error-correction-record-pushes-quantum-computers-closer-to-usefulness/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
-          "date": "2026-10-16"
-        },
-        {
-          "title": "Why a high school in Virginia is getting a quantum computer",
-          "summary": "Starting in January, students attending Skyview High School in Virginia will learn about the building blocks and principles underlying quantum computers by working with one directly",
-          "url": "https://www.newscientist.com/article/2593536-why-a-high-school-in-virginia-is-getting-a-quantum-computer/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-10-15"
-        },
-        {
-          "title": "Google showcases way to fix quantum computer errors more efficiently",
-          "summary": "Error-proofing the most important operations performed on a quantum computer has so far required lots of resources, but a new experiment shows a more efficient way to make the devices reliable",
-          "url": "https://www.newscientist.com/article/2593999-google-showcases-way-to-fix-quantum-computer-errors-more-efficiently/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-10-15"
+          "date": "2026-10-19"
         }
       ]
     },
@@ -177,11 +170,11 @@
           "date": "2026-10-18"
         },
         {
-          "title": "The uranium cubes that exposed Nazi Germany’s nuclear failure",
-          "summary": "Scientists investigating Nazi Germany's secret nuclear program have uncovered evidence that its final experimental reactor was nowhere near as close to working as previously claimed. Analysis of surviving uranium cubes…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261015073218.htm",
-          "source": "Science Daily",
-          "date": "2026-10-16"
+          "title": "Instrumentation",
+          "summary": "To measure airflow and sound, research teams at the NASA Glenn Research Center use special instrumentation like particle image velocimetry, hot wire anemometry, Raman spectroscopy, microphones in phased arrays or…",
+          "url": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-instrumentation/",
+          "source": "NASA",
+          "date": "2026-10-19"
         }
       ]
     }
