@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T19:03:20Z",
+  "updated": "2026-10-20T17:47:43Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
@@ -12,16 +12,16 @@
           "date": "2026-10-19"
         },
         {
+          "title": "Scientists discover a way to kill dangerous gut bacteria without killing the good",
+          "summary": "Scientists have discovered a natural compound that targets dangerous C. difficile bacteria without wiping out the gut's beneficial microbes. Successful early tests suggest it could lead to a gentler, more effective…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261019093353.htm",
+          "source": "Science Daily",
+          "date": "2026-10-20"
+        },
+        {
           "title": "Physicists create a bizarre new quantum state called a fractional fermi sea",
           "summary": "Physicists have discovered a strange new state of quantum matter in which ultracold atoms defy familiar organizational rules, forming a highly excited yet surprisingly orderly configuration called a \"fractional Fermi…",
           "url": "https://www.sciencedaily.com/releases/2026/10/261018084644.htm",
-          "source": "Science Daily",
-          "date": "2026-10-18"
-        },
-        {
-          "title": "Scientists tested 39 sweeteners and uncovered surprising gut effects",
-          "summary": "Scientists have discovered that many common sweeteners can interfere with gut bacteria, with some combinations involving medications producing surprisingly strong effects. One sweetener mixed with a widely prescribed…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261016081103.htm",
           "source": "Science Daily",
           "date": "2026-10-18"
         },
@@ -33,17 +33,24 @@
           "date": "2026-10-19"
         },
         {
-          "title": "Autumn Paints Poland’s Bieszczady Mountains",
-          "summary": "Fall color covers the forested slopes of Bieszczady National Park, while patches of polonina, a type of high-mountain meadow, have turned tan.",
-          "url": "https://science.nasa.gov/earth/earth-observatory/autumn-paints-polands-bieszczady-mountains/",
-          "source": "NASA",
-          "date": "2026-10-19"
+          "title": "Scientists finally uncover why statins can cause muscle pain",
+          "summary": "Scientists have uncovered a surprising reason why statins, the widely prescribed cholesterol-lowering drugs that help prevent heart attacks and strokes, can sometimes cause muscle pain, weakness, and even severe muscle…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261019093447.htm",
+          "source": "Science Daily",
+          "date": "2026-10-20"
         }
       ]
     },
     "Space & Astronomy": {
       "emoji": "🚀",
       "articles": [
+        {
+          "title": "Japan launches historic MMX sample-return mission to Mars' moon Phobos (video)",
+          "summary": "Japan just launched an epic mission to Mars' moons that could make history as the first spacecraft to return to Earth from the Red Planet — and it plans to come back with samples onboard.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/japan-launches-historic-mmx-sample-return-mission-to-mars-moon-phobos",
+          "source": "Space.com",
+          "date": "2026-10-19"
+        },
         {
           "title": "Returning the first samples from a Martian moon: Inside the science of Japan's bold MMX mission to Mars",
           "summary": "Japan's mission to Mars' moons could answer a decades old question dividing the origins of Phobos and Deimos between two conflicting theories, and make history as the first spacecraft to return to Earth from orbit of…",
@@ -52,32 +59,25 @@
           "date": "2026-10-18"
         },
         {
-          "title": "Japan is launching a mission to Mars’s largest moon Phobos",
-          "summary": "The Martian Moons eXploration spacecraft, set to launch on 20 October, will bring back samples that should solve a moon mystery that has been vexing scientists for more than a century",
-          "url": "https://www.newscientist.com/article/2594332-japan-is-launching-a-mission-to-marss-largest-moon-phobos/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-10-16"
-        },
-        {
-          "title": "NASA’s SpaceX launch lights up the sky with a giant glowing jellyfish",
-          "summary": "A SpaceX Falcon 9 rocket created a dazzling, jellyfish-shaped glow across the eastern United States as sunlight illuminated its exhaust during an early morning launch. The mission delivered equipment and scientific…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261016070635.htm",
+          "title": "NASA reveals 16 stunning galaxies hiding cosmic chaos",
+          "summary": "NASA's stunning new gallery of 16 galaxies reveals colossal black hole jets, explosive star formation, and spectacular cosmic collisions through the combined power of Chandra, James Webb, Hubble, and other telescopes…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261018205050.htm",
           "source": "Science Daily",
-          "date": "2026-10-18"
+          "date": "2026-10-20"
         },
         {
-          "title": "Scientists find 'gemstones' in atmosphere of bizarre, scorching-hot 'marshmallow' exoplanet",
-          "summary": "Using data from the James Webb Space Telescope, astronomers have unravelled some of the secrets of a bizarre, blisteringly hot exoplanet that has the consistency of marshmallow.",
-          "url": "https://www.space.com/astronomy/exoplanets/scientists-find-gemstones-in-atmosphere-of-bizarre-scorching-hot-marshmallow-exoplanet",
-          "source": "Space.com",
-          "date": "2026-10-16"
-        },
-        {
-          "title": "NASA’s Simulated Mars Crew Marks One Year Inside Habitat",
-          "summary": "The four crew members in NASA’s simulated Mars mission have spent the past year living and working in isolation in a confined habitat at NASA’s Johnson Space Center in Houston.",
-          "url": "https://www.nasa.gov/humans-in-space/nasas-simulated-mars-crew-marks-one-year-inside-habitat/",
+          "title": "Webb Captures Stellar Jets",
+          "summary": "An image from NASA’s James Webb Space Telescope released on Oct. 6, 2026, reveals a cauldron of cosmic creation. Webb has unveiled numerous stars formerly hidden by clouds of dust in a stellar nursery known as NGC 7129…",
+          "url": "https://www.nasa.gov/image-article/webb-captures-stellar-jets/",
           "source": "NASA",
-          "date": "2026-10-19"
+          "date": "2026-10-20"
+        },
+        {
+          "title": "SpaceX launches its 'Starfall' return capsule for 2nd time ever (video)",
+          "summary": "SpaceX launched its Starfall return capsule for the second time ever this morning (Oct. 20), sending it up on the Bandwagon-5 rideshare mission.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starfall-return-capsule-launch-bandwagon-5-rideshare-mission",
+          "source": "Space.com",
+          "date": "2026-10-20"
         }
       ]
     },
@@ -90,6 +90,20 @@
           "url": "https://earthsky.org/earth/new-dinosaur-species-invictibellatrix-amberina/",
           "source": "EarthSky",
           "date": "2026-10-19"
+        },
+        {
+          "title": "Scientists discover a bizarre Jurassic “squid” unlike anything ever seen",
+          "summary": "Scientists have identified the “fattest” belemnite ever discovered, a bizarre, barrel-shaped squid relative that lived in Wyoming’s ancient seas 160 million years ago. The exceptionally rare fossils reveal a creature…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261019093434.htm",
+          "source": "Science Daily",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "Parasite-infected mosquitoes released in Europe for first time",
+          "summary": "Male mosquitoes infected with a parasite have been released in Barcelona to reduce the number of insects that can transmit infections such as dengue",
+          "url": "https://www.newscientist.com/article/2594886-parasite-infected-mosquitoes-released-in-europe-for-first-time/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-10-20"
         },
         {
           "title": "Discovery of T. rex’s cousin upends our understanding of tyrannosaur evolution",
@@ -111,13 +125,6 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "US winter weather outlook: What will El Niño bring?",
-          "summary": "NOAA's winter winter outlook says El Niño will bring a warm and wet winter for much of the U.S. The post US winter weather outlook: What will El Niño bring? first appeared on EarthSky .",
-          "url": "https://earthsky.org/earth/us-winter-weather-outlook-what-will-el-nino-bring/",
-          "source": "EarthSky",
-          "date": "2026-10-16"
-        },
-        {
           "title": "El Niño is dramatically increasing sea levels – how bad could it get?",
           "summary": "El Niño has already raised sea levels in part of the eastern Pacific by 40 centimetres and as it continues to strengthen, there could be coastal flooding from Alaska to Chile",
           "url": "https://www.newscientist.com/article/2594376-el-nino-is-dramatically-increasing-sea-levels-how-bad-could-it-get/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
@@ -125,11 +132,11 @@
           "date": "2026-10-19"
         },
         {
-          "title": "El Niño has killed hundreds of children in Sudan",
-          "summary": "Drought driven by El Niño is causing hunger and disease in Sudan that has already killed hundreds of children",
-          "url": "https://www.newscientist.com/article/2594324-el-nino-has-killed-hundreds-of-children-in-sudan/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-10-16"
+          "title": "The Human Fingerprint on Earth’s Water Cycle",
+          "summary": "Human activities have become intertwined with how water is distributed across the continents. A new study brings their effects into sharper focus.",
+          "url": "https://science.nasa.gov/earth/earth-observatory/the-human-fingerprint-on-earths-water-cycle/",
+          "source": "NASA",
+          "date": "2026-10-20"
         }
       ]
     },
@@ -144,18 +151,18 @@
           "date": "2026-10-19"
         },
         {
-          "title": "'We are getting a lot of pressure from the administrator himself': How NASA is racing to obey Trump's 'Super Intelligence' order",
-          "summary": "Internal NASA documents and meeting recordings reveal how Trump's executive order to rename AI as \"super intelligence\" is reshaping agency communications and digital systems — and raising concerns among employees as top…",
-          "url": "https://www.space.com/technology/we-are-getting-a-lot-of-pressure-from-the-administrator-himself-how-nasa-is-racing-to-obey-trumps-super-intelligence-order",
-          "source": "Space.com",
-          "date": "2026-10-16"
-        },
-        {
           "title": "Error-correction record pushes quantum computers closer to usefulness",
           "summary": "Useful quantum computers will have to use many “logical qubits” as their computational building blocks, and researchers just broke the record for how reliable they can be",
           "url": "https://www.newscientist.com/article/2594366-error-correction-record-pushes-quantum-computers-closer-to-usefulness/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
           "date": "2026-10-19"
+        },
+        {
+          "title": "1000 human mathematicians pledge to shun AI in their research",
+          "summary": "There is a growing backlash against the way AI companies have gone about tackling mathematical problems – and now some mathematicians are opting to avoid AI altogether",
+          "url": "https://www.newscientist.com/article/2593621-a-thousand-human-mathematicians-pledge-to-shun-ai-in-their-research/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-10-20"
         }
       ]
     },
@@ -170,10 +177,10 @@
           "date": "2026-10-18"
         },
         {
-          "title": "Instrumentation",
-          "summary": "To measure airflow and sound, research teams at the NASA Glenn Research Center use special instrumentation like particle image velocimetry, hot wire anemometry, Raman spectroscopy, microphones in phased arrays or…",
-          "url": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-instrumentation/",
-          "source": "NASA",
+          "title": "Are we about to solve the greatest mystery of the neutrino?",
+          "summary": "We have long had a seemingly simple question about neutrinos: how much do they weigh? Now, a gigantic experiment in China is poised to find out – and the answer could transform particle physics forever",
+          "url": "https://www.newscientist.com/article/2592541-are-we-about-to-solve-the-greatest-mystery-of-the-neutrino/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
           "date": "2026-10-19"
         }
       ]
