@@ -1,43 +1,43 @@
 {
-  "updated": "2026-10-22T17:51:37Z",
+  "updated": "2026-10-23T17:44:05Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "Oxford scientists discover how viruses build themselves without a blueprint",
-          "summary": "Scientists have captured virus-like particles assembling themselves step by step, revealing how a surprisingly simple process of trial and error produces complex structures with remarkable precision. The discovery…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261021231248.htm",
-          "source": "Science Daily",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "People are taking an unapproved weight-loss drug. AI found something surprising",
-          "summary": "Researchers analyzing nearly 150,000 Reddit posts uncovered unexpected symptom reports linked by users to unapproved versions of retatrutide, including increased appetite, sleep disturbances, and elevated heart rates…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261020085018.htm",
-          "source": "Science Daily",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Scientists discover a way to kill dangerous gut bacteria without killing the good",
-          "summary": "Scientists have discovered a natural compound that targets dangerous C. difficile bacteria without wiping out the gut's beneficial microbes. Successful early tests suggest it could lead to a gentler, more effective…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261019093353.htm",
-          "source": "Science Daily",
-          "date": "2026-10-20"
-        },
-        {
-          "title": "Gut bacteria use food cues to help time nutrient absorption, study finds",
-          "summary": "Biological clocks are often associated with light. Historically, most people started their days when the sun was up and ended their days when the sun set. But new research from Carnegie Mellon University suggests that…",
-          "url": "https://phys.org/news/2026-10-gut-bacteria-food-cues-nutrient.html",
+          "title": "DNA programs a cell-free material to build its own motors and move",
+          "summary": "Researchers have created a material that manufactures the proteins responsible for cell movement, without needing intact living cells. By embedding cell-free gene expression into a thin sheet of protein filaments, they…",
+          "url": "https://phys.org/news/2026-10-dna-cell-free-material-motors.html",
           "source": "Phys.org",
-          "date": "2026-10-22"
+          "date": "2026-10-23"
         },
         {
-          "title": "NASA to Conduct NCAA Flyover, Engage Fans at University of Alabama",
-          "summary": "As part of the agency’s Inspiration Tour, NASA will conduct a flyover at the University of Alabama vs. Texas A&#38;M football game in Tuscaloosa, Alabama, on Saturday, Oct. 24. NASA Administrator Jared Isaacman will…",
-          "url": "https://www.nasa.gov/news-release/nasa-to-conduct-ncaa-flyover-engage-fans-at-university-of-alabama/",
-          "source": "NASA",
-          "date": "2026-10-21"
+          "title": "A tiny defect in a crystal reveals a big quantum surprise",
+          "summary": "Researchers have solved a long-standing challenge in understanding how tiny defects in materials like diamond and silicon carbide behave when exposed to light. Their new computational method revealed a surprisingly…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261022081302.htm",
+          "source": "Science Daily",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "Archimedes screw inspires single-molecule motor powered by electric current",
+          "summary": "Molecular machines are regarded as the next step in miniaturization. Their models can be found in living cells, where molecular motors convert energy and generate movement. Scientists have been working for decades to…",
+          "url": "https://phys.org/news/2026-10-archimedes-molecule-motor-powered-electric.html",
+          "source": "Phys.org",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "Mapping the cell: International research team investigates the endoplasmic reticulum",
+          "summary": "Human cells contain billions of molecules. To prevent complete chaos, these molecules and the reactions between them are organized within structures known as organelles. One of the cell's most important organelles is…",
+          "url": "https://phys.org/news/2026-10-cell-international-team-endoplasmic-reticulum.html",
+          "source": "Phys.org",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "Dental implants can hijack your immune system, scientists discover",
+          "summary": "Researchers have uncovered a surprising reason dental implant infections often resist antibiotics: the implants themselves can contribute to the problem. Bacteria corrode titanium implants, releasing microscopic…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261022081314.htm",
+          "source": "Science Daily",
+          "date": "2026-10-23"
         }
       ]
     },
@@ -45,18 +45,11 @@
       "emoji": "🚀",
       "articles": [
         {
-          "title": "Japan launches historic MMX sample-return mission to Mars' moon Phobos (video)",
-          "summary": "Japan just launched an epic mission to Mars' moons that could make history as the first spacecraft to return to Earth from the Red Planet — and it plans to come back with samples onboard.",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/japan-launches-historic-mmx-sample-return-mission-to-mars-moon-phobos",
+          "title": "Rocket Lab launches 3 'Hawk' satellites to orbit to gather signals intelligence",
+          "summary": "Rocket Lab launched a trio of private signals-intelligence satellites to orbit today (Oct. 21), the 19th mission of the year for the California-based company.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-3-hawk-satellites-to-orbit-to-gather-signals-intelligence",
           "source": "Space.com",
-          "date": "2026-10-19"
-        },
-        {
-          "title": "Webb captures stars in the early stages of life in a nearby stellar nursery",
-          "summary": "The NASA/ESA/CSA James Webb Space Telescope continues to reveal hidden parts of the cosmos with its advanced suite of infrared instruments. In a newly released image, Webb revealed many stars previously hidden by the…",
-          "url": "https://phys.org/news/2026-10-webb-captures-stars-early-stages.html",
-          "source": "Phys.org",
-          "date": "2026-10-22"
+          "date": "2026-10-23"
         },
         {
           "title": "On this day in space! Oct. 20, 1970: The Soviet Union launches last-ever Zond moon mission",
@@ -66,31 +59,31 @@
           "date": "2026-10-20"
         },
         {
-          "title": "Webb image reveals young stars brewing in a nebulous cauldron",
-          "summary": "In this Picture of the Month from the NASA/ESA James Webb Space Telescope, we visit a turbulent cauldron of star formation to see what is brewing inside dense clumps of gas. This is a star-forming region named LHA 120-N…",
-          "url": "https://phys.org/news/2026-10-webb-image-reveals-young-stars.html",
-          "source": "Phys.org",
+          "title": "Spiral’s Edge",
+          "summary": "This NASA Hubble Space Telescope image released on Oct. 16, 2026, features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove. Hubble…",
+          "url": "https://www.nasa.gov/image-article/spirals-edge/",
+          "source": "NASA",
           "date": "2026-10-22"
         },
         {
-          "title": "'Cabin leak suspected': Artemis II astronaut reveals how a warning nearly derailed NASA's epic moon mission",
-          "summary": "Victor Glover recalls how a suspected cabin leak warning came just 15 minutes before a crucial engine burn — and why receiving it just five minutes later could have changed everything.",
-          "url": "https://www.space.com/space-exploration/artemis/cabin-leak-suspected-artemis-ii-astronaut-reveals-how-a-warning-nearly-derailed-moon-mission",
-          "source": "Space.com",
-          "date": "2026-10-22"
+          "title": "Artemis I: Crystals of experimental detectors record radiation doses near the moon",
+          "summary": "Do cosmic radiation doses near the moon differ significantly from those received by astronauts in low Earth orbit? Experimental lithium fluoride detectors, installed aboard the Orion spacecraft during the Artemis I…",
+          "url": "https://phys.org/news/2026-10-artemis-crystals-experimental-detectors-doses.html",
+          "source": "Phys.org",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "Pedal to the metal: NASA's Psyche heads toward asteroid belt",
+          "summary": "With a successful Mars gravity assist in its rearview mirror, NASA's Psyche spacecraft has fired up its thrusters and is accelerating toward the metal-rich asteroid of the same name. During the first leg of its journey…",
+          "url": "https://phys.org/news/2026-10-metal-nasa-psyche-asteroid-belt.html",
+          "source": "Phys.org",
+          "date": "2026-10-23"
         }
       ]
     },
     "Animals & Nature": {
       "emoji": "🐾",
       "articles": [
-        {
-          "title": "Word choice matters: 'Extinction of plants and animals' raises more concern than 'biodiversity loss'",
-          "summary": "The loss of Earth's animal and plant species is a crisis. Just don't call it an \"extinction crisis\" if you aim to mobilize public concern.",
-          "url": "https://phys.org/news/2026-10-word-choice-extinction-animals-biodiversity.html",
-          "source": "Phys.org",
-          "date": "2026-10-22"
-        },
         {
           "title": "All tropical coral reefs could collapse within 50 years",
           "summary": "Shallow-water coral reefs are at high risk of disappearing by 2075, the IUCN has warned at a UN biodiversity conference. The loss would decimate fisheries and speed up coastal erosion",
@@ -106,18 +99,25 @@
           "date": "2026-10-22"
         },
         {
-          "title": "Scientists discover a bizarre Jurassic “squid” unlike anything ever seen",
-          "summary": "Scientists have identified the “fattest” belemnite ever discovered, a bizarre, barrel-shaped squid relative that lived in Wyoming’s ancient seas 160 million years ago. The exceptionally rare fossils reveal a creature…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261019093434.htm",
+          "title": "Millions take fish oil for brain health. A two-year study found no benefit",
+          "summary": "A surprising two-year clinical trial found that fish oil supplements successfully delivered omega-3s to the brain but failed to improve memory or protect against Alzheimer's-related brain shrinkage. Researchers suspect…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261020085427.htm",
           "source": "Science Daily",
-          "date": "2026-10-20"
+          "date": "2026-10-22"
         },
         {
-          "title": "Tire-derived pollutant found at elevated levels in critical fish habitats",
-          "summary": "Endangered coho salmon and steelhead trout live and spawn in habitats surrounded by human activity, such as the San Francisco Bay Area. During a recent storm, researchers found high levels of the tire-derived pollutant…",
-          "url": "https://phys.org/news/2026-10-derived-pollutant-elevated-critical-fish.html",
+          "title": "Massive carbon stocks in grasslands are ignored by climate finance",
+          "summary": "Open ecosystems—nonforested landscapes such as grasslands, shrublands and savannas—can store vast amounts of carbon while supporting water supply, biodiversity and other ecosystem services. Yet the potential of open…",
+          "url": "https://phys.org/news/2026-10-massive-carbon-stocks-grasslands-climate.html",
           "source": "Phys.org",
-          "date": "2026-10-22"
+          "date": "2026-10-23"
+        },
+        {
+          "title": "Marine heat waves suppress nutrient use, reproductive flexibility in humpback whales",
+          "summary": "A new study led by University of Hawai'i (UH) at Mānoa researchers reveals how extreme ocean warming disrupts whale metabolism, nutrition and reproductive success and what the developing 2026–2027 El Niño could mean…",
+          "url": "https://phys.org/news/2026-10-marine-suppress-nutrient-reproductive-flexibility.html",
+          "source": "Phys.org",
+          "date": "2026-10-23"
         }
       ]
     },
@@ -125,39 +125,39 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Wildfires cause Amazon to emit 1.17 billion more metric tons of CO₂ than it absorbs",
-          "summary": "From 2010 to 2024, the Amazon rainforest—the largest tropical rainforest on the planet—released an average of 1.17 billion metric tons more carbon dioxide (CO₂) into the atmosphere than it absorbed each year. Wildfires…",
-          "url": "https://phys.org/news/2026-10-wildfires-amazon-emit-billion-metric.html",
-          "source": "Phys.org",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "A rock plunged 90 kilometers into Earth and revealed something unexpected",
-          "summary": "Scientists discovered a rock in Papua New Guinea that plunged more than 90 kilometers beneath Earth's surface, revealing a bizarre temperature pattern that challenges established theories of Earth's interior. The…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261020084816.htm",
+          "title": "One of Earth’s most powerful supervolcanoes is refilling with fresh magma",
+          "summary": "Deep beneath Japan’s Kikai caldera, a massive magma reservoir is refilling 7,300 years after one of the most powerful volcanic eruptions in Earth's recent geological history. Scientists used underwater seismic surveys…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261023003214.htm",
           "source": "Science Daily",
-          "date": "2026-10-22"
+          "date": "2026-10-23"
         },
         {
-          "title": "Drought shifts more plant root cells into newly discovered environmental response mode",
-          "summary": "Scientists have discovered a hidden layer of identity in plant root cells: an \"environmental mode\" that switches on in some cells and becomes more common when water is scarce. The study, led by Dr. Marina Oliva and…",
-          "url": "https://phys.org/news/2026-10-drought-shifts-root-cells-newly.html",
+          "title": "Taiwan warns of 'destructive winds' as Typhoon Champi batters island",
+          "summary": "A powerful typhoon pounded Taiwan on Friday as authorities warned of \"destructive winds\" and urged locals to shelter from the storm.",
+          "url": "https://phys.org/news/2026-10-taiwan-destructive-typhoon-champi-batters.html",
           "source": "Phys.org",
-          "date": "2026-10-22"
+          "date": "2026-10-23"
         },
         {
-          "title": "When climate data is transformed into visuals, some people and places get overlooked",
-          "summary": "When a climate disaster happens, people thousands of miles away may encounter it through numbers: how many people died, how many were displaced, how many homes were destroyed and how much infrastructure was damaged. But…",
-          "url": "https://phys.org/news/2026-10-climate-visuals-people-overlooked.html",
+          "title": "Nearly 20% of Switzerland’s glacier ice has vanished in just five years",
+          "summary": "Switzerland’s glaciers are disappearing at an alarming rate, losing more than 5% of their ice volume in 2026 alone. Some of the country’s most famous glaciers experienced their worst melting on record, while several…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261022081316.htm",
+          "source": "Science Daily",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "Summer 2026 heat toll exceeded 50,000 deaths in European cities, analysis estimates",
+          "summary": "More than 50,000 heat-related deaths are estimated to have occurred in urban areas across Europe during summer 2026, with around two-thirds attributed to human-induced climate change, according to new research led by…",
+          "url": "https://phys.org/news/2026-10-summer-toll-exceeded-deaths-european.html",
           "source": "Phys.org",
-          "date": "2026-10-22"
+          "date": "2026-10-23"
         },
         {
-          "title": "Why does anything exist? New theory emerges",
-          "summary": "Why does anything exist? A new theory suggests a forgotten particle might have shifted the balance between matter and antimatter. The post Why does anything exist? New theory emerges first appeared on EarthSky .",
-          "url": "https://earthsky.org/space/why-does-anything-exist-decoupled-heavy-neutrino/",
-          "source": "EarthSky",
-          "date": "2026-10-22"
+          "title": "El Niño then and now",
+          "summary": "El Niño is part of a natural climate pattern that occurs roughly every two to seven years, bringing warmer-than-normal water to parts of the equatorial Pacific. The most recent very strong El Niño events, in 1997–98 and…",
+          "url": "https://phys.org/news/2026-10-el-nio-1.html",
+          "source": "Phys.org",
+          "date": "2026-10-23"
         }
       ]
     },
@@ -165,18 +165,25 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "People are vibe coding copyrighted apps with AI – will tech firms sue?",
-          "summary": "Every time a new technology hits the internet, there is a battle between the rights of users and major companies. To see how this will play out with AI, columnist Jacob Aron looks to examples from the past",
-          "url": "https://www.newscientist.com/article/2595251-people-are-vibe-coding-copyrighted-apps-with-ai-will-tech-firms-sue/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-10-21"
+          "title": "Cambridge scientists create a $10 chip that could put a medical lab on your wrist",
+          "summary": "Cambridge researchers have created a groundbreaking $10 optical sensor that delivers the precision of laboratory equipment in a device small enough for wearable technology. It identified foods, plastics, and medicines…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261022081312.htm",
+          "source": "Science Daily",
+          "date": "2026-10-23"
         },
         {
-          "title": "Are you using AI to study? Here's how to do it well",
-          "summary": "Artificial intelligence (AI) means high school and college students now have access to a resource that can potentially \"do all the work for them.\" While this can reduce students' immediate stress about submitting…",
-          "url": "https://phys.org/news/2026-10-ai-2.html",
+          "title": "MIT scientists build a tiny robot that swims using living muscle cells",
+          "summary": "MIT engineers have built a paper-thin swimming robot powered by living muscle cells that respond to flashes of light, allowing it to swim and steer through water. The breakthrough could pave the way for tiny…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261022081308.htm",
+          "source": "Science Daily",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "When computer science meets the alpaca immune system",
+          "summary": "After earning bachelor's and Ph.D. degrees in bioengineering with a focus on molecular biology, Will White, a postdoctoral scholar in the Department of Computer Science at Tufts, was pretty certain his future research…",
+          "url": "https://phys.org/news/2026-10-science-alpaca-immune.html",
           "source": "Phys.org",
-          "date": "2026-10-22"
+          "date": "2026-10-23"
         },
         {
           "title": "Global race to update computers as AI discovers most disruptive hack yet",
@@ -184,13 +191,6 @@
           "url": "https://www.newscientist.com/article/2595282-global-race-to-update-computers-as-ai-discovers-most-disruptive-hack-yet/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
           "date": "2026-10-22"
-        },
-        {
-          "title": "Digital scents could add a new dimension to virtual worlds",
-          "summary": "It's now possible to convert a handful of smells into electronic signals that can be sent through the internet",
-          "url": "https://www.newscientist.com/article/2595189-digital-scents-could-add-a-new-dimension-to-virtual-worlds/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-10-21"
         }
       ]
     },
@@ -198,18 +198,32 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "Curtain-like plasma structures explain solar jets' apparent spinning in simulations",
-          "summary": "An international team of scientists from the University of Sheffield and the Indian Institute of Astrophysics, led by a postdoctoral research fellow from the University of Newcastle, Australia, has discovered that solar…",
-          "url": "https://phys.org/news/2026-10-curtain-plasma-solar-jets-apparent.html",
-          "source": "Phys.org",
-          "date": "2026-10-22"
+          "title": "Nearly 3,000 exploding stars challenge our understanding of the Universe",
+          "summary": "A massive analysis of 2,884 exploding stars has uncovered new evidence that dark energy, the mysterious force accelerating the universe’s expansion, may change over time. The findings challenge a cornerstone of modern…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261021231244.htm",
+          "source": "Science Daily",
+          "date": "2026-10-23"
         },
         {
-          "title": "Young women can improve their online experience without giving up social media",
-          "summary": "Young women are often exposed to social media content that can contribute to negative body image, but new research has found small, deliberate changes to their feeds could help reduce body image pressures.",
-          "url": "https://phys.org/news/2026-10-young-women-online-social-media.html",
+          "title": "Gold nanoparticles unexpectedly alter process that controls electrical conductivity in organic devices",
+          "summary": "Researchers at Umea university thought gold particles would make electronic components emit more light. Instead, they discovered an unexpected effect that could be important for the future of organic electronics.",
+          "url": "https://phys.org/news/2026-10-gold-nanoparticles-unexpectedly-electrical-devices.html",
           "source": "Phys.org",
-          "date": "2026-10-22"
+          "date": "2026-10-23"
+        },
+        {
+          "title": "What makes glass good at conducting heat? Sound holds the key",
+          "summary": "Glass can keep a drink safely contained, protect a smartphone screen, or serve as a foundation for electronic components. But when it comes to controlling heat, this familiar material still holds some scientific…",
+          "url": "https://phys.org/news/2026-10-glass-good-key.html",
+          "source": "Phys.org",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "40 years later, Chernobyl's nuclear fallout is not what scientists expected",
+          "summary": "Forty years after the Chornobyl disaster, tiny radioactive particles still linger in the soil, carrying a dangerous legacy. Using powerful X-rays, scientists discovered that some of these particles have remained…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261021231241.htm",
+          "source": "Science Daily",
+          "date": "2026-10-23"
         }
       ]
     }
