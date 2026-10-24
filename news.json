@@ -1,13 +1,20 @@
 {
-  "updated": "2026-10-23T17:44:05Z",
+  "updated": "2026-10-24T16:26:40Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "DNA programs a cell-free material to build its own motors and move",
-          "summary": "Researchers have created a material that manufactures the proteins responsible for cell movement, without needing intact living cells. By embedding cell-free gene expression into a thin sheet of protein filaments, they…",
-          "url": "https://phys.org/news/2026-10-dna-cell-free-material-motors.html",
+          "title": "Scientists demonstrate AI-designed enzyme for drug synthesis",
+          "summary": "The new RFD4-Proteina unified generative model for protein design—created by the Institute for Protein Design (IPD) in collaboration with NVIDIA—uses advanced AI to generate entirely new protein sequences and…",
+          "url": "https://phys.org/news/2026-10-scientists-ai-enzyme-drug-synthesis.html",
+          "source": "Phys.org",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "Bacteria reinvent their weapons through selection, chance and gene swapping",
+          "summary": "Many of the most potent antibiotics originate from bacteria. A large proportion belong to a class of compounds known as nonribosomal peptides (NRP). They are produced by large bacterial enzyme machineries—the…",
+          "url": "https://phys.org/news/2026-10-bacteria-reinvent-weapons-chance-gene.html",
           "source": "Phys.org",
           "date": "2026-10-23"
         },
@@ -19,24 +26,17 @@
           "date": "2026-10-23"
         },
         {
-          "title": "Archimedes screw inspires single-molecule motor powered by electric current",
-          "summary": "Molecular machines are regarded as the next step in miniaturization. Their models can be found in living cells, where molecular motors convert energy and generate movement. Scientists have been working for decades to…",
-          "url": "https://phys.org/news/2026-10-archimedes-molecule-motor-powered-electric.html",
+          "title": "Counting magnetic flux quanta offers new way to measure photon numbers",
+          "summary": "Researchers at AIST have directly observed magnetic flux quanta generated in a superconductor by photon absorption and demonstrated a new principle of photon detection that identifies the number of photons based on the…",
+          "url": "https://phys.org/news/2026-10-magnetic-flux-quanta-photon.html",
           "source": "Phys.org",
           "date": "2026-10-23"
         },
         {
-          "title": "Mapping the cell: International research team investigates the endoplasmic reticulum",
-          "summary": "Human cells contain billions of molecules. To prevent complete chaos, these molecules and the reactions between them are organized within structures known as organelles. One of the cell's most important organelles is…",
-          "url": "https://phys.org/news/2026-10-cell-international-team-endoplasmic-reticulum.html",
+          "title": "Chemically modified sugars enable direct nanostructure formation",
+          "summary": "Researchers at AIST have demonstrated the synthesis of nanoporous carbonaceous materials and carbonaceous materials with layered nanostructures through a simple process involving the chemical modification of common…",
+          "url": "https://phys.org/news/2026-10-chemically-sugars-enable-nanostructure-formation.html",
           "source": "Phys.org",
-          "date": "2026-10-23"
-        },
-        {
-          "title": "Dental implants can hijack your immune system, scientists discover",
-          "summary": "Researchers have uncovered a surprising reason dental implant infections often resist antibiotics: the implants themselves can contribute to the problem. Bacteria corrode titanium implants, releasing microscopic…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261022081314.htm",
-          "source": "Science Daily",
           "date": "2026-10-23"
         }
       ]
@@ -45,6 +45,20 @@
       "emoji": "🚀",
       "articles": [
         {
+          "title": "NASA’s Artemis III Mission to Test Future Moon Lander Operations",
+          "summary": "Before astronauts return to the lunar surface, NASA will first conduct one of the most ambitious and complex test missions in the agency&#8217;s history.&#160; Launching in 2027, Artemis III will send NASA astronauts…",
+          "url": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
+          "source": "NASA",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza",
+          "summary": "NASA’s Neil Gehrels Swift Observatory has ended its science mission now that the spacecraft is orbiting less than 171 miles (275 kilometers) above Earth’s surface. The greater atmospheric drag at this height prevents…",
+          "url": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/",
+          "source": "NASA",
+          "date": "2026-10-23"
+        },
+        {
           "title": "Rocket Lab launches 3 'Hawk' satellites to orbit to gather signals intelligence",
           "summary": "Rocket Lab launched a trio of private signals-intelligence satellites to orbit today (Oct. 21), the 19th mission of the year for the California-based company.",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-3-hawk-satellites-to-orbit-to-gather-signals-intelligence",
@@ -52,11 +66,11 @@
           "date": "2026-10-23"
         },
         {
-          "title": "On this day in space! Oct. 20, 1970: The Soviet Union launches last-ever Zond moon mission",
-          "summary": "On Oct. 20, 1970, the Soviet Union launched the Zond 8 spacecraft on a mission to the moon. Here's why it mattered.",
-          "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-20-2026",
-          "source": "Space.com",
-          "date": "2026-10-20"
+          "title": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
+          "summary": "As NASA returns humans to the lunar surface and establishes a long-term presence on our closest celestial neighbor, the agency and commercial human landing system providers Blue Origin and SpaceX have streamlined the…",
+          "url": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
+          "source": "NASA",
+          "date": "2026-10-23"
         },
         {
           "title": "Spiral’s Edge",
@@ -64,20 +78,6 @@
           "url": "https://www.nasa.gov/image-article/spirals-edge/",
           "source": "NASA",
           "date": "2026-10-22"
-        },
-        {
-          "title": "Artemis I: Crystals of experimental detectors record radiation doses near the moon",
-          "summary": "Do cosmic radiation doses near the moon differ significantly from those received by astronauts in low Earth orbit? Experimental lithium fluoride detectors, installed aboard the Orion spacecraft during the Artemis I…",
-          "url": "https://phys.org/news/2026-10-artemis-crystals-experimental-detectors-doses.html",
-          "source": "Phys.org",
-          "date": "2026-10-23"
-        },
-        {
-          "title": "Pedal to the metal: NASA's Psyche heads toward asteroid belt",
-          "summary": "With a successful Mars gravity assist in its rearview mirror, NASA's Psyche spacecraft has fired up its thrusters and is accelerating toward the metal-rich asteroid of the same name. During the first leg of its journey…",
-          "url": "https://phys.org/news/2026-10-metal-nasa-psyche-asteroid-belt.html",
-          "source": "Phys.org",
-          "date": "2026-10-23"
         }
       ]
     },
@@ -85,39 +85,39 @@
       "emoji": "🐾",
       "articles": [
         {
+          "title": "This 150-million-year-old bird had dinosaur teeth and a strange secret",
+          "summary": "A 150-million-year-old fossil discovered in China reveals a bizarre early bird with sharp teeth, a dinosaur-like claw, and a body built for life on the ground rather than flight. Scientists believe it represents the…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261023023710.htm",
+          "source": "Science Daily",
+          "date": "2026-10-24"
+        },
+        {
+          "title": "New long‑clawed British dinosaur is the first of its kind in Europe",
+          "summary": "The fossilized skull of a new species of mysterious meat-eating dinosaur from the Isle of Wight has been rediscovered in the collections of the Natural History Museum after over 100 years in storage.",
+          "url": "https://phys.org/news/2026-10-longclawed-british-dinosaur-kind-europe.html",
+          "source": "Phys.org",
+          "date": "2026-10-24"
+        },
+        {
+          "title": "Seabird family tree predicts which species accumulate plastic better than diet, global analysis finds",
+          "summary": "What seabirds eat might seem like a good starting point for identifying species that tend to accumulate plastic in their digestive systems. Yet a recent global analysis suggests that mapping the evolutionary relatives…",
+          "url": "https://phys.org/news/2026-10-seabird-family-tree-species-accumulate.html",
+          "source": "Phys.org",
+          "date": "2026-10-24"
+        },
+        {
+          "title": "Habitat explains Finnish animal distributions better than climate, study finds",
+          "summary": "Researchers at the University of Helsinki wanted to understand which is the dominant factor for species occurrence and abundance: the climate or habitat-related variables, such as their natural state and the share of…",
+          "url": "https://phys.org/news/2026-10-habitat-finnish-animal-climate.html",
+          "source": "Phys.org",
+          "date": "2026-10-24"
+        },
+        {
           "title": "All tropical coral reefs could collapse within 50 years",
           "summary": "Shallow-water coral reefs are at high risk of disappearing by 2075, the IUCN has warned at a UN biodiversity conference. The loss would decimate fisheries and speed up coastal erosion",
           "url": "https://www.newscientist.com/article/2595378-all-tropical-coral-reefs-could-collapse-within-50-years/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
           "date": "2026-10-22"
-        },
-        {
-          "title": "Birds are more afraid of women than men. Scientists have no idea why",
-          "summary": "Scientists have uncovered a strange pattern in urban bird behavior: Across five European countries and 37 species, birds consistently fled sooner when approached by women than men. Researchers have no clear explanation…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261021231250.htm",
-          "source": "Science Daily",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Millions take fish oil for brain health. A two-year study found no benefit",
-          "summary": "A surprising two-year clinical trial found that fish oil supplements successfully delivered omega-3s to the brain but failed to improve memory or protect against Alzheimer's-related brain shrinkage. Researchers suspect…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261020085427.htm",
-          "source": "Science Daily",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Massive carbon stocks in grasslands are ignored by climate finance",
-          "summary": "Open ecosystems—nonforested landscapes such as grasslands, shrublands and savannas—can store vast amounts of carbon while supporting water supply, biodiversity and other ecosystem services. Yet the potential of open…",
-          "url": "https://phys.org/news/2026-10-massive-carbon-stocks-grasslands-climate.html",
-          "source": "Phys.org",
-          "date": "2026-10-23"
-        },
-        {
-          "title": "Marine heat waves suppress nutrient use, reproductive flexibility in humpback whales",
-          "summary": "A new study led by University of Hawai'i (UH) at Mānoa researchers reveals how extreme ocean warming disrupts whale metabolism, nutrition and reproductive success and what the developing 2026–2027 El Niño could mean…",
-          "url": "https://phys.org/news/2026-10-marine-suppress-nutrient-reproductive-flexibility.html",
-          "source": "Phys.org",
-          "date": "2026-10-23"
         }
       ]
     },
@@ -132,9 +132,16 @@
           "date": "2026-10-23"
         },
         {
-          "title": "Taiwan warns of 'destructive winds' as Typhoon Champi batters island",
-          "summary": "A powerful typhoon pounded Taiwan on Friday as authorities warned of \"destructive winds\" and urged locals to shelter from the storm.",
-          "url": "https://phys.org/news/2026-10-taiwan-destructive-typhoon-champi-batters.html",
+          "title": "Typhoon Champi knocks out power to thousands in Taiwan",
+          "summary": "Emergency crews scrambled on Saturday to restore power to tens of thousands of homes in Taiwan after Typhoon Champi's fierce winds battered the island, with the storm moving toward China and Japan.",
+          "url": "https://phys.org/news/2026-10-typhoon-champi-power-thousands-taiwan.html",
+          "source": "Phys.org",
+          "date": "2026-10-24"
+        },
+        {
+          "title": "Everyday Mylar turned into a promising insulator for lunar habitats",
+          "summary": "Establishing a long-term presence on the moon will require solving challenges that are easy to overlook on Earth. Lunar temperatures, for instance, can vary from hundreds of degrees below zero to boiling, making…",
+          "url": "https://phys.org/news/2026-10-everyday-mylar-insulator-lunar-habitats.html",
           "source": "Phys.org",
           "date": "2026-10-23"
         },
@@ -146,18 +153,11 @@
           "date": "2026-10-23"
         },
         {
-          "title": "Summer 2026 heat toll exceeded 50,000 deaths in European cities, analysis estimates",
-          "summary": "More than 50,000 heat-related deaths are estimated to have occurred in urban areas across Europe during summer 2026, with around two-thirds attributed to human-induced climate change, according to new research led by…",
-          "url": "https://phys.org/news/2026-10-summer-toll-exceeded-deaths-european.html",
-          "source": "Phys.org",
-          "date": "2026-10-23"
-        },
-        {
-          "title": "El Niño then and now",
-          "summary": "El Niño is part of a natural climate pattern that occurs roughly every two to seven years, bringing warmer-than-normal water to parts of the equatorial Pacific. The most recent very strong El Niño events, in 1997–98 and…",
-          "url": "https://phys.org/news/2026-10-el-nio-1.html",
-          "source": "Phys.org",
-          "date": "2026-10-23"
+          "title": "Why does anything exist? New theory emerges",
+          "summary": "Why does anything exist? A new theory suggests a forgotten particle might have shifted the balance between matter and antimatter. The post Why does anything exist? New theory emerges first appeared on EarthSky .",
+          "url": "https://earthsky.org/space/why-does-anything-exist-decoupled-heavy-neutrino/",
+          "source": "EarthSky",
+          "date": "2026-10-22"
         }
       ]
     },
@@ -179,11 +179,11 @@
           "date": "2026-10-23"
         },
         {
-          "title": "When computer science meets the alpaca immune system",
-          "summary": "After earning bachelor's and Ph.D. degrees in bioengineering with a focus on molecular biology, Will White, a postdoctoral scholar in the Department of Computer Science at Tufts, was pretty certain his future research…",
-          "url": "https://phys.org/news/2026-10-science-alpaca-immune.html",
+          "title": "Swinging virtual lightsabers and punching improve pattern-based learning in VR tests",
+          "summary": "Punching a virtual response box or swinging a virtual lightsaber can dramatically improve learning on certain tasks, according to new research from Florida Atlantic University's College of Engineering and Computer…",
+          "url": "https://phys.org/news/2026-10-virtual-lightsabers-pattern-based-vr.html",
           "source": "Phys.org",
-          "date": "2026-10-23"
+          "date": "2026-10-24"
         },
         {
           "title": "Global race to update computers as AI discovers most disruptive hack yet",
@@ -205,16 +205,9 @@
           "date": "2026-10-23"
         },
         {
-          "title": "Gold nanoparticles unexpectedly alter process that controls electrical conductivity in organic devices",
-          "summary": "Researchers at Umea university thought gold particles would make electronic components emit more light. Instead, they discovered an unexpected effect that could be important for the future of organic electronics.",
-          "url": "https://phys.org/news/2026-10-gold-nanoparticles-unexpectedly-electrical-devices.html",
-          "source": "Phys.org",
-          "date": "2026-10-23"
-        },
-        {
-          "title": "What makes glass good at conducting heat? Sound holds the key",
-          "summary": "Glass can keep a drink safely contained, protect a smartphone screen, or serve as a foundation for electronic components. But when it comes to controlling heat, this familiar material still holds some scientific…",
-          "url": "https://phys.org/news/2026-10-glass-good-key.html",
+          "title": "Plain silicon grating reveals a hidden 'twist' in light from electron beams",
+          "summary": "In 1953, two physicists showed that an electron beam skimming past a grating emits light whose color depends only on the electron's speed and the grating's spacing. Known as Smith-Purcell radiation, this phenomenon has…",
+          "url": "https://phys.org/news/2026-10-plain-silicon-reveals-hidden-electron.html",
           "source": "Phys.org",
           "date": "2026-10-23"
         },
