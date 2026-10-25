@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T16:26:40Z",
+  "updated": "2026-10-25T16:58:16Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
@@ -8,13 +8,6 @@
           "title": "Scientists demonstrate AI-designed enzyme for drug synthesis",
           "summary": "The new RFD4-Proteina unified generative model for protein design—created by the Institute for Protein Design (IPD) in collaboration with NVIDIA—uses advanced AI to generate entirely new protein sequences and…",
           "url": "https://phys.org/news/2026-10-scientists-ai-enzyme-drug-synthesis.html",
-          "source": "Phys.org",
-          "date": "2026-10-23"
-        },
-        {
-          "title": "Bacteria reinvent their weapons through selection, chance and gene swapping",
-          "summary": "Many of the most potent antibiotics originate from bacteria. A large proportion belong to a class of compounds known as nonribosomal peptides (NRP). They are produced by large bacterial enzyme machineries—the…",
-          "url": "https://phys.org/news/2026-10-bacteria-reinvent-weapons-chance-gene.html",
           "source": "Phys.org",
           "date": "2026-10-23"
         },
@@ -33,11 +26,18 @@
           "date": "2026-10-23"
         },
         {
-          "title": "Chemically modified sugars enable direct nanostructure formation",
-          "summary": "Researchers at AIST have demonstrated the synthesis of nanoporous carbonaceous materials and carbonaceous materials with layered nanostructures through a simple process involving the chemical modification of common…",
-          "url": "https://phys.org/news/2026-10-chemically-sugars-enable-nanostructure-formation.html",
-          "source": "Phys.org",
-          "date": "2026-10-23"
+          "title": "Low-dose aspirin linked to 70% lower dementia risk, but there's a catch",
+          "summary": "A common, inexpensive medication could hold an unexpected clue to preventing dementia. Researchers found that older adults with a specific genetic profile had a 70% lower relative risk of dementia when taking low-dose…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261024222026.htm",
+          "source": "Science Daily",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "Scientists discover how pancreatic cancer rewrites its DNA to escape treatment",
+          "summary": "Scientists have discovered how pancreatic cancer cells continually reshape their genetic makeup to become more aggressive, spread, and evade treatment. In laboratory experiments, blocking a key gene reversed some of…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261024221849.htm",
+          "source": "Science Daily",
+          "date": "2026-10-25"
         }
       ]
     },
@@ -59,7 +59,7 @@
           "date": "2026-10-23"
         },
         {
-          "title": "Rocket Lab launches 3 'Hawk' satellites to orbit to gather signals intelligence",
+          "title": "Rocket Lab launches 3 'Hawk' satellites to orbit to gather signals intelligence (video)",
           "summary": "Rocket Lab launched a trio of private signals-intelligence satellites to orbit today (Oct. 21), the 19th mission of the year for the California-based company.",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-3-hawk-satellites-to-orbit-to-gather-signals-intelligence",
           "source": "Space.com",
@@ -73,17 +73,24 @@
           "date": "2026-10-23"
         },
         {
-          "title": "Spiral’s Edge",
-          "summary": "This NASA Hubble Space Telescope image released on Oct. 16, 2026, features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove. Hubble…",
-          "url": "https://www.nasa.gov/image-article/spirals-edge/",
-          "source": "NASA",
-          "date": "2026-10-22"
+          "title": "SpaceX launches Starlink satellites from California as Falcon 9 cadence slows (video)",
+          "summary": "SpaceX sent 27 more of its Starlink broadband satellites to orbit today (Oct. 23), in its first Starlink launch in 11 days.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-15-15-b1063-ocisly",
+          "source": "Space.com",
+          "date": "2026-10-23"
         }
       ]
     },
     "Animals & Nature": {
       "emoji": "🐾",
       "articles": [
+        {
+          "title": "New evidence suggests spinosaurus spent most of its life underwater",
+          "summary": "Millions of years after animals first conquered land, some took an extraordinary evolutionary U-turn and returned to the water. Using machine learning and thousands of fossil measurements, Yale scientists have uncovered…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261024221956.htm",
+          "source": "Science Daily",
+          "date": "2026-10-25"
+        },
         {
           "title": "This 150-million-year-old bird had dinosaur teeth and a strange secret",
           "summary": "A 150-million-year-old fossil discovered in China reveals a bizarre early bird with sharp teeth, a dinosaur-like claw, and a body built for life on the ground rather than flight. Scientists believe it represents the…",
@@ -99,25 +106,18 @@
           "date": "2026-10-24"
         },
         {
+          "title": "Who should have a say in which species are saved? The California condor offers lessons for a global biodiversity treaty",
+          "summary": "In 1987, biologists captured the last free-flying condor to transfer it to captivity, and the largest flying North American bird species was officially declared extinct in the wild. Today, after decades of coordinated…",
+          "url": "https://phys.org/news/2026-10-species-california-condor-lessons-global.html",
+          "source": "Phys.org",
+          "date": "2026-10-25"
+        },
+        {
           "title": "Seabird family tree predicts which species accumulate plastic better than diet, global analysis finds",
           "summary": "What seabirds eat might seem like a good starting point for identifying species that tend to accumulate plastic in their digestive systems. Yet a recent global analysis suggests that mapping the evolutionary relatives…",
           "url": "https://phys.org/news/2026-10-seabird-family-tree-species-accumulate.html",
           "source": "Phys.org",
           "date": "2026-10-24"
-        },
-        {
-          "title": "Habitat explains Finnish animal distributions better than climate, study finds",
-          "summary": "Researchers at the University of Helsinki wanted to understand which is the dominant factor for species occurrence and abundance: the climate or habitat-related variables, such as their natural state and the share of…",
-          "url": "https://phys.org/news/2026-10-habitat-finnish-animal-climate.html",
-          "source": "Phys.org",
-          "date": "2026-10-24"
-        },
-        {
-          "title": "All tropical coral reefs could collapse within 50 years",
-          "summary": "Shallow-water coral reefs are at high risk of disappearing by 2075, the IUCN has warned at a UN biodiversity conference. The loss would decimate fisheries and speed up coastal erosion",
-          "url": "https://www.newscientist.com/article/2595378-all-tropical-coral-reefs-could-collapse-within-50-years/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-10-22"
         }
       ]
     },
@@ -137,13 +137,6 @@
           "url": "https://phys.org/news/2026-10-typhoon-champi-power-thousands-taiwan.html",
           "source": "Phys.org",
           "date": "2026-10-24"
-        },
-        {
-          "title": "Everyday Mylar turned into a promising insulator for lunar habitats",
-          "summary": "Establishing a long-term presence on the moon will require solving challenges that are easy to overlook on Earth. Lunar temperatures, for instance, can vary from hundreds of degrees below zero to boiling, making…",
-          "url": "https://phys.org/news/2026-10-everyday-mylar-insulator-lunar-habitats.html",
-          "source": "Phys.org",
-          "date": "2026-10-23"
         },
         {
           "title": "Nearly 20% of Switzerland’s glacier ice has vanished in just five years",
@@ -198,25 +191,11 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "Nearly 3,000 exploding stars challenge our understanding of the Universe",
-          "summary": "A massive analysis of 2,884 exploding stars has uncovered new evidence that dark energy, the mysterious force accelerating the universe’s expansion, may change over time. The findings challenge a cornerstone of modern…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261021231244.htm",
-          "source": "Science Daily",
-          "date": "2026-10-23"
-        },
-        {
-          "title": "Plain silicon grating reveals a hidden 'twist' in light from electron beams",
-          "summary": "In 1953, two physicists showed that an electron beam skimming past a grating emits light whose color depends only on the electron's speed and the grating's spacing. Known as Smith-Purcell radiation, this phenomenon has…",
-          "url": "https://phys.org/news/2026-10-plain-silicon-reveals-hidden-electron.html",
+          "title": "Single X-ray pulse reveals plasma nanostructures across scales with one camera",
+          "summary": "Understanding instabilities and turbulence in plasmas is one of the key challenges across a wide range of plasma research fields, including nuclear fusion, astrophysics and laser-plasma physics. In plasmas, slight…",
+          "url": "https://phys.org/news/2026-10-ray-pulse-reveals-plasma-nanostructures.html",
           "source": "Phys.org",
-          "date": "2026-10-23"
-        },
-        {
-          "title": "40 years later, Chernobyl's nuclear fallout is not what scientists expected",
-          "summary": "Forty years after the Chornobyl disaster, tiny radioactive particles still linger in the soil, carrying a dangerous legacy. Using powerful X-rays, scientists discovered that some of these particles have remained…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261021231241.htm",
-          "source": "Science Daily",
-          "date": "2026-10-23"
+          "date": "2026-10-24"
         }
       ]
     }
