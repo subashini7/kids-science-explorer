@@ -1,29 +1,29 @@
 {
-  "updated": "2026-10-25T16:58:16Z",
+  "updated": "2026-10-26T19:02:29Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "Scientists demonstrate AI-designed enzyme for drug synthesis",
-          "summary": "The new RFD4-Proteina unified generative model for protein design—created by the Institute for Protein Design (IPD) in collaboration with NVIDIA—uses advanced AI to generate entirely new protein sequences and…",
-          "url": "https://phys.org/news/2026-10-scientists-ai-enzyme-drug-synthesis.html",
+          "title": "Interfacial intelligence: A new way to design polymer brushes",
+          "summary": "Polymer brushes are dense layers of polymer chains that can be engineered to change how a surface interacts with its surroundings. By controlling interactions with water, ions, proteins and other materials, they can…",
+          "url": "https://phys.org/news/2026-10-interfacial-intelligence-polymer.html",
           "source": "Phys.org",
-          "date": "2026-10-23"
+          "date": "2026-10-26"
         },
         {
-          "title": "A tiny defect in a crystal reveals a big quantum surprise",
-          "summary": "Researchers have solved a long-standing challenge in understanding how tiny defects in materials like diamond and silicon carbide behave when exposed to light. Their new computational method revealed a surprisingly…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261022081302.htm",
-          "source": "Science Daily",
-          "date": "2026-10-23"
+          "title": "Protein fibers, a hallmark of Alzheimer's, spotted making genetic deliveries to sperm cells",
+          "summary": "Unexpectedly, a kind of protein that is usually linked with diseases in the brain may play a vital role in semen, helping shepherd genetic material into sperm cells, scientists at Columbia's Zuckerman Institute report…",
+          "url": "https://phys.org/news/2026-10-protein-fibers-hallmark-alzheimer-genetic.html",
+          "source": "Phys.org",
+          "date": "2026-10-26"
         },
         {
-          "title": "Counting magnetic flux quanta offers new way to measure photon numbers",
-          "summary": "Researchers at AIST have directly observed magnetic flux quanta generated in a superconductor by photon absorption and demonstrated a new principle of photon detection that identifies the number of photons based on the…",
-          "url": "https://phys.org/news/2026-10-magnetic-flux-quanta-photon.html",
+          "title": "Diamond defects confirm 80-year-old theory of crystal stress",
+          "summary": "For the first time, researchers in Japan have directly mapped several components of the stress field surrounding an atomic-scale flaw in the crystal structure of diamond. Led by Tokuyuki Teraji at Japan's National…",
+          "url": "https://phys.org/news/2026-10-diamond-defects-year-theory-crystal.html",
           "source": "Phys.org",
-          "date": "2026-10-23"
+          "date": "2026-10-26"
         },
         {
           "title": "Low-dose aspirin linked to 70% lower dementia risk, but there's a catch",
@@ -45,6 +45,13 @@
       "emoji": "🚀",
       "articles": [
         {
+          "title": "NASA ends Swift space telescope mission after failed rescue attempt",
+          "summary": "NASA has officially ended the mission of its Swift Observatory, after a private satellite failed to meet up with the aging spacecraft in orbit.",
+          "url": "https://www.space.com/space-exploration/missions/nasa-ends-swift-space-telescope-mission-after-failed-rescue-attempt",
+          "source": "Space.com",
+          "date": "2026-10-26"
+        },
+        {
           "title": "NASA’s Artemis III Mission to Test Future Moon Lander Operations",
           "summary": "Before astronauts return to the lunar surface, NASA will first conduct one of the most ambitious and complex test missions in the agency&#8217;s history.&#160; Launching in 2027, Artemis III will send NASA astronauts…",
           "url": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
@@ -59,25 +66,18 @@
           "date": "2026-10-23"
         },
         {
-          "title": "Rocket Lab launches 3 'Hawk' satellites to orbit to gather signals intelligence (video)",
-          "summary": "Rocket Lab launched a trio of private signals-intelligence satellites to orbit today (Oct. 21), the 19th mission of the year for the California-based company.",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-3-hawk-satellites-to-orbit-to-gather-signals-intelligence",
-          "source": "Space.com",
-          "date": "2026-10-23"
+          "title": "Stellar collisions may have been common when the universe was young",
+          "summary": "In our solar system's corner of the galaxy, stars rarely collide. It makes sense: Space is vast, and stars have room to roam. Even in most of the present-day universe, stellar collisions are rare. The James Webb Space…",
+          "url": "https://phys.org/news/2026-10-stellar-collisions-common-universe-young.html",
+          "source": "Phys.org",
+          "date": "2026-10-26"
         },
         {
-          "title": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
-          "summary": "As NASA returns humans to the lunar surface and establishes a long-term presence on our closest celestial neighbor, the agency and commercial human landing system providers Blue Origin and SpaceX have streamlined the…",
-          "url": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
-          "source": "NASA",
-          "date": "2026-10-23"
-        },
-        {
-          "title": "SpaceX launches Starlink satellites from California as Falcon 9 cadence slows (video)",
-          "summary": "SpaceX sent 27 more of its Starlink broadband satellites to orbit today (Oct. 23), in its first Starlink launch in 11 days.",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-15-15-b1063-ocisly",
+          "title": "Glowing 'cauldron' of new stars | Space photo of the day for Oct. 26, 2026",
+          "summary": "The James Webb Space Telescope captured a spectacular star-forming region glowing 161,000 light-years from Earth in a satellite galaxy of the Milky Way.",
+          "url": "https://www.space.com/astronomy/glowing-cauldron-of-new-stars-space-photo-of-the-day-for-oct-26-2026",
           "source": "Space.com",
-          "date": "2026-10-23"
+          "date": "2026-10-26"
         }
       ]
     },
@@ -99,25 +99,25 @@
           "date": "2026-10-24"
         },
         {
-          "title": "New long‑clawed British dinosaur is the first of its kind in Europe",
-          "summary": "The fossilized skull of a new species of mysterious meat-eating dinosaur from the Isle of Wight has been rediscovered in the collections of the Natural History Museum after over 100 years in storage.",
-          "url": "https://phys.org/news/2026-10-longclawed-british-dinosaur-kind-europe.html",
+          "title": "Japan's largest marine DNA study detects 126 fish species farther north than previously recorded",
+          "summary": "As climate change reshapes habitats both on land and at sea, you might go to the beach one day, only to find yourself in a place that looks nothing like you remember, around sea creatures you don't recognize.",
+          "url": "https://phys.org/news/2026-10-japan-largest-marine-dna-fish.html",
           "source": "Phys.org",
-          "date": "2026-10-24"
+          "date": "2026-10-26"
         },
         {
-          "title": "Who should have a say in which species are saved? The California condor offers lessons for a global biodiversity treaty",
-          "summary": "In 1987, biologists captured the last free-flying condor to transfer it to captivity, and the largest flying North American bird species was officially declared extinct in the wild. Today, after decades of coordinated…",
-          "url": "https://phys.org/news/2026-10-species-california-condor-lessons-global.html",
-          "source": "Phys.org",
-          "date": "2026-10-25"
+          "title": "Predatory amphibians swam the seas 237 million years ago",
+          "summary": "Until now, it was thought that the squishy, permeable skin of amphibians was unsuited for marine life because it would absorb too much salt from sea water – but a fossil found in China upends that view",
+          "url": "https://www.newscientist.com/article/2595507-predatory-amphibians-swam-the-seas-237-million-years-ago/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-10-26"
         },
         {
-          "title": "Seabird family tree predicts which species accumulate plastic better than diet, global analysis finds",
-          "summary": "What seabirds eat might seem like a good starting point for identifying species that tend to accumulate plastic in their digestive systems. Yet a recent global analysis suggests that mapping the evolutionary relatives…",
-          "url": "https://phys.org/news/2026-10-seabird-family-tree-species-accumulate.html",
+          "title": "Biodiversity is a priority for European municipalities",
+          "summary": "As urbanization spreads worldwide, the loss and fragmentation of habitats are driving the global decline in biodiversity. At the same time, urban green spaces like parks, meadows and forests have the potential to…",
+          "url": "https://phys.org/news/2026-10-biodiversity-priority-european-municipalities.html",
           "source": "Phys.org",
-          "date": "2026-10-24"
+          "date": "2026-10-26"
         }
       ]
     },
@@ -132,18 +132,25 @@
           "date": "2026-10-23"
         },
         {
-          "title": "Typhoon Champi knocks out power to thousands in Taiwan",
-          "summary": "Emergency crews scrambled on Saturday to restore power to tens of thousands of homes in Taiwan after Typhoon Champi's fierce winds battered the island, with the storm moving toward China and Japan.",
-          "url": "https://phys.org/news/2026-10-typhoon-champi-power-thousands-taiwan.html",
-          "source": "Phys.org",
-          "date": "2026-10-24"
+          "title": "Satellites show some of the strongest evidence the AMOC is weakening",
+          "summary": "The crucial Atlantic current system that brings warmth to Europe has slowed 14 per cent in 30 years, according to an analysis of how much heat the ocean is releasing to the atmosphere",
+          "url": "https://www.newscientist.com/article/2595629-satellites-show-some-of-the-strongest-evidence-the-amoc-is-weakening/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-10-26"
         },
         {
-          "title": "Nearly 20% of Switzerland’s glacier ice has vanished in just five years",
-          "summary": "Switzerland’s glaciers are disappearing at an alarming rate, losing more than 5% of their ice volume in 2026 alone. Some of the country’s most famous glaciers experienced their worst melting on record, while several…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261022081316.htm",
-          "source": "Science Daily",
-          "date": "2026-10-23"
+          "title": "While some eucalypts are hard to kill, climate change may test the ability of others to survive",
+          "summary": "There's no tree like the humble eucalypt.",
+          "url": "https://phys.org/news/2026-10-eucalypts-hard-climate-ability-survive.html",
+          "source": "Phys.org",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "Habitable worlds: Better than Earth? Scientists wonder",
+          "summary": "Some scientists think there are more habitable worlds than Earth out there. What are they like? And how might we find them? The post Habitable worlds: Better than Earth? Scientists wonder first appeared on EarthSky .",
+          "url": "https://earthsky.org/space/habitable-worlds-more-than-earth-super-earths-exoplanets/",
+          "source": "EarthSky",
+          "date": "2026-10-26"
         },
         {
           "title": "Why does anything exist? New theory emerges",
@@ -158,32 +165,32 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "Cambridge scientists create a $10 chip that could put a medical lab on your wrist",
-          "summary": "Cambridge researchers have created a groundbreaking $10 optical sensor that delivers the precision of laboratory equipment in a device small enough for wearable technology. It identified foods, plastics, and medicines…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261022081312.htm",
-          "source": "Science Daily",
-          "date": "2026-10-23"
-        },
-        {
-          "title": "MIT scientists build a tiny robot that swims using living muscle cells",
-          "summary": "MIT engineers have built a paper-thin swimming robot powered by living muscle cells that respond to flashes of light, allowing it to swim and steer through water. The breakthrough could pave the way for tiny…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261022081308.htm",
-          "source": "Science Daily",
-          "date": "2026-10-23"
-        },
-        {
-          "title": "Swinging virtual lightsabers and punching improve pattern-based learning in VR tests",
-          "summary": "Punching a virtual response box or swinging a virtual lightsaber can dramatically improve learning on certain tasks, according to new research from Florida Atlantic University's College of Engineering and Computer…",
-          "url": "https://phys.org/news/2026-10-virtual-lightsabers-pattern-based-vr.html",
-          "source": "Phys.org",
-          "date": "2026-10-24"
-        },
-        {
-          "title": "Global race to update computers as AI discovers most disruptive hack yet",
-          "summary": "More than two thirds of the world's websites are vulnerable to a hack that was first theorised in 2024, which AI has now made very real",
-          "url": "https://www.newscientist.com/article/2595282-global-race-to-update-computers-as-ai-discovers-most-disruptive-hack-yet/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "title": "Robotic dog controlled with a computer powered by human blood cells",
+          "summary": "A start-up has already used a biological computer to play Pong, and now the firm says the technology can be used to control robots",
+          "url": "https://www.newscientist.com/article/2594537-robotic-dog-controlled-with-a-computer-powered-by-human-blood-cells/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
-          "date": "2026-10-22"
+          "date": "2026-10-26"
+        },
+        {
+          "title": "AI detects “invisible” signs of pancreatic cancer years before diagnosis",
+          "summary": "A powerful new AI system could help doctors detect pancreatic cancer years before it becomes visible on conventional scans. The technology, called REDMOD, identified hidden warning signs an average of 475 days before…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261024222031.htm",
+          "source": "Science Daily",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "Scientists overcome a hidden obstacle to more powerful quantum computers",
+          "summary": "Scientists have discovered a way to operate multiple silicon qubits simultaneously with remarkable accuracy, overcoming a major challenge in scaling up quantum computers. Their new technique maintained accuracy of…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261024222024.htm",
+          "source": "Science Daily",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "Mapping the hidden global labor powering AI",
+          "summary": "Most people know by now that artificial intelligence powers much of the online world, sifting through social media posts, planning driving routes or helping to choose a movie to watch. But what goes largely unseen is…",
+          "url": "https://phys.org/news/2026-10-hidden-global-labor-powering-ai.html",
+          "source": "Phys.org",
+          "date": "2026-10-26"
         }
       ]
     },
@@ -191,11 +198,18 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "Single X-ray pulse reveals plasma nanostructures across scales with one camera",
-          "summary": "Understanding instabilities and turbulence in plasmas is one of the key challenges across a wide range of plasma research fields, including nuclear fusion, astrophysics and laser-plasma physics. In plasmas, slight…",
-          "url": "https://phys.org/news/2026-10-ray-pulse-reveals-plasma-nanostructures.html",
+          "title": "Laser-blasted plasma shows how instabilities could heat the sun's corona",
+          "summary": "From its visible surface, the sun radiates heat at a relatively cool temperature of 5,800 Kelvin. Yet within the thin outer layer of the sun's atmosphere known as the corona, electrons can reach temperatures of millions…",
+          "url": "https://phys.org/news/2026-10-laser-blasted-plasma-instabilities-sun.html",
           "source": "Phys.org",
-          "date": "2026-10-24"
+          "date": "2026-10-26"
+        },
+        {
+          "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
+          "summary": "Researchers have developed a groundbreaking 3D invisibility cloak that can hide complex objects from infrared cameras while protecting them from extreme heat and cold. Instead of blocking heat, the device guides it…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
+          "source": "Science Daily",
+          "date": "2026-10-26"
         }
       ]
     }
