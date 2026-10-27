@@ -1,41 +1,41 @@
 {
-  "updated": "2026-10-26T19:02:29Z",
+  "updated": "2026-10-27T18:33:37Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "Interfacial intelligence: A new way to design polymer brushes",
-          "summary": "Polymer brushes are dense layers of polymer chains that can be engineered to change how a surface interacts with its surroundings. By controlling interactions with water, ions, proteins and other materials, they can…",
-          "url": "https://phys.org/news/2026-10-interfacial-intelligence-polymer.html",
-          "source": "Phys.org",
-          "date": "2026-10-26"
+          "title": "Common drugs may help dangerous viruses spread through the body",
+          "summary": "A surprising discovery reveals that widely used anti-inflammatory drugs may unintentionally help dangerous viruses spread through the body. Scientists found that JAK inhibitors, prescribed for rheumatoid arthritis and…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261026225606.htm",
+          "source": "Science Daily",
+          "date": "2026-10-27"
         },
         {
-          "title": "Protein fibers, a hallmark of Alzheimer's, spotted making genetic deliveries to sperm cells",
-          "summary": "Unexpectedly, a kind of protein that is usually linked with diseases in the brain may play a vital role in semen, helping shepherd genetic material into sperm cells, scientists at Columbia's Zuckerman Institute report…",
-          "url": "https://phys.org/news/2026-10-protein-fibers-hallmark-alzheimer-genetic.html",
-          "source": "Phys.org",
-          "date": "2026-10-26"
+          "title": "Vaccines could be about to revolutionise acne treatments",
+          "summary": "Acne could be caused by our immune systems overreacting to proteins released by skin bacteria. Columnist Michael Le Page looks into the experimental treatments aiming to block this process and prevent or reduce acne",
+          "url": "https://www.newscientist.com/article/2595926-how-vaccines-could-be-about-to-revolutionise-acne-treatments/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-10-27"
         },
         {
-          "title": "Diamond defects confirm 80-year-old theory of crystal stress",
-          "summary": "For the first time, researchers in Japan have directly mapped several components of the stress field surrounding an atomic-scale flaw in the crystal structure of diamond. Led by Tokuyuki Teraji at Japan's National…",
-          "url": "https://phys.org/news/2026-10-diamond-defects-year-theory-crystal.html",
-          "source": "Phys.org",
-          "date": "2026-10-26"
+          "title": "How a Johnson Mentor Shapes the Next Generation of NASA Talent",
+          "summary": "When Rice University student Malvika Bhardwaj asked her mentor Daniel Cohen, a Guidance, Navigation &#38; Control (GN&#38;C) engineer at NASA’s Johnson Space Center, whether he had time to keep teaching interns with his…",
+          "url": "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent/",
+          "source": "NASA",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "Low testosterone may make sugar far more harmful to your liver",
+          "summary": "Scientists have discovered that low testosterone and a high-fructose diet can work together to worsen fatty liver disease in mice. Unexpectedly, changes in gut bacteria appear to drive this harmful interaction…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261026225622.htm",
+          "source": "Science Daily",
+          "date": "2026-10-27"
         },
         {
           "title": "Low-dose aspirin linked to 70% lower dementia risk, but there's a catch",
           "summary": "A common, inexpensive medication could hold an unexpected clue to preventing dementia. Researchers found that older adults with a specific genetic profile had a 70% lower relative risk of dementia when taking low-dose…",
           "url": "https://www.sciencedaily.com/releases/2026/10/261024222026.htm",
-          "source": "Science Daily",
-          "date": "2026-10-25"
-        },
-        {
-          "title": "Scientists discover how pancreatic cancer rewrites its DNA to escape treatment",
-          "summary": "Scientists have discovered how pancreatic cancer cells continually reshape their genetic makeup to become more aggressive, spread, and evade treatment. In laboratory experiments, blocking a key gene reversed some of…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261024221849.htm",
           "source": "Science Daily",
           "date": "2026-10-25"
         }
@@ -45,6 +45,13 @@
       "emoji": "🚀",
       "articles": [
         {
+          "title": "SpaceX Falcon 9 launches early morning Starlink mission from California (video)",
+          "summary": "SpaceX launched 27 more Starlink satellites to low Earth orbit overnight (Oct. 27), aboard a Falcon 9 rocket that lifted off from California in the wee hours of darkness.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-15-16-b1082-ocisly",
+          "source": "Space.com",
+          "date": "2026-10-27"
+        },
+        {
           "title": "NASA ends Swift space telescope mission after failed rescue attempt",
           "summary": "NASA has officially ended the mission of its Swift Observatory, after a private satellite failed to meet up with the aging spacecraft in orbit.",
           "url": "https://www.space.com/space-exploration/missions/nasa-ends-swift-space-telescope-mission-after-failed-rescue-attempt",
@@ -52,31 +59,24 @@
           "date": "2026-10-26"
         },
         {
-          "title": "NASA’s Artemis III Mission to Test Future Moon Lander Operations",
-          "summary": "Before astronauts return to the lunar surface, NASA will first conduct one of the most ambitious and complex test missions in the agency&#8217;s history.&#160; Launching in 2027, Artemis III will send NASA astronauts…",
-          "url": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
-          "source": "NASA",
-          "date": "2026-10-23"
-        },
-        {
-          "title": "NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza",
-          "summary": "NASA’s Neil Gehrels Swift Observatory has ended its science mission now that the spacecraft is orbiting less than 171 miles (275 kilometers) above Earth’s surface. The greater atmospheric drag at this height prevents…",
-          "url": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/",
-          "source": "NASA",
-          "date": "2026-10-23"
-        },
-        {
-          "title": "Stellar collisions may have been common when the universe was young",
-          "summary": "In our solar system's corner of the galaxy, stars rarely collide. It makes sense: Space is vast, and stars have room to roam. Even in most of the present-day universe, stellar collisions are rare. The James Webb Space…",
-          "url": "https://phys.org/news/2026-10-stellar-collisions-common-universe-young.html",
-          "source": "Phys.org",
-          "date": "2026-10-26"
+          "title": "On this day in space! Oct. 27, 1961: NASA launches Saturn I rocket on 1st test flight from Florida to set stage for the mighty Saturn V moon rocket",
+          "summary": "On Oct. 27, 1961, NASA launched the first test flight of its new Saturn I space launch vehicle. Here's why it mattered.",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-27-2026",
+          "source": "Space.com",
+          "date": "2026-10-27"
         },
         {
           "title": "Glowing 'cauldron' of new stars | Space photo of the day for Oct. 26, 2026",
           "summary": "The James Webb Space Telescope captured a spectacular star-forming region glowing 161,000 light-years from Earth in a satellite galaxy of the Milky Way.",
           "url": "https://www.space.com/astronomy/glowing-cauldron-of-new-stars-space-photo-of-the-day-for-oct-26-2026",
           "source": "Space.com",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "Solar Cells Inspected on NASA’s NEO Surveyor",
+          "summary": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission is inspected by a technician at BAE Systems Space &#038; Mission Systems in Boulder, Colorado, in late July. Built by Applied Aerospace…",
+          "url": "https://science.nasa.gov/photojournal/solar-cells-inspected-on-nasas-neo-surveyor/",
+          "source": "NASA",
           "date": "2026-10-26"
         }
       ]
@@ -92,20 +92,6 @@
           "date": "2026-10-25"
         },
         {
-          "title": "This 150-million-year-old bird had dinosaur teeth and a strange secret",
-          "summary": "A 150-million-year-old fossil discovered in China reveals a bizarre early bird with sharp teeth, a dinosaur-like claw, and a body built for life on the ground rather than flight. Scientists believe it represents the…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261023023710.htm",
-          "source": "Science Daily",
-          "date": "2026-10-24"
-        },
-        {
-          "title": "Japan's largest marine DNA study detects 126 fish species farther north than previously recorded",
-          "summary": "As climate change reshapes habitats both on land and at sea, you might go to the beach one day, only to find yourself in a place that looks nothing like you remember, around sea creatures you don't recognize.",
-          "url": "https://phys.org/news/2026-10-japan-largest-marine-dna-fish.html",
-          "source": "Phys.org",
-          "date": "2026-10-26"
-        },
-        {
           "title": "Predatory amphibians swam the seas 237 million years ago",
           "summary": "Until now, it was thought that the squishy, permeable skin of amphibians was unsuited for marine life because it would absorb too much salt from sea water – but a fossil found in China upends that view",
           "url": "https://www.newscientist.com/article/2595507-predatory-amphibians-swam-the-seas-237-million-years-ago/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
@@ -113,11 +99,25 @@
           "date": "2026-10-26"
         },
         {
-          "title": "Biodiversity is a priority for European municipalities",
-          "summary": "As urbanization spreads worldwide, the loss and fragmentation of habitats are driving the global decline in biodiversity. At the same time, urban green spaces like parks, meadows and forests have the potential to…",
-          "url": "https://phys.org/news/2026-10-biodiversity-priority-european-municipalities.html",
+          "title": "A dinosaur fossil that looks like a mini T. rex just sold for a giant $47 million",
+          "summary": "A dinosaur that looks like a miniature T. rex is now one of the world's most expensive fossils.",
+          "url": "https://phys.org/news/2026-10-dinosaur-fossil-mini-rex-sold.html",
           "source": "Phys.org",
-          "date": "2026-10-26"
+          "date": "2026-10-27"
+        },
+        {
+          "title": "Ocean warming and herbivorous fish grazing drive kelp forest collapse along Japan's Izu Peninsula",
+          "summary": "Kelp forests, ecosystems formed by large brown seaweeds in coastal waters, provide habitats for numerous fish and invertebrates and are vital to coastal productivity and carbon cycling. However, in recent years, kelp…",
+          "url": "https://phys.org/news/2026-10-ocean-herbivorous-fish-grazing-kelp.html",
+          "source": "Phys.org",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "Map of Life: More progress needed to safeguard global biodiversity, new report finds",
+          "summary": "Global efforts to preserve habitat and the planet's most endangered species urgently need to be stepped up, according to a new report from Map of Life, the flagship initiative of the Yale Center for Biodiversity and…",
+          "url": "https://phys.org/news/2026-10-life-safeguard-global-biodiversity.html",
+          "source": "Phys.org",
+          "date": "2026-10-27"
         }
       ]
     },
@@ -125,39 +125,39 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "One of Earth’s most powerful supervolcanoes is refilling with fresh magma",
-          "summary": "Deep beneath Japan’s Kikai caldera, a massive magma reservoir is refilling 7,300 years after one of the most powerful volcanic eruptions in Earth's recent geological history. Scientists used underwater seismic surveys…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261023003214.htm",
-          "source": "Science Daily",
-          "date": "2026-10-23"
-        },
-        {
-          "title": "Satellites show some of the strongest evidence the AMOC is weakening",
-          "summary": "The crucial Atlantic current system that brings warmth to Europe has slowed 14 per cent in 30 years, according to an analysis of how much heat the ocean is releasing to the atmosphere",
-          "url": "https://www.newscientist.com/article/2595629-satellites-show-some-of-the-strongest-evidence-the-amoc-is-weakening/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-10-26"
-        },
-        {
-          "title": "While some eucalypts are hard to kill, climate change may test the ability of others to survive",
-          "summary": "There's no tree like the humble eucalypt.",
-          "url": "https://phys.org/news/2026-10-eucalypts-hard-climate-ability-survive.html",
+          "title": "Greenhouse gases hit record highs, yet again",
+          "summary": "Levels of carbon dioxide (CO₂) and other major greenhouse gases in the atmosphere reached unprecedented highs in 2025, locking in more long-term warming for the planet, according to a new report from the World…",
+          "url": "https://phys.org/news/2026-10-greenhouse-gases-highs.html",
           "source": "Phys.org",
-          "date": "2026-10-26"
+          "date": "2026-10-27"
         },
         {
-          "title": "Habitable worlds: Better than Earth? Scientists wonder",
-          "summary": "Some scientists think there are more habitable worlds than Earth out there. What are they like? And how might we find them? The post Habitable worlds: Better than Earth? Scientists wonder first appeared on EarthSky .",
-          "url": "https://earthsky.org/space/habitable-worlds-more-than-earth-super-earths-exoplanets/",
-          "source": "EarthSky",
-          "date": "2026-10-26"
+          "title": "Major greenhouse gases rise again to record levels",
+          "summary": "Levels of carbon dioxide, methane and nitrous oxide in the atmosphere continued to rise in 2025, along with a lesser-known gas with a more powerful warming effect",
+          "url": "https://www.newscientist.com/article/2595885-major-greenhouse-gases-rise-again-to-record-levels/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-10-27"
         },
         {
-          "title": "Why does anything exist? New theory emerges",
-          "summary": "Why does anything exist? A new theory suggests a forgotten particle might have shifted the balance between matter and antimatter. The post Why does anything exist? New theory emerges first appeared on EarthSky .",
-          "url": "https://earthsky.org/space/why-does-anything-exist-decoupled-heavy-neutrino/",
-          "source": "EarthSky",
-          "date": "2026-10-22"
+          "title": "Extreme weather drives support for green voting in Europe",
+          "summary": "In representative democracies, it is important that climate change policies are developed through transparent processes and with citizen representation, which in turn requires an understanding of how climate-related…",
+          "url": "https://phys.org/news/2026-10-extreme-weather-green-voting-europe.html",
+          "source": "Phys.org",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "What causes mysterious long delayed radio echoes in Earth's atmosphere?",
+          "summary": "Baffling long radio echo delays have prompted a range of potential explanations, most of which focus on a variety of unexplained natural phenomena occurring in Earth's atmosphere.",
+          "url": "https://www.space.com/astronomy/earth/what-causes-mysterious-long-delayed-radio-echoes-in-earths-atmosphere",
+          "source": "Space.com",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "A-81 Reaches South Georgia",
+          "summary": "The Antarctic iceberg made a relatively quick exit from the Weddell Sea, only to slow at the edge of a remote island’s underwater shelf.",
+          "url": "https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia/",
+          "source": "NASA",
+          "date": "2026-10-27"
         }
       ]
     },
@@ -186,11 +186,18 @@
           "date": "2026-10-26"
         },
         {
-          "title": "Mapping the hidden global labor powering AI",
-          "summary": "Most people know by now that artificial intelligence powers much of the online world, sifting through social media posts, planning driving routes or helping to choose a movie to watch. But what goes largely unseen is…",
-          "url": "https://phys.org/news/2026-10-hidden-global-labor-powering-ai.html",
+          "title": "Quantum sensor loop design could improve magnetic measurements for medicine and communications",
+          "summary": "Adelaide University quantum engineers have found a new way to improve some of the world's most sensitive sensors of electromagnetic fields, a breakthrough that could help advance brain imaging, medical diagnostics…",
+          "url": "https://phys.org/news/2026-10-quantum-sensor-loop-magnetic-medicine.html",
           "source": "Phys.org",
-          "date": "2026-10-26"
+          "date": "2026-10-27"
+        },
+        {
+          "title": "AI use insidiously undermines professionals' skills",
+          "summary": "Artificial intelligence has taken over the role of assistant in many professional fields. Doctors, researchers and software developers rely on it in their work. At worst, this results in a phenomenon described by…",
+          "url": "https://phys.org/news/2026-10-ai-insidiously-undermines-professionals-skills.html",
+          "source": "Phys.org",
+          "date": "2026-10-27"
         }
       ]
     },
@@ -198,11 +205,11 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "Laser-blasted plasma shows how instabilities could heat the sun's corona",
-          "summary": "From its visible surface, the sun radiates heat at a relatively cool temperature of 5,800 Kelvin. Yet within the thin outer layer of the sun's atmosphere known as the corona, electrons can reach temperatures of millions…",
-          "url": "https://phys.org/news/2026-10-laser-blasted-plasma-instabilities-sun.html",
-          "source": "Phys.org",
-          "date": "2026-10-26"
+          "title": "A tiny laser beam could make computer memory 1,000 times faster",
+          "summary": "Scientists at UC San Diego have developed a surprising new way to store digital information using light instead of magnets, potentially paving the way for smaller, faster, and more energy-efficient memory devices. By…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261025073046.htm",
+          "source": "Science Daily",
+          "date": "2026-10-27"
         },
         {
           "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
@@ -210,6 +217,20 @@
           "url": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
           "source": "Science Daily",
           "date": "2026-10-26"
+        },
+        {
+          "title": "The surprisingly simple exercise that could lower your blood pressure",
+          "summary": "A surprisingly simple exercise routine could help lower blood pressure without requiring daily workouts or expensive equipment. In a study of 100 adults, researchers found that wall squats performed just once or twice a…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261025073045.htm",
+          "source": "Science Daily",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "Technician cracks 1,600-year-old mystery to replicate color-changing effect of Roman glass masterpiece",
+          "summary": "The Lycurgus Cup, a world-renowned 4th-century A.D. artifact housed in the British Museum, is constructed of \"dichroic\" glass that shifts from jade green in reflected light to ruby red in transmitted light. This means…",
+          "url": "https://phys.org/news/2026-10-technician-year-mystery-replicate-effect.html",
+          "source": "Phys.org",
+          "date": "2026-10-27"
         }
       ]
     }
