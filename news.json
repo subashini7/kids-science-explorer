@@ -1,9 +1,23 @@
 {
-  "updated": "2026-10-27T18:33:37Z",
+  "updated": "2026-10-28T18:40:11Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
+        {
+          "title": "The hydrogen atom: The raw material of the universe barely exists on Earth—now we've made it in a flask",
+          "summary": "What do you see when you look up at the night sky? While everyone may have a different answer, the truth is that almost everything out there is hydrogen. The first element in the periodic table is by far the most…",
+          "url": "https://phys.org/news/2026-10-hydrogen-atom-raw-material-universe.html",
+          "source": "Phys.org",
+          "date": "2026-10-28"
+        },
+        {
+          "title": "A 60-year search is over: Chemists isolate long-elusive molecules with boron-oxygen triple bonds",
+          "summary": "In a new publication in the journal Nature Chemistry, chemists in professor Holger Braunschweig's team at the University of Würzburg, supported by computational work from the team of professor Ashwini K. Phukan at…",
+          "url": "https://phys.org/news/2026-10-year-chemists-isolate-elusive-molecules.html",
+          "source": "Phys.org",
+          "date": "2026-10-28"
+        },
         {
           "title": "Common drugs may help dangerous viruses spread through the body",
           "summary": "A surprising discovery reveals that widely used anti-inflammatory drugs may unintentionally help dangerous viruses spread through the body. Scientists found that JAK inhibitors, prescribed for rheumatoid arthritis and…",
@@ -12,11 +26,11 @@
           "date": "2026-10-27"
         },
         {
-          "title": "Vaccines could be about to revolutionise acne treatments",
-          "summary": "Acne could be caused by our immune systems overreacting to proteins released by skin bacteria. Columnist Michael Le Page looks into the experimental treatments aiming to block this process and prevent or reduce acne",
-          "url": "https://www.newscientist.com/article/2595926-how-vaccines-could-be-about-to-revolutionise-acne-treatments/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-10-27"
+          "title": "Yeast paired with electricity can convert CO₂ into a chemical used in biodegradable plastics",
+          "summary": "To limit further climate change, researchers are exploring technologies that can convert atmospheric carbon dioxide (CO₂) into useful products. In collaboration with BOKU University in Vienna (Austria), researchers at…",
+          "url": "https://phys.org/news/2026-10-yeast-paired-electricity-chemical-biodegradable.html",
+          "source": "Phys.org",
+          "date": "2026-10-28"
         },
         {
           "title": "How a Johnson Mentor Shapes the Next Generation of NASA Talent",
@@ -24,20 +38,6 @@
           "url": "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent/",
           "source": "NASA",
           "date": "2026-10-27"
-        },
-        {
-          "title": "Low testosterone may make sugar far more harmful to your liver",
-          "summary": "Scientists have discovered that low testosterone and a high-fructose diet can work together to worsen fatty liver disease in mice. Unexpectedly, changes in gut bacteria appear to drive this harmful interaction…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261026225622.htm",
-          "source": "Science Daily",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "Low-dose aspirin linked to 70% lower dementia risk, but there's a catch",
-          "summary": "A common, inexpensive medication could hold an unexpected clue to preventing dementia. Researchers found that older adults with a specific genetic profile had a 70% lower relative risk of dementia when taking low-dose…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261024222026.htm",
-          "source": "Science Daily",
-          "date": "2026-10-25"
         }
       ]
     },
@@ -59,6 +59,13 @@
           "date": "2026-10-26"
         },
         {
+          "title": "NASA systems engineering team details Habitable Worlds Observatory mission architecture",
+          "summary": "Finding an Earth-like world beyond the solar system is the holy grail of exoplanet research, and the field has seen remarkable technological advances in detecting and studying exoplanets since the first confirmed…",
+          "url": "https://phys.org/news/2026-10-nasa-team-habitable-worlds-observatory.html",
+          "source": "Phys.org",
+          "date": "2026-10-28"
+        },
+        {
           "title": "On this day in space! Oct. 27, 1961: NASA launches Saturn I rocket on 1st test flight from Florida to set stage for the mighty Saturn V moon rocket",
           "summary": "On Oct. 27, 1961, NASA launched the first test flight of its new Saturn I space launch vehicle. Here's why it mattered.",
           "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-27-2026",
@@ -71,13 +78,6 @@
           "url": "https://www.space.com/astronomy/glowing-cauldron-of-new-stars-space-photo-of-the-day-for-oct-26-2026",
           "source": "Space.com",
           "date": "2026-10-26"
-        },
-        {
-          "title": "Solar Cells Inspected on NASA’s NEO Surveyor",
-          "summary": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission is inspected by a technician at BAE Systems Space &#038; Mission Systems in Boulder, Colorado, in late July. Built by Applied Aerospace…",
-          "url": "https://science.nasa.gov/photojournal/solar-cells-inspected-on-nasas-neo-surveyor/",
-          "source": "NASA",
-          "date": "2026-10-26"
         }
       ]
     },
@@ -85,39 +85,39 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "New evidence suggests spinosaurus spent most of its life underwater",
-          "summary": "Millions of years after animals first conquered land, some took an extraordinary evolutionary U-turn and returned to the water. Using machine learning and thousands of fossil measurements, Yale scientists have uncovered…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261024221956.htm",
+          "title": "1.9-million-year-old discovery rewrites the story of human evolution",
+          "summary": "New evidence suggests that early humans reached the Jordan Valley at least 1.9 million years ago, hundreds of thousands of years earlier than scientists previously thought. Advanced dating methods revealed that the…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261025073042.htm",
           "source": "Science Daily",
-          "date": "2026-10-25"
+          "date": "2026-10-27"
         },
         {
-          "title": "Predatory amphibians swam the seas 237 million years ago",
-          "summary": "Until now, it was thought that the squishy, permeable skin of amphibians was unsuited for marine life because it would absorb too much salt from sea water – but a fossil found in China upends that view",
-          "url": "https://www.newscientist.com/article/2595507-predatory-amphibians-swam-the-seas-237-million-years-ago/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "title": "Earwax is both slippery and sticky—this weird combo might lead to safer insect repellents",
+          "summary": "What has the consistency of both toothpaste and dough, can absorb twice its weight in water and still remain sticky, was used by medieval artists as a binder in paint and has been hypothesized by physicians to repel…",
+          "url": "https://phys.org/news/2026-10-earwax-slippery-sticky-weird-combo.html",
+          "source": "Phys.org",
+          "date": "2026-10-28"
+        },
+        {
+          "title": "Goblin sharks, ghost crabs and vampire bats, oh my!",
+          "summary": "Goblin sharks, ghost crabs and vampire bats: how did these spooky-sounding animals get their names? Learn about them here. The post Goblin sharks, ghost crabs and vampire bats, oh my! first appeared on EarthSky .",
+          "url": "https://earthsky.org/earth/goblin-sharks-ghost-crabs-and-vampire-bats-oh-my/",
+          "source": "EarthSky",
+          "date": "2026-10-28"
+        },
+        {
+          "title": "Nature-inspired additive could help protect living cells during freezing and thawing",
+          "summary": "In Australia, around 2,000 people are on the waiting list to receive an organ transplant, but thanks to new research being undertaken at the University of New England (UNE), this number could someday be significantly…",
+          "url": "https://phys.org/news/2026-10-nature-additive-cells.html",
+          "source": "Phys.org",
+          "date": "2026-10-28"
+        },
+        {
+          "title": "Why the world’s first spinal cord transplant is so controversial",
+          "summary": "A spinal cord transplant happened in people for the first time during a surgery in Russia, but the evidence underpinning it is lacking",
+          "url": "https://www.newscientist.com/article/2595939-why-the-worlds-first-spinal-cord-transplant-is-so-controversial/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
-          "date": "2026-10-26"
-        },
-        {
-          "title": "A dinosaur fossil that looks like a mini T. rex just sold for a giant $47 million",
-          "summary": "A dinosaur that looks like a miniature T. rex is now one of the world's most expensive fossils.",
-          "url": "https://phys.org/news/2026-10-dinosaur-fossil-mini-rex-sold.html",
-          "source": "Phys.org",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "Ocean warming and herbivorous fish grazing drive kelp forest collapse along Japan's Izu Peninsula",
-          "summary": "Kelp forests, ecosystems formed by large brown seaweeds in coastal waters, provide habitats for numerous fish and invertebrates and are vital to coastal productivity and carbon cycling. However, in recent years, kelp…",
-          "url": "https://phys.org/news/2026-10-ocean-herbivorous-fish-grazing-kelp.html",
-          "source": "Phys.org",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "Map of Life: More progress needed to safeguard global biodiversity, new report finds",
-          "summary": "Global efforts to preserve habitat and the planet's most endangered species urgently need to be stepped up, according to a new report from Map of Life, the flagship initiative of the Yale Center for Biodiversity and…",
-          "url": "https://phys.org/news/2026-10-life-safeguard-global-biodiversity.html",
-          "source": "Phys.org",
-          "date": "2026-10-27"
+          "date": "2026-10-28"
         }
       ]
     },
@@ -125,25 +125,25 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Greenhouse gases hit record highs, yet again",
-          "summary": "Levels of carbon dioxide (CO₂) and other major greenhouse gases in the atmosphere reached unprecedented highs in 2025, locking in more long-term warming for the planet, according to a new report from the World…",
-          "url": "https://phys.org/news/2026-10-greenhouse-gases-highs.html",
-          "source": "Phys.org",
-          "date": "2026-10-27"
+          "title": "Antarctica’s “Doomsday Glacier” could raise sea levels twice as much as predicted",
+          "summary": "Antarctica’s Thwaites Glacier may be melting twice as much as previously predicted, even without additional global warming. Scientists discovered that warm ocean water is penetrating miles beneath the ice, weakening its…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261027063701.htm",
+          "source": "Science Daily",
+          "date": "2026-10-28"
         },
         {
-          "title": "Major greenhouse gases rise again to record levels",
-          "summary": "Levels of carbon dioxide, methane and nitrous oxide in the atmosphere continued to rise in 2025, along with a lesser-known gas with a more powerful warming effect",
-          "url": "https://www.newscientist.com/article/2595885-major-greenhouse-gases-rise-again-to-record-levels/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-10-27"
+          "title": "Earth's ice ages may have been driven by a hidden ocean chain reaction",
+          "summary": "Scientists have uncovered a surprising connection between Earth's opposite poles that may help explain how the planet plunged into past ice ages. New research suggests that as massive ice sheets expanded across the…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261026225610.htm",
+          "source": "Science Daily",
+          "date": "2026-10-28"
         },
         {
-          "title": "Extreme weather drives support for green voting in Europe",
-          "summary": "In representative democracies, it is important that climate change policies are developed through transparent processes and with citizen representation, which in turn requires an understanding of how climate-related…",
-          "url": "https://phys.org/news/2026-10-extreme-weather-green-voting-europe.html",
+          "title": "Climate change amplified 2024 European floods more than rainfall, models show",
+          "summary": "In September 2024, Storm Boris brought extreme precipitation and severe flooding to large parts of Central and Eastern Europe. Poland, Czechia and Austria were particularly affected. In some areas, several hundred…",
+          "url": "https://phys.org/news/2026-10-climate-amplified-european-rainfall.html",
           "source": "Phys.org",
-          "date": "2026-10-27"
+          "date": "2026-10-28"
         },
         {
           "title": "What causes mysterious long delayed radio echoes in Earth's atmosphere?",
@@ -153,10 +153,10 @@
           "date": "2026-10-27"
         },
         {
-          "title": "A-81 Reaches South Georgia",
-          "summary": "The Antarctic iceberg made a relatively quick exit from the Weddell Sea, only to slow at the edge of a remote island’s underwater shelf.",
-          "url": "https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia/",
-          "source": "NASA",
+          "title": "Lake Powell rises more than 10 feet after heavy rains",
+          "summary": "After heavy rains in October, Lake Powell has risen more than 10 feet. But it still has a long way to go to recover from decades of drought. The post Lake Powell rises more than 10 feet after heavy rains first appeared…",
+          "url": "https://earthsky.org/earth/lake-powell-is-shrinking-dead-pool-2026/",
+          "source": "EarthSky",
           "date": "2026-10-27"
         }
       ]
@@ -165,45 +165,31 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "Robotic dog controlled with a computer powered by human blood cells",
-          "summary": "A start-up has already used a biological computer to play Pong, and now the firm says the technology can be used to control robots",
-          "url": "https://www.newscientist.com/article/2594537-robotic-dog-controlled-with-a-computer-powered-by-human-blood-cells/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-10-26"
+          "title": "NASA University Challenge Ignites Trajectory of Drone Entrepreneur",
+          "summary": "Five years ago, Gavin Gardner was a Michigan State University engineering student researching next-generation drone technology as part of a NASA grant. Garder expected the research to be demanding – but he was surprised…",
+          "url": "https://www.nasa.gov/aeronautics/nasa-challenge-drone-entrepreneur/",
+          "source": "NASA",
+          "date": "2026-10-28"
         },
         {
-          "title": "AI detects “invisible” signs of pancreatic cancer years before diagnosis",
-          "summary": "A powerful new AI system could help doctors detect pancreatic cancer years before it becomes visible on conventional scans. The technology, called REDMOD, identified hidden warning signs an average of 475 days before…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261024222031.htm",
+          "title": "Smaller EV batteries, longer range? Scientists may have found a way",
+          "summary": "Scientists have developed a new technology that could make electric vehicle batteries smaller, lighter, and longer-lasting, potentially allowing cars to travel farther on a single charge. By borrowing precision…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261027063708.htm",
           "source": "Science Daily",
-          "date": "2026-10-26"
-        },
-        {
-          "title": "Scientists overcome a hidden obstacle to more powerful quantum computers",
-          "summary": "Scientists have discovered a way to operate multiple silicon qubits simultaneously with remarkable accuracy, overcoming a major challenge in scaling up quantum computers. Their new technique maintained accuracy of…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261024222024.htm",
-          "source": "Science Daily",
-          "date": "2026-10-26"
-        },
-        {
-          "title": "Quantum sensor loop design could improve magnetic measurements for medicine and communications",
-          "summary": "Adelaide University quantum engineers have found a new way to improve some of the world's most sensitive sensors of electromagnetic fields, a breakthrough that could help advance brain imaging, medical diagnostics…",
-          "url": "https://phys.org/news/2026-10-quantum-sensor-loop-magnetic-medicine.html",
-          "source": "Phys.org",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "AI use insidiously undermines professionals' skills",
-          "summary": "Artificial intelligence has taken over the role of assistant in many professional fields. Doctors, researchers and software developers rely on it in their work. At worst, this results in a phenomenon described by…",
-          "url": "https://phys.org/news/2026-10-ai-insidiously-undermines-professionals-skills.html",
-          "source": "Phys.org",
-          "date": "2026-10-27"
+          "date": "2026-10-28"
         }
       ]
     },
     "Physics": {
       "emoji": "⚡",
       "articles": [
+        {
+          "title": "Slow-motion electron camera reveals light-driven quantum jumps in graphene",
+          "summary": "Using a new slow-motion electron camera, physicists from Regensburg, Marburg and Jülich revealed how intense electric fields drive electrons in graphene, causing them to jump across energy gaps in a seemingly…",
+          "url": "https://phys.org/news/2026-10-motion-electron-camera-reveals-driven.html",
+          "source": "Phys.org",
+          "date": "2026-10-28"
+        },
         {
           "title": "A tiny laser beam could make computer memory 1,000 times faster",
           "summary": "Scientists at UC San Diego have developed a surprising new way to store digital information using light instead of magnets, potentially paving the way for smaller, faster, and more energy-efficient memory devices. By…",
@@ -212,25 +198,25 @@
           "date": "2026-10-27"
         },
         {
+          "title": "Urban street trees lose much of their capacity to cool during droughts",
+          "summary": "The combination of heat waves and drought markedly reduces the capacity of street trees to cool the air in Mediterranean cities. The lack of soil moisture severely restricts plant transpiration, reducing the thermal…",
+          "url": "https://phys.org/news/2026-10-urban-street-trees-capacity-cool.html",
+          "source": "Phys.org",
+          "date": "2026-10-28"
+        },
+        {
+          "title": "Scientists discover a secret glow in toxic fire salamanders",
+          "summary": "Researchers have discovered a surprising hidden ability in Europe's familiar black-and-yellow fire salamanders: they glow green and cyan under ultraviolet light. The mysterious fluorescence comes mainly from glands in…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261027063707.htm",
+          "source": "Science Daily",
+          "date": "2026-10-28"
+        },
+        {
           "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
           "summary": "Researchers have developed a groundbreaking 3D invisibility cloak that can hide complex objects from infrared cameras while protecting them from extreme heat and cold. Instead of blocking heat, the device guides it…",
           "url": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
           "source": "Science Daily",
           "date": "2026-10-26"
-        },
-        {
-          "title": "The surprisingly simple exercise that could lower your blood pressure",
-          "summary": "A surprisingly simple exercise routine could help lower blood pressure without requiring daily workouts or expensive equipment. In a study of 100 adults, researchers found that wall squats performed just once or twice a…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261025073045.htm",
-          "source": "Science Daily",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "Technician cracks 1,600-year-old mystery to replicate color-changing effect of Roman glass masterpiece",
-          "summary": "The Lycurgus Cup, a world-renowned 4th-century A.D. artifact housed in the British Museum, is constructed of \"dichroic\" glass that shifts from jade green in reflected light to ruby red in transmitted light. This means…",
-          "url": "https://phys.org/news/2026-10-technician-year-mystery-replicate-effect.html",
-          "source": "Phys.org",
-          "date": "2026-10-27"
         }
       ]
     }
