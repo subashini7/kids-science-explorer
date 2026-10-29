@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-28T18:40:11Z",
+  "updated": "2026-10-29T18:48:39Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "The hydrogen atom: The raw material of the universe barely exists on Earth—now we've made it in a flask",
-          "summary": "What do you see when you look up at the night sky? While everyone may have a different answer, the truth is that almost everything out there is hydrogen. The first element in the periodic table is by far the most…",
-          "url": "https://phys.org/news/2026-10-hydrogen-atom-raw-material-universe.html",
+          "title": "One molecule, many atoms: Platinum bonds respond to surface features up to 10 nanometers away",
+          "summary": "Many chemical processes that sustain modern society depend on molecules binding to metal surfaces. The production of synthetic fertilizer, for example, relies on heterogeneous catalysis, in which gases react on the…",
+          "url": "https://phys.org/news/2026-10-molecule-atoms-platinum-bonds-surface.html",
           "source": "Phys.org",
-          "date": "2026-10-28"
+          "date": "2026-10-29"
         },
         {
-          "title": "A 60-year search is over: Chemists isolate long-elusive molecules with boron-oxygen triple bonds",
-          "summary": "In a new publication in the journal Nature Chemistry, chemists in professor Holger Braunschweig's team at the University of Würzburg, supported by computational work from the team of professor Ashwini K. Phukan at…",
-          "url": "https://phys.org/news/2026-10-year-chemists-isolate-elusive-molecules.html",
+          "title": "New catalyst builds proton highways to tackle a long-standing hurdle in green ammonia synthesis",
+          "summary": "Over a century ago, the Haber-Bosch process, a two-step reaction for the synthesis of ammonia (NH₃), an irreplaceable chemical for the fertilizer industry, prevented the world from going into a serious food crisis…",
+          "url": "https://phys.org/news/2026-10-catalyst-proton-highways-tackle-hurdle.html",
           "source": "Phys.org",
-          "date": "2026-10-28"
+          "date": "2026-10-29"
         },
         {
           "title": "Common drugs may help dangerous viruses spread through the body",
@@ -26,18 +26,18 @@
           "date": "2026-10-27"
         },
         {
-          "title": "Yeast paired with electricity can convert CO₂ into a chemical used in biodegradable plastics",
-          "summary": "To limit further climate change, researchers are exploring technologies that can convert atmospheric carbon dioxide (CO₂) into useful products. In collaboration with BOKU University in Vienna (Austria), researchers at…",
-          "url": "https://phys.org/news/2026-10-yeast-paired-electricity-chemical-biodegradable.html",
-          "source": "Phys.org",
-          "date": "2026-10-28"
+          "title": "Low testosterone may make sugar far more harmful to your liver",
+          "summary": "Scientists have discovered that low testosterone and a high-fructose diet can work together to worsen fatty liver disease in mice. Unexpectedly, changes in gut bacteria appear to drive this harmful interaction…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261026225622.htm",
+          "source": "Science Daily",
+          "date": "2026-10-27"
         },
         {
-          "title": "How a Johnson Mentor Shapes the Next Generation of NASA Talent",
-          "summary": "When Rice University student Malvika Bhardwaj asked her mentor Daniel Cohen, a Guidance, Navigation &#38; Control (GN&#38;C) engineer at NASA’s Johnson Space Center, whether he had time to keep teaching interns with his…",
-          "url": "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent/",
-          "source": "NASA",
-          "date": "2026-10-27"
+          "title": "The asteroid that killed the dinosaurs may have helped ants conquer the world",
+          "summary": "The asteroid that killed the dinosaurs may have set the stage for ants to conquer the planet, with a surprising boost from “jumping genes” hidden in their DNA. Scientists discovered that bursts of activity from these…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261026225608.htm",
+          "source": "Science Daily",
+          "date": "2026-10-28"
         }
       ]
     },
@@ -52,18 +52,18 @@
           "date": "2026-10-27"
         },
         {
-          "title": "NASA ends Swift space telescope mission after failed rescue attempt",
-          "summary": "NASA has officially ended the mission of its Swift Observatory, after a private satellite failed to meet up with the aging spacecraft in orbit.",
-          "url": "https://www.space.com/space-exploration/missions/nasa-ends-swift-space-telescope-mission-after-failed-rescue-attempt",
-          "source": "Space.com",
-          "date": "2026-10-26"
+          "title": "Ghostly Cat’s Head Nebula Lurks Within Sight of NASA’s Hubble, Webb",
+          "summary": "Like a spectral form rising out of a cold mist, NASA’s Hubble and James Webb Space Telescopes have captured a hauntingly dynamic star-forming scene. It lies within the vast Carina Nebula, a diffuse star-forming region…",
+          "url": "https://science.nasa.gov/missions/hubble/ghostly-cats-head-nebula-lurks-within-sight-of-nasas-hubble-webb/",
+          "source": "NASA",
+          "date": "2026-10-29"
         },
         {
-          "title": "NASA systems engineering team details Habitable Worlds Observatory mission architecture",
-          "summary": "Finding an Earth-like world beyond the solar system is the holy grail of exoplanet research, and the field has seen remarkable technological advances in detecting and studying exoplanets since the first confirmed…",
-          "url": "https://phys.org/news/2026-10-nasa-team-habitable-worlds-observatory.html",
-          "source": "Phys.org",
-          "date": "2026-10-28"
+          "title": "The universe in the eye of a telescope | Space photo of the day for Oct. 29, 2026",
+          "summary": "The Swedish-ESO Submillimetre Telescope (SEST) keeps its eye on the cosmos decades after being decommissioned.",
+          "url": "https://www.space.com/stargazing/astrophotography/the-universe-in-the-eye-of-a-telescope-space-photo-of-the-day-for-oct-29-2026",
+          "source": "Space.com",
+          "date": "2026-10-29"
         },
         {
           "title": "On this day in space! Oct. 27, 1961: NASA launches Saturn I rocket on 1st test flight from Florida to set stage for the mighty Saturn V moon rocket",
@@ -73,11 +73,11 @@
           "date": "2026-10-27"
         },
         {
-          "title": "Glowing 'cauldron' of new stars | Space photo of the day for Oct. 26, 2026",
-          "summary": "The James Webb Space Telescope captured a spectacular star-forming region glowing 161,000 light-years from Earth in a satellite galaxy of the Milky Way.",
-          "url": "https://www.space.com/astronomy/glowing-cauldron-of-new-stars-space-photo-of-the-day-for-oct-26-2026",
-          "source": "Space.com",
-          "date": "2026-10-26"
+          "title": "Send Your Name to Titan Aboard NASA’s Dragonfly Mission",
+          "summary": "You may never soar under the clouds or over the organic sands of Saturn’s moon Titan, but your name can. NASA is inviting the public to send their names aboard the agency’s Dragonfly rotorcraft and be part of the first…",
+          "url": "https://www.nasa.gov/news-release/send-your-name-to-titan-aboard-nasas-dragonfly-mission/",
+          "source": "NASA",
+          "date": "2026-10-29"
         }
       ]
     },
@@ -85,39 +85,39 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "1.9-million-year-old discovery rewrites the story of human evolution",
-          "summary": "New evidence suggests that early humans reached the Jordan Valley at least 1.9 million years ago, hundreds of thousands of years earlier than scientists previously thought. Advanced dating methods revealed that the…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261025073042.htm",
-          "source": "Science Daily",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "Earwax is both slippery and sticky—this weird combo might lead to safer insect repellents",
-          "summary": "What has the consistency of both toothpaste and dough, can absorb twice its weight in water and still remain sticky, was used by medieval artists as a binder in paint and has been hypothesized by physicians to repel…",
-          "url": "https://phys.org/news/2026-10-earwax-slippery-sticky-weird-combo.html",
+          "title": "Unusual whale sightings around Australia may signal changing ocean conditions",
+          "summary": "Whales never cease to amaze me. After nearly two decades of studying these majestic mammals, I've learned every whale season is slightly different. Each migration along Australia's east coast varies in its timing and…",
+          "url": "https://phys.org/news/2026-10-unusual-whale-sightings-australia-ocean.html",
           "source": "Phys.org",
-          "date": "2026-10-28"
+          "date": "2026-10-29"
         },
         {
-          "title": "Goblin sharks, ghost crabs and vampire bats, oh my!",
-          "summary": "Goblin sharks, ghost crabs and vampire bats: how did these spooky-sounding animals get their names? Learn about them here. The post Goblin sharks, ghost crabs and vampire bats, oh my! first appeared on EarthSky .",
-          "url": "https://earthsky.org/earth/goblin-sharks-ghost-crabs-and-vampire-bats-oh-my/",
-          "source": "EarthSky",
-          "date": "2026-10-28"
-        },
-        {
-          "title": "Nature-inspired additive could help protect living cells during freezing and thawing",
-          "summary": "In Australia, around 2,000 people are on the waiting list to receive an organ transplant, but thanks to new research being undertaken at the University of New England (UNE), this number could someday be significantly…",
-          "url": "https://phys.org/news/2026-10-nature-additive-cells.html",
+          "title": "Shrinking bat populations can weaken ecosystem benefits even while species remain widespread",
+          "summary": "Bats promote the health of ecosystems in many ways. Insect-eating species help regulate insect populations, including agricultural and forest pests. In tropical and subtropical regions, nectar-feeding and fruit-eating…",
+          "url": "https://phys.org/news/2026-10-populations-weaken-ecosystem-benefits-species.html",
           "source": "Phys.org",
-          "date": "2026-10-28"
+          "date": "2026-10-29"
         },
         {
-          "title": "Why the world’s first spinal cord transplant is so controversial",
-          "summary": "A spinal cord transplant happened in people for the first time during a surgery in Russia, but the evidence underpinning it is lacking",
-          "url": "https://www.newscientist.com/article/2595939-why-the-worlds-first-spinal-cord-transplant-is-so-controversial/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-10-28"
+          "title": "Nighttime songs could reveal when endangered pygmy blue whales feed off Western Australia",
+          "summary": "Listening to the songs of endangered pygmy blue whales could help researchers identify when the animals are feeding off Western Australia's coast, improving scientists' ability to monitor their behavior and inform…",
+          "url": "https://phys.org/news/2026-10-nighttime-songs-reveal-endangered-pygmy.html",
+          "source": "Phys.org",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "Birds and humans share fundamental song and speech patterns, study finds",
+          "summary": "McGill University researchers have identified \"universal\" vocal patterns across hundreds of bird species and found that many of the same patterns also appear in human song and speech from cultures around the world. The…",
+          "url": "https://phys.org/news/2026-10-birds-humans-fundamental-song-speech.html",
+          "source": "Phys.org",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "Global maps reveal farming, dams and agricultural runoff as leading threats to freshwater species",
+          "summary": "Farming, dams and agricultural runoff are the biggest threats to freshwater biodiversity globally, with Europe and Northwest Africa the hardest-hit regions, McGill researchers have found.",
+          "url": "https://phys.org/news/2026-10-global-reveal-farming-agricultural-runoff.html",
+          "source": "Phys.org",
+          "date": "2026-10-29"
         }
       ]
     },
@@ -139,38 +139,31 @@
           "date": "2026-10-28"
         },
         {
-          "title": "Climate change amplified 2024 European floods more than rainfall, models show",
-          "summary": "In September 2024, Storm Boris brought extreme precipitation and severe flooding to large parts of Central and Eastern Europe. Poland, Czechia and Austria were particularly affected. In some areas, several hundred…",
-          "url": "https://phys.org/news/2026-10-climate-amplified-european-rainfall.html",
+          "title": "128,000-year-old ice in Tibet could rewrite climate history",
+          "summary": "Ancient ice discovered high in Tibet may be more than 128,000 years old, preserving an extraordinary record of Earth's climate that scientists previously thought had been lost. The discovery reveals a rare glimpse into…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261028232713.htm",
+          "source": "Science Daily",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "Scientists discover a hidden oxygen reservoir deep inside Earth",
+          "summary": "Scientists have discovered that magma deep inside Earth can store surprising amounts of extra oxygen, potentially revealing a hidden contributor to our planet's oxygen-rich atmosphere. The findings suggest that ancient…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261027063702.htm",
+          "source": "Science Daily",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "Famed oceanographer calls for ending krill catch near Antarctica as governments debate fishing quota",
+          "summary": "Renowned oceanographer Sylvia Earle is calling for an end to krill fishing near Antarctica as officials from the U.S., China, Russia and 24 other governments negotiate a possible deal to dramatically expand fishing for…",
+          "url": "https://phys.org/news/2026-10-famed-oceanographer-krill-antarctica-debate.html",
           "source": "Phys.org",
-          "date": "2026-10-28"
-        },
-        {
-          "title": "What causes mysterious long delayed radio echoes in Earth's atmosphere?",
-          "summary": "Baffling long radio echo delays have prompted a range of potential explanations, most of which focus on a variety of unexplained natural phenomena occurring in Earth's atmosphere.",
-          "url": "https://www.space.com/astronomy/earth/what-causes-mysterious-long-delayed-radio-echoes-in-earths-atmosphere",
-          "source": "Space.com",
-          "date": "2026-10-27"
-        },
-        {
-          "title": "Lake Powell rises more than 10 feet after heavy rains",
-          "summary": "After heavy rains in October, Lake Powell has risen more than 10 feet. But it still has a long way to go to recover from decades of drought. The post Lake Powell rises more than 10 feet after heavy rains first appeared…",
-          "url": "https://earthsky.org/earth/lake-powell-is-shrinking-dead-pool-2026/",
-          "source": "EarthSky",
-          "date": "2026-10-27"
+          "date": "2026-10-29"
         }
       ]
     },
     "Technology & Inventions": {
       "emoji": "🤖",
       "articles": [
-        {
-          "title": "NASA University Challenge Ignites Trajectory of Drone Entrepreneur",
-          "summary": "Five years ago, Gavin Gardner was a Michigan State University engineering student researching next-generation drone technology as part of a NASA grant. Garder expected the research to be demanding – but he was surprised…",
-          "url": "https://www.nasa.gov/aeronautics/nasa-challenge-drone-entrepreneur/",
-          "source": "NASA",
-          "date": "2026-10-28"
-        },
         {
           "title": "Smaller EV batteries, longer range? Scientists may have found a way",
           "summary": "Scientists have developed a new technology that could make electric vehicle batteries smaller, lighter, and longer-lasting, potentially allowing cars to travel farther on a single charge. By borrowing precision…",
@@ -184,39 +177,39 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "Slow-motion electron camera reveals light-driven quantum jumps in graphene",
-          "summary": "Using a new slow-motion electron camera, physicists from Regensburg, Marburg and Jülich revealed how intense electric fields drive electrons in graphene, causing them to jump across energy gaps in a seemingly…",
-          "url": "https://phys.org/news/2026-10-motion-electron-camera-reveals-driven.html",
+          "title": "Scientists just broke a textbook rule of physics",
+          "summary": "Scientists have defied a long-standing rule of laser physics by generating X-rays with much higher energies than conventional theory predicts. The surprising discovery reveals how two electrons working together can…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261027063713.htm",
+          "source": "Science Daily",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "A blue laser for underwater communication and sensing",
+          "summary": "Researchers at EPFL have developed a chip-scale blue laser that combines stable light emission with rapid frequency control, opening possibilities for underwater communication, environmental sensing and quantum…",
+          "url": "https://phys.org/news/2026-10-blue-laser-underwater-communication.html",
           "source": "Phys.org",
-          "date": "2026-10-28"
+          "date": "2026-10-29"
         },
         {
-          "title": "A tiny laser beam could make computer memory 1,000 times faster",
-          "summary": "Scientists at UC San Diego have developed a surprising new way to store digital information using light instead of magnets, potentially paving the way for smaller, faster, and more energy-efficient memory devices. By…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261025073046.htm",
+          "title": "Einstein's equations may explain the universe without dark energy",
+          "summary": "Mathematicians have uncovered what they argue is a fundamental flaw in the standard model of the universe, potentially challenging the need for dark energy. Their calculations suggest that the mathematical framework…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261028232719.htm",
           "source": "Science Daily",
-          "date": "2026-10-27"
+          "date": "2026-10-29"
         },
         {
-          "title": "Urban street trees lose much of their capacity to cool during droughts",
-          "summary": "The combination of heat waves and drought markedly reduces the capacity of street trees to cool the air in Mediterranean cities. The lack of soil moisture severely restricts plant transpiration, reducing the thermal…",
-          "url": "https://phys.org/news/2026-10-urban-street-trees-capacity-cool.html",
-          "source": "Phys.org",
-          "date": "2026-10-28"
+          "title": "Key oddity of quantum physics may run even deeper than anticipated",
+          "summary": "Quantum mechanics stands out by being probabilistic and a new analysis suggests that this property can be traced unexpectedly deep into the theory’s mathematical foundations",
+          "url": "https://www.newscientist.com/article/2596105-key-oddity-of-quantum-physics-may-run-even-deeper-than-anticipated/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-10-29"
         },
         {
-          "title": "Scientists discover a secret glow in toxic fire salamanders",
-          "summary": "Researchers have discovered a surprising hidden ability in Europe's familiar black-and-yellow fire salamanders: they glow green and cyan under ultraviolet light. The mysterious fluorescence comes mainly from glands in…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261027063707.htm",
+          "title": "Less than 42 minutes of bright daylight linked to higher dementia risk",
+          "summary": "Getting more daylight could be linked to a surprisingly powerful benefit for brain health. In a study of more than 87,000 adults, researchers found that higher daytime light exposure was associated with a 16% lower risk…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261028232707.htm",
           "source": "Science Daily",
-          "date": "2026-10-28"
-        },
-        {
-          "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
-          "summary": "Researchers have developed a groundbreaking 3D invisibility cloak that can hide complex objects from infrared cameras while protecting them from extreme heat and cold. Instead of blocking heat, the device guides it…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
-          "source": "Science Daily",
-          "date": "2026-10-26"
+          "date": "2026-10-29"
         }
       ]
     }
