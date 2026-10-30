@@ -1,43 +1,43 @@
 {
-  "updated": "2026-10-29T18:48:39Z",
+  "updated": "2026-10-30T18:26:07Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "One molecule, many atoms: Platinum bonds respond to surface features up to 10 nanometers away",
-          "summary": "Many chemical processes that sustain modern society depend on molecules binding to metal surfaces. The production of synthetic fertilizer, for example, relies on heterogeneous catalysis, in which gases react on the…",
-          "url": "https://phys.org/news/2026-10-molecule-atoms-platinum-bonds-surface.html",
+          "title": "Different transcription systems shape chromatin behavior in distinct nuclear regions",
+          "summary": "Inside the cell nucleus, DNA is wrapped around histone proteins to form nucleosomes, which are further organized into chromatin. Chromatin has traditionally been divided into transcriptionally active euchromatin and…",
+          "url": "https://phys.org/news/2026-10-transcription-chromatin-behavior-distinct-nuclear.html",
           "source": "Phys.org",
-          "date": "2026-10-29"
+          "date": "2026-10-30"
         },
         {
-          "title": "New catalyst builds proton highways to tackle a long-standing hurdle in green ammonia synthesis",
-          "summary": "Over a century ago, the Haber-Bosch process, a two-step reaction for the synthesis of ammonia (NH₃), an irreplaceable chemical for the fertilizer industry, prevented the world from going into a serious food crisis…",
-          "url": "https://phys.org/news/2026-10-catalyst-proton-highways-tackle-hurdle.html",
+          "title": "Supercharged 'molecule highway' membrane that speeds water transport could transform industrial processing",
+          "summary": "New membrane technology delivering faster and more precise molecule separation could improve the efficiency and sustainability of energy-intensive industrial processes—from purifying chemicals and recovering valuable…",
+          "url": "https://phys.org/news/2026-10-supercharged-molecule-highway-membrane-industrial.html",
           "source": "Phys.org",
-          "date": "2026-10-29"
+          "date": "2026-10-30"
         },
         {
-          "title": "Common drugs may help dangerous viruses spread through the body",
-          "summary": "A surprising discovery reveals that widely used anti-inflammatory drugs may unintentionally help dangerous viruses spread through the body. Scientists found that JAK inhibitors, prescribed for rheumatoid arthritis and…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261026225606.htm",
-          "source": "Science Daily",
-          "date": "2026-10-27"
+          "title": "Researchers create light-activated cages for 'protein killer' molecules",
+          "summary": "Researchers have created a molecular \"cage\" that keeps protein-degrading drug molecules inactive until they are exposed to low-energy red light. The technology, called RuPHOTACs, controls when and where these molecules…",
+          "url": "https://phys.org/news/2026-10-cages-protein-killer-molecules.html",
+          "source": "Phys.org",
+          "date": "2026-10-30"
         },
         {
-          "title": "Low testosterone may make sugar far more harmful to your liver",
-          "summary": "Scientists have discovered that low testosterone and a high-fructose diet can work together to worsen fatty liver disease in mice. Unexpectedly, changes in gut bacteria appear to drive this harmful interaction…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261026225622.htm",
-          "source": "Science Daily",
-          "date": "2026-10-27"
+          "title": "Scientists find that a 10-millisecond flash could help build more sensitive gas sensors",
+          "summary": "Nitrogen dioxide is a harmful gas that requires sensitive detection. Researchers used intense light pulses lasting 10 milliseconds to make molybdenum disulfide flakes and anchor isolated metal atoms in one step. Adding…",
+          "url": "https://phys.org/news/2026-10-scientists-millisecond-sensitive-gas-sensors.html",
+          "source": "Phys.org",
+          "date": "2026-10-30"
         },
         {
-          "title": "The asteroid that killed the dinosaurs may have helped ants conquer the world",
-          "summary": "The asteroid that killed the dinosaurs may have set the stage for ants to conquer the planet, with a surprising boost from “jumping genes” hidden in their DNA. Scientists discovered that bursts of activity from these…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261026225608.htm",
-          "source": "Science Daily",
-          "date": "2026-10-28"
+          "title": "Map Showing Potential Origins of Martian Meteorite Teghaza 001",
+          "summary": "Description This global map of Mars shows 13 locations that match the mineralogy and chemistry of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth. While scientists can never know for sure…",
+          "url": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/",
+          "source": "NASA",
+          "date": "2026-10-30"
         }
       ]
     },
@@ -45,17 +45,17 @@
       "emoji": "🚀",
       "articles": [
         {
-          "title": "SpaceX Falcon 9 launches early morning Starlink mission from California (video)",
-          "summary": "SpaceX launched 27 more Starlink satellites to low Earth orbit overnight (Oct. 27), aboard a Falcon 9 rocket that lifted off from California in the wee hours of darkness.",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-15-16-b1082-ocisly",
-          "source": "Space.com",
-          "date": "2026-10-27"
+          "title": "November’s Night Sky Notes: Light-Day Away",
+          "summary": "Twin Travelers In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune…",
+          "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
+          "source": "NASA",
+          "date": "2026-10-30"
         },
         {
-          "title": "Ghostly Cat’s Head Nebula Lurks Within Sight of NASA’s Hubble, Webb",
-          "summary": "Like a spectral form rising out of a cold mist, NASA’s Hubble and James Webb Space Telescopes have captured a hauntingly dynamic star-forming scene. It lies within the vast Carina Nebula, a diffuse star-forming region…",
-          "url": "https://science.nasa.gov/missions/hubble/ghostly-cats-head-nebula-lurks-within-sight-of-nasas-hubble-webb/",
-          "source": "NASA",
+          "title": "See NASA's Artemis III astronauts meet Trump at the White House as they train for a critical 2027 moon lander test flight (photos)",
+          "summary": "The astronauts of NASA's Artemis III mission met with President Trump at the White House on Wednesday (Oct. 28), just as the Artemis II spaceflyers did six months ago.",
+          "url": "https://www.space.com/space-exploration/artemis/see-nasas-artemis-iii-astronauts-meet-trump-at-the-white-house-as-they-train-for-a-critical-2027-moon-lander-test-flight-photos",
+          "source": "Space.com",
           "date": "2026-10-29"
         },
         {
@@ -66,18 +66,18 @@
           "date": "2026-10-29"
         },
         {
-          "title": "On this day in space! Oct. 27, 1961: NASA launches Saturn I rocket on 1st test flight from Florida to set stage for the mighty Saturn V moon rocket",
-          "summary": "On Oct. 27, 1961, NASA launched the first test flight of its new Saturn I space launch vehicle. Here's why it mattered.",
-          "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-27-2026",
-          "source": "Space.com",
-          "date": "2026-10-27"
+          "title": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
+          "summary": "Intricate structures within the Cat&#8217;s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. 29, 2026. The distinctive “cat’s head” shape of the nebula was…",
+          "url": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
+          "source": "NASA",
+          "date": "2026-10-30"
         },
         {
-          "title": "Send Your Name to Titan Aboard NASA’s Dragonfly Mission",
-          "summary": "You may never soar under the clouds or over the organic sands of Saturn’s moon Titan, but your name can. NASA is inviting the public to send their names aboard the agency’s Dragonfly rotorcraft and be part of the first…",
-          "url": "https://www.nasa.gov/news-release/send-your-name-to-titan-aboard-nasas-dragonfly-mission/",
+          "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
+          "summary": "NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.",
+          "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
           "source": "NASA",
-          "date": "2026-10-29"
+          "date": "2026-10-30"
         }
       ]
     },
@@ -85,39 +85,39 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "Unusual whale sightings around Australia may signal changing ocean conditions",
-          "summary": "Whales never cease to amaze me. After nearly two decades of studying these majestic mammals, I've learned every whale season is slightly different. Each migration along Australia's east coast varies in its timing and…",
-          "url": "https://phys.org/news/2026-10-unusual-whale-sightings-australia-ocean.html",
+          "title": "Marine fossils in Colombia reveal possible evolutionary transition without mass extinction",
+          "summary": "A remarkably diverse fossil ecosystem in central Colombia that preserves an unusual overlap between survivors of older Jurassic groups and newer Cretaceous lineages has led researchers at McGill University and the…",
+          "url": "https://phys.org/news/2026-10-marine-fossils-colombia-reveal-evolutionary.html",
           "source": "Phys.org",
-          "date": "2026-10-29"
+          "date": "2026-10-30"
         },
         {
-          "title": "Shrinking bat populations can weaken ecosystem benefits even while species remain widespread",
-          "summary": "Bats promote the health of ecosystems in many ways. Insect-eating species help regulate insect populations, including agricultural and forest pests. In tropical and subtropical regions, nectar-feeding and fruit-eating…",
-          "url": "https://phys.org/news/2026-10-populations-weaken-ecosystem-benefits-species.html",
-          "source": "Phys.org",
-          "date": "2026-10-29"
+          "title": "The asteroid killed the dinosaurs. Why did crocodiles survive?",
+          "summary": "Scientists may have solved a 66-million-year-old mystery: how crocodiles survived the asteroid that wiped out the dinosaurs. A sweeping analysis of fossils and ancient climates suggests that their preference for warm…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261030002922.htm",
+          "source": "Science Daily",
+          "date": "2026-10-30"
         },
         {
-          "title": "Nighttime songs could reveal when endangered pygmy blue whales feed off Western Australia",
-          "summary": "Listening to the songs of endangered pygmy blue whales could help researchers identify when the animals are feeding off Western Australia's coast, improving scientists' ability to monitor their behavior and inform…",
-          "url": "https://phys.org/news/2026-10-nighttime-songs-reveal-endangered-pygmy.html",
+          "title": "Global change may alter how ocellated lizards move between shelters, food and predators",
+          "summary": "Global change is also affecting the behavior and mobility of the ocellated lizard, a reptile typical of Mediterranean ecosystems. This species—the largest lizard on the Iberian Peninsula—could experience changes in its…",
+          "url": "https://phys.org/news/2026-10-global-ocellated-lizards-food-predators.html",
           "source": "Phys.org",
-          "date": "2026-10-29"
+          "date": "2026-10-30"
         },
         {
-          "title": "Birds and humans share fundamental song and speech patterns, study finds",
-          "summary": "McGill University researchers have identified \"universal\" vocal patterns across hundreds of bird species and found that many of the same patterns also appear in human song and speech from cultures around the world. The…",
-          "url": "https://phys.org/news/2026-10-birds-humans-fundamental-song-speech.html",
-          "source": "Phys.org",
-          "date": "2026-10-29"
+          "title": "Scientists discover mysterious seahorse lookalikes that no one has ever seen alive",
+          "summary": "Scientists have discovered that three bizarre deep-sea fish that look exactly like seahorses actually belong to a separate evolutionary group, proving that nature created the same unusual body shape more than once…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261029072119.htm",
+          "source": "Science Daily",
+          "date": "2026-10-30"
         },
         {
-          "title": "Global maps reveal farming, dams and agricultural runoff as leading threats to freshwater species",
-          "summary": "Farming, dams and agricultural runoff are the biggest threats to freshwater biodiversity globally, with Europe and Northwest Africa the hardest-hit regions, McGill researchers have found.",
-          "url": "https://phys.org/news/2026-10-global-reveal-farming-agricultural-runoff.html",
+          "title": "Rediscovered 1935 recordings reveal earliest known spoken audio of endangered Louisiana Creole",
+          "summary": "The earliest spoken-word recordings of Louisiana Creole, a uniquely American language at risk of extinction, have been uncovered and analyzed for the first time, shedding light on a tongue that defined the docks and…",
+          "url": "https://phys.org/news/2026-10-rediscovered-reveal-earliest-spoken-audio.html",
           "source": "Phys.org",
-          "date": "2026-10-29"
+          "date": "2026-10-30"
         }
       ]
     },
@@ -125,18 +125,18 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Antarctica’s “Doomsday Glacier” could raise sea levels twice as much as predicted",
-          "summary": "Antarctica’s Thwaites Glacier may be melting twice as much as previously predicted, even without additional global warming. Scientists discovered that warm ocean water is penetrating miles beneath the ice, weakening its…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261027063701.htm",
-          "source": "Science Daily",
-          "date": "2026-10-28"
+          "title": "Companies' progress on climate reporting gets lost in the average",
+          "summary": "Companies are increasingly expected to explain the climate risks and how they are responding. CDP, formerly the Carbon Disclosure Project, is a nonprofit that collects and scores corporate environmental disclosures…",
+          "url": "https://phys.org/news/2026-10-companies-climate-lost-average.html",
+          "source": "Phys.org",
+          "date": "2026-10-30"
         },
         {
-          "title": "Earth's ice ages may have been driven by a hidden ocean chain reaction",
-          "summary": "Scientists have uncovered a surprising connection between Earth's opposite poles that may help explain how the planet plunged into past ice ages. New research suggests that as massive ice sheets expanded across the…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261026225610.htm",
-          "source": "Science Daily",
-          "date": "2026-10-28"
+          "title": "Snowfall and clouds may slow East Antarctic ice loss in a warmer world",
+          "summary": "A new modeling study, published in the journal Nature Climate Change, suggests that the East Antarctic Ice Sheet may be more resilient to extreme long-term warming than previously estimated. Increased snowfall, greater…",
+          "url": "https://phys.org/news/2026-10-snowfall-clouds-east-antarctic-ice.html",
+          "source": "Phys.org",
+          "date": "2026-10-30"
         },
         {
           "title": "128,000-year-old ice in Tibet could rewrite climate history",
@@ -146,17 +146,17 @@
           "date": "2026-10-29"
         },
         {
+          "title": "Scientists confirm global warming is accelerating faster than ever recorded",
+          "summary": "Earth is warming faster than ever recorded, with scientists detecting a major acceleration in global temperatures since around 2015. A new study reveals that the warming rate has surged to approximately 0.35°C per…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261027231200.htm",
+          "source": "Science Daily",
+          "date": "2026-10-30"
+        },
+        {
           "title": "Scientists discover a hidden oxygen reservoir deep inside Earth",
           "summary": "Scientists have discovered that magma deep inside Earth can store surprising amounts of extra oxygen, potentially revealing a hidden contributor to our planet's oxygen-rich atmosphere. The findings suggest that ancient…",
           "url": "https://www.sciencedaily.com/releases/2026/10/261027063702.htm",
           "source": "Science Daily",
-          "date": "2026-10-29"
-        },
-        {
-          "title": "Famed oceanographer calls for ending krill catch near Antarctica as governments debate fishing quota",
-          "summary": "Renowned oceanographer Sylvia Earle is calling for an end to krill fishing near Antarctica as officials from the U.S., China, Russia and 24 other governments negotiate a possible deal to dramatically expand fishing for…",
-          "url": "https://phys.org/news/2026-10-famed-oceanographer-krill-antarctica-debate.html",
-          "source": "Phys.org",
           "date": "2026-10-29"
         }
       ]
@@ -170,6 +170,20 @@
           "url": "https://www.sciencedaily.com/releases/2026/10/261027063708.htm",
           "source": "Science Daily",
           "date": "2026-10-28"
+        },
+        {
+          "title": "Quantum skyrmions outlast entanglement, hinting at more resilient networks",
+          "summary": "Quantum networks could one day connect quantum computers into more powerful systems and enable new forms of secure communication. But a fundamental obstacle stands in the way: Quantum information is extraordinarily…",
+          "url": "https://phys.org/news/2026-10-quantum-skyrmions-outlast-entanglement-hinting.html",
+          "source": "Phys.org",
+          "date": "2026-10-30"
+        },
+        {
+          "title": "A computer scientist breaks through a limit that stood since 1996",
+          "summary": "A computer scientist has achieved a breakthrough in a nearly 25-year-old problem involving how computers calculate distances across enormous networks. The new algorithm delivers more reliable estimates for closely…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261029072146.htm",
+          "source": "Science Daily",
+          "date": "2026-10-30"
         }
       ]
     },
@@ -184,24 +198,10 @@
           "date": "2026-10-29"
         },
         {
-          "title": "A blue laser for underwater communication and sensing",
-          "summary": "Researchers at EPFL have developed a chip-scale blue laser that combines stable light emission with rapid frequency control, opening possibilities for underwater communication, environmental sensing and quantum…",
-          "url": "https://phys.org/news/2026-10-blue-laser-underwater-communication.html",
-          "source": "Phys.org",
-          "date": "2026-10-29"
-        },
-        {
           "title": "Einstein's equations may explain the universe without dark energy",
           "summary": "Mathematicians have uncovered what they argue is a fundamental flaw in the standard model of the universe, potentially challenging the need for dark energy. Their calculations suggest that the mathematical framework…",
           "url": "https://www.sciencedaily.com/releases/2026/10/261028232719.htm",
           "source": "Science Daily",
-          "date": "2026-10-29"
-        },
-        {
-          "title": "Key oddity of quantum physics may run even deeper than anticipated",
-          "summary": "Quantum mechanics stands out by being probabilistic and a new analysis suggests that this property can be traced unexpectedly deep into the theory’s mathematical foundations",
-          "url": "https://www.newscientist.com/article/2596105-key-oddity-of-quantum-physics-may-run-even-deeper-than-anticipated/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
           "date": "2026-10-29"
         },
         {
@@ -210,6 +210,20 @@
           "url": "https://www.sciencedaily.com/releases/2026/10/261028232707.htm",
           "source": "Science Daily",
           "date": "2026-10-29"
+        },
+        {
+          "title": "Your blood pressure could be dangerous even when your numbers look normal",
+          "summary": "Researchers have discovered a small group of brain cells that prevents dangerous blood pressure swings, even when average readings appear normal. The finding reveals a hidden source of cardiovascular risk and could open…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261027063814.htm",
+          "source": "Science Daily",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "Scientists discover a secret glow in toxic fire salamanders",
+          "summary": "Researchers have discovered a surprising hidden ability in Europe's familiar black-and-yellow fire salamanders: they glow green and cyan under ultraviolet light. The mysterious fluorescence comes mainly from glands in…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261027063707.htm",
+          "source": "Science Daily",
+          "date": "2026-10-28"
         }
       ]
     }
