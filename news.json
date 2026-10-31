@@ -1,36 +1,22 @@
 {
-  "updated": "2026-10-30T18:26:07Z",
+  "updated": "2026-10-31T17:30:52Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "Different transcription systems shape chromatin behavior in distinct nuclear regions",
-          "summary": "Inside the cell nucleus, DNA is wrapped around histone proteins to form nucleosomes, which are further organized into chromatin. Chromatin has traditionally been divided into transcriptionally active euchromatin and…",
-          "url": "https://phys.org/news/2026-10-transcription-chromatin-behavior-distinct-nuclear.html",
+          "title": "Novel chemical reaction expands options for building DNA-encoded libraries",
+          "summary": "Finding new drugs requires screening vast numbers of compounds to identify those that interact with a biological target. DNA-encoded libraries (DELs) help researchers explore these large collections by attaching a short…",
+          "url": "https://phys.org/news/2026-10-chemical-reaction-options-dna-encoded.html",
           "source": "Phys.org",
           "date": "2026-10-30"
         },
         {
-          "title": "Supercharged 'molecule highway' membrane that speeds water transport could transform industrial processing",
-          "summary": "New membrane technology delivering faster and more precise molecule separation could improve the efficiency and sustainability of energy-intensive industrial processes—from purifying chemicals and recovering valuable…",
-          "url": "https://phys.org/news/2026-10-supercharged-molecule-highway-membrane-industrial.html",
-          "source": "Phys.org",
-          "date": "2026-10-30"
-        },
-        {
-          "title": "Researchers create light-activated cages for 'protein killer' molecules",
-          "summary": "Researchers have created a molecular \"cage\" that keeps protein-degrading drug molecules inactive until they are exposed to low-energy red light. The technology, called RuPHOTACs, controls when and where these molecules…",
-          "url": "https://phys.org/news/2026-10-cages-protein-killer-molecules.html",
-          "source": "Phys.org",
-          "date": "2026-10-30"
-        },
-        {
-          "title": "Scientists find that a 10-millisecond flash could help build more sensitive gas sensors",
-          "summary": "Nitrogen dioxide is a harmful gas that requires sensitive detection. Researchers used intense light pulses lasting 10 milliseconds to make molybdenum disulfide flakes and anchor isolated metal atoms in one step. Adding…",
-          "url": "https://phys.org/news/2026-10-scientists-millisecond-sensitive-gas-sensors.html",
-          "source": "Phys.org",
-          "date": "2026-10-30"
+          "title": "Allergic reactions after sex should be listed as an antibiotic risk, experts say",
+          "summary": "A woman developed a severe allergic reaction to an antibiotic in her partner's semen after sex, prompting clinicians to call for this risk to be listed on the drug's patient information leaflet",
+          "url": "https://www.newscientist.com/article/2596737-allergic-reactions-after-sex-should-be-listed-as-an-antibiotic-risk-experts-say/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-10-31"
         },
         {
           "title": "Map Showing Potential Origins of Martian Meteorite Teghaza 001",
@@ -38,6 +24,20 @@
           "url": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/",
           "source": "NASA",
           "date": "2026-10-30"
+        },
+        {
+          "title": "Scientists discover a bacterial defense so strange they thought it was broken",
+          "summary": "Scientists have discovered a bizarre bacterial defense system that works almost completely backward from anything seen before. Unlike typical bacterial immune systems that keep a deadly toxin under control until a virus…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261029072123.htm",
+          "source": "Science Daily",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "New gel fuel could make rocket and satellite propulsion easier to control",
+          "summary": "A kerosene-based gel developed by Concordia researchers could make rocket and satellite fuels easier to store and control.",
+          "url": "https://phys.org/news/2026-10-gel-fuel-rocket-satellite-propulsion.html",
+          "source": "Phys.org",
+          "date": "2026-10-31"
         }
       ]
     },
@@ -85,11 +85,11 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "Marine fossils in Colombia reveal possible evolutionary transition without mass extinction",
-          "summary": "A remarkably diverse fossil ecosystem in central Colombia that preserves an unusual overlap between survivors of older Jurassic groups and newer Cretaceous lineages has led researchers at McGill University and the…",
-          "url": "https://phys.org/news/2026-10-marine-fossils-colombia-reveal-evolutionary.html",
+          "title": "Rare fossil discovery reveals new dinosaur species that specialized in eating fruit",
+          "summary": "Among the ravenous carnivores and lumbering herbivores that roamed the Cretaceous landscape, another kind of dinosaur was evolving that started to eat something else: the plants that began to flower and produce fruit…",
+          "url": "https://phys.org/news/2026-10-rare-fossil-discovery-reveals-dinosaur.html",
           "source": "Phys.org",
-          "date": "2026-10-30"
+          "date": "2026-10-31"
         },
         {
           "title": "The asteroid killed the dinosaurs. Why did crocodiles survive?",
@@ -99,9 +99,16 @@
           "date": "2026-10-30"
         },
         {
-          "title": "Global change may alter how ocellated lizards move between shelters, food and predators",
-          "summary": "Global change is also affecting the behavior and mobility of the ocellated lizard, a reptile typical of Mediterranean ecosystems. This species—the largest lizard on the Iberian Peninsula—could experience changes in its…",
-          "url": "https://phys.org/news/2026-10-global-ocellated-lizards-food-predators.html",
+          "title": "For many, striped bass fishing is a way of life. But the iconic species could face collapse",
+          "summary": "Striped bass fishing has been Bill Jakob's passion for more than 60 years, and he remembers an era when he'd spend all night casting his line into the crashing waves off Montauk and get eight or nine fish ranging up to…",
+          "url": "https://phys.org/news/2026-10-striped-bass-fishing-life-iconic.html",
+          "source": "Phys.org",
+          "date": "2026-10-30"
+        },
+        {
+          "title": "Four new frog species reveal more of Peru's biodiversity",
+          "summary": "Science can't study a species—or unlock its potential to change the world—until people actually know it exists. Four new species of frogs have now been given names, thanks to the efforts of FIU biologist Alessandro…",
+          "url": "https://phys.org/news/2026-10-frog-species-reveal-peru-biodiversity.html",
           "source": "Phys.org",
           "date": "2026-10-30"
         },
@@ -111,13 +118,6 @@
           "url": "https://www.sciencedaily.com/releases/2026/10/261029072119.htm",
           "source": "Science Daily",
           "date": "2026-10-30"
-        },
-        {
-          "title": "Rediscovered 1935 recordings reveal earliest known spoken audio of endangered Louisiana Creole",
-          "summary": "The earliest spoken-word recordings of Louisiana Creole, a uniquely American language at risk of extinction, have been uncovered and analyzed for the first time, shedding light on a tongue that defined the docks and…",
-          "url": "https://phys.org/news/2026-10-rediscovered-reveal-earliest-spoken-audio.html",
-          "source": "Phys.org",
-          "date": "2026-10-30"
         }
       ]
     },
@@ -125,16 +125,9 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Companies' progress on climate reporting gets lost in the average",
-          "summary": "Companies are increasingly expected to explain the climate risks and how they are responding. CDP, formerly the Carbon Disclosure Project, is a nonprofit that collects and scores corporate environmental disclosures…",
-          "url": "https://phys.org/news/2026-10-companies-climate-lost-average.html",
-          "source": "Phys.org",
-          "date": "2026-10-30"
-        },
-        {
-          "title": "Snowfall and clouds may slow East Antarctic ice loss in a warmer world",
-          "summary": "A new modeling study, published in the journal Nature Climate Change, suggests that the East Antarctic Ice Sheet may be more resilient to extreme long-term warming than previously estimated. Increased snowfall, greater…",
-          "url": "https://phys.org/news/2026-10-snowfall-clouds-east-antarctic-ice.html",
+          "title": "Crop diversification protects fields from extreme weather and boosts productivity",
+          "summary": "Varying crop rotations and keeping the soil constantly covered with vegetation help protect crops against droughts and floods, in addition to increasing productivity. This technique was tested in Rio Grande do Sul…",
+          "url": "https://phys.org/news/2026-10-crop-diversification-fields-extreme-weather.html",
           "source": "Phys.org",
           "date": "2026-10-30"
         },
@@ -153,11 +146,18 @@
           "date": "2026-10-30"
         },
         {
-          "title": "Scientists discover a hidden oxygen reservoir deep inside Earth",
-          "summary": "Scientists have discovered that magma deep inside Earth can store surprising amounts of extra oxygen, potentially revealing a hidden contributor to our planet's oxygen-rich atmosphere. The findings suggest that ancient…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261027063702.htm",
-          "source": "Science Daily",
-          "date": "2026-10-29"
+          "title": "Vega Island Frozen in Fright",
+          "summary": "The sight of an icy skull-like visage on the Antarctic island could make one’s blood run cold.",
+          "url": "https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/",
+          "source": "NASA",
+          "date": "2026-10-30"
+        },
+        {
+          "title": "Think Halloween is scary? This scorched alien world is a real-life cosmic horror story",
+          "summary": "Earth would be terrifying if we celebrated Halloween every 11 hours, a possibility on a super-Earth investigated by the JWST, if it wasn't so hellishly hot that no life could survive on its surface.",
+          "url": "https://www.space.com/astronomy/exoplanets/think-halloween-is-scary-this-scorched-alien-world-is-a-real-life-cosmic-horror-story",
+          "source": "Space.com",
+          "date": "2026-10-30"
         }
       ]
     },
@@ -165,24 +165,24 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "Smaller EV batteries, longer range? Scientists may have found a way",
-          "summary": "Scientists have developed a new technology that could make electric vehicle batteries smaller, lighter, and longer-lasting, potentially allowing cars to travel farther on a single charge. By borrowing precision…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261027063708.htm",
-          "source": "Science Daily",
-          "date": "2026-10-28"
-        },
-        {
-          "title": "Quantum skyrmions outlast entanglement, hinting at more resilient networks",
-          "summary": "Quantum networks could one day connect quantum computers into more powerful systems and enable new forms of secure communication. But a fundamental obstacle stands in the way: Quantum information is extraordinarily…",
-          "url": "https://phys.org/news/2026-10-quantum-skyrmions-outlast-entanglement-hinting.html",
+          "title": "Four superconducting cables link two large quantum processors into one",
+          "summary": "As quantum computers grow more ambitious, many researchers believe the best way forward is to build them in multiple interconnected parts. In these modular designs, separate quantum processors are linked so they can…",
+          "url": "https://phys.org/news/2026-10-superconducting-cables-link-large-quantum.html",
           "source": "Phys.org",
-          "date": "2026-10-30"
+          "date": "2026-10-31"
         },
         {
           "title": "A computer scientist breaks through a limit that stood since 1996",
           "summary": "A computer scientist has achieved a breakthrough in a nearly 25-year-old problem involving how computers calculate distances across enormous networks. The new algorithm delivers more reliable estimates for closely…",
           "url": "https://www.sciencedaily.com/releases/2026/10/261029072146.htm",
           "source": "Science Daily",
+          "date": "2026-10-30"
+        },
+        {
+          "title": "Survey reveals what students think about AI",
+          "summary": "College students say they use AI mostly for learning and don't use it to cut corners but think that their peers do, according to the inaugural Dartmouth AI Survey, a new multiyear survey on how AI is shaping students'…",
+          "url": "https://phys.org/news/2026-10-survey-reveals-students-ai.html",
+          "source": "Phys.org",
           "date": "2026-10-30"
         }
       ]
@@ -191,11 +191,18 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "Scientists just broke a textbook rule of physics",
-          "summary": "Scientists have defied a long-standing rule of laser physics by generating X-rays with much higher energies than conventional theory predicts. The surprising discovery reveals how two electrons working together can…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261027063713.htm",
-          "source": "Science Daily",
-          "date": "2026-10-29"
+          "title": "Ultracold atoms simulate hard-to-observe matter-antimatter pair production",
+          "summary": "According to quantum electrodynamics, the theory describing interactions between light and electrically charged particles, a sufficiently strong electric field can, in principle, convert some of its energy into…",
+          "url": "https://phys.org/news/2026-10-ultracold-atoms-simulate-hard-antimatter.html",
+          "source": "Phys.org",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "UTe₂ reveals two flavors of superconductivity under extreme pressure",
+          "summary": "Quantum researchers are searching for a topological superconductor—a material that, if discovered, would allow major advances in quantum computing by combining two distinct \"flavors\" of superconductivity.",
+          "url": "https://phys.org/news/2026-10-ute-reveals-flavors-superconductivity-extreme.html",
+          "source": "Phys.org",
+          "date": "2026-10-30"
         },
         {
           "title": "Einstein's equations may explain the universe without dark energy",
@@ -212,18 +219,11 @@
           "date": "2026-10-29"
         },
         {
-          "title": "Your blood pressure could be dangerous even when your numbers look normal",
-          "summary": "Researchers have discovered a small group of brain cells that prevents dangerous blood pressure swings, even when average readings appear normal. The finding reveals a hidden source of cardiovascular risk and could open…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261027063814.htm",
-          "source": "Science Daily",
-          "date": "2026-10-29"
-        },
-        {
-          "title": "Scientists discover a secret glow in toxic fire salamanders",
-          "summary": "Researchers have discovered a surprising hidden ability in Europe's familiar black-and-yellow fire salamanders: they glow green and cyan under ultraviolet light. The mysterious fluorescence comes mainly from glands in…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261027063707.htm",
-          "source": "Science Daily",
-          "date": "2026-10-28"
+          "title": "How a 'tropical' shortcut could help particle collider experiments",
+          "summary": "Particle accelerators are expensive. Not just to build or to run, but also to predict the outcome of measurements obtained from them.",
+          "url": "https://phys.org/news/2026-10-tropical-shortcut-particle-collider.html",
+          "source": "Phys.org",
+          "date": "2026-10-30"
         }
       ]
     }
