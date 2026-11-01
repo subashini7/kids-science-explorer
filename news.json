@@ -1,15 +1,22 @@
 {
-  "updated": "2026-10-31T17:30:52Z",
+  "updated": "2026-11-01T18:16:41Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "Novel chemical reaction expands options for building DNA-encoded libraries",
-          "summary": "Finding new drugs requires screening vast numbers of compounds to identify those that interact with a biological target. DNA-encoded libraries (DELs) help researchers explore these large collections by attaching a short…",
-          "url": "https://phys.org/news/2026-10-chemical-reaction-options-dna-encoded.html",
+          "title": "Giant virus yields potassium channel gene that illuminates complex protein evolution",
+          "summary": "Researchers have discovered a gene for a tandem potassium channel in an algal virus. The finding supports the view that giant viruses may have contributed significantly to the evolution of complex proteins. The study is…",
+          "url": "https://phys.org/news/2026-10-giant-virus-yields-potassium-channel.html",
           "source": "Phys.org",
-          "date": "2026-10-30"
+          "date": "2026-10-31"
+        },
+        {
+          "title": "Heavy hydrogen in 3I/ATLAS's methane points to a frigid birthplace",
+          "summary": "The interstellar comet 3I/ATLAS carries a chemical clue to conditions in the planetary system of its origin, locked away long before it reached our sun. Its methane signature is unusually rich in heavy hydrogen…",
+          "url": "https://phys.org/news/2026-10-heavy-hydrogen-3iatlas-methane-frigid.html",
+          "source": "Phys.org",
+          "date": "2026-11-01"
         },
         {
           "title": "Allergic reactions after sex should be listed as an antibiotic risk, experts say",
@@ -26,18 +33,11 @@
           "date": "2026-10-30"
         },
         {
-          "title": "Scientists discover a bacterial defense so strange they thought it was broken",
-          "summary": "Scientists have discovered a bizarre bacterial defense system that works almost completely backward from anything seen before. Unlike typical bacterial immune systems that keep a deadly toxin under control until a virus…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261029072123.htm",
+          "title": "Scientists shrink Archimedes’ screw to the size of a single molecule",
+          "summary": "Scientists have built a groundbreaking molecular motor that spins in either direction using electricity, inspired by a machine invented more than 2,000 years ago. Even more remarkably, its rotation can boost electrical…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261030002940.htm",
           "source": "Science Daily",
-          "date": "2026-10-31"
-        },
-        {
-          "title": "New gel fuel could make rocket and satellite propulsion easier to control",
-          "summary": "A kerosene-based gel developed by Concordia researchers could make rocket and satellite fuels easier to store and control.",
-          "url": "https://phys.org/news/2026-10-gel-fuel-rocket-satellite-propulsion.html",
-          "source": "Phys.org",
-          "date": "2026-10-31"
+          "date": "2026-11-01"
         }
       ]
     },
@@ -52,16 +52,16 @@
           "date": "2026-10-30"
         },
         {
+          "title": "On this day in space! Nov. 1, 1962: The Soviet Union Launches Mars 1 spacecraft to Red Planet during the Space Race",
+          "summary": "On Nov. 1, 1962, the Soviet Union launched the Mars 1 spacecraft on a mission to fly by the Red Planet. Here's why it mattered.",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-1-2026",
+          "source": "Space.com",
+          "date": "2026-11-01"
+        },
+        {
           "title": "See NASA's Artemis III astronauts meet Trump at the White House as they train for a critical 2027 moon lander test flight (photos)",
           "summary": "The astronauts of NASA's Artemis III mission met with President Trump at the White House on Wednesday (Oct. 28), just as the Artemis II spaceflyers did six months ago.",
           "url": "https://www.space.com/space-exploration/artemis/see-nasas-artemis-iii-astronauts-meet-trump-at-the-white-house-as-they-train-for-a-critical-2027-moon-lander-test-flight-photos",
-          "source": "Space.com",
-          "date": "2026-10-29"
-        },
-        {
-          "title": "The universe in the eye of a telescope | Space photo of the day for Oct. 29, 2026",
-          "summary": "The Swedish-ESO Submillimetre Telescope (SEST) keeps its eye on the cosmos decades after being decommissioned.",
-          "url": "https://www.space.com/stargazing/astrophotography/the-universe-in-the-eye-of-a-telescope-space-photo-of-the-day-for-oct-29-2026",
           "source": "Space.com",
           "date": "2026-10-29"
         },
@@ -92,6 +92,13 @@
           "date": "2026-10-31"
         },
         {
+          "title": "The Great Barrier Reef's most notorious coral killer may actually be helping it",
+          "summary": "Crown-of-thorns starfish are notorious for devouring coral reefs, but surprising new research reveals these spiny predators may actually help reefs thrive when their populations are kept in check. Scientists studying…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261030002957.htm",
+          "source": "Science Daily",
+          "date": "2026-11-01"
+        },
+        {
           "title": "The asteroid killed the dinosaurs. Why did crocodiles survive?",
           "summary": "Scientists may have solved a 66-million-year-old mystery: how crocodiles survived the asteroid that wiped out the dinosaurs. A sweeping analysis of fossils and ancient climates suggests that their preference for warm…",
           "url": "https://www.sciencedaily.com/releases/2026/10/261030002922.htm",
@@ -106,18 +113,11 @@
           "date": "2026-10-30"
         },
         {
-          "title": "Four new frog species reveal more of Peru's biodiversity",
-          "summary": "Science can't study a species—or unlock its potential to change the world—until people actually know it exists. Four new species of frogs have now been given names, thanks to the efforts of FIU biologist Alessandro…",
-          "url": "https://phys.org/news/2026-10-frog-species-reveal-peru-biodiversity.html",
-          "source": "Phys.org",
-          "date": "2026-10-30"
-        },
-        {
-          "title": "Scientists discover mysterious seahorse lookalikes that no one has ever seen alive",
-          "summary": "Scientists have discovered that three bizarre deep-sea fish that look exactly like seahorses actually belong to a separate evolutionary group, proving that nature created the same unusual body shape more than once…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261029072119.htm",
+          "title": "Ancient ape fossil in Egypt could rewrite the story of human origins",
+          "summary": "A 17- to 18-million-year-old ape fossil discovered in Egypt is challenging long-held beliefs about where the ancestors of humans and other modern apes first evolved. Scientists now suspect that North Africa and the…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261031011638.htm",
           "source": "Science Daily",
-          "date": "2026-10-30"
+          "date": "2026-11-01"
         }
       ]
     },
@@ -125,25 +125,18 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Crop diversification protects fields from extreme weather and boosts productivity",
-          "summary": "Varying crop rotations and keeping the soil constantly covered with vegetation help protect crops against droughts and floods, in addition to increasing productivity. This technique was tested in Rio Grande do Sul…",
-          "url": "https://phys.org/news/2026-10-crop-diversification-fields-extreme-weather.html",
+          "title": "Why some trees thrive far from home—and what that means for carbon sinks",
+          "summary": "In a study spanning 192 sites and four continents, researchers have discovered that conifers planted in the Southern Hemisphere grow up to four times faster and are more drought-resistant than those growing in their…",
+          "url": "https://phys.org/news/2026-10-trees-home-carbon.html",
           "source": "Phys.org",
-          "date": "2026-10-30"
+          "date": "2026-11-01"
         },
         {
-          "title": "128,000-year-old ice in Tibet could rewrite climate history",
-          "summary": "Ancient ice discovered high in Tibet may be more than 128,000 years old, preserving an extraordinary record of Earth's climate that scientists previously thought had been lost. The discovery reveals a rare glimpse into…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261028232713.htm",
-          "source": "Science Daily",
-          "date": "2026-10-29"
-        },
-        {
-          "title": "Scientists confirm global warming is accelerating faster than ever recorded",
-          "summary": "Earth is warming faster than ever recorded, with scientists detecting a major acceleration in global temperatures since around 2015. A new study reveals that the warming rate has surged to approximately 0.35°C per…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261027231200.htm",
-          "source": "Science Daily",
-          "date": "2026-10-30"
+          "title": "Sun news November 1: The day the sun wasn’t done yet",
+          "summary": "Sun news November 1, 2026: 23 years ago today, Earth caught its breath between Halloween storms. But the sun had bigger blasts in store. Stay tuned! The post Sun news November 1: The day the sun wasn’t done yet first…",
+          "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+          "source": "EarthSky",
+          "date": "2026-11-01"
         },
         {
           "title": "Vega Island Frozen in Fright",
@@ -177,13 +170,6 @@
           "url": "https://www.sciencedaily.com/releases/2026/10/261029072146.htm",
           "source": "Science Daily",
           "date": "2026-10-30"
-        },
-        {
-          "title": "Survey reveals what students think about AI",
-          "summary": "College students say they use AI mostly for learning and don't use it to cut corners but think that their peers do, according to the inaugural Dartmouth AI Survey, a new multiyear survey on how AI is shaping students'…",
-          "url": "https://phys.org/news/2026-10-survey-reveals-students-ai.html",
-          "source": "Phys.org",
-          "date": "2026-10-30"
         }
       ]
     },
@@ -198,11 +184,11 @@
           "date": "2026-10-31"
         },
         {
-          "title": "UTe₂ reveals two flavors of superconductivity under extreme pressure",
-          "summary": "Quantum researchers are searching for a topological superconductor—a material that, if discovered, would allow major advances in quantum computing by combining two distinct \"flavors\" of superconductivity.",
-          "url": "https://phys.org/news/2026-10-ute-reveals-flavors-superconductivity-extreme.html",
-          "source": "Phys.org",
-          "date": "2026-10-30"
+          "title": "Scientists use sound waves to deliver a new attack on deadly brain cancer",
+          "summary": "Scientists at the University of Virginia have developed a promising new strategy to fight glioblastoma, one of the deadliest and most difficult-to-treat forms of brain cancer. Their experimental approach combines…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261030003017.htm",
+          "source": "Science Daily",
+          "date": "2026-11-01"
         },
         {
           "title": "Einstein's equations may explain the universe without dark energy",
@@ -212,18 +198,18 @@
           "date": "2026-10-29"
         },
         {
-          "title": "Less than 42 minutes of bright daylight linked to higher dementia risk",
-          "summary": "Getting more daylight could be linked to a surprisingly powerful benefit for brain health. In a study of more than 87,000 adults, researchers found that higher daytime light exposure was associated with a 16% lower risk…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261028232707.htm",
-          "source": "Science Daily",
-          "date": "2026-10-29"
+          "title": "Calling species 'invasive'—and culling them—isn't done lightly. But it matters to Australia's threatened species",
+          "summary": "It may sound abstract, but distinctions between \"native,\" \"introduced\" or \"invasive\" species can often be life or death. Species considered invasive in Australia—such as European rabbits and feral pigs—are often culled…",
+          "url": "https://phys.org/news/2026-10-species-invasive-culling-isnt-australia.html",
+          "source": "Phys.org",
+          "date": "2026-10-31"
         },
         {
-          "title": "How a 'tropical' shortcut could help particle collider experiments",
-          "summary": "Particle accelerators are expensive. Not just to build or to run, but also to predict the outcome of measurements obtained from them.",
-          "url": "https://phys.org/news/2026-10-tropical-shortcut-particle-collider.html",
+          "title": "Looking for bats after dark can help science—and change how we see them",
+          "summary": "What's that chirping sound coming through the detector? Did you feel something whiz past? Those are just some ways people react when they encounter microbats for the first time. Microbats are small, mostly nocturnal…",
+          "url": "https://phys.org/news/2026-10-dark-science.html",
           "source": "Phys.org",
-          "date": "2026-10-30"
+          "date": "2026-10-31"
         }
       ]
     }
