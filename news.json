@@ -1,56 +1,49 @@
 {
-  "updated": "2026-11-01T18:16:41Z",
+  "updated": "2026-11-02T22:10:39Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "Giant virus yields potassium channel gene that illuminates complex protein evolution",
-          "summary": "Researchers have discovered a gene for a tandem potassium channel in an algal virus. The finding supports the view that giant viruses may have contributed significantly to the evolution of complex proteins. The study is…",
-          "url": "https://phys.org/news/2026-10-giant-virus-yields-potassium-channel.html",
+          "title": "A new way to make better use of ruthenium in single-atom catalysts",
+          "summary": "Ruthenium (Ru) is a valuable metal used in catalysts to speed up chemical reactions in many industrial processes. It can help improve efficiency and reduce the energy needed for chemical production. However, because it…",
+          "url": "https://phys.org/news/2026-11-ruthenium-atom-catalysts.html",
           "source": "Phys.org",
-          "date": "2026-10-31"
+          "date": "2026-11-02"
         },
         {
-          "title": "Heavy hydrogen in 3I/ATLAS's methane points to a frigid birthplace",
-          "summary": "The interstellar comet 3I/ATLAS carries a chemical clue to conditions in the planetary system of its origin, locked away long before it reached our sun. Its methane signature is unusually rich in heavy hydrogen…",
-          "url": "https://phys.org/news/2026-10-heavy-hydrogen-3iatlas-methane-frigid.html",
+          "title": "Industrialization reshapes gut microbes, from bacterial communities to their DNA, studies find",
+          "summary": "The totality of bacteria, viruses and fungi that exist in and on a multicellular organism forms its natural microbiome. The interactions between the body and these microorganisms significantly influence the host…",
+          "url": "https://phys.org/news/2026-11-industrialization-reshapes-gut-microbes-bacterial.html",
           "source": "Phys.org",
-          "date": "2026-11-01"
+          "date": "2026-11-02"
         },
         {
-          "title": "Allergic reactions after sex should be listed as an antibiotic risk, experts say",
-          "summary": "A woman developed a severe allergic reaction to an antibiotic in her partner's semen after sex, prompting clinicians to call for this risk to be listed on the drug's patient information leaflet",
-          "url": "https://www.newscientist.com/article/2596737-allergic-reactions-after-sex-should-be-listed-as-an-antibiotic-risk-experts-say/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-10-31"
+          "title": "RNA-protein interactions could lead to new coronavirus drug targets",
+          "summary": "A study co-led by a University of California, Riverside, biomedical scientist has identified new targets for coronavirus antiviral drugs, including treatments that may be less vulnerable to the rapid evolution of these…",
+          "url": "https://phys.org/news/2026-11-rna-protein-interactions-coronavirus-drug.html",
+          "source": "Phys.org",
+          "date": "2026-11-02"
         },
         {
-          "title": "Map Showing Potential Origins of Martian Meteorite Teghaza 001",
-          "summary": "Description This global map of Mars shows 13 locations that match the mineralogy and chemistry of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth. While scientists can never know for sure…",
-          "url": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/",
-          "source": "NASA",
-          "date": "2026-10-30"
-        },
-        {
-          "title": "Scientists shrink Archimedes’ screw to the size of a single molecule",
-          "summary": "Scientists have built a groundbreaking molecular motor that spins in either direction using electricity, inspired by a machine invented more than 2,000 years ago. Even more remarkably, its rotation can boost electrical…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261030002940.htm",
+          "title": "30,000-year-old DNA reveals Ice Age Europeans were far more connected than we thought",
+          "summary": "Scientists have uncovered surprising DNA evidence that Europeans living more than 30,000 years ago were connected across vast distances, challenging the idea that ancient populations remained largely isolated. Genetic…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261031221153.htm",
           "source": "Science Daily",
-          "date": "2026-11-01"
+          "date": "2026-11-02"
+        },
+        {
+          "title": "Molecular dinitrogen anions pave the way for low-temperature ammonia synthesis",
+          "summary": "While ammonia (NH₃) is best known for its role in fertilizer production, it is attracting attention as a carbon-free hydrogen carrier, potentially offering a practical way to store and transport clean fuel. Despite this…",
+          "url": "https://phys.org/news/2026-11-molecular-dinitrogen-anions-pave-temperature.html",
+          "source": "Phys.org",
+          "date": "2026-11-02"
         }
       ]
     },
     "Space & Astronomy": {
       "emoji": "🚀",
       "articles": [
-        {
-          "title": "November’s Night Sky Notes: Light-Day Away",
-          "summary": "Twin Travelers In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune…",
-          "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
-          "source": "NASA",
-          "date": "2026-10-30"
-        },
         {
           "title": "On this day in space! Nov. 1, 1962: The Soviet Union Launches Mars 1 spacecraft to Red Planet during the Space Race",
           "summary": "On Nov. 1, 1962, the Soviet Union launched the Mars 1 spacecraft on a mission to fly by the Red Planet. Here's why it mattered.",
@@ -59,38 +52,38 @@
           "date": "2026-11-01"
         },
         {
-          "title": "See NASA's Artemis III astronauts meet Trump at the White House as they train for a critical 2027 moon lander test flight (photos)",
-          "summary": "The astronauts of NASA's Artemis III mission met with President Trump at the White House on Wednesday (Oct. 28), just as the Artemis II spaceflyers did six months ago.",
-          "url": "https://www.space.com/space-exploration/artemis/see-nasas-artemis-iii-astronauts-meet-trump-at-the-white-house-as-they-train-for-a-critical-2027-moon-lander-test-flight-photos",
+          "title": "What’s Up: November 2026 Skywatching Tips from NASA",
+          "summary": "Meteor Showers, a Spacecraft Milestone, and a Supermoon Catch Taurid and Leonid meteors, spot Mars near Jupiter, celebrate Voyager 1’s light-day milestone, and watch November’s supermoon. Skywatching Highlights…",
+          "url": "https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa/",
+          "source": "NASA",
+          "date": "2026-11-02"
+        },
+        {
+          "title": "NASA's Hubble and Webb discover ancient worlds that remember their past",
+          "summary": "NASA’s Hubble and James Webb Space Telescopes have uncovered surprising clues about the solar system’s origins by studying 27 tiny, distant objects beyond Neptune. Scientists discovered that these ancient building…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261031221209.htm",
+          "source": "Science Daily",
+          "date": "2026-11-02"
+        },
+        {
+          "title": "James Webb Space Telescope uncovers new clues about the origins of 'interstellar invader' comet 3I/ATLAS",
+          "summary": "The findings are another clue towards understanding the origins of 3I/ATLAS and the planet-forming conditions around other stars.",
+          "url": "https://www.space.com/astronomy/asteroids/james-webb-space-telescope-uncovers-new-clues-about-the-origins-of-interstellar-invader-comet-3i-atlas",
           "source": "Space.com",
-          "date": "2026-10-29"
+          "date": "2026-11-02"
         },
         {
-          "title": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
-          "summary": "Intricate structures within the Cat&#8217;s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. 29, 2026. The distinctive “cat’s head” shape of the nebula was…",
-          "url": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
-          "source": "NASA",
-          "date": "2026-10-30"
-        },
-        {
-          "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
-          "summary": "NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.",
-          "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
-          "source": "NASA",
-          "date": "2026-10-30"
+          "title": "Rocket Lab launches Japanese Earth-observing satellite on 99th mission to date (video)",
+          "summary": "Rocket Lab launched its 99th mission to date today (Nov. 2), sending a private Japanese Earth-observing satellite toward orbit.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-electron-launch-sea-god-surveys-iqps-radar-satellite",
+          "source": "Space.com",
+          "date": "2026-11-02"
         }
       ]
     },
     "Animals & Nature": {
       "emoji": "🐾",
       "articles": [
-        {
-          "title": "Rare fossil discovery reveals new dinosaur species that specialized in eating fruit",
-          "summary": "Among the ravenous carnivores and lumbering herbivores that roamed the Cretaceous landscape, another kind of dinosaur was evolving that started to eat something else: the plants that began to flower and produce fruit…",
-          "url": "https://phys.org/news/2026-10-rare-fossil-discovery-reveals-dinosaur.html",
-          "source": "Phys.org",
-          "date": "2026-10-31"
-        },
         {
           "title": "The Great Barrier Reef's most notorious coral killer may actually be helping it",
           "summary": "Crown-of-thorns starfish are notorious for devouring coral reefs, but surprising new research reveals these spiny predators may actually help reefs thrive when their populations are kept in check. Scientists studying…",
@@ -106,11 +99,11 @@
           "date": "2026-10-30"
         },
         {
-          "title": "For many, striped bass fishing is a way of life. But the iconic species could face collapse",
-          "summary": "Striped bass fishing has been Bill Jakob's passion for more than 60 years, and he remembers an era when he'd spend all night casting his line into the crashing waves off Montauk and get eight or nine fish ranging up to…",
-          "url": "https://phys.org/news/2026-10-striped-bass-fishing-life-iconic.html",
-          "source": "Phys.org",
-          "date": "2026-10-30"
+          "title": "Dinosaur red blood cells recovered from 115-million-year-old fossil",
+          "summary": "A bit of leg bone from an Aratasaurus dinosaur fossil collected in Brazil has preserved abundant 3D red blood cells in stunning detail",
+          "url": "https://www.newscientist.com/article/2596881-dinosaur-red-blood-cells-recovered-from-115-million-year-old-fossil/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-11-02"
         },
         {
           "title": "Ancient ape fossil in Egypt could rewrite the story of human origins",
@@ -118,6 +111,13 @@
           "url": "https://www.sciencedaily.com/releases/2026/10/261031011638.htm",
           "source": "Science Daily",
           "date": "2026-11-01"
+        },
+        {
+          "title": "75,000-year-old Neanderthal may have been killed by a spear aimed at the heart",
+          "summary": "A Neanderthal who died 75,000 years ago may have been killed by a wooden spear deliberately aimed at the heart, revealing rare evidence of prehistoric violence. A circular hole in the shoulder blade suggests the weapon…",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261029072126.htm",
+          "source": "Science Daily",
+          "date": "2026-10-31"
         }
       ]
     },
@@ -125,45 +125,45 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Why some trees thrive far from home—and what that means for carbon sinks",
-          "summary": "In a study spanning 192 sites and four continents, researchers have discovered that conifers planted in the Southern Hemisphere grow up to four times faster and are more drought-resistant than those growing in their…",
-          "url": "https://phys.org/news/2026-10-trees-home-carbon.html",
+          "title": "Martian polar crater ice shifts with seasonal frost",
+          "summary": "Mars shares many landforms and weather patterns with Earth, including changing seasons, volcanoes, canyons, dust storms, dust devils and water ice. Another feature that Earth and Mars share is polar ice caps. These are…",
+          "url": "https://phys.org/news/2026-11-martian-polar-crater-ice-shifts.html",
           "source": "Phys.org",
-          "date": "2026-11-01"
+          "date": "2026-11-02"
         },
         {
-          "title": "Sun news November 1: The day the sun wasn’t done yet",
-          "summary": "Sun news November 1, 2026: 23 years ago today, Earth caught its breath between Halloween storms. But the sun had bigger blasts in store. Stay tuned! The post Sun news November 1: The day the sun wasn’t done yet first…",
-          "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
-          "source": "EarthSky",
-          "date": "2026-11-01"
+          "title": "NASA reveals a haunting skull hidden in Antarctica’s ice",
+          "summary": "NASA satellites have captured an eerie, skull-shaped formation on a remote Antarctic island, but its haunting appearance conceals a troubling warning about melting glaciers. Unusually warm winter temperatures have…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261101010538.htm",
+          "source": "Science Daily",
+          "date": "2026-11-02"
         },
         {
-          "title": "Vega Island Frozen in Fright",
-          "summary": "The sight of an icy skull-like visage on the Antarctic island could make one’s blood run cold.",
-          "url": "https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/",
-          "source": "NASA",
-          "date": "2026-10-30"
+          "title": "UN reports warn of large-scale damage to Earth's ice from climate change",
+          "summary": "Exceeding 1.5C of global warming will have \"irreversible\" consequences for glaciers, sea ice and the Earth's frozen regions, two U.N. reports warned on Monday, calling for urgent action.",
+          "url": "https://phys.org/news/2026-11-large-scale-earth-ice-climate.html",
+          "source": "Phys.org",
+          "date": "2026-11-02"
         },
         {
-          "title": "Think Halloween is scary? This scorched alien world is a real-life cosmic horror story",
-          "summary": "Earth would be terrifying if we celebrated Halloween every 11 hours, a possibility on a super-Earth investigated by the JWST, if it wasn't so hellishly hot that no life could survive on its surface.",
-          "url": "https://www.space.com/astronomy/exoplanets/think-halloween-is-scary-this-scorched-alien-world-is-a-real-life-cosmic-horror-story",
-          "source": "Space.com",
-          "date": "2026-10-30"
+          "title": "Historical records reveal the bitter truth about 17th-century Transylvania's climate",
+          "summary": "For roughly five centuries from about 1300, Europe experienced periods of unusually cold weather and extreme conditions collectively known as the Little Ice Age. Transylvania, a historical region in modern-day Romania…",
+          "url": "https://phys.org/news/2026-11-historical-reveal-bitter-truth-17th.html",
+          "source": "Phys.org",
+          "date": "2026-11-02"
+        },
+        {
+          "title": "COP31: Will this year’s climate summit be the most underwhelming ever?",
+          "summary": "Despite coming after a year of dangerous weather and signs that global warming is accelerating, COP31 is unlikely to deliver dramatic progress on climate action",
+          "url": "https://www.newscientist.com/article/2595518-cop31-will-this-years-climate-summit-be-the-most-underwhelming-ever/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-11-02"
         }
       ]
     },
     "Technology & Inventions": {
       "emoji": "🤖",
       "articles": [
-        {
-          "title": "Four superconducting cables link two large quantum processors into one",
-          "summary": "As quantum computers grow more ambitious, many researchers believe the best way forward is to build them in multiple interconnected parts. In these modular designs, separate quantum processors are linked so they can…",
-          "url": "https://phys.org/news/2026-10-superconducting-cables-link-large-quantum.html",
-          "source": "Phys.org",
-          "date": "2026-10-31"
-        },
         {
           "title": "A computer scientist breaks through a limit that stood since 1996",
           "summary": "A computer scientist has achieved a breakthrough in a nearly 25-year-old problem involving how computers calculate distances across enormous networks. The new algorithm delivers more reliable estimates for closely…",
@@ -177,11 +177,25 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "Ultracold atoms simulate hard-to-observe matter-antimatter pair production",
-          "summary": "According to quantum electrodynamics, the theory describing interactions between light and electrically charged particles, a sufficiently strong electric field can, in principle, convert some of its energy into…",
-          "url": "https://phys.org/news/2026-10-ultracold-atoms-simulate-hard-antimatter.html",
+          "title": "IceCube detects ghost particles with 10 billion times the energy of solar neutrinos",
+          "summary": "Mysterious particles called neutrinos constantly stream through our bodies, and scientists are now detecting incredibly powerful versions arriving from distant cosmic sources using a massive observatory buried in…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261101010533.htm",
+          "source": "Science Daily",
+          "date": "2026-11-02"
+        },
+        {
+          "title": "Exactly solvable model reveals how trapped light can create magnetic order in one-dimensional spin chains",
+          "summary": "A research team wanted to better understand how the forces between particles inside a material change. They discovered that by confining one-dimensional classical spin chains inside a mirror box cavity with light, they…",
+          "url": "https://phys.org/news/2026-11-solvable-reveals-magnetic-dimensional-chains.html",
           "source": "Phys.org",
-          "date": "2026-10-31"
+          "date": "2026-11-02"
+        },
+        {
+          "title": "Long-term observations of marine clouds reveal how in-cloud motions shape rain",
+          "summary": "Research led by atmospheric scientists at the U.S. Department of Energy's (DOE) Brookhaven National Laboratory sheds new light on one of the fundamental challenges of weather forecasting: determining the conditions…",
+          "url": "https://phys.org/news/2026-11-term-marine-clouds-reveal-cloud.html",
+          "source": "Phys.org",
+          "date": "2026-11-02"
         },
         {
           "title": "Scientists use sound waves to deliver a new attack on deadly brain cancer",
@@ -191,25 +205,11 @@
           "date": "2026-11-01"
         },
         {
-          "title": "Einstein's equations may explain the universe without dark energy",
-          "summary": "Mathematicians have uncovered what they argue is a fundamental flaw in the standard model of the universe, potentially challenging the need for dark energy. Their calculations suggest that the mathematical framework…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261028232719.htm",
-          "source": "Science Daily",
-          "date": "2026-10-29"
-        },
-        {
-          "title": "Calling species 'invasive'—and culling them—isn't done lightly. But it matters to Australia's threatened species",
-          "summary": "It may sound abstract, but distinctions between \"native,\" \"introduced\" or \"invasive\" species can often be life or death. Species considered invasive in Australia—such as European rabbits and feral pigs—are often culled…",
-          "url": "https://phys.org/news/2026-10-species-invasive-culling-isnt-australia.html",
-          "source": "Phys.org",
-          "date": "2026-10-31"
-        },
-        {
-          "title": "Looking for bats after dark can help science—and change how we see them",
-          "summary": "What's that chirping sound coming through the detector? Did you feel something whiz past? Those are just some ways people react when they encounter microbats for the first time. Microbats are small, mostly nocturnal…",
-          "url": "https://phys.org/news/2026-10-dark-science.html",
-          "source": "Phys.org",
-          "date": "2026-10-31"
+          "title": "The Taurid meteor shower isn't much to look at. That's why I love it",
+          "summary": "The Taurids produce only a handful of meteors an hour. That sounds disappointing, but I've learned that expecting almost nothing can make this one of the most enjoyable meteor showers of the year.",
+          "url": "https://www.space.com/stargazing/meteor-showers/the-taurid-meteor-shower-isnt-much-to-look-at-thats-why-i-love-it",
+          "source": "Space.com",
+          "date": "2026-10-30"
         }
       ]
     }
