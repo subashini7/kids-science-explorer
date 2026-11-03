@@ -1,29 +1,22 @@
 {
-  "updated": "2026-11-02T22:10:39Z",
+  "updated": "2026-11-03T19:58:05Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "A new way to make better use of ruthenium in single-atom catalysts",
-          "summary": "Ruthenium (Ru) is a valuable metal used in catalysts to speed up chemical reactions in many industrial processes. It can help improve efficiency and reduce the energy needed for chemical production. However, because it…",
-          "url": "https://phys.org/news/2026-11-ruthenium-atom-catalysts.html",
-          "source": "Phys.org",
-          "date": "2026-11-02"
+          "title": "All 5 genetic “letters” of DNA and RNA discovered in a 4.5-billion-year-old asteroid",
+          "summary": "Scientists have discovered all five essential nucleobases used in DNA and RNA in pristine samples from asteroid Ryugu, revealing that key ingredients for life existed in space billions of years ago. The remarkable…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261102075903.htm",
+          "source": "Science Daily",
+          "date": "2026-11-03"
         },
         {
-          "title": "Industrialization reshapes gut microbes, from bacterial communities to their DNA, studies find",
-          "summary": "The totality of bacteria, viruses and fungi that exist in and on a multicellular organism forms its natural microbiome. The interactions between the body and these microorganisms significantly influence the host…",
-          "url": "https://phys.org/news/2026-11-industrialization-reshapes-gut-microbes-bacterial.html",
-          "source": "Phys.org",
-          "date": "2026-11-02"
-        },
-        {
-          "title": "RNA-protein interactions could lead to new coronavirus drug targets",
-          "summary": "A study co-led by a University of California, Riverside, biomedical scientist has identified new targets for coronavirus antiviral drugs, including treatments that may be less vulnerable to the rapid evolution of these…",
-          "url": "https://phys.org/news/2026-11-rna-protein-interactions-coronavirus-drug.html",
-          "source": "Phys.org",
-          "date": "2026-11-02"
+          "title": "Scientists discover new Alzheimer’s drug that repairs DNA damage and reduces brain inflammation",
+          "summary": "Scientists have discovered that a drug originally developed for spinal cord injuries can tackle several key features of Alzheimer’s disease, including DNA damage and inflammation. Already tested for initial safety in…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261102075806.htm",
+          "source": "Science Daily",
+          "date": "2026-11-03"
         },
         {
           "title": "30,000-year-old DNA reveals Ice Age Europeans were far more connected than we thought",
@@ -33,17 +26,31 @@
           "date": "2026-11-02"
         },
         {
-          "title": "Molecular dinitrogen anions pave the way for low-temperature ammonia synthesis",
-          "summary": "While ammonia (NH₃) is best known for its role in fertilizer production, it is attracting attention as a carbon-free hydrogen carrier, potentially offering a practical way to store and transport clean fuel. Despite this…",
-          "url": "https://phys.org/news/2026-11-molecular-dinitrogen-anions-pave-temperature.html",
+          "title": "Oil-producing yeast reveals two stages of fat accumulation under nitrogen limitation",
+          "summary": "A research team led by professors Xu Guowang and Liu Xinyu from the Dalian Institute of Chemical Physics (DICP) of the Chinese Academy of Sciences (CAS), in collaboration with researchers from Dalian University of…",
+          "url": "https://phys.org/news/2026-11-oil-yeast-reveals-stages-fat.html",
           "source": "Phys.org",
-          "date": "2026-11-02"
+          "date": "2026-11-03"
+        },
+        {
+          "title": "Iridium catalyst activates chemotherapy drug directly at targeted cancer cells",
+          "summary": "Conventional chemotherapy treatments often attack not only cancer cells but also healthy tissue, leading to severe side effects such as hair loss or nausea. The team led by Dr. Thomas Ward from the Department of…",
+          "url": "https://phys.org/news/2026-11-iridium-catalyst-chemotherapy-drug-cancer.html",
+          "source": "Phys.org",
+          "date": "2026-11-03"
         }
       ]
     },
     "Space & Astronomy": {
       "emoji": "🚀",
       "articles": [
+        {
+          "title": "Do we know how many Starship launches SpaceX will need to get NASA astronauts to the moon? No. Will its refuelling plan be simple? Also no.",
+          "summary": "NASA's Artemis IV moon mission will be a complicated affair — especially if SpaceX's Starship ends up being the lunar lander. The massive spacecraft will need an unknown number of refuel flights in two separate orbits.",
+          "url": "https://www.space.com/space-exploration/artemis/do-we-know-how-many-starship-launches-spacex-will-need-to-get-nasa-astronauts-to-the-moon-no-will-its-refuelling-plan-be-simple-also-no",
+          "source": "Space.com",
+          "date": "2026-11-03"
+        },
         {
           "title": "On this day in space! Nov. 1, 1962: The Soviet Union Launches Mars 1 spacecraft to Red Planet during the Space Race",
           "summary": "On Nov. 1, 1962, the Soviet Union launched the Mars 1 spacecraft on a mission to fly by the Red Planet. Here's why it mattered.",
@@ -71,33 +78,12 @@
           "url": "https://www.space.com/astronomy/asteroids/james-webb-space-telescope-uncovers-new-clues-about-the-origins-of-interstellar-invader-comet-3i-atlas",
           "source": "Space.com",
           "date": "2026-11-02"
-        },
-        {
-          "title": "Rocket Lab launches Japanese Earth-observing satellite on 99th mission to date (video)",
-          "summary": "Rocket Lab launched its 99th mission to date today (Nov. 2), sending a private Japanese Earth-observing satellite toward orbit.",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-electron-launch-sea-god-surveys-iqps-radar-satellite",
-          "source": "Space.com",
-          "date": "2026-11-02"
         }
       ]
     },
     "Animals & Nature": {
       "emoji": "🐾",
       "articles": [
-        {
-          "title": "The Great Barrier Reef's most notorious coral killer may actually be helping it",
-          "summary": "Crown-of-thorns starfish are notorious for devouring coral reefs, but surprising new research reveals these spiny predators may actually help reefs thrive when their populations are kept in check. Scientists studying…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261030002957.htm",
-          "source": "Science Daily",
-          "date": "2026-11-01"
-        },
-        {
-          "title": "The asteroid killed the dinosaurs. Why did crocodiles survive?",
-          "summary": "Scientists may have solved a 66-million-year-old mystery: how crocodiles survived the asteroid that wiped out the dinosaurs. A sweeping analysis of fossils and ancient climates suggests that their preference for warm…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261030002922.htm",
-          "source": "Science Daily",
-          "date": "2026-10-30"
-        },
         {
           "title": "Dinosaur red blood cells recovered from 115-million-year-old fossil",
           "summary": "A bit of leg bone from an Aratasaurus dinosaur fossil collected in Brazil has preserved abundant 3D red blood cells in stunning detail",
@@ -113,24 +99,31 @@
           "date": "2026-11-01"
         },
         {
-          "title": "75,000-year-old Neanderthal may have been killed by a spear aimed at the heart",
-          "summary": "A Neanderthal who died 75,000 years ago may have been killed by a wooden spear deliberately aimed at the heart, revealing rare evidence of prehistoric violence. A circular hole in the shoulder blade suggests the weapon…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261029072126.htm",
-          "source": "Science Daily",
-          "date": "2026-10-31"
+          "title": "Silent lakes ahead? Long-term study finds common loon productivity is dropping across North America",
+          "summary": "The eerie call of the common loon has long been the sound of North America's northern lakes, but new research shows it may not be that way in the future. A new study led by Birds Canada analyzed breeding attempts across…",
+          "url": "https://phys.org/news/2026-11-silent-lakes-term-common-loon.html",
+          "source": "Phys.org",
+          "date": "2026-11-03"
+        },
+        {
+          "title": "Bee nest linings could inspire plastics that break down in soil",
+          "summary": "Hundreds of millions of metric tons of plastics are produced every year, and most of them end up sitting in landfills or polluting natural environments after use. These plastics endure for dozens to hundreds of years…",
+          "url": "https://phys.org/news/2026-11-bee-linings-plastics-soil.html",
+          "source": "Phys.org",
+          "date": "2026-11-03"
+        },
+        {
+          "title": "'Double mutualist' birds are key to mistletoe reproduction",
+          "summary": "Some bird species act as \"double mutualists\" for a common mistletoe, both pollinating its flowers and dispersing its seeds. These double mutualists play an effective role in mistletoe reproduction.",
+          "url": "https://phys.org/news/2026-11-mutualist-birds-key-mistletoe-reproduction.html",
+          "source": "Phys.org",
+          "date": "2026-11-03"
         }
       ]
     },
     "Earth & Climate": {
       "emoji": "🌍",
       "articles": [
-        {
-          "title": "Martian polar crater ice shifts with seasonal frost",
-          "summary": "Mars shares many landforms and weather patterns with Earth, including changing seasons, volcanoes, canyons, dust storms, dust devils and water ice. Another feature that Earth and Mars share is polar ice caps. These are…",
-          "url": "https://phys.org/news/2026-11-martian-polar-crater-ice-shifts.html",
-          "source": "Phys.org",
-          "date": "2026-11-02"
-        },
         {
           "title": "NASA reveals a haunting skull hidden in Antarctica’s ice",
           "summary": "NASA satellites have captured an eerie, skull-shaped formation on a remote Antarctic island, but its haunting appearance conceals a troubling warning about melting glaciers. Unusually warm winter temperatures have…",
@@ -139,18 +132,25 @@
           "date": "2026-11-02"
         },
         {
-          "title": "UN reports warn of large-scale damage to Earth's ice from climate change",
-          "summary": "Exceeding 1.5C of global warming will have \"irreversible\" consequences for glaciers, sea ice and the Earth's frozen regions, two U.N. reports warned on Monday, calling for urgent action.",
-          "url": "https://phys.org/news/2026-11-large-scale-earth-ice-climate.html",
-          "source": "Phys.org",
-          "date": "2026-11-02"
+          "title": "The Pacific’s Busy Storm Season",
+          "summary": "Super Typhoon In-fa developed an unusually large eye, and the remnants of Typhoon Champi transitioned into an extratropical storm that targeted Alaska.",
+          "url": "https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season/",
+          "source": "NASA",
+          "date": "2026-11-03"
         },
         {
-          "title": "Historical records reveal the bitter truth about 17th-century Transylvania's climate",
-          "summary": "For roughly five centuries from about 1300, Europe experienced periods of unusually cold weather and extreme conditions collectively known as the Little Ice Age. Transylvania, a historical region in modern-day Romania…",
-          "url": "https://phys.org/news/2026-11-historical-reveal-bitter-truth-17th.html",
+          "title": "Mapping Kīlauea's magma reservoirs at high resolution",
+          "summary": "The Hawaiian volcano Kīlauea is among the most active on Earth. Not only did it erupt almost continuously from 1983 to 2018, but it also began a new series of eruptions in late 2024 that continue as of late 2026. The…",
+          "url": "https://phys.org/news/2026-11-klauea-magma-reservoirs-high-resolution.html",
           "source": "Phys.org",
-          "date": "2026-11-02"
+          "date": "2026-11-03"
+        },
+        {
+          "title": "US wildfire damage is on pace to triple by mid‑century, but there are affordable ways to lower the risk",
+          "summary": "As temperatures rise and development expands, the number of homes and other structures damaged or destroyed by wildfires across the U.S. is on pace to triple by midcentury, my colleagues and I found in a study just…",
+          "url": "https://phys.org/news/2026-11-wildfire-pace-triple-midcentury-ways.html",
+          "source": "Phys.org",
+          "date": "2026-11-03"
         },
         {
           "title": "COP31: Will this year’s climate summit be the most underwhelming ever?",
@@ -165,11 +165,18 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "A computer scientist breaks through a limit that stood since 1996",
-          "summary": "A computer scientist has achieved a breakthrough in a nearly 25-year-old problem involving how computers calculate distances across enormous networks. The new algorithm delivers more reliable estimates for closely…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261029072146.htm",
+          "title": "The brain’s hidden fear mechanism may explain anxiety and PTSD",
+          "summary": "A surprising new discovery suggests that fear may cause the brain to blur the line between danger and safety rather than distinguish them more clearly. By observing brain activity in mice using augmented reality…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261102202833.htm",
           "source": "Science Daily",
-          "date": "2026-10-30"
+          "date": "2026-11-03"
+        },
+        {
+          "title": "AI is changing what's in store for new hires and managers alike",
+          "summary": "AI is screening résumés, prompting some managers to hire fewer entry-level workers and leading others to expect beginners to tackle more advanced work, Northeastern University's AI & Society Survey found. The report is…",
+          "url": "https://phys.org/news/2026-11-ai-hires-alike.html",
+          "source": "Phys.org",
+          "date": "2026-11-03"
         }
       ]
     },
@@ -184,20 +191,6 @@
           "date": "2026-11-02"
         },
         {
-          "title": "Exactly solvable model reveals how trapped light can create magnetic order in one-dimensional spin chains",
-          "summary": "A research team wanted to better understand how the forces between particles inside a material change. They discovered that by confining one-dimensional classical spin chains inside a mirror box cavity with light, they…",
-          "url": "https://phys.org/news/2026-11-solvable-reveals-magnetic-dimensional-chains.html",
-          "source": "Phys.org",
-          "date": "2026-11-02"
-        },
-        {
-          "title": "Long-term observations of marine clouds reveal how in-cloud motions shape rain",
-          "summary": "Research led by atmospheric scientists at the U.S. Department of Energy's (DOE) Brookhaven National Laboratory sheds new light on one of the fundamental challenges of weather forecasting: determining the conditions…",
-          "url": "https://phys.org/news/2026-11-term-marine-clouds-reveal-cloud.html",
-          "source": "Phys.org",
-          "date": "2026-11-02"
-        },
-        {
           "title": "Scientists use sound waves to deliver a new attack on deadly brain cancer",
           "summary": "Scientists at the University of Virginia have developed a promising new strategy to fight glioblastoma, one of the deadliest and most difficult-to-treat forms of brain cancer. Their experimental approach combines…",
           "url": "https://www.sciencedaily.com/releases/2026/10/261030003017.htm",
@@ -205,11 +198,11 @@
           "date": "2026-11-01"
         },
         {
-          "title": "The Taurid meteor shower isn't much to look at. That's why I love it",
-          "summary": "The Taurids produce only a handful of meteors an hour. That sounds disappointing, but I've learned that expecting almost nothing can make this one of the most enjoyable meteor showers of the year.",
-          "url": "https://www.space.com/stargazing/meteor-showers/the-taurid-meteor-shower-isnt-much-to-look-at-thats-why-i-love-it",
-          "source": "Space.com",
-          "date": "2026-10-30"
+          "title": "Boat burial reveals leprosy strain in fifth-century Germany",
+          "summary": "Visigothic and Vandal forces marched into Italy and conquered Rome; the Huns spread fear and terror on their campaigns through Western Europe; the Franks expanded their domain southward—the fifth century was an era of…",
+          "url": "https://phys.org/news/2026-11-boat-burial-reveals-leprosy-strain.html",
+          "source": "Phys.org",
+          "date": "2026-11-03"
         }
       ]
     }
