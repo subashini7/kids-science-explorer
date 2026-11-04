@@ -1,9 +1,16 @@
 {
-  "updated": "2026-11-03T19:58:05Z",
+  "updated": "2026-11-04T20:17:50Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
+        {
+          "title": "Molecular imaging reveals how shape-shifting protein complex captures DNA and holds separate sections together",
+          "summary": "Researchers at Kanazawa University and the National Institute of Genetics in Japan have used high-speed atomic force microscopy to observe how a group of proteins known as Smc5/6 interacts with DNA. The images reveal…",
+          "url": "https://phys.org/news/2026-11-molecular-imaging-reveals-shifting-protein.html",
+          "source": "Phys.org",
+          "date": "2026-11-04"
+        },
         {
           "title": "All 5 genetic “letters” of DNA and RNA discovered in a 4.5-billion-year-old asteroid",
           "summary": "Scientists have discovered all five essential nucleobases used in DNA and RNA in pristine samples from asteroid Ryugu, revealing that key ingredients for life existed in space billions of years ago. The remarkable…",
@@ -12,31 +19,24 @@
           "date": "2026-11-03"
         },
         {
+          "title": "MIT scientists break a 20-year rule and unlock never-before-seen crystal structures",
+          "summary": "MIT scientists have challenged two decades of conventional thinking by discovering that flexible molecular connections, rather than rigid ones, can unlock entirely new ways to arrange nanoparticles. The breakthrough…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261104012248.htm",
+          "source": "Science Daily",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "A surprising discovery could help aging muscles repair themselves",
+          "summary": "Scientists have discovered a compound that transforms a natural muscle-repair protein into a more powerful version dubbed \"Super HGF,\" more than doubling its ability to bind to a key receptor while protecting it from…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261104005226.htm",
+          "source": "Science Daily",
+          "date": "2026-11-04"
+        },
+        {
           "title": "Scientists discover new Alzheimer’s drug that repairs DNA damage and reduces brain inflammation",
           "summary": "Scientists have discovered that a drug originally developed for spinal cord injuries can tackle several key features of Alzheimer’s disease, including DNA damage and inflammation. Already tested for initial safety in…",
           "url": "https://www.sciencedaily.com/releases/2026/11/261102075806.htm",
           "source": "Science Daily",
-          "date": "2026-11-03"
-        },
-        {
-          "title": "30,000-year-old DNA reveals Ice Age Europeans were far more connected than we thought",
-          "summary": "Scientists have uncovered surprising DNA evidence that Europeans living more than 30,000 years ago were connected across vast distances, challenging the idea that ancient populations remained largely isolated. Genetic…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261031221153.htm",
-          "source": "Science Daily",
-          "date": "2026-11-02"
-        },
-        {
-          "title": "Oil-producing yeast reveals two stages of fat accumulation under nitrogen limitation",
-          "summary": "A research team led by professors Xu Guowang and Liu Xinyu from the Dalian Institute of Chemical Physics (DICP) of the Chinese Academy of Sciences (CAS), in collaboration with researchers from Dalian University of…",
-          "url": "https://phys.org/news/2026-11-oil-yeast-reveals-stages-fat.html",
-          "source": "Phys.org",
-          "date": "2026-11-03"
-        },
-        {
-          "title": "Iridium catalyst activates chemotherapy drug directly at targeted cancer cells",
-          "summary": "Conventional chemotherapy treatments often attack not only cancer cells but also healthy tissue, leading to severe side effects such as hair loss or nausea. The team led by Dr. Thomas Ward from the Department of…",
-          "url": "https://phys.org/news/2026-11-iridium-catalyst-chemotherapy-drug-cancer.html",
-          "source": "Phys.org",
           "date": "2026-11-03"
         }
       ]
@@ -59,11 +59,11 @@
           "date": "2026-11-01"
         },
         {
-          "title": "What’s Up: November 2026 Skywatching Tips from NASA",
-          "summary": "Meteor Showers, a Spacecraft Milestone, and a Supermoon Catch Taurid and Leonid meteors, spot Mars near Jupiter, celebrate Voyager 1’s light-day milestone, and watch November’s supermoon. Skywatching Highlights…",
-          "url": "https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa/",
+          "title": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
+          "summary": "NASA selected three companies on Wednesday to perform work to develop Ka-band space relay capability concepts that are compatible with current missions in space, ensuring service continuity for existing spacecraft…",
+          "url": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/",
           "source": "NASA",
-          "date": "2026-11-02"
+          "date": "2026-11-04"
         },
         {
           "title": "NASA's Hubble and Webb discover ancient worlds that remember their past",
@@ -73,11 +73,11 @@
           "date": "2026-11-02"
         },
         {
-          "title": "James Webb Space Telescope uncovers new clues about the origins of 'interstellar invader' comet 3I/ATLAS",
-          "summary": "The findings are another clue towards understanding the origins of 3I/ATLAS and the planet-forming conditions around other stars.",
-          "url": "https://www.space.com/astronomy/asteroids/james-webb-space-telescope-uncovers-new-clues-about-the-origins-of-interstellar-invader-comet-3i-atlas",
+          "title": "Ancient star collisions could explain mysterious Little Red Dots and 'impossible' black holes",
+          "summary": "Collisions between stars in the early universe were common, and this could explain the growth of supermassive black holes and the existence of strange Little Red Dots seen by the James Webb Space Telescope.",
+          "url": "https://www.space.com/astronomy/stars/ancient-star-collisions-could-explain-mysterious-little-red-dots-and-impossible-black-holes",
           "source": "Space.com",
-          "date": "2026-11-02"
+          "date": "2026-11-03"
         }
       ]
     },
@@ -85,39 +85,39 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "Dinosaur red blood cells recovered from 115-million-year-old fossil",
-          "summary": "A bit of leg bone from an Aratasaurus dinosaur fossil collected in Brazil has preserved abundant 3D red blood cells in stunning detail",
-          "url": "https://www.newscientist.com/article/2596881-dinosaur-red-blood-cells-recovered-from-115-million-year-old-fossil/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-11-02"
+          "title": "Trained dogs detected invasive plant species in Germany with 75% accuracy",
+          "summary": "Invasive alien species (IAS) are one of the main causes of biodiversity loss worldwide. A study published Nov. 4, 2026, in the journal PLOS One by Annegret Grimm-Seyfarth at Helmholtz-Centre for Environmental…",
+          "url": "https://phys.org/news/2026-11-dogs-invasive-species-germany-accuracy.html",
+          "source": "Phys.org",
+          "date": "2026-11-04"
         },
         {
-          "title": "Ancient ape fossil in Egypt could rewrite the story of human origins",
-          "summary": "A 17- to 18-million-year-old ape fossil discovered in Egypt is challenging long-held beliefs about where the ancestors of humans and other modern apes first evolved. Scientists now suspect that North Africa and the…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261031011638.htm",
+          "title": "Overlooked Melbourne patch reveals 45 animal species and more than 40 plant types",
+          "summary": "When we think about nature in our cities, what often comes to mind are parks and reserves—planned, managed and clearly marked spaces that support animal and plant life in our urban environment.",
+          "url": "https://phys.org/news/2026-11-overlooked-melbourne-patch-reveals-animal.html",
+          "source": "Phys.org",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "Scientists may have finally explained why our brains and bodies are cross-wired",
+          "summary": "Scientists propose that the brain’s mysterious cross-wiring, which connects each hemisphere to the opposite side of the body, may have originated more than 500 million years ago in the visual systems of ancient fish…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261103003146.htm",
           "source": "Science Daily",
-          "date": "2026-11-01"
+          "date": "2026-11-04"
         },
         {
-          "title": "Silent lakes ahead? Long-term study finds common loon productivity is dropping across North America",
-          "summary": "The eerie call of the common loon has long been the sound of North America's northern lakes, but new research shows it may not be that way in the future. A new study led by Birds Canada analyzed breeding attempts across…",
-          "url": "https://phys.org/news/2026-11-silent-lakes-term-common-loon.html",
+          "title": "Scientists discover there are way more bugs in California than you thought",
+          "summary": "A new study published in the journal Ecography finds that there are more than 60,000 different species of insects in California—and scientists have only described about two-thirds of them.",
+          "url": "https://phys.org/news/2026-11-scientists-bugs-california-thought.html",
           "source": "Phys.org",
-          "date": "2026-11-03"
+          "date": "2026-11-04"
         },
         {
-          "title": "Bee nest linings could inspire plastics that break down in soil",
-          "summary": "Hundreds of millions of metric tons of plastics are produced every year, and most of them end up sitting in landfills or polluting natural environments after use. These plastics endure for dozens to hundreds of years…",
-          "url": "https://phys.org/news/2026-11-bee-linings-plastics-soil.html",
+          "title": "Nature's looking glass: Crafting mirrors from plants",
+          "summary": "Natural materials, ranging from butterfly wings to mother-of-pearl, can exhibit an array of optical effects. In trying to reproduce these effects, scientists have found it challenging to use biodegradable, sustainable…",
+          "url": "https://phys.org/news/2026-11-nature-glass-crafting-mirrors.html",
           "source": "Phys.org",
-          "date": "2026-11-03"
-        },
-        {
-          "title": "'Double mutualist' birds are key to mistletoe reproduction",
-          "summary": "Some bird species act as \"double mutualists\" for a common mistletoe, both pollinating its flowers and dispersing its seeds. These double mutualists play an effective role in mistletoe reproduction.",
-          "url": "https://phys.org/news/2026-11-mutualist-birds-key-mistletoe-reproduction.html",
-          "source": "Phys.org",
-          "date": "2026-11-03"
+          "date": "2026-11-04"
         }
       ]
     },
@@ -132,32 +132,32 @@
           "date": "2026-11-02"
         },
         {
-          "title": "The Pacific’s Busy Storm Season",
-          "summary": "Super Typhoon In-fa developed an unusually large eye, and the remnants of Typhoon Champi transitioned into an extratropical storm that targeted Alaska.",
-          "url": "https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season/",
-          "source": "NASA",
-          "date": "2026-11-03"
-        },
-        {
-          "title": "Mapping Kīlauea's magma reservoirs at high resolution",
-          "summary": "The Hawaiian volcano Kīlauea is among the most active on Earth. Not only did it erupt almost continuously from 1983 to 2018, but it also began a new series of eruptions in late 2024 that continue as of late 2026. The…",
-          "url": "https://phys.org/news/2026-11-klauea-magma-reservoirs-high-resolution.html",
+          "title": "Northern permafrost greening masks declining plant resilience, study finds",
+          "summary": "An international study jointly led by researchers from the Department of Geography and the Institute for Climate and Carbon Neutrality at the Faculty of Social Sciences, The University of Hong Kong (HKU), has revealed…",
+          "url": "https://phys.org/news/2026-11-northern-permafrost-greening-masks-declining.html",
           "source": "Phys.org",
-          "date": "2026-11-03"
+          "date": "2026-11-04"
         },
         {
-          "title": "US wildfire damage is on pace to triple by mid‑century, but there are affordable ways to lower the risk",
-          "summary": "As temperatures rise and development expands, the number of homes and other structures damaged or destroyed by wildfires across the U.S. is on pace to triple by midcentury, my colleagues and I found in a study just…",
-          "url": "https://phys.org/news/2026-11-wildfire-pace-triple-midcentury-ways.html",
+          "title": "Long-term temperature records reveal a surprising picture of climate change on Kilimanjaro",
+          "summary": "Mount Kilimanjaro is warming in some places and cooling in others, according to a new study by the University of Portsmouth, published in npj Climate and Atmospheric Science.",
+          "url": "https://phys.org/news/2026-11-term-temperature-reveal-picture-climate.html",
           "source": "Phys.org",
-          "date": "2026-11-03"
+          "date": "2026-11-04"
         },
         {
-          "title": "COP31: Will this year’s climate summit be the most underwhelming ever?",
-          "summary": "Despite coming after a year of dangerous weather and signs that global warming is accelerating, COP31 is unlikely to deliver dramatic progress on climate action",
-          "url": "https://www.newscientist.com/article/2595518-cop31-will-this-years-climate-summit-be-the-most-underwhelming-ever/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-11-02"
+          "title": "This fruit fly's aphrodisiac reveals how social and environmental context shape mating practices",
+          "summary": "Imagine a crowded dance floor where bodies move to the beat beneath a glittering disco ball. Some of the dancers pair up, drawn together by the heady atmosphere. For flies, as for humans, the right atmosphere can serve…",
+          "url": "https://phys.org/news/2026-11-fruit-fly-aphrodisiac-reveals-social.html",
+          "source": "Phys.org",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "A new tool helps target conservation and pollution control on the Ganges River",
+          "summary": "An estimated 6 billion liters (1.6 billion gallons) of untreated sewage is discharged daily into the Ganges River Basin, home to 650 million people. Combined with seasonal monsoon flooding, the sewage and other…",
+          "url": "https://phys.org/news/2026-11-tool-pollution-ganges-river.html",
+          "source": "Phys.org",
+          "date": "2026-11-04"
         }
       ]
     },
@@ -172,11 +172,11 @@
           "date": "2026-11-03"
         },
         {
-          "title": "AI is changing what's in store for new hires and managers alike",
-          "summary": "AI is screening résumés, prompting some managers to hire fewer entry-level workers and leading others to expect beginners to tackle more advanced work, Northeastern University's AI & Society Survey found. The report is…",
-          "url": "https://phys.org/news/2026-11-ai-hires-alike.html",
-          "source": "Phys.org",
-          "date": "2026-11-03"
+          "title": "Tom Gauld on our future robot overlords",
+          "summary": "Tom Gauld's weekly cartoon",
+          "url": "https://www.newscientist.com/article/2597372-tom-gauld-on-our-future-robot-overlords/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-11-04"
         }
       ]
     },
@@ -191,18 +191,25 @@
           "date": "2026-11-02"
         },
         {
-          "title": "Scientists use sound waves to deliver a new attack on deadly brain cancer",
-          "summary": "Scientists at the University of Virginia have developed a promising new strategy to fight glioblastoma, one of the deadliest and most difficult-to-treat forms of brain cancer. Their experimental approach combines…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261030003017.htm",
+          "title": "Permanent daylight saving time has a dark side, scientists warn",
+          "summary": "A new study warns that permanent daylight saving time could force American children to make at least 2 billion additional school commutes in darkness, potentially increasing safety risks and disrupting their biological…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261103003157.htm",
           "source": "Science Daily",
-          "date": "2026-11-01"
+          "date": "2026-11-04"
         },
         {
-          "title": "Boat burial reveals leprosy strain in fifth-century Germany",
-          "summary": "Visigothic and Vandal forces marched into Italy and conquered Rome; the Huns spread fear and terror on their campaigns through Western Europe; the Franks expanded their domain southward—the fifth century was an era of…",
-          "url": "https://phys.org/news/2026-11-boat-burial-reveals-leprosy-strain.html",
+          "title": "Five things to know about guiding sound for better communication",
+          "summary": "Every time someone picks up a call, the phone does a quiet bit of translation. Incoming radio signals are converted into tiny sound waves that ripple across chips before being turned back into data.",
+          "url": "https://phys.org/news/2026-11-communication.html",
           "source": "Phys.org",
-          "date": "2026-11-03"
+          "date": "2026-11-04"
+        },
+        {
+          "title": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
+          "summary": "For nearly 90 years, scientists believed magnetism fell into just two categories, but researchers have now confirmed a remarkable third type called altermagnetism. Using specialized X-rays, they uncovered a unique…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm",
+          "source": "Science Daily",
+          "date": "2026-11-04"
         }
       ]
     }
