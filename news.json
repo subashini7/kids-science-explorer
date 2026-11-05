@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-04T20:17:50Z",
+  "updated": "2026-11-05T20:28:32Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "Molecular imaging reveals how shape-shifting protein complex captures DNA and holds separate sections together",
-          "summary": "Researchers at Kanazawa University and the National Institute of Genetics in Japan have used high-speed atomic force microscopy to observe how a group of proteins known as Smc5/6 interacts with DNA. The images reveal…",
-          "url": "https://phys.org/news/2026-11-molecular-imaging-reveals-shifting-protein.html",
+          "title": "DNA nanoswitches find new drug leads faster by measuring protein interactions",
+          "summary": "Researchers at the Wyss Institute at Harvard University, Boston Children's Hospital, and Harvard Medical School (HMS) have developed FIND, a drug discovery platform that searches large libraries for molecules that…",
+          "url": "https://phys.org/news/2026-11-dna-nanoswitches-drug-faster-protein.html",
           "source": "Phys.org",
-          "date": "2026-11-04"
+          "date": "2026-11-05"
         },
         {
           "title": "All 5 genetic “letters” of DNA and RNA discovered in a 4.5-billion-year-old asteroid",
@@ -33,31 +33,17 @@
           "date": "2026-11-04"
         },
         {
-          "title": "Scientists discover new Alzheimer’s drug that repairs DNA damage and reduces brain inflammation",
-          "summary": "Scientists have discovered that a drug originally developed for spinal cord injuries can tackle several key features of Alzheimer’s disease, including DNA damage and inflammation. Already tested for initial safety in…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261102075806.htm",
+          "title": "A clever molecular trick unlocks previously impossible properties in glass",
+          "summary": "Scientists have discovered how to reprogram the internal structure of glass using a special molecule that rearranges chemical bonds while lowering the melting temperature. The breakthrough could unlock entirely new…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261103003202.htm",
           "source": "Science Daily",
-          "date": "2026-11-03"
+          "date": "2026-11-05"
         }
       ]
     },
     "Space & Astronomy": {
       "emoji": "🚀",
       "articles": [
-        {
-          "title": "Do we know how many Starship launches SpaceX will need to get NASA astronauts to the moon? No. Will its refuelling plan be simple? Also no.",
-          "summary": "NASA's Artemis IV moon mission will be a complicated affair — especially if SpaceX's Starship ends up being the lunar lander. The massive spacecraft will need an unknown number of refuel flights in two separate orbits.",
-          "url": "https://www.space.com/space-exploration/artemis/do-we-know-how-many-starship-launches-spacex-will-need-to-get-nasa-astronauts-to-the-moon-no-will-its-refuelling-plan-be-simple-also-no",
-          "source": "Space.com",
-          "date": "2026-11-03"
-        },
-        {
-          "title": "On this day in space! Nov. 1, 1962: The Soviet Union Launches Mars 1 spacecraft to Red Planet during the Space Race",
-          "summary": "On Nov. 1, 1962, the Soviet Union launched the Mars 1 spacecraft on a mission to fly by the Red Planet. Here's why it mattered.",
-          "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-1-2026",
-          "source": "Space.com",
-          "date": "2026-11-01"
-        },
         {
           "title": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
           "summary": "NASA selected three companies on Wednesday to perform work to develop Ka-band space relay capability concepts that are compatible with current missions in space, ensuring service continuity for existing spacecraft…",
@@ -66,18 +52,32 @@
           "date": "2026-11-04"
         },
         {
-          "title": "NASA's Hubble and Webb discover ancient worlds that remember their past",
-          "summary": "NASA’s Hubble and James Webb Space Telescopes have uncovered surprising clues about the solar system’s origins by studying 27 tiny, distant objects beyond Neptune. Scientists discovered that these ancient building…",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261031221209.htm",
-          "source": "Science Daily",
-          "date": "2026-11-02"
-        },
-        {
           "title": "Ancient star collisions could explain mysterious Little Red Dots and 'impossible' black holes",
           "summary": "Collisions between stars in the early universe were common, and this could explain the growth of supermassive black holes and the existence of strange Little Red Dots seen by the James Webb Space Telescope.",
           "url": "https://www.space.com/astronomy/stars/ancient-star-collisions-could-explain-mysterious-little-red-dots-and-impossible-black-holes",
           "source": "Space.com",
           "date": "2026-11-03"
+        },
+        {
+          "title": "NASA Navigation Experiment Shows Promise for Planetary Landings",
+          "summary": "NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets. An Alta-X drone equipped with the agency’s Safe and Precise Landing –…",
+          "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/",
+          "source": "NASA",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "Hubble learns galactic history from stars",
+          "summary": "This NASA/ESA Hubble Space Telescope image provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer Charles Messier, who cataloged M30 and other…",
+          "url": "https://phys.org/news/2026-11-hubble-galactic-history-stars.html",
+          "source": "Phys.org",
+          "date": "2026-11-05"
+        },
+        {
+          "title": "On this day in space! Nov. 5, 2002: NASA's Galileo spacecraft flies by Jupiter moon Almathea only to find it's a 'pile of icy rubble less dense than water'",
+          "summary": "On Nov. 5, 2002, NASA's old Galileo spacecraft flew by a small moon called Amalthea and made a surprising find. Here's why it mattered.",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-5-2026",
+          "source": "Space.com",
+          "date": "2026-11-05"
         }
       ]
     },
@@ -85,18 +85,25 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "Trained dogs detected invasive plant species in Germany with 75% accuracy",
-          "summary": "Invasive alien species (IAS) are one of the main causes of biodiversity loss worldwide. A study published Nov. 4, 2026, in the journal PLOS One by Annegret Grimm-Seyfarth at Helmholtz-Centre for Environmental…",
-          "url": "https://phys.org/news/2026-11-dogs-invasive-species-germany-accuracy.html",
+          "title": "Hooved mammals that migrate may be at greater risk of extinction than those that stay put",
+          "summary": "Over the past 100,000 years, hooved mammals that migrate have experienced a higher rate of extinction compared to nonmigratory species, according to a study being published Nov. 5 in the journal PLOS Biology by Joel…",
+          "url": "https://phys.org/news/2026-11-hooved-mammals-migrate-greater-extinction.html",
           "source": "Phys.org",
-          "date": "2026-11-04"
+          "date": "2026-11-05"
         },
         {
-          "title": "Overlooked Melbourne patch reveals 45 animal species and more than 40 plant types",
-          "summary": "When we think about nature in our cities, what often comes to mind are parks and reserves—planned, managed and clearly marked spaces that support animal and plant life in our urban environment.",
-          "url": "https://phys.org/news/2026-11-overlooked-melbourne-patch-reveals-animal.html",
+          "title": "Tiny animal populations can recover, challenging assumptions about extinction risk",
+          "summary": "Species reduced to fewer than 50 individuals in the wild are not automatically doomed to extinction, according to a major study co-authored by researchers at the Zoological Society of London and Monash University.",
+          "url": "https://phys.org/news/2026-11-tiny-animal-populations-recover-assumptions.html",
           "source": "Phys.org",
-          "date": "2026-11-04"
+          "date": "2026-11-05"
+        },
+        {
+          "title": "A 70-million-year-old genetic rescue allowed codfishes to escape extinction and shape the North Atlantic",
+          "summary": "A new study has revealed how the repurposing of an ancestral gene saved the embryos of cod's ancestors from extinction, enabling them to form the large populations that, millions of years later, would change the course…",
+          "url": "https://phys.org/news/2026-11-million-year-genetic-codfishes-extinction.html",
+          "source": "Phys.org",
+          "date": "2026-11-05"
         },
         {
           "title": "Scientists may have finally explained why our brains and bodies are cross-wired",
@@ -106,18 +113,11 @@
           "date": "2026-11-04"
         },
         {
-          "title": "Scientists discover there are way more bugs in California than you thought",
-          "summary": "A new study published in the journal Ecography finds that there are more than 60,000 different species of insects in California—and scientists have only described about two-thirds of them.",
-          "url": "https://phys.org/news/2026-11-scientists-bugs-california-thought.html",
+          "title": "Cannabis was used as an intoxicant as early as 2,800 years ago",
+          "summary": "Cannabis is one of the most commonly used psychoactive plants today. However, it is difficult to determine archaeologically how cannabis was used in prehistoric times. Plant parts such as flowers, leaves and resins are…",
+          "url": "https://phys.org/news/2026-11-cannabis-intoxicant-early-years.html",
           "source": "Phys.org",
-          "date": "2026-11-04"
-        },
-        {
-          "title": "Nature's looking glass: Crafting mirrors from plants",
-          "summary": "Natural materials, ranging from butterfly wings to mother-of-pearl, can exhibit an array of optical effects. In trying to reproduce these effects, scientists have found it challenging to use biodegradable, sustainable…",
-          "url": "https://phys.org/news/2026-11-nature-glass-crafting-mirrors.html",
-          "source": "Phys.org",
-          "date": "2026-11-04"
+          "date": "2026-11-05"
         }
       ]
     },
@@ -125,39 +125,32 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "NASA reveals a haunting skull hidden in Antarctica’s ice",
-          "summary": "NASA satellites have captured an eerie, skull-shaped formation on a remote Antarctic island, but its haunting appearance conceals a troubling warning about melting glaciers. Unusually warm winter temperatures have…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261101010538.htm",
-          "source": "Science Daily",
-          "date": "2026-11-02"
+          "title": "Ice-age abrupt climate shifts were not as fast as thought, new study finds",
+          "summary": "New high-resolution speleothem records from China and India, together with isotope-enabled climate models, show that abrupt glacial ocean circulation recoveries took centuries, not decades—a finding with important…",
+          "url": "https://phys.org/news/2026-11-ice-age-abrupt-climate-shifts.html",
+          "source": "Phys.org",
+          "date": "2026-11-05"
         },
         {
-          "title": "Northern permafrost greening masks declining plant resilience, study finds",
-          "summary": "An international study jointly led by researchers from the Department of Geography and the Institute for Climate and Carbon Neutrality at the Faculty of Social Sciences, The University of Hong Kong (HKU), has revealed…",
-          "url": "https://phys.org/news/2026-11-northern-permafrost-greening-masks-declining.html",
+          "title": "Researchers explore how AI could improve earthquake safety",
+          "summary": "Researchers at the University of East London (UEL) have developed a new framework for assessing earthquake risks, using AI-assisted technology to examine how soil conditions, ground shaking and structural strength…",
+          "url": "https://phys.org/news/2026-11-explore-ai-earthquake-safety.html",
           "source": "Phys.org",
-          "date": "2026-11-04"
+          "date": "2026-11-05"
         },
         {
-          "title": "Long-term temperature records reveal a surprising picture of climate change on Kilimanjaro",
-          "summary": "Mount Kilimanjaro is warming in some places and cooling in others, according to a new study by the University of Portsmouth, published in npj Climate and Atmospheric Science.",
-          "url": "https://phys.org/news/2026-11-term-temperature-reveal-picture-climate.html",
-          "source": "Phys.org",
-          "date": "2026-11-04"
+          "title": "Cyprus: Island of Snakes, Cats, and Ophiolites",
+          "summary": "The third-largest island in the Mediterranean Sea exposes an ancient piece of the ocean floor and hosts a clowder of cats.",
+          "url": "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/",
+          "source": "NASA",
+          "date": "2026-11-05"
         },
         {
-          "title": "This fruit fly's aphrodisiac reveals how social and environmental context shape mating practices",
-          "summary": "Imagine a crowded dance floor where bodies move to the beat beneath a glittering disco ball. Some of the dancers pair up, drawn together by the heady atmosphere. For flies, as for humans, the right atmosphere can serve…",
-          "url": "https://phys.org/news/2026-11-fruit-fly-aphrodisiac-reveals-social.html",
+          "title": "Ancient Maya mercury use may have come at a severe environmental cost",
+          "summary": "Ancient Maya communities made extensive use of liquid mercury and a red, mercury-containing pigment called cinnabar to decorate buildings, pottery and burial sites. Unsurprisingly, as previous research has shown, this…",
+          "url": "https://phys.org/news/2026-11-ancient-maya-mercury-severe-environmental.html",
           "source": "Phys.org",
-          "date": "2026-11-04"
-        },
-        {
-          "title": "A new tool helps target conservation and pollution control on the Ganges River",
-          "summary": "An estimated 6 billion liters (1.6 billion gallons) of untreated sewage is discharged daily into the Ganges River Basin, home to 650 million people. Combined with seasonal monsoon flooding, the sewage and other…",
-          "url": "https://phys.org/news/2026-11-tool-pollution-ganges-river.html",
-          "source": "Phys.org",
-          "date": "2026-11-04"
+          "date": "2026-11-05"
         }
       ]
     },
@@ -165,31 +158,24 @@
       "emoji": "🤖",
       "articles": [
         {
+          "title": "A tiny supercurrent could unlock quantum information without destroying it",
+          "summary": "Researchers have proposed a breakthrough technique for reading quantum information without destroying the delicate states that make quantum computers work. By detecting an electrical signal generated by the qubit…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261102202831.htm",
+          "source": "Science Daily",
+          "date": "2026-11-05"
+        },
+        {
           "title": "The brain’s hidden fear mechanism may explain anxiety and PTSD",
           "summary": "A surprising new discovery suggests that fear may cause the brain to blur the line between danger and safety rather than distinguish them more clearly. By observing brain activity in mice using augmented reality…",
           "url": "https://www.sciencedaily.com/releases/2026/11/261102202833.htm",
           "source": "Science Daily",
           "date": "2026-11-03"
-        },
-        {
-          "title": "Tom Gauld on our future robot overlords",
-          "summary": "Tom Gauld's weekly cartoon",
-          "url": "https://www.newscientist.com/article/2597372-tom-gauld-on-our-future-robot-overlords/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-11-04"
         }
       ]
     },
     "Physics": {
       "emoji": "⚡",
       "articles": [
-        {
-          "title": "IceCube detects ghost particles with 10 billion times the energy of solar neutrinos",
-          "summary": "Mysterious particles called neutrinos constantly stream through our bodies, and scientists are now detecting incredibly powerful versions arriving from distant cosmic sources using a massive observatory buried in…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261101010533.htm",
-          "source": "Science Daily",
-          "date": "2026-11-02"
-        },
         {
           "title": "Permanent daylight saving time has a dark side, scientists warn",
           "summary": "A new study warns that permanent daylight saving time could force American children to make at least 2 billion additional school commutes in darkness, potentially increasing safety risks and disrupting their biological…",
@@ -198,11 +184,11 @@
           "date": "2026-11-04"
         },
         {
-          "title": "Five things to know about guiding sound for better communication",
-          "summary": "Every time someone picks up a call, the phone does a quiet bit of translation. Incoming radio signals are converted into tiny sound waves that ripple across chips before being turned back into data.",
-          "url": "https://phys.org/news/2026-11-communication.html",
-          "source": "Phys.org",
-          "date": "2026-11-04"
+          "title": "Midwestern City Lights",
+          "summary": "City lights from the Midwestern United States to the East Coast sparkle across the landscape a couple of hours before sunrise on Oct. 18, 2026. Major urban areas visible in the photograph include Chicago, Illinois…",
+          "url": "https://www.nasa.gov/image-article/midwestern-city-lights/",
+          "source": "NASA",
+          "date": "2026-11-05"
         },
         {
           "title": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
@@ -210,6 +196,13 @@
           "url": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm",
           "source": "Science Daily",
           "date": "2026-11-04"
+        },
+        {
+          "title": "After 40 years of searching, physicists find evidence for an ultrarare particle decay",
+          "summary": "Physicists at CERN report that they've detected evidence of a rare meson particle decay (B⁰→ µ⁺µ⁻) that occurs when the meson's beauty quark annihilates with a down-type quark. The pair decays into a muon and antimuon…",
+          "url": "https://phys.org/news/2026-11-years-physicists-evidence-ultrarare-particle.html",
+          "source": "Phys.org",
+          "date": "2026-11-05"
         }
       ]
     }
