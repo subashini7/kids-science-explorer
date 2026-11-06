@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-05T20:28:32Z",
+  "updated": "2026-11-06T19:51:40Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "DNA nanoswitches find new drug leads faster by measuring protein interactions",
-          "summary": "Researchers at the Wyss Institute at Harvard University, Boston Children's Hospital, and Harvard Medical School (HMS) have developed FIND, a drug discovery platform that searches large libraries for molecules that…",
-          "url": "https://phys.org/news/2026-11-dna-nanoswitches-drug-faster-protein.html",
+          "title": "Technique that spots tRNAs in action could accelerate drug development for inherited diseases",
+          "summary": "Human cells turn genetic instructions into proteins with great precision. Critical for the translation of this information are transfer RNAs, or tRNAs, small molecules that read the genetic code three letters at a time…",
+          "url": "https://phys.org/news/2026-11-technique-trnas-action-drug-inherited.html",
           "source": "Phys.org",
-          "date": "2026-11-05"
+          "date": "2026-11-06"
         },
         {
           "title": "All 5 genetic “letters” of DNA and RNA discovered in a 4.5-billion-year-old asteroid",
@@ -17,6 +17,13 @@
           "url": "https://www.sciencedaily.com/releases/2026/11/261102075903.htm",
           "source": "Science Daily",
           "date": "2026-11-03"
+        },
+        {
+          "title": "Scientists just found dinosaur blood that survived 115 million years",
+          "summary": "Scientists have discovered chemically confirmed traces of ancient blood inside 115-million-year-old dinosaur bones, challenging assumptions about how long biological molecules can survive. The extraordinary preservation…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261105224542.htm",
+          "source": "Science Daily",
+          "date": "2026-11-06"
         },
         {
           "title": "MIT scientists break a 20-year rule and unlock never-before-seen crystal structures",
@@ -31,13 +38,6 @@
           "url": "https://www.sciencedaily.com/releases/2026/11/261104005226.htm",
           "source": "Science Daily",
           "date": "2026-11-04"
-        },
-        {
-          "title": "A clever molecular trick unlocks previously impossible properties in glass",
-          "summary": "Scientists have discovered how to reprogram the internal structure of glass using a special molecule that rearranges chemical bonds while lowering the melting temperature. The breakthrough could unlock entirely new…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261103003202.htm",
-          "source": "Science Daily",
-          "date": "2026-11-05"
         }
       ]
     },
@@ -45,35 +45,35 @@
       "emoji": "🚀",
       "articles": [
         {
-          "title": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
-          "summary": "NASA selected three companies on Wednesday to perform work to develop Ka-band space relay capability concepts that are compatible with current missions in space, ensuring service continuity for existing spacecraft…",
-          "url": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/",
-          "source": "NASA",
-          "date": "2026-11-04"
-        },
-        {
-          "title": "Ancient star collisions could explain mysterious Little Red Dots and 'impossible' black holes",
-          "summary": "Collisions between stars in the early universe were common, and this could explain the growth of supermassive black holes and the existence of strange Little Red Dots seen by the James Webb Space Telescope.",
-          "url": "https://www.space.com/astronomy/stars/ancient-star-collisions-could-explain-mysterious-little-red-dots-and-impossible-black-holes",
+          "title": "Giant exoplanet emerges from the dark when the James Webb Space Telescope turns out the starlight",
+          "summary": "Astronomers have filtered out starlight from James Webb Space Telescope observations to see a giant exoplanet emerge in the darkness.",
+          "url": "https://www.space.com/astronomy/exoplanets/giant-exoplanet-emerges-from-the-dark-when-the-james-webb-space-telescope-turns-out-the-starlight",
           "source": "Space.com",
-          "date": "2026-11-03"
+          "date": "2026-11-06"
         },
         {
-          "title": "NASA Navigation Experiment Shows Promise for Planetary Landings",
-          "summary": "NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets. An Alta-X drone equipped with the agency’s Safe and Precise Landing –…",
-          "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/",
+          "title": "Hera probe gets 1st good look at asteroid system clobbered by NASA's DART mission | Space photo of the day for Nov. 6, 2026",
+          "summary": "The European Space Agency's Hera spacecraft has gotten its first close-up look at the Didymos binary asteroid, the first space rock system \"punched\" by humanity.",
+          "url": "https://www.space.com/space-exploration/asteroid-comet-missions/hera-probe-gets-1st-good-luck-at-asteroid-system-clobbered-by-nasas-dart-mission-space-photo-of-the-day-for-nov-6-2026",
+          "source": "Space.com",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "M30’s Sparkling Stars",
+          "summary": "This NASA/ESA Hubble Space Telescope image released Nov. 5, 2026, provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer, Charles Messier, who…",
+          "url": "https://www.nasa.gov/image-article/m30s-sparkling-stars/",
           "source": "NASA",
-          "date": "2026-11-04"
+          "date": "2026-11-06"
         },
         {
-          "title": "Hubble learns galactic history from stars",
-          "summary": "This NASA/ESA Hubble Space Telescope image provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer Charles Messier, who cataloged M30 and other…",
-          "url": "https://phys.org/news/2026-11-hubble-galactic-history-stars.html",
-          "source": "Phys.org",
-          "date": "2026-11-05"
+          "title": "Don't miss: Meteor showers, fireballs, and a supermoon light up November's night sky",
+          "summary": "November's night sky is packed with celestial wonders, from bright meteor fireballs and a close pairing of Mars and Jupiter to a spectacular supermoon. Meanwhile, NASA's Voyager 1 is making history by becoming the first…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261105224547.htm",
+          "source": "Science Daily",
+          "date": "2026-11-06"
         },
         {
-          "title": "On this day in space! Nov. 5, 2002: NASA's Galileo spacecraft flies by Jupiter moon Almathea only to find it's a 'pile of icy rubble less dense than water'",
+          "title": "On this day in space! Nov. 5, 2002: NASA's Galileo spacecraft flies by Jupiter moon Amalthea only to find it's a 'pile of icy rubble less dense than water'",
           "summary": "On Nov. 5, 2002, NASA's old Galileo spacecraft flew by a small moon called Amalthea and made a surprising find. Here's why it mattered.",
           "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-5-2026",
           "source": "Space.com",
@@ -85,25 +85,32 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "Hooved mammals that migrate may be at greater risk of extinction than those that stay put",
-          "summary": "Over the past 100,000 years, hooved mammals that migrate have experienced a higher rate of extinction compared to nonmigratory species, according to a study being published Nov. 5 in the journal PLOS Biology by Joel…",
-          "url": "https://phys.org/news/2026-11-hooved-mammals-migrate-greater-extinction.html",
+          "title": "'I heard a barnacle'—how paying attention to nature's background noise can reveal animal secrets",
+          "summary": "During four days on Washington's Olympic Peninsula, I saw an Olympic marmot, a species found nowhere else on Earth; four bumblebee species working the same lavender plant; three western hermit crab species new to me…",
+          "url": "https://phys.org/news/2026-11-heard-barnacle-paying-attention-nature.html",
           "source": "Phys.org",
-          "date": "2026-11-05"
+          "date": "2026-11-06"
         },
         {
-          "title": "Tiny animal populations can recover, challenging assumptions about extinction risk",
-          "summary": "Species reduced to fewer than 50 individuals in the wild are not automatically doomed to extinction, according to a major study co-authored by researchers at the Zoological Society of London and Monash University.",
-          "url": "https://phys.org/news/2026-11-tiny-animal-populations-recover-assumptions.html",
+          "title": "The spring mountain butterfly has been spotted for the first time beneath power lines",
+          "summary": "The Universitat Autònoma de Barcelona (UAB) for the first time has detected the presence of the spring mountain butterfly (Erebia epistygne), a species under threat of extinction in Catalonia, under the electricity…",
+          "url": "https://phys.org/news/2026-11-mountain-butterfly-beneath-power-lines.html",
           "source": "Phys.org",
-          "date": "2026-11-05"
+          "date": "2026-11-06"
         },
         {
-          "title": "A 70-million-year-old genetic rescue allowed codfishes to escape extinction and shape the North Atlantic",
-          "summary": "A new study has revealed how the repurposing of an ancestral gene saved the embryos of cod's ancestors from extinction, enabling them to form the large populations that, millions of years later, would change the course…",
-          "url": "https://phys.org/news/2026-11-million-year-genetic-codfishes-extinction.html",
-          "source": "Phys.org",
-          "date": "2026-11-05"
+          "title": "Five-inch-long beetle larvae are quietly destroying blueberry roots",
+          "summary": "Scientists have solved a mystery surrounding destructive beetles attacking blueberry bushes in North Carolina, identifying a species whose massive larvae can grow up to five inches long and destroy plant roots. Although…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261103003200.htm",
+          "source": "Science Daily",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "Traces of dinosaur blood found for the 1st time?",
+          "summary": "For the 1st time, scientists say they've found traces of dinosaur blood. It comes from a 115-million-year-old fossil dinosaur bone from Brazil. The post Traces of dinosaur blood found for the 1st time? first appeared on…",
+          "url": "https://earthsky.org/earth/traces-of-dinosaur-blood-fossil-1st-time/",
+          "source": "EarthSky",
+          "date": "2026-11-06"
         },
         {
           "title": "Scientists may have finally explained why our brains and bodies are cross-wired",
@@ -111,13 +118,6 @@
           "url": "https://www.sciencedaily.com/releases/2026/11/261103003146.htm",
           "source": "Science Daily",
           "date": "2026-11-04"
-        },
-        {
-          "title": "Cannabis was used as an intoxicant as early as 2,800 years ago",
-          "summary": "Cannabis is one of the most commonly used psychoactive plants today. However, it is difficult to determine archaeologically how cannabis was used in prehistoric times. Plant parts such as flowers, leaves and resins are…",
-          "url": "https://phys.org/news/2026-11-cannabis-intoxicant-early-years.html",
-          "source": "Phys.org",
-          "date": "2026-11-05"
         }
       ]
     },
@@ -125,18 +125,18 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Ice-age abrupt climate shifts were not as fast as thought, new study finds",
-          "summary": "New high-resolution speleothem records from China and India, together with isotope-enabled climate models, show that abrupt glacial ocean circulation recoveries took centuries, not decades—a finding with important…",
-          "url": "https://phys.org/news/2026-11-ice-age-abrupt-climate-shifts.html",
+          "title": "High-precision timeline helps clarify an ancient magma surge in the North Cascades",
+          "summary": "Where oceanic crust subducts beneath continental crust, belts of volcanoes known as continental arcs can form. Located around the world, these arcs may undergo episodic magma flare-ups—dramatic surges in the flow of…",
+          "url": "https://phys.org/news/2026-11-high-precision-timeline-ancient-magma.html",
           "source": "Phys.org",
-          "date": "2026-11-05"
+          "date": "2026-11-06"
         },
         {
-          "title": "Researchers explore how AI could improve earthquake safety",
-          "summary": "Researchers at the University of East London (UEL) have developed a new framework for assessing earthquake risks, using AI-assisted technology to examine how soil conditions, ground shaking and structural strength…",
-          "url": "https://phys.org/news/2026-11-explore-ai-earthquake-safety.html",
+          "title": "Microplastic pollution could be changing the color of the Pacific Ocean",
+          "summary": "Our oceans have effectively become trash dumps where massive quantities of plastic end up. So much so, in fact, that the largest offshore plastic accumulation zone has been labeled the Great Pacific Garbage Patch.",
+          "url": "https://phys.org/news/2026-11-microplastic-pollution-pacific-ocean.html",
           "source": "Phys.org",
-          "date": "2026-11-05"
+          "date": "2026-11-06"
         },
         {
           "title": "Cyprus: Island of Snakes, Cats, and Ophiolites",
@@ -146,11 +146,11 @@
           "date": "2026-11-05"
         },
         {
-          "title": "Ancient Maya mercury use may have come at a severe environmental cost",
-          "summary": "Ancient Maya communities made extensive use of liquid mercury and a red, mercury-containing pigment called cinnabar to decorate buildings, pottery and burial sites. Unsurprisingly, as previous research has shown, this…",
-          "url": "https://phys.org/news/2026-11-ancient-maya-mercury-severe-environmental.html",
+          "title": "The worse climate change gets, the harder it becomes to stop it",
+          "summary": "This year may be seen as a turning point in the climate crisis. The U.N. has accepted that global warming is going to exceed 1.5°C, while climate scientists have concluded that the rate of warming has effectively…",
+          "url": "https://phys.org/news/2026-11-worse-climate-harder.html",
           "source": "Phys.org",
-          "date": "2026-11-05"
+          "date": "2026-11-06"
         }
       ]
     },
@@ -165,6 +165,13 @@
           "date": "2026-11-05"
         },
         {
+          "title": "Record-breaking, fast-spinning magnet could help uncover new physics",
+          "summary": "A magnet barely wider than a human hair is one of the fastest spinning objects ever and could be useful for both fundamental physics experiments and in quantum technology",
+          "url": "https://www.newscientist.com/article/2597816-record-breaking-fast-spinning-magnet-could-help-uncover-new-physics/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-11-06"
+        },
+        {
           "title": "The brain’s hidden fear mechanism may explain anxiety and PTSD",
           "summary": "A surprising new discovery suggests that fear may cause the brain to blur the line between danger and safety rather than distinguish them more clearly. By observing brain activity in mice using augmented reality…",
           "url": "https://www.sciencedaily.com/releases/2026/11/261102202833.htm",
@@ -176,6 +183,20 @@
     "Physics": {
       "emoji": "⚡",
       "articles": [
+        {
+          "title": "'Mega heat waves' strengthened by interaction between soil moisture, atmospheric pressure and temperature",
+          "summary": "A new study has found that a self-reinforcing interaction between temperature, soil moisture and atmospheric pressure is being triggered at high temperatures, making extreme heat waves 10% hotter than they would…",
+          "url": "https://phys.org/news/2026-11-mega-interaction-soil-moisture-atmospheric.html",
+          "source": "Phys.org",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "An unexpected feedback loop may be driving mega heatwaves",
+          "summary": "Dry soil and high pressure can amplify extreme heat, helping to explain why regions like Europe are suffering record-shattering heatwaves much earlier than climate models predicted",
+          "url": "https://www.newscientist.com/article/2597676-an-unexpected-feedback-loop-may-be-driving-mega-heatwaves/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-11-06"
+        },
         {
           "title": "Permanent daylight saving time has a dark side, scientists warn",
           "summary": "A new study warns that permanent daylight saving time could force American children to make at least 2 billion additional school commutes in darkness, potentially increasing safety risks and disrupting their biological…",
@@ -196,13 +217,6 @@
           "url": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm",
           "source": "Science Daily",
           "date": "2026-11-04"
-        },
-        {
-          "title": "After 40 years of searching, physicists find evidence for an ultrarare particle decay",
-          "summary": "Physicists at CERN report that they've detected evidence of a rare meson particle decay (B⁰→ µ⁺µ⁻) that occurs when the meson's beauty quark annihilates with a down-type quark. The pair decays into a muon and antimuon…",
-          "url": "https://phys.org/news/2026-11-years-physicists-evidence-ultrarare-particle.html",
-          "source": "Phys.org",
-          "date": "2026-11-05"
         }
       ]
     }
