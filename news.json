@@ -1,27 +1,27 @@
 {
-  "updated": "2026-11-06T19:51:40Z",
+  "updated": "2026-11-07T17:56:46Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "Technique that spots tRNAs in action could accelerate drug development for inherited diseases",
-          "summary": "Human cells turn genetic instructions into proteins with great precision. Critical for the translation of this information are transfer RNAs, or tRNAs, small molecules that read the genetic code three letters at a time…",
-          "url": "https://phys.org/news/2026-11-technique-trnas-action-drug-inherited.html",
-          "source": "Phys.org",
-          "date": "2026-11-06"
-        },
-        {
-          "title": "All 5 genetic “letters” of DNA and RNA discovered in a 4.5-billion-year-old asteroid",
-          "summary": "Scientists have discovered all five essential nucleobases used in DNA and RNA in pristine samples from asteroid Ryugu, revealing that key ingredients for life existed in space billions of years ago. The remarkable…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261102075903.htm",
-          "source": "Science Daily",
-          "date": "2026-11-03"
-        },
-        {
           "title": "Scientists just found dinosaur blood that survived 115 million years",
           "summary": "Scientists have discovered chemically confirmed traces of ancient blood inside 115-million-year-old dinosaur bones, challenging assumptions about how long biological molecules can survive. The extraordinary preservation…",
           "url": "https://www.sciencedaily.com/releases/2026/11/261105224542.htm",
+          "source": "Science Daily",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "Magic mushrooms rewire the brain in a way scientists didn't expect",
+          "summary": "A surprising discovery reveals how psilocybin, the active compound in magic mushrooms, rapidly reshapes the brain by creating new neural connections and strengthening them. Researchers found that the drug behaves…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261104012308.htm",
+          "source": "Science Daily",
+          "date": "2026-11-07"
+        },
+        {
+          "title": "A compound hidden in broccoli could help fight a devastating genetic disease",
+          "summary": "A compound naturally found in broccoli could help fight Friedreich ataxia, a devastating genetic disease that progressively damages the nervous system, by boosting a vital protein and protecting nerve cells. Scientists…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261104012259.htm",
           "source": "Science Daily",
           "date": "2026-11-06"
         },
@@ -44,6 +44,13 @@
     "Space & Astronomy": {
       "emoji": "🚀",
       "articles": [
+        {
+          "title": "On this day in space! Nov. 7, 1992: NASA launches Mars Global Surveyor, its 1st Mars mission in 20 years at the time, to map the Red Planet like never before",
+          "summary": "On Nov. 7, 1996, NASA launched its Mars Global Surveyor mission, the first Mars mission in 20 years. Here's why it mattered.",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-7-2026",
+          "source": "Space.com",
+          "date": "2026-11-07"
+        },
         {
           "title": "Giant exoplanet emerges from the dark when the James Webb Space Telescope turns out the starlight",
           "summary": "Astronomers have filtered out starlight from James Webb Space Telescope observations to see a giant exoplanet emerge in the darkness.",
@@ -71,13 +78,6 @@
           "url": "https://www.sciencedaily.com/releases/2026/11/261105224547.htm",
           "source": "Science Daily",
           "date": "2026-11-06"
-        },
-        {
-          "title": "On this day in space! Nov. 5, 2002: NASA's Galileo spacecraft flies by Jupiter moon Amalthea only to find it's a 'pile of icy rubble less dense than water'",
-          "summary": "On Nov. 5, 2002, NASA's old Galileo spacecraft flew by a small moon called Amalthea and made a surprising find. Here's why it mattered.",
-          "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-5-2026",
-          "source": "Space.com",
-          "date": "2026-11-05"
         }
       ]
     },
@@ -85,18 +85,18 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "'I heard a barnacle'—how paying attention to nature's background noise can reveal animal secrets",
-          "summary": "During four days on Washington's Olympic Peninsula, I saw an Olympic marmot, a species found nowhere else on Earth; four bumblebee species working the same lavender plant; three western hermit crab species new to me…",
-          "url": "https://phys.org/news/2026-11-heard-barnacle-paying-attention-nature.html",
+          "title": "The wasps that horrified Darwin reveal evolution's one-way streets",
+          "summary": "Few insects have a more gruesome lifestyle than Darwin wasps. Rather than simply hunting other animals, these parasitic wasps lay their eggs on or inside living hosts, including caterpillars, beetles and spiders. Their…",
+          "url": "https://phys.org/news/2026-11-wasps-horrified-darwin-reveal-evolution.html",
           "source": "Phys.org",
           "date": "2026-11-06"
         },
         {
-          "title": "The spring mountain butterfly has been spotted for the first time beneath power lines",
-          "summary": "The Universitat Autònoma de Barcelona (UAB) for the first time has detected the presence of the spring mountain butterfly (Erebia epistygne), a species under threat of extinction in Catalonia, under the electricity…",
-          "url": "https://phys.org/news/2026-11-mountain-butterfly-beneath-power-lines.html",
-          "source": "Phys.org",
-          "date": "2026-11-06"
+          "title": "Scientists discover Europe's ancient forests were nothing like we imagined",
+          "summary": "Scientists have uncovered evidence that Europe was dominated for more than 20 million years by open woodlands, colorful meadows, and large grazing animals, not the dense forests long considered its natural state. The…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261104012333.htm",
+          "source": "Science Daily",
+          "date": "2026-11-07"
         },
         {
           "title": "Five-inch-long beetle larvae are quietly destroying blueberry roots",
@@ -106,18 +106,18 @@
           "date": "2026-11-06"
         },
         {
+          "title": "European forests need to solve two crises—but not necessarily in one place",
+          "summary": "Forest areas can act both as carbon sinks and as vital habitats for thousands of species—but not necessarily at the same time. This has important implications for how Europe should manage its forests, says a University…",
+          "url": "https://phys.org/news/2026-11-european-forests-crises-necessarily.html",
+          "source": "Phys.org",
+          "date": "2026-11-06"
+        },
+        {
           "title": "Traces of dinosaur blood found for the 1st time?",
           "summary": "For the 1st time, scientists say they've found traces of dinosaur blood. It comes from a 115-million-year-old fossil dinosaur bone from Brazil. The post Traces of dinosaur blood found for the 1st time? first appeared on…",
           "url": "https://earthsky.org/earth/traces-of-dinosaur-blood-fossil-1st-time/",
           "source": "EarthSky",
           "date": "2026-11-06"
-        },
-        {
-          "title": "Scientists may have finally explained why our brains and bodies are cross-wired",
-          "summary": "Scientists propose that the brain’s mysterious cross-wiring, which connects each hemisphere to the opposite side of the body, may have originated more than 500 million years ago in the visual systems of ancient fish…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261103003146.htm",
-          "source": "Science Daily",
-          "date": "2026-11-04"
         }
       ]
     },
@@ -125,16 +125,16 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "High-precision timeline helps clarify an ancient magma surge in the North Cascades",
-          "summary": "Where oceanic crust subducts beneath continental crust, belts of volcanoes known as continental arcs can form. Located around the world, these arcs may undergo episodic magma flare-ups—dramatic surges in the flow of…",
-          "url": "https://phys.org/news/2026-11-high-precision-timeline-ancient-magma.html",
+          "title": "New method measures microplastics in the air using an uncrewed aerial system",
+          "summary": "Microplastics have been found in our bodies and the food we eat—and even in remote environments around the world, including seawater and ice in the Arctic. Despite their prevalence, little is known about how they move…",
+          "url": "https://phys.org/news/2026-11-method-microplastics-air-uncrewed-aerial.html",
           "source": "Phys.org",
           "date": "2026-11-06"
         },
         {
-          "title": "Microplastic pollution could be changing the color of the Pacific Ocean",
-          "summary": "Our oceans have effectively become trash dumps where massive quantities of plastic end up. So much so, in fact, that the largest offshore plastic accumulation zone has been labeled the Great Pacific Garbage Patch.",
-          "url": "https://phys.org/news/2026-11-microplastic-pollution-pacific-ocean.html",
+          "title": "High-precision timeline helps clarify an ancient magma surge in the North Cascades",
+          "summary": "Where oceanic crust subducts beneath continental crust, belts of volcanoes known as continental arcs can form. Located around the world, these arcs may undergo episodic magma flare-ups—dramatic surges in the flow of…",
+          "url": "https://phys.org/news/2026-11-high-precision-timeline-ancient-magma.html",
           "source": "Phys.org",
           "date": "2026-11-06"
         },
@@ -146,11 +146,11 @@
           "date": "2026-11-05"
         },
         {
-          "title": "The worse climate change gets, the harder it becomes to stop it",
-          "summary": "This year may be seen as a turning point in the climate crisis. The U.N. has accepted that global warming is going to exceed 1.5°C, while climate scientists have concluded that the rate of warming has effectively…",
-          "url": "https://phys.org/news/2026-11-worse-climate-harder.html",
+          "title": "Heavy rain can more than double glacier speeds in Alaska",
+          "summary": "Glaciers are often thought of as unyielding blocks of ice that slowly carve out the landscape as they move downhill by gravity. But sometimes their slow crawl becomes a surge that sees them move orders of magnitude…",
+          "url": "https://phys.org/news/2026-11-heavy-glacier-alaska.html",
           "source": "Phys.org",
-          "date": "2026-11-06"
+          "date": "2026-11-07"
         }
       ]
     },
@@ -158,31 +158,24 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "A tiny supercurrent could unlock quantum information without destroying it",
-          "summary": "Researchers have proposed a breakthrough technique for reading quantum information without destroying the delicate states that make quantum computers work. By detecting an electrical signal generated by the qubit…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261102202831.htm",
-          "source": "Science Daily",
-          "date": "2026-11-05"
-        },
-        {
           "title": "Record-breaking, fast-spinning magnet could help uncover new physics",
           "summary": "A magnet barely wider than a human hair is one of the fastest spinning objects ever and could be useful for both fundamental physics experiments and in quantum technology",
           "url": "https://www.newscientist.com/article/2597816-record-breaking-fast-spinning-magnet-could-help-uncover-new-physics/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
           "date": "2026-11-06"
-        },
-        {
-          "title": "The brain’s hidden fear mechanism may explain anxiety and PTSD",
-          "summary": "A surprising new discovery suggests that fear may cause the brain to blur the line between danger and safety rather than distinguish them more clearly. By observing brain activity in mice using augmented reality…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261102202833.htm",
-          "source": "Science Daily",
-          "date": "2026-11-03"
         }
       ]
     },
     "Physics": {
       "emoji": "⚡",
       "articles": [
+        {
+          "title": "Theory predicting an older universe without dark matter or dark energy passes key cosmological tests",
+          "summary": "An alternative model in which the universe is 26.7 billion years old and needs neither dark matter nor dark energy has held up against several major cosmology tests, according to a new University of Ottawa study. The…",
+          "url": "https://phys.org/news/2026-11-theory-older-universe-dark-energy.html",
+          "source": "Phys.org",
+          "date": "2026-11-07"
+        },
         {
           "title": "'Mega heat waves' strengthened by interaction between soil moisture, atmospheric pressure and temperature",
           "summary": "A new study has found that a self-reinforcing interaction between temperature, soil moisture and atmospheric pressure is being triggered at high temperatures, making extreme heat waves 10% hotter than they would…",
@@ -205,18 +198,11 @@
           "date": "2026-11-04"
         },
         {
-          "title": "Midwestern City Lights",
-          "summary": "City lights from the Midwestern United States to the East Coast sparkle across the landscape a couple of hours before sunrise on Oct. 18, 2026. Major urban areas visible in the photograph include Chicago, Illinois…",
-          "url": "https://www.nasa.gov/image-article/midwestern-city-lights/",
-          "source": "NASA",
-          "date": "2026-11-05"
-        },
-        {
-          "title": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
-          "summary": "For nearly 90 years, scientists believed magnetism fell into just two categories, but researchers have now confirmed a remarkable third type called altermagnetism. Using specialized X-rays, they uncovered a unique…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm",
-          "source": "Science Daily",
-          "date": "2026-11-04"
+          "title": "Air holes turn silicon wafers into flat ultraviolet focusing mirrors for compact optics",
+          "summary": "Traditional lenses and mirrors focus light using curved surfaces. Metasurfaces can achieve similar functions with a flat layer of nanoscale structures that locally control the phase of light. Extending these flat optics…",
+          "url": "https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html",
+          "source": "Phys.org",
+          "date": "2026-11-06"
         }
       ]
     }
