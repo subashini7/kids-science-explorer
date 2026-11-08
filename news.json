@@ -1,9 +1,16 @@
 {
-  "updated": "2026-11-07T17:56:46Z",
+  "updated": "2026-11-08T18:13:21Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
+        {
+          "title": "A hidden limit of space and time could unlock electronics 100,000 times faster",
+          "summary": "Scientists have discovered a surprising quantum limit that prevents electrons from being tracked with unlimited precision in both space and time. The breakthrough could pave the way for manipulating chemical reactions…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm",
+          "source": "Science Daily",
+          "date": "2026-11-07"
+        },
         {
           "title": "Scientists just found dinosaur blood that survived 115 million years",
           "summary": "Scientists have discovered chemically confirmed traces of ancient blood inside 115-million-year-old dinosaur bones, challenging assumptions about how long biological molecules can survive. The extraordinary preservation…",
@@ -26,18 +33,11 @@
           "date": "2026-11-06"
         },
         {
-          "title": "MIT scientists break a 20-year rule and unlock never-before-seen crystal structures",
-          "summary": "MIT scientists have challenged two decades of conventional thinking by discovering that flexible molecular connections, rather than rigid ones, can unlock entirely new ways to arrange nanoparticles. The breakthrough…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261104012248.htm",
-          "source": "Science Daily",
-          "date": "2026-11-04"
-        },
-        {
-          "title": "A surprising discovery could help aging muscles repair themselves",
-          "summary": "Scientists have discovered a compound that transforms a natural muscle-repair protein into a more powerful version dubbed \"Super HGF,\" more than doubling its ability to bind to a key receptor while protecting it from…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261104005226.htm",
-          "source": "Science Daily",
-          "date": "2026-11-04"
+          "title": "How a metabolite protects the enzyme that consumes it",
+          "summary": "Metabolites are consumed by enzymes to produce other vital molecules as well as to control metabolite levels. But how do cells avoid consuming too much? Researchers from the MPI of Biochemistry, with the University of…",
+          "url": "https://phys.org/news/2026-11-metabolite-enzyme-consumes.html",
+          "source": "Phys.org",
+          "date": "2026-11-06"
         }
       ]
     },
@@ -85,6 +85,13 @@
       "emoji": "🐾",
       "articles": [
         {
+          "title": "The hidden ways insects support animal life—from habitat to health—go way beyond being food",
+          "summary": "There are at least 14 million insect species on Earth, and they play highly diverse roles in sustaining the natural world. Insects provide many well-known benefits—what scientists often call \"ecosystem services.\" For…",
+          "url": "https://phys.org/news/2026-11-hidden-ways-insects-animal-life.html",
+          "source": "Phys.org",
+          "date": "2026-11-07"
+        },
+        {
           "title": "The wasps that horrified Darwin reveal evolution's one-way streets",
           "summary": "Few insects have a more gruesome lifestyle than Darwin wasps. Rather than simply hunting other animals, these parasitic wasps lay their eggs on or inside living hosts, including caterpillars, beetles and spiders. Their…",
           "url": "https://phys.org/news/2026-11-wasps-horrified-darwin-reveal-evolution.html",
@@ -99,18 +106,11 @@
           "date": "2026-11-07"
         },
         {
-          "title": "Five-inch-long beetle larvae are quietly destroying blueberry roots",
-          "summary": "Scientists have solved a mystery surrounding destructive beetles attacking blueberry bushes in North Carolina, identifying a species whose massive larvae can grow up to five inches long and destroy plant roots. Although…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261103003200.htm",
-          "source": "Science Daily",
-          "date": "2026-11-06"
-        },
-        {
-          "title": "European forests need to solve two crises—but not necessarily in one place",
-          "summary": "Forest areas can act both as carbon sinks and as vital habitats for thousands of species—but not necessarily at the same time. This has important implications for how Europe should manage its forests, says a University…",
-          "url": "https://phys.org/news/2026-11-european-forests-crises-necessarily.html",
+          "title": "New species of ground-dwelling bird, the largest of its kind, identified in same cave as Homo floresiensis",
+          "summary": "In 2009, researchers working in the Liang Bua cave on Flores Island came across a leg bone. The 190,000–120,000-year-old fossil was identified as a bird bone and set aside. Like many bird bones before it, it was…",
+          "url": "https://phys.org/news/2026-11-species-ground-bird-largest-kind.html",
           "source": "Phys.org",
-          "date": "2026-11-06"
+          "date": "2026-11-08"
         },
         {
           "title": "Traces of dinosaur blood found for the 1st time?",
@@ -132,18 +132,11 @@
           "date": "2026-11-06"
         },
         {
-          "title": "High-precision timeline helps clarify an ancient magma surge in the North Cascades",
-          "summary": "Where oceanic crust subducts beneath continental crust, belts of volcanoes known as continental arcs can form. Located around the world, these arcs may undergo episodic magma flare-ups—dramatic surges in the flow of…",
-          "url": "https://phys.org/news/2026-11-high-precision-timeline-ancient-magma.html",
-          "source": "Phys.org",
-          "date": "2026-11-06"
-        },
-        {
-          "title": "Cyprus: Island of Snakes, Cats, and Ophiolites",
-          "summary": "The third-largest island in the Mediterranean Sea exposes an ancient piece of the ocean floor and hosts a clowder of cats.",
-          "url": "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/",
-          "source": "NASA",
-          "date": "2026-11-05"
+          "title": "Scientists simulate an Earth without life to help hunt for aliens and inhabited worlds",
+          "summary": "By modeling how a planet without life develops its atmosphere, astronomers hope to be able to better distinguish rocky planets without life from those that are inhabited.",
+          "url": "https://www.space.com/space-exploration/search-for-life/scientists-simulate-an-earth-without-life-to-help-hunt-for-aliens-and-inhabited-worlds",
+          "source": "Space.com",
+          "date": "2026-11-08"
         },
         {
           "title": "Heavy rain can more than double glacier speeds in Alaska",
@@ -157,6 +150,20 @@
     "Technology & Inventions": {
       "emoji": "🤖",
       "articles": [
+        {
+          "title": "Two paths, one flux: Trapped ions simulate Aharonov–Bohm interference in a lattice gauge theory",
+          "summary": "In a new Nature Physics study, researchers demonstrated the Aharonov-Bohm effect in a quantum simulation of a lattice gauge theory using a hybrid trapped-ion quantum computer.",
+          "url": "https://phys.org/news/2026-11-paths-flux-ions-simulate-aharonovbohm.html",
+          "source": "Phys.org",
+          "date": "2026-11-07"
+        },
+        {
+          "title": "Antipersonnel mines have returned in Ukraine and now threaten the world",
+          "summary": "3D printing, microcontrollers and drones have enabled the resurgence of antipersonnel mines in the Russia-Ukraine war, making mines deadlier and more accessible",
+          "url": "https://www.newscientist.com/article/2597901-antipersonnel-mines-have-returned-in-ukraine-and-now-threaten-the-world/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-11-08"
+        },
         {
           "title": "Record-breaking, fast-spinning magnet could help uncover new physics",
           "summary": "A magnet barely wider than a human hair is one of the fastest spinning objects ever and could be useful for both fundamental physics experiments and in quantum technology",
@@ -177,13 +184,6 @@
           "date": "2026-11-07"
         },
         {
-          "title": "'Mega heat waves' strengthened by interaction between soil moisture, atmospheric pressure and temperature",
-          "summary": "A new study has found that a self-reinforcing interaction between temperature, soil moisture and atmospheric pressure is being triggered at high temperatures, making extreme heat waves 10% hotter than they would…",
-          "url": "https://phys.org/news/2026-11-mega-interaction-soil-moisture-atmospheric.html",
-          "source": "Phys.org",
-          "date": "2026-11-06"
-        },
-        {
           "title": "An unexpected feedback loop may be driving mega heatwaves",
           "summary": "Dry soil and high pressure can amplify extreme heat, helping to explain why regions like Europe are suffering record-shattering heatwaves much earlier than climate models predicted",
           "url": "https://www.newscientist.com/article/2597676-an-unexpected-feedback-loop-may-be-driving-mega-heatwaves/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
@@ -191,18 +191,25 @@
           "date": "2026-11-06"
         },
         {
-          "title": "Permanent daylight saving time has a dark side, scientists warn",
-          "summary": "A new study warns that permanent daylight saving time could force American children to make at least 2 billion additional school commutes in darkness, potentially increasing safety risks and disrupting their biological…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261103003157.htm",
-          "source": "Science Daily",
-          "date": "2026-11-04"
-        },
-        {
           "title": "Air holes turn silicon wafers into flat ultraviolet focusing mirrors for compact optics",
           "summary": "Traditional lenses and mirrors focus light using curved surfaces. Metasurfaces can achieve similar functions with a flat layer of nanoscale structures that locally control the phase of light. Extending these flat optics…",
           "url": "https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html",
           "source": "Phys.org",
           "date": "2026-11-06"
+        },
+        {
+          "title": "Midwestern City Lights",
+          "summary": "City lights from the Midwestern United States to the East Coast sparkle across the landscape a couple of hours before sunrise on Oct. 18, 2026. Major urban areas visible in the photograph include Chicago, Illinois…",
+          "url": "https://www.nasa.gov/image-article/midwestern-city-lights/",
+          "source": "NASA",
+          "date": "2026-11-05"
+        },
+        {
+          "title": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
+          "summary": "For nearly 90 years, scientists believed magnetism fell into just two categories, but researchers have now confirmed a remarkable third type called altermagnetism. Using specialized X-rays, they uncovered a unique…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm",
+          "source": "Science Daily",
+          "date": "2026-11-04"
         }
       ]
     }
