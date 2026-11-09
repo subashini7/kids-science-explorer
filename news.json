@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T18:13:21Z",
+  "updated": "2026-11-09T22:52:57Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
@@ -19,31 +19,45 @@
           "date": "2026-11-06"
         },
         {
-          "title": "Magic mushrooms rewire the brain in a way scientists didn't expect",
-          "summary": "A surprising discovery reveals how psilocybin, the active compound in magic mushrooms, rapidly reshapes the brain by creating new neural connections and strengthening them. Researchers found that the drug behaves…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261104012308.htm",
+          "title": "When your gut bacteria run out of fiber, they may start eating your gut lining",
+          "summary": "Scientists have discovered that gut bacteria can feed on the protective mucus lining your intestines, producing potentially harmful compounds, but fiber helps keep this activity in check. Overlooked proteins in plant…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261105083622.htm",
           "source": "Science Daily",
-          "date": "2026-11-07"
+          "date": "2026-11-09"
         },
         {
-          "title": "A compound hidden in broccoli could help fight a devastating genetic disease",
-          "summary": "A compound naturally found in broccoli could help fight Friedreich ataxia, a devastating genetic disease that progressively damages the nervous system, by boosting a vital protein and protecting nerve cells. Scientists…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261104012259.htm",
-          "source": "Science Daily",
-          "date": "2026-11-06"
-        },
-        {
-          "title": "How a metabolite protects the enzyme that consumes it",
-          "summary": "Metabolites are consumed by enzymes to produce other vital molecules as well as to control metabolite levels. But how do cells avoid consuming too much? Researchers from the MPI of Biochemistry, with the University of…",
-          "url": "https://phys.org/news/2026-11-metabolite-enzyme-consumes.html",
+          "title": "A stellar odd couple at an unusual stage of evolution",
+          "summary": "Most of the stars in the Milky Way are what we might call normal stars. They're main sequence stars like our sun, meaning they're doing what most people probably think stars do: shining as they fuse hydrogen atoms into…",
+          "url": "https://phys.org/news/2026-11-stellar-odd-couple-unusual-stage.html",
           "source": "Phys.org",
-          "date": "2026-11-06"
+          "date": "2026-11-09"
+        },
+        {
+          "title": "Light reflecting within thin films can masquerade as molecular signals in perovskite solar materials",
+          "summary": "An infrared signal thought to reveal how molecules in perovskite solar materials respond to light-generated charges can arise largely from the way light travels through the thin film itself, a new theoretical study…",
+          "url": "https://phys.org/news/2026-11-thin-masquerade-molecular-perovskite-solar.html",
+          "source": "Phys.org",
+          "date": "2026-11-09"
         }
       ]
     },
     "Space & Astronomy": {
       "emoji": "🚀",
       "articles": [
+        {
+          "title": "On this day in space! Nov. 9, 1967: NASA launches the Saturn V moon rocket for the first time on Apollo 4, but no astronauts were aboard",
+          "summary": "On this day in space! Nov. 9, 1967: NASA launches the Saturn V moon rocket for the first time on Apollo 4, but no astronauts were aboard",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-9-2026",
+          "source": "Space.com",
+          "date": "2026-11-09"
+        },
+        {
+          "title": "Starfish Space loses contact with 1st 'Otter' servicing spacecraft, ending NASA tech-demo mission",
+          "summary": "Starfish Space's first Otter servicing spacecraft suffered a glitch in orbit recently, ending its technology-demonstrating mission for NASA.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/starfish-space-loses-contact-with-1st-otter-servicing-spacecraft-ending-nasa-tech-demo-mission",
+          "source": "Space.com",
+          "date": "2026-11-09"
+        },
         {
           "title": "On this day in space! Nov. 7, 1992: NASA launches Mars Global Surveyor, its 1st Mars mission in 20 years at the time, to map the Red Planet like never before",
           "summary": "On Nov. 7, 1996, NASA launched its Mars Global Surveyor mission, the first Mars mission in 20 years. Here's why it mattered.",
@@ -52,32 +66,18 @@
           "date": "2026-11-07"
         },
         {
-          "title": "Giant exoplanet emerges from the dark when the James Webb Space Telescope turns out the starlight",
-          "summary": "Astronomers have filtered out starlight from James Webb Space Telescope observations to see a giant exoplanet emerge in the darkness.",
-          "url": "https://www.space.com/astronomy/exoplanets/giant-exoplanet-emerges-from-the-dark-when-the-james-webb-space-telescope-turns-out-the-starlight",
-          "source": "Space.com",
-          "date": "2026-11-06"
-        },
-        {
-          "title": "Hera probe gets 1st good look at asteroid system clobbered by NASA's DART mission | Space photo of the day for Nov. 6, 2026",
-          "summary": "The European Space Agency's Hera spacecraft has gotten its first close-up look at the Didymos binary asteroid, the first space rock system \"punched\" by humanity.",
-          "url": "https://www.space.com/space-exploration/asteroid-comet-missions/hera-probe-gets-1st-good-luck-at-asteroid-system-clobbered-by-nasas-dart-mission-space-photo-of-the-day-for-nov-6-2026",
-          "source": "Space.com",
-          "date": "2026-11-06"
-        },
-        {
-          "title": "M30’s Sparkling Stars",
-          "summary": "This NASA/ESA Hubble Space Telescope image released Nov. 5, 2026, provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer, Charles Messier, who…",
-          "url": "https://www.nasa.gov/image-article/m30s-sparkling-stars/",
-          "source": "NASA",
-          "date": "2026-11-06"
-        },
-        {
-          "title": "Don't miss: Meteor showers, fireballs, and a supermoon light up November's night sky",
-          "summary": "November's night sky is packed with celestial wonders, from bright meteor fireballs and a close pairing of Mars and Jupiter to a spectacular supermoon. Meanwhile, NASA's Voyager 1 is making history by becoming the first…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261105224547.htm",
+          "title": "NASA reveals bold new plan to return astronauts to the Moon in 2028",
+          "summary": "NASA has revealed an accelerated plan to land astronauts on the Moon in 2028, with SpaceX and Blue Origin developing competing lunar landers and a crucial orbital test scheduled for 2027. Faster rocket preparations, new…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261108233054.htm",
           "source": "Science Daily",
-          "date": "2026-11-06"
+          "date": "2026-11-09"
+        },
+        {
+          "title": "NASA unveils $10 billion in moon base contracts, new lunar missions and the 'PROMISE' of a nuclear-powered rover",
+          "summary": "NASA is pushing ahead with its plan to build a moon base for astronauts by 2032, unveiling up to $10 billion in new contracts to launch and deliver cargo to Earth's nearest neighbor.",
+          "url": "https://www.space.com/space-exploration/artemis/nasa-unveils-usd10-billion-in-moon-base-contracts-new-lunar-missions-and-the-promise-of-a-nuclear-powered-rover",
+          "source": "Space.com",
+          "date": "2026-11-09"
         }
       ]
     },
@@ -85,32 +85,25 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "The hidden ways insects support animal life—from habitat to health—go way beyond being food",
-          "summary": "There are at least 14 million insect species on Earth, and they play highly diverse roles in sustaining the natural world. Insects provide many well-known benefits—what scientists often call \"ecosystem services.\" For…",
-          "url": "https://phys.org/news/2026-11-hidden-ways-insects-animal-life.html",
-          "source": "Phys.org",
-          "date": "2026-11-07"
-        },
-        {
-          "title": "The wasps that horrified Darwin reveal evolution's one-way streets",
-          "summary": "Few insects have a more gruesome lifestyle than Darwin wasps. Rather than simply hunting other animals, these parasitic wasps lay their eggs on or inside living hosts, including caterpillars, beetles and spiders. Their…",
-          "url": "https://phys.org/news/2026-11-wasps-horrified-darwin-reveal-evolution.html",
-          "source": "Phys.org",
-          "date": "2026-11-06"
-        },
-        {
-          "title": "Scientists discover Europe's ancient forests were nothing like we imagined",
-          "summary": "Scientists have uncovered evidence that Europe was dominated for more than 20 million years by open woodlands, colorful meadows, and large grazing animals, not the dense forests long considered its natural state. The…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261104012333.htm",
+          "title": "An ancient ocean full of giant predators reveals a surprising twist in evolution",
+          "summary": "A remarkable fossil discovery in Colombia is challenging how scientists understand major evolutionary changes in Earth's history. Researchers uncovered an incredibly diverse ancient marine ecosystem where giant…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261106174535.htm",
           "source": "Science Daily",
-          "date": "2026-11-07"
+          "date": "2026-11-08"
         },
         {
-          "title": "New species of ground-dwelling bird, the largest of its kind, identified in same cave as Homo floresiensis",
-          "summary": "In 2009, researchers working in the Liang Bua cave on Flores Island came across a leg bone. The 190,000–120,000-year-old fossil was identified as a bird bone and set aside. Like many bird bones before it, it was…",
-          "url": "https://phys.org/news/2026-11-species-ground-bird-largest-kind.html",
+          "title": "Not a 'night owl' yet: Extraordinary bird fossil from Messel Pit suggests species still hunted by day",
+          "summary": "An exceptionally well-preserved, approximately 47-million-year-old owl fossil from the UNESCO World Heritage Site Messel provides new clues as to when owls became nocturnal. The newly described species Masillastrix…",
+          "url": "https://phys.org/news/2026-11-night-owl-extraordinary-bird-fossil.html",
           "source": "Phys.org",
-          "date": "2026-11-08"
+          "date": "2026-11-09"
+        },
+        {
+          "title": "Tiny beetle trapped in 53-million-year-old amber is named after Twenty One Pilots",
+          "summary": "Preserved in amber for about 53 million years, a beetle has been described as a new species by researchers in Spain and France. Named Cnopus twentyonepilotorum, it is the first puppet beetle (family Aderidae) to be…",
+          "url": "https://phys.org/news/2026-11-tiny-beetle-million-year-amber.html",
+          "source": "Phys.org",
+          "date": "2026-11-09"
         },
         {
           "title": "Traces of dinosaur blood found for the 1st time?",
@@ -118,6 +111,13 @@
           "url": "https://earthsky.org/earth/traces-of-dinosaur-blood-fossil-1st-time/",
           "source": "EarthSky",
           "date": "2026-11-06"
+        },
+        {
+          "title": "Scientists discover stunning new Amazon fish that may already be endangered",
+          "summary": "Researchers have discovered a stunning new species of tiny orange-patterned fish in the Brazilian Amazon, but its survival may already be at risk. Named Laimosemion laranja, the brilliantly colored killifish measures…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261104084019.htm",
+          "source": "Science Daily",
+          "date": "2026-11-08"
         }
       ]
     },
@@ -125,11 +125,18 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "New method measures microplastics in the air using an uncrewed aerial system",
-          "summary": "Microplastics have been found in our bodies and the food we eat—and even in remote environments around the world, including seawater and ice in the Arctic. Despite their prevalence, little is known about how they move…",
-          "url": "https://phys.org/news/2026-11-method-microplastics-air-uncrewed-aerial.html",
+          "title": "How the Southern Ocean helped fuel Earth's warmest climate in 65 million years",
+          "summary": "About 50 million years ago, Earth experienced its warmest climate since the extinction of the dinosaurs. Global temperatures were more than 10°C higher than today, and atmospheric CO₂ concentrations reached around 1,600…",
+          "url": "https://phys.org/news/2026-11-southern-ocean-fuel-earth-warmest.html",
           "source": "Phys.org",
-          "date": "2026-11-06"
+          "date": "2026-11-09"
+        },
+        {
+          "title": "Hidden climate superpower: Why some ocean “snow” carries six times more carbon",
+          "summary": "Scientists have discovered that the stickiness of underwater “marine snow” plays a surprisingly important role in how much carbon reaches the deep ocean. Gooier particles resist bacterial breakdown and can transport…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261105224558.htm",
+          "source": "Science Daily",
+          "date": "2026-11-09"
         },
         {
           "title": "Scientists simulate an Earth without life to help hunt for aliens and inhabited worlds",
@@ -137,13 +144,6 @@
           "url": "https://www.space.com/space-exploration/search-for-life/scientists-simulate-an-earth-without-life-to-help-hunt-for-aliens-and-inhabited-worlds",
           "source": "Space.com",
           "date": "2026-11-08"
-        },
-        {
-          "title": "Heavy rain can more than double glacier speeds in Alaska",
-          "summary": "Glaciers are often thought of as unyielding blocks of ice that slowly carve out the landscape as they move downhill by gravity. But sometimes their slow crawl becomes a surge that sees them move orders of magnitude…",
-          "url": "https://phys.org/news/2026-11-heavy-glacier-alaska.html",
-          "source": "Phys.org",
-          "date": "2026-11-07"
         }
       ]
     },
@@ -151,11 +151,11 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "Two paths, one flux: Trapped ions simulate Aharonov–Bohm interference in a lattice gauge theory",
-          "summary": "In a new Nature Physics study, researchers demonstrated the Aharonov-Bohm effect in a quantum simulation of a lattice gauge theory using a hybrid trapped-ion quantum computer.",
-          "url": "https://phys.org/news/2026-11-paths-flux-ions-simulate-aharonovbohm.html",
-          "source": "Phys.org",
-          "date": "2026-11-07"
+          "title": "Caltech robot makes history by building a structure in space",
+          "summary": "For the first time, a robot has autonomously built part of a structure in space, demonstrating a breakthrough that could fundamentally change space exploration. The technology could one day allow scientists to construct…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261108233043.htm",
+          "source": "Science Daily",
+          "date": "2026-11-09"
         },
         {
           "title": "Antipersonnel mines have returned in Ukraine and now threaten the world",
@@ -170,6 +170,13 @@
           "url": "https://www.newscientist.com/article/2597816-record-breaking-fast-spinning-magnet-could-help-uncover-new-physics/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
           "date": "2026-11-06"
+        },
+        {
+          "title": "Scientists wipe out deadly brain tumors in every mouse tested with new cancer therapy",
+          "summary": "Scientists at UC San Francisco have developed a powerful new cancer therapy that remains inactive until it reaches the brain, where it switches on to attack deadly tumors. The engineered immune cells, called B-SYNC…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261104084009.htm",
+          "source": "Science Daily",
+          "date": "2026-11-08"
         }
       ]
     },
@@ -177,11 +184,18 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "Theory predicting an older universe without dark matter or dark energy passes key cosmological tests",
-          "summary": "An alternative model in which the universe is 26.7 billion years old and needs neither dark matter nor dark energy has held up against several major cosmology tests, according to a new University of Ottawa study. The…",
-          "url": "https://phys.org/news/2026-11-theory-older-universe-dark-energy.html",
+          "title": "Upgraded microscope can now watch individual quantum particles in motion",
+          "summary": "Energy can be carried in a number of ways: by electrons, the particles that underpin all modern electronics, as well as by quasiparticles, the results of different particles interacting with one another at the quantum…",
+          "url": "https://phys.org/news/2026-11-microscope-individual-quantum-particles-motion.html",
           "source": "Phys.org",
-          "date": "2026-11-07"
+          "date": "2026-11-09"
+        },
+        {
+          "title": "A quantum breakthrough makes light behave like both a solid and a liquid",
+          "summary": "Scientists have observed a bizarre quantum state of matter that combines the structure of a crystal with the frictionless flow of a liquid, all at room temperature. The breakthrough overturns a major practical…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261105224536.htm",
+          "source": "Science Daily",
+          "date": "2026-11-09"
         },
         {
           "title": "An unexpected feedback loop may be driving mega heatwaves",
@@ -191,25 +205,18 @@
           "date": "2026-11-06"
         },
         {
-          "title": "Air holes turn silicon wafers into flat ultraviolet focusing mirrors for compact optics",
-          "summary": "Traditional lenses and mirrors focus light using curved surfaces. Metasurfaces can achieve similar functions with a flat layer of nanoscale structures that locally control the phase of light. Extending these flat optics…",
-          "url": "https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html",
-          "source": "Phys.org",
-          "date": "2026-11-06"
-        },
-        {
-          "title": "Midwestern City Lights",
-          "summary": "City lights from the Midwestern United States to the East Coast sparkle across the landscape a couple of hours before sunrise on Oct. 18, 2026. Major urban areas visible in the photograph include Chicago, Illinois…",
-          "url": "https://www.nasa.gov/image-article/midwestern-city-lights/",
-          "source": "NASA",
-          "date": "2026-11-05"
-        },
-        {
-          "title": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
-          "summary": "For nearly 90 years, scientists believed magnetism fell into just two categories, but researchers have now confirmed a remarkable third type called altermagnetism. Using specialized X-rays, they uncovered a unique…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm",
+          "title": "Einstein's equations reveal how gravity could break, reconnect, and release energy",
+          "summary": "More than a century after Einstein revolutionized our understanding of gravity, scientists have uncovered a surprising new phenomenon hidden within his equations. Researchers at Columbia University and Universidad…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261104084011.htm",
           "source": "Science Daily",
-          "date": "2026-11-04"
+          "date": "2026-11-08"
+        },
+        {
+          "title": "Is Schrödinger’s cat both dead and alive? No, it’s just haunted by its past",
+          "summary": "A radical new approach suggests some of quantum theory’s most bizarre and inexplicable effects might be down to physics failing to account properly for time",
+          "url": "https://www.newscientist.com/article/2595461-is-schrodingers-cat-both-dead-and-alive-no-its-just-haunted-by-its-past/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-11-09"
         }
       ]
     }
