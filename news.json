@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T22:52:57Z",
+  "updated": "2026-11-10T20:15:41Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
@@ -12,13 +12,6 @@
           "date": "2026-11-07"
         },
         {
-          "title": "Scientists just found dinosaur blood that survived 115 million years",
-          "summary": "Scientists have discovered chemically confirmed traces of ancient blood inside 115-million-year-old dinosaur bones, challenging assumptions about how long biological molecules can survive. The extraordinary preservation…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261105224542.htm",
-          "source": "Science Daily",
-          "date": "2026-11-06"
-        },
-        {
           "title": "When your gut bacteria run out of fiber, they may start eating your gut lining",
           "summary": "Scientists have discovered that gut bacteria can feed on the protective mucus lining your intestines, producing potentially harmful compounds, but fiber helps keep this activity in check. Overlooked proteins in plant…",
           "url": "https://www.sciencedaily.com/releases/2026/11/261105083622.htm",
@@ -26,18 +19,25 @@
           "date": "2026-11-09"
         },
         {
-          "title": "A stellar odd couple at an unusual stage of evolution",
-          "summary": "Most of the stars in the Milky Way are what we might call normal stars. They're main sequence stars like our sun, meaning they're doing what most people probably think stars do: shining as they fuse hydrogen atoms into…",
-          "url": "https://phys.org/news/2026-11-stellar-odd-couple-unusual-stage.html",
-          "source": "Phys.org",
-          "date": "2026-11-09"
+          "title": "Alzheimer’s may have early warning signs outside the brain",
+          "summary": "A surprising discovery suggests that some early signs of Alzheimer’s disease may begin outside the brain. Using miniature laboratory systems made from human cells, scientists found that genetic mutations associated with…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261108233103.htm",
+          "source": "Science Daily",
+          "date": "2026-11-10"
         },
         {
-          "title": "Light reflecting within thin films can masquerade as molecular signals in perovskite solar materials",
-          "summary": "An infrared signal thought to reveal how molecules in perovskite solar materials respond to light-generated charges can arise largely from the way light travels through the thin film itself, a new theoretical study…",
-          "url": "https://phys.org/news/2026-11-thin-masquerade-molecular-perovskite-solar.html",
-          "source": "Phys.org",
-          "date": "2026-11-09"
+          "title": "Drinking 2–3 cups of coffee a day linked to dramatically lower dementia risk",
+          "summary": "Drinking two to three cups of caffeinated coffee daily was linked to a dramatically lower risk of dementia and better cognitive functioning in a study spanning up to 43 years. The benefits appeared regardless of genetic…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261105224550.htm",
+          "source": "Science Daily",
+          "date": "2026-11-07"
+        },
+        {
+          "title": "A 24-hour fast triggers a surprising repair response in the gut",
+          "summary": "Scientists have discovered that fasting for just 24 hours increases a beneficial gut bacterium that helps the intestines regenerate after radiation damage. The preclinical findings could pave the way for new treatments…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261104084024.htm",
+          "source": "Science Daily",
+          "date": "2026-11-08"
         }
       ]
     },
@@ -92,25 +92,18 @@
           "date": "2026-11-08"
         },
         {
-          "title": "Not a 'night owl' yet: Extraordinary bird fossil from Messel Pit suggests species still hunted by day",
-          "summary": "An exceptionally well-preserved, approximately 47-million-year-old owl fossil from the UNESCO World Heritage Site Messel provides new clues as to when owls became nocturnal. The newly described species Masillastrix…",
-          "url": "https://phys.org/news/2026-11-night-owl-extraordinary-bird-fossil.html",
+          "title": "A net to protect against the world's deadliest animal—the mosquito",
+          "summary": "When people talk about the world's deadliest animal, many think of sharks, alligators or lions. But in reality, it is a small, unassuming—yet all the more annoying—insect: the mosquito. Worldwide, more than 700,000…",
+          "url": "https://phys.org/news/2026-11-net-world-deadliest-animal-mosquito.html",
           "source": "Phys.org",
-          "date": "2026-11-09"
+          "date": "2026-11-10"
         },
         {
-          "title": "Tiny beetle trapped in 53-million-year-old amber is named after Twenty One Pilots",
-          "summary": "Preserved in amber for about 53 million years, a beetle has been described as a new species by researchers in Spain and France. Named Cnopus twentyonepilotorum, it is the first puppet beetle (family Aderidae) to be…",
-          "url": "https://phys.org/news/2026-11-tiny-beetle-million-year-amber.html",
+          "title": "What a 99-million-year-old feather is telling us about the evolution of flight",
+          "summary": "Long before birds took to the skies, dinosaurs were already sporting feathers. But exactly how they evolved into the sophisticated structures that allow birds to fly remains something of a mystery. Now, the discovery of…",
+          "url": "https://phys.org/news/2026-11-million-year-feather-evolution-flight.html",
           "source": "Phys.org",
-          "date": "2026-11-09"
-        },
-        {
-          "title": "Traces of dinosaur blood found for the 1st time?",
-          "summary": "For the 1st time, scientists say they've found traces of dinosaur blood. It comes from a 115-million-year-old fossil dinosaur bone from Brazil. The post Traces of dinosaur blood found for the 1st time? first appeared on…",
-          "url": "https://earthsky.org/earth/traces-of-dinosaur-blood-fossil-1st-time/",
-          "source": "EarthSky",
-          "date": "2026-11-06"
+          "date": "2026-11-10"
         },
         {
           "title": "Scientists discover stunning new Amazon fish that may already be endangered",
@@ -118,6 +111,13 @@
           "url": "https://www.sciencedaily.com/releases/2026/11/261104084019.htm",
           "source": "Science Daily",
           "date": "2026-11-08"
+        },
+        {
+          "title": "Reef biodiversity accounting to help scale up restoration",
+          "summary": "To encourage new investments in more effective reef restoration activities, Australian scientists are recommending a new way of measuring biodiversity on coral reefs. A team of Australian environmental scientists led by…",
+          "url": "https://phys.org/news/2026-11-reef-biodiversity-accounting-scale.html",
+          "source": "Phys.org",
+          "date": "2026-11-10"
         }
       ]
     },
@@ -125,18 +125,25 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "How the Southern Ocean helped fuel Earth's warmest climate in 65 million years",
-          "summary": "About 50 million years ago, Earth experienced its warmest climate since the extinction of the dinosaurs. Global temperatures were more than 10°C higher than today, and atmospheric CO₂ concentrations reached around 1,600…",
-          "url": "https://phys.org/news/2026-11-southern-ocean-fuel-earth-warmest.html",
-          "source": "Phys.org",
-          "date": "2026-11-09"
-        },
-        {
           "title": "Hidden climate superpower: Why some ocean “snow” carries six times more carbon",
           "summary": "Scientists have discovered that the stickiness of underwater “marine snow” plays a surprisingly important role in how much carbon reaches the deep ocean. Gooier particles resist bacterial breakdown and can transport…",
           "url": "https://www.sciencedaily.com/releases/2026/11/261105224558.htm",
           "source": "Science Daily",
           "date": "2026-11-09"
+        },
+        {
+          "title": "Airborne imaging explores a mosaic of thawing permafrost",
+          "summary": "Permafrost in many of Earth's northern regions is thawing, a process that unlocks greenhouse gases, threatens infrastructure, and could alter landscapes and ecosystems. The Arctic and subarctic are vast, and gaining a…",
+          "url": "https://phys.org/news/2026-11-airborne-imaging-explores-mosaic-permafrost.html",
+          "source": "Phys.org",
+          "date": "2026-11-10"
+        },
+        {
+          "title": "Cool adaptations: How fish survive in the Antarctic Ocean",
+          "summary": "With water temperatures as low as -1.9°C (28.6°F), the Southern Ocean is a place of extreme living conditions. A new study led by Senckenberg researchers shows how fish have adapted to Antarctic temperatures. The…",
+          "url": "https://phys.org/news/2026-11-cool-fish-survive-antarctic-ocean.html",
+          "source": "Phys.org",
+          "date": "2026-11-10"
         },
         {
           "title": "Scientists simulate an Earth without life to help hunt for aliens and inhabited worlds",
@@ -158,25 +165,11 @@
           "date": "2026-11-09"
         },
         {
-          "title": "Antipersonnel mines have returned in Ukraine and now threaten the world",
-          "summary": "3D printing, microcontrollers and drones have enabled the resurgence of antipersonnel mines in the Russia-Ukraine war, making mines deadlier and more accessible",
-          "url": "https://www.newscientist.com/article/2597901-antipersonnel-mines-have-returned-in-ukraine-and-now-threaten-the-world/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "title": "Correcting quantum computer errors may be more complicated than expected",
+          "summary": "Correcting quantum computer errors is key for making the devices practical, but some types of errors, and the complications they could introduce, may be more likely to occur than we had thought",
+          "url": "https://www.newscientist.com/article/2598161-correcting-quantum-computer-errors-may-be-more-complicated-than-expected/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
-          "date": "2026-11-08"
-        },
-        {
-          "title": "Record-breaking, fast-spinning magnet could help uncover new physics",
-          "summary": "A magnet barely wider than a human hair is one of the fastest spinning objects ever and could be useful for both fundamental physics experiments and in quantum technology",
-          "url": "https://www.newscientist.com/article/2597816-record-breaking-fast-spinning-magnet-could-help-uncover-new-physics/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-11-06"
-        },
-        {
-          "title": "Scientists wipe out deadly brain tumors in every mouse tested with new cancer therapy",
-          "summary": "Scientists at UC San Francisco have developed a powerful new cancer therapy that remains inactive until it reaches the brain, where it switches on to attack deadly tumors. The engineered immune cells, called B-SYNC…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261104084009.htm",
-          "source": "Science Daily",
-          "date": "2026-11-08"
+          "date": "2026-11-10"
         }
       ]
     },
@@ -184,11 +177,18 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "Upgraded microscope can now watch individual quantum particles in motion",
-          "summary": "Energy can be carried in a number of ways: by electrons, the particles that underpin all modern electronics, as well as by quasiparticles, the results of different particles interacting with one another at the quantum…",
-          "url": "https://phys.org/news/2026-11-microscope-individual-quantum-particles-motion.html",
+          "title": "Repeatable laser measurements reveal 'forbidden' vibrations in single molecules without destroying them",
+          "summary": "The possibility of controlling \"forbidden\" excitations of vibrations in molecules could form the basis of extremely accurate clocks, quantum bits and precise tests of the fundamental laws of physics. Researchers at the…",
+          "url": "https://phys.org/news/2026-11-laser-reveal-forbidden-vibrations-molecules.html",
           "source": "Phys.org",
-          "date": "2026-11-09"
+          "date": "2026-11-10"
+        },
+        {
+          "title": "Laser-driven magnetic state defies equilibrium rules",
+          "summary": "Researchers at the Department of Energy's (DOE's) Oak Ridge National Laboratory (ORNL) and their collaborators used lasers and neutrons to observe a long-lived quantum state in a magnetic material, opening a new way to…",
+          "url": "https://phys.org/news/2026-11-laser-driven-magnetic-state-defies.html",
+          "source": "Phys.org",
+          "date": "2026-11-10"
         },
         {
           "title": "A quantum breakthrough makes light behave like both a solid and a liquid",
@@ -198,25 +198,11 @@
           "date": "2026-11-09"
         },
         {
-          "title": "An unexpected feedback loop may be driving mega heatwaves",
-          "summary": "Dry soil and high pressure can amplify extreme heat, helping to explain why regions like Europe are suffering record-shattering heatwaves much earlier than climate models predicted",
-          "url": "https://www.newscientist.com/article/2597676-an-unexpected-feedback-loop-may-be-driving-mega-heatwaves/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-11-06"
-        },
-        {
-          "title": "Einstein's equations reveal how gravity could break, reconnect, and release energy",
-          "summary": "More than a century after Einstein revolutionized our understanding of gravity, scientists have uncovered a surprising new phenomenon hidden within his equations. Researchers at Columbia University and Universidad…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261104084011.htm",
-          "source": "Science Daily",
-          "date": "2026-11-08"
-        },
-        {
-          "title": "Is Schrödinger’s cat both dead and alive? No, it’s just haunted by its past",
-          "summary": "A radical new approach suggests some of quantum theory’s most bizarre and inexplicable effects might be down to physics failing to account properly for time",
-          "url": "https://www.newscientist.com/article/2595461-is-schrodingers-cat-both-dead-and-alive-no-its-just-haunted-by-its-past/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-11-09"
+          "title": "LHC collaboration presents first result in the hunt for 'quirks'",
+          "summary": "An international collaboration of physicists has presented its first results in its search for hypothetical particles that could help to explain the vast disparity between the strength of gravity and the three…",
+          "url": "https://phys.org/news/2026-11-lhc-collaboration-result-quirks.html",
+          "source": "Phys.org",
+          "date": "2026-11-10"
         }
       ]
     }
