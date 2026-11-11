@@ -1,22 +1,36 @@
 {
-  "updated": "2026-11-10T20:15:41Z",
+  "updated": "2026-11-11T20:00:54Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "A hidden limit of space and time could unlock electronics 100,000 times faster",
-          "summary": "Scientists have discovered a surprising quantum limit that prevents electrons from being tracked with unlimited precision in both space and time. The breakthrough could pave the way for manipulating chemical reactions…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm",
-          "source": "Science Daily",
-          "date": "2026-11-07"
+          "title": "A gold–copper strategy for building interlocked nitrogen-doped carbon nanohoops",
+          "summary": "Catenanes are molecules in which two or more rings are mechanically interlocked like the links of a chain, without any chemical bonds between them. Since Jean-Pierre Sauvage, who later shared the 2016 Nobel Prize in…",
+          "url": "https://phys.org/news/2026-11-goldcopper-strategy-interlocked-nitrogen-doped.html",
+          "source": "Phys.org",
+          "date": "2026-11-11"
         },
         {
-          "title": "When your gut bacteria run out of fiber, they may start eating your gut lining",
-          "summary": "Scientists have discovered that gut bacteria can feed on the protective mucus lining your intestines, producing potentially harmful compounds, but fiber helps keep this activity in check. Overlooked proteins in plant…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261105083622.htm",
+          "title": "Scientists discover why some mosquitoes love you and others don't",
+          "summary": "A surprising new study reveals that mosquitoes have very different tastes in humans, with each species attracted to its own combination of skin odors, chemicals, and bacteria. The discovery challenges the idea of a…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261106174541.htm",
           "source": "Science Daily",
-          "date": "2026-11-09"
+          "date": "2026-11-11"
+        },
+        {
+          "title": "Scientists challenge the dream of bringing extinct species back to life",
+          "summary": "Could extinction itself become a thing of the past? Advances in biotechnology, including ancient DNA sequencing, genome analysis and gene editing, have led some to believe that it may be possible to bring extinct…",
+          "url": "https://phys.org/news/2026-11-scientists-extinct-species-life.html",
+          "source": "Phys.org",
+          "date": "2026-11-11"
+        },
+        {
+          "title": "Ancient DNA reveals rare genetic condition behind a 1,600-year-old infant's single eye socket",
+          "summary": "Cyclopia is the most severe form of a rare birth condition in which the developing brain fails to divide into two separate halves. This can also affect facial development, sometimes leaving the baby with a single eye…",
+          "url": "https://phys.org/news/2026-11-ancient-dna-reveals-rare-genetic.html",
+          "source": "Phys.org",
+          "date": "2026-11-11"
         },
         {
           "title": "Alzheimer’s may have early warning signs outside the brain",
@@ -24,26 +38,19 @@
           "url": "https://www.sciencedaily.com/releases/2026/11/261108233103.htm",
           "source": "Science Daily",
           "date": "2026-11-10"
-        },
-        {
-          "title": "Drinking 2–3 cups of coffee a day linked to dramatically lower dementia risk",
-          "summary": "Drinking two to three cups of caffeinated coffee daily was linked to a dramatically lower risk of dementia and better cognitive functioning in a study spanning up to 43 years. The benefits appeared regardless of genetic…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261105224550.htm",
-          "source": "Science Daily",
-          "date": "2026-11-07"
-        },
-        {
-          "title": "A 24-hour fast triggers a surprising repair response in the gut",
-          "summary": "Scientists have discovered that fasting for just 24 hours increases a beneficial gut bacterium that helps the intestines regenerate after radiation damage. The preclinical findings could pave the way for new treatments…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261104084024.htm",
-          "source": "Science Daily",
-          "date": "2026-11-08"
         }
       ]
     },
     "Space & Astronomy": {
       "emoji": "🚀",
       "articles": [
+        {
+          "title": "What time will SpaceX launch Starship Flight 15, its 1st double landing test, on Nov. 13? (Full mission timeline)",
+          "summary": "SpaceX will attempt to reach orbit with its Starship megarocket and make its first-ever double catch on Nov. 13. Here's what time Starship Flight 15 will launch.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-1st-booster-ship-double-catch-full-recovery-what-time",
+          "source": "Space.com",
+          "date": "2026-11-11"
+        },
         {
           "title": "On this day in space! Nov. 9, 1967: NASA launches the Saturn V moon rocket for the first time on Apollo 4, but no astronauts were aboard",
           "summary": "On this day in space! Nov. 9, 1967: NASA launches the Saturn V moon rocket for the first time on Apollo 4, but no astronauts were aboard",
@@ -59,13 +66,6 @@
           "date": "2026-11-09"
         },
         {
-          "title": "On this day in space! Nov. 7, 1992: NASA launches Mars Global Surveyor, its 1st Mars mission in 20 years at the time, to map the Red Planet like never before",
-          "summary": "On Nov. 7, 1996, NASA launched its Mars Global Surveyor mission, the first Mars mission in 20 years. Here's why it mattered.",
-          "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-7-2026",
-          "source": "Space.com",
-          "date": "2026-11-07"
-        },
-        {
           "title": "NASA reveals bold new plan to return astronauts to the Moon in 2028",
           "summary": "NASA has revealed an accelerated plan to land astronauts on the Moon in 2028, with SpaceX and Blue Origin developing competing lunar landers and a crucial orbital test scheduled for 2027. Faster rocket preparations, new…",
           "url": "https://www.sciencedaily.com/releases/2026/11/261108233054.htm",
@@ -73,11 +73,11 @@
           "date": "2026-11-09"
         },
         {
-          "title": "NASA unveils $10 billion in moon base contracts, new lunar missions and the 'PROMISE' of a nuclear-powered rover",
-          "summary": "NASA is pushing ahead with its plan to build a moon base for astronauts by 2032, unveiling up to $10 billion in new contracts to launch and deliver cargo to Earth's nearest neighbor.",
-          "url": "https://www.space.com/space-exploration/artemis/nasa-unveils-usd10-billion-in-moon-base-contracts-new-lunar-missions-and-the-promise-of-a-nuclear-powered-rover",
+          "title": "SpaceX moves Starship Flight 15 booster to launch pad for 'squeeze test' ahead of epic double-catch attempt (photos)",
+          "summary": "SpaceX has moved its Starship Super Heavy booster to the pad to prep for the next test flight of the megarocket, a historic mission scheduled to launch this Friday (Nov. 13).",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-moves-starship-flight-15-booster-to-launch-pad-for-squeeze-test-ahead-of-epic-double-catch-attempt-photos",
           "source": "Space.com",
-          "date": "2026-11-09"
+          "date": "2026-11-10"
         }
       ]
     },
@@ -92,32 +92,32 @@
           "date": "2026-11-08"
         },
         {
-          "title": "A net to protect against the world's deadliest animal—the mosquito",
-          "summary": "When people talk about the world's deadliest animal, many think of sharks, alligators or lions. But in reality, it is a small, unassuming—yet all the more annoying—insect: the mosquito. Worldwide, more than 700,000…",
-          "url": "https://phys.org/news/2026-11-net-world-deadliest-animal-mosquito.html",
-          "source": "Phys.org",
-          "date": "2026-11-10"
-        },
-        {
-          "title": "What a 99-million-year-old feather is telling us about the evolution of flight",
-          "summary": "Long before birds took to the skies, dinosaurs were already sporting feathers. But exactly how they evolved into the sophisticated structures that allow birds to fly remains something of a mystery. Now, the discovery of…",
-          "url": "https://phys.org/news/2026-11-million-year-feather-evolution-flight.html",
-          "source": "Phys.org",
-          "date": "2026-11-10"
-        },
-        {
-          "title": "Scientists discover stunning new Amazon fish that may already be endangered",
-          "summary": "Researchers have discovered a stunning new species of tiny orange-patterned fish in the Brazilian Amazon, but its survival may already be at risk. Named Laimosemion laranja, the brilliantly colored killifish measures…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261104084019.htm",
+          "title": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
+          "summary": "Scientists have uncovered fossils of a giant rodent that lived in Thailand 34 million years ago, revealing that enormous rodents evolved much earlier than previously thought. Named Yakamys sirindhornae, the ancient…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm",
           "source": "Science Daily",
-          "date": "2026-11-08"
+          "date": "2026-11-11"
         },
         {
-          "title": "Reef biodiversity accounting to help scale up restoration",
-          "summary": "To encourage new investments in more effective reef restoration activities, Australian scientists are recommending a new way of measuring biodiversity on coral reefs. A team of Australian environmental scientists led by…",
-          "url": "https://phys.org/news/2026-11-reef-biodiversity-accounting-scale.html",
+          "title": "237-million-year-old fossils reveal a bizarre armored sea amphibian",
+          "summary": "A bizarre, heavily armored amphibian roamed the oceans 237 million years ago, despite the fact that modern amphibians cannot survive entirely in saltwater. Discovered in China, the giant salamander-sized creature may be…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261109205409.htm",
+          "source": "Science Daily",
+          "date": "2026-11-11"
+        },
+        {
+          "title": "Frozen sperm enables embryo development in endangered Japanese bird for first time—but chick fails to hatch",
+          "summary": "The Okinawa rail (Hypotaenidia okinawae) is an endangered flightless bird endemic to the Yanbaru forest region of Okinawa Island in Japan. The bird has only recently begun recovering its numbers after introduced…",
+          "url": "https://phys.org/news/2026-11-frozen-sperm-enables-embryo-endangered.html",
           "source": "Phys.org",
-          "date": "2026-11-10"
+          "date": "2026-11-11"
+        },
+        {
+          "title": "Why some dinosaurs get all the attention and others don't",
+          "summary": "If you ask anyone to name a dinosaur, there's a good chance they'll say Tyrannosaurus rex, that fearsome prehistoric predator with its enormous jaws and razor-sharp teeth. But what about a lesser-known dinosaur such as…",
+          "url": "https://phys.org/news/2026-11-dinosaurs-attention-dont.html",
+          "source": "Phys.org",
+          "date": "2026-11-11"
         }
       ]
     },
@@ -125,32 +125,32 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Hidden climate superpower: Why some ocean “snow” carries six times more carbon",
-          "summary": "Scientists have discovered that the stickiness of underwater “marine snow” plays a surprisingly important role in how much carbon reaches the deep ocean. Gooier particles resist bacterial breakdown and can transport…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261105224558.htm",
+          "title": "NASA reveals Earth's ozone hole has grown to a size not seen in a decade",
+          "summary": "The Antarctic ozone hole expanded to its seventh-largest size on record in 2026, driven by unusual weather conditions that pushed it close to its historic maximum. Scientists say international restrictions on…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261110042546.htm",
           "source": "Science Daily",
-          "date": "2026-11-09"
+          "date": "2026-11-11"
         },
         {
-          "title": "Airborne imaging explores a mosaic of thawing permafrost",
-          "summary": "Permafrost in many of Earth's northern regions is thawing, a process that unlocks greenhouse gases, threatens infrastructure, and could alter landscapes and ecosystems. The Arctic and subarctic are vast, and gaining a…",
-          "url": "https://phys.org/news/2026-11-airborne-imaging-explores-mosaic-permafrost.html",
+          "title": "Plants feel the heat: How a protein 'thermometer' helps plants adapt to climate",
+          "summary": "Plants continuously adapt to environmental changes, and temperature is a key signal for growth and flowering. How plant thermometers, or \"thermosensors,\" work at the molecular level is not well understood.",
+          "url": "https://phys.org/news/2026-11-protein-thermometer-climate.html",
           "source": "Phys.org",
-          "date": "2026-11-10"
+          "date": "2026-11-11"
         },
         {
-          "title": "Cool adaptations: How fish survive in the Antarctic Ocean",
-          "summary": "With water temperatures as low as -1.9°C (28.6°F), the Southern Ocean is a place of extreme living conditions. A new study led by Senckenberg researchers shows how fish have adapted to Antarctic temperatures. The…",
-          "url": "https://phys.org/news/2026-11-cool-fish-survive-antarctic-ocean.html",
-          "source": "Phys.org",
-          "date": "2026-11-10"
+          "title": "Water Surges Into Navajo Reservoir",
+          "summary": "Rounds of heavy rain in the U.S. Southwest flooded rivers and rapidly raised New Mexico’s second-largest reservoir.",
+          "url": "https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/",
+          "source": "NASA",
+          "date": "2026-11-11"
         },
         {
-          "title": "Scientists simulate an Earth without life to help hunt for aliens and inhabited worlds",
-          "summary": "By modeling how a planet without life develops its atmosphere, astronomers hope to be able to better distinguish rocky planets without life from those that are inhabited.",
-          "url": "https://www.space.com/space-exploration/search-for-life/scientists-simulate-an-earth-without-life-to-help-hunt-for-aliens-and-inhabited-worlds",
-          "source": "Space.com",
-          "date": "2026-11-08"
+          "title": "Taurid meteors in 2026: All you need to know",
+          "summary": "You might see Taurid meteors from late October to early November. Expect up to 10 meteors per hour, and some of them might be fireballs. The post Taurid meteors in 2026: All you need to know first appeared on EarthSky .",
+          "url": "https://earthsky.org/astronomy-essentials/taurid-meteors-all-you-need-to-know/",
+          "source": "EarthSky",
+          "date": "2026-11-11"
         }
       ]
     },
@@ -165,11 +165,18 @@
           "date": "2026-11-09"
         },
         {
-          "title": "Correcting quantum computer errors may be more complicated than expected",
-          "summary": "Correcting quantum computer errors is key for making the devices practical, but some types of errors, and the complications they could introduce, may be more likely to occur than we had thought",
-          "url": "https://www.newscientist.com/article/2598161-correcting-quantum-computer-errors-may-be-more-complicated-than-expected/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-11-10"
+          "title": "Chip identifies cells by their electrical signature, then separates them with a precisely aimed sound wave",
+          "summary": "In biomedicine, sorting cells accurately without damaging them remains a persistent problem. Current methods, like fluorescence-activated cell sorting, rely on labeling the cells extrinsically, which can stress the…",
+          "url": "https://phys.org/news/2026-11-chip-cells-electrical-signature-precisely.html",
+          "source": "Phys.org",
+          "date": "2026-11-11"
+        },
+        {
+          "title": "Cancer-fighting chewing gum slashes HPV levels by up to 93%",
+          "summary": "A surprising new weapon against microbes linked to head and neck cancer could be as simple as chewing gum. Scientists developed a bioengineered gum that reduced HPV levels by up to 93% in oral samples from cancer…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261108203832.htm",
+          "source": "Science Daily",
+          "date": "2026-11-11"
         }
       ]
     },
@@ -177,31 +184,17 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "Repeatable laser measurements reveal 'forbidden' vibrations in single molecules without destroying them",
-          "summary": "The possibility of controlling \"forbidden\" excitations of vibrations in molecules could form the basis of extremely accurate clocks, quantum bits and precise tests of the fundamental laws of physics. Researchers at the…",
-          "url": "https://phys.org/news/2026-11-laser-reveal-forbidden-vibrations-molecules.html",
-          "source": "Phys.org",
-          "date": "2026-11-10"
-        },
-        {
-          "title": "Laser-driven magnetic state defies equilibrium rules",
-          "summary": "Researchers at the Department of Energy's (DOE's) Oak Ridge National Laboratory (ORNL) and their collaborators used lasers and neutrons to observe a long-lived quantum state in a magnetic material, opening a new way to…",
-          "url": "https://phys.org/news/2026-11-laser-driven-magnetic-state-defies.html",
-          "source": "Phys.org",
-          "date": "2026-11-10"
-        },
-        {
-          "title": "A quantum breakthrough makes light behave like both a solid and a liquid",
-          "summary": "Scientists have observed a bizarre quantum state of matter that combines the structure of a crystal with the frictionless flow of a liquid, all at room temperature. The breakthrough overturns a major practical…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261105224536.htm",
+          "title": "A radical theory says the universe is twice as old as we thought",
+          "summary": "A provocative new cosmological model suggests the Universe could be 26.7 billion years old and might not need dark matter or dark energy to explain its behavior. University of Ottawa researchers tested the theory…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261108233040.htm",
           "source": "Science Daily",
-          "date": "2026-11-09"
+          "date": "2026-11-11"
         },
         {
-          "title": "LHC collaboration presents first result in the hunt for 'quirks'",
-          "summary": "An international collaboration of physicists has presented its first results in its search for hypothetical particles that could help to explain the vast disparity between the strength of gravity and the three…",
-          "url": "https://phys.org/news/2026-11-lhc-collaboration-result-quirks.html",
-          "source": "Phys.org",
+          "title": "Why heart attacks can still happen even when bad cholesterol is low",
+          "summary": "Even when bad cholesterol is brought down to healthy levels, some people remain at risk of heart attacks, and scientists may have discovered why. Researchers identified two types of fat-carrying particles that appear to…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261109205415.htm",
+          "source": "Science Daily",
           "date": "2026-11-10"
         }
       ]
