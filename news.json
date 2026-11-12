@@ -1,36 +1,22 @@
 {
-  "updated": "2026-11-11T20:00:54Z",
+  "updated": "2026-11-12T20:39:38Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "A gold–copper strategy for building interlocked nitrogen-doped carbon nanohoops",
-          "summary": "Catenanes are molecules in which two or more rings are mechanically interlocked like the links of a chain, without any chemical bonds between them. Since Jean-Pierre Sauvage, who later shared the 2016 Nobel Prize in…",
-          "url": "https://phys.org/news/2026-11-goldcopper-strategy-interlocked-nitrogen-doped.html",
+          "title": "Nitrate pollution in rivers linked to dry climates, not just human activity",
+          "summary": "Nitrate, a chemical compound of oxygen and nitrogen often used in farm fertilizers, can rise to toxic levels in surrounding water under very dry conditions. This relationship has traditionally been attributed to…",
+          "url": "https://phys.org/news/2026-11-nitrate-pollution-rivers-linked-dry.html",
           "source": "Phys.org",
-          "date": "2026-11-11"
+          "date": "2026-11-12"
         },
         {
-          "title": "Scientists discover why some mosquitoes love you and others don't",
-          "summary": "A surprising new study reveals that mosquitoes have very different tastes in humans, with each species attracted to its own combination of skin odors, chemicals, and bacteria. The discovery challenges the idea of a…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261106174541.htm",
-          "source": "Science Daily",
-          "date": "2026-11-11"
-        },
-        {
-          "title": "Scientists challenge the dream of bringing extinct species back to life",
-          "summary": "Could extinction itself become a thing of the past? Advances in biotechnology, including ancient DNA sequencing, genome analysis and gene editing, have led some to believe that it may be possible to bring extinct…",
-          "url": "https://phys.org/news/2026-11-scientists-extinct-species-life.html",
+          "title": "Imperfections reveal unexpected links between light and atomic vibrations in ultrathin boron nitride",
+          "summary": "First, one person stands up, followed by their neighbors, one after another, until a wave sweeps through the stadium. Atoms within a material move in a similar way: rather than remaining completely still in their…",
+          "url": "https://phys.org/news/2026-11-imperfections-reveal-unexpected-links-atomic.html",
           "source": "Phys.org",
-          "date": "2026-11-11"
-        },
-        {
-          "title": "Ancient DNA reveals rare genetic condition behind a 1,600-year-old infant's single eye socket",
-          "summary": "Cyclopia is the most severe form of a rare birth condition in which the developing brain fails to divide into two separate halves. This can also affect facial development, sometimes leaving the baby with a single eye…",
-          "url": "https://phys.org/news/2026-11-ancient-dna-reveals-rare-genetic.html",
-          "source": "Phys.org",
-          "date": "2026-11-11"
+          "date": "2026-11-12"
         },
         {
           "title": "Alzheimer’s may have early warning signs outside the brain",
@@ -38,12 +24,33 @@
           "url": "https://www.sciencedaily.com/releases/2026/11/261108233103.htm",
           "source": "Science Daily",
           "date": "2026-11-10"
+        },
+        {
+          "title": "eDNA study reveals drivers of dramatic restructuring of marine food web",
+          "summary": "A new study from Plymouth Marine Laboratory (PML) has combined decades of microscope records with cutting-edge environmental DNA (eDNA) data to uncover the drivers of a major shift at the base of the marine food web in…",
+          "url": "https://phys.org/news/2026-11-edna-reveals-drivers-marine-food.html",
+          "source": "Phys.org",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "Sensors on buses and trams could make air quality measurements fairer",
+          "summary": "As cities invest increasingly in quality of life and tackling air pollution, accurate environmental monitoring is high on the agenda. To identify health risks posed by, for example, particulate matter and nitrogen…",
+          "url": "https://phys.org/news/2026-11-sensors-buses-trams-air-quality.html",
+          "source": "Phys.org",
+          "date": "2026-11-12"
         }
       ]
     },
     "Space & Astronomy": {
       "emoji": "🚀",
       "articles": [
+        {
+          "title": "On this day in space! Nov. 11, 1966: NASA launches Gemini 12 mission with astronaut icons Buzz Aldrin and Jim Lovell aboard",
+          "summary": "On Nov. 11, 1966, the Gemini 12 mission launched an astronaut crew into orbit and set the stage for NASA's Apollo program. Here's why it mattered.",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-11-2026",
+          "source": "Space.com",
+          "date": "2026-11-11"
+        },
         {
           "title": "What time will SpaceX launch Starship Flight 15, its 1st double landing test, on Nov. 13? (Full mission timeline)",
           "summary": "SpaceX will attempt to reach orbit with its Starship megarocket and make its first-ever double catch on Nov. 13. Here's what time Starship Flight 15 will launch.",
@@ -52,25 +59,18 @@
           "date": "2026-11-11"
         },
         {
-          "title": "On this day in space! Nov. 9, 1967: NASA launches the Saturn V moon rocket for the first time on Apollo 4, but no astronauts were aboard",
-          "summary": "On this day in space! Nov. 9, 1967: NASA launches the Saturn V moon rocket for the first time on Apollo 4, but no astronauts were aboard",
-          "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-9-2026",
-          "source": "Space.com",
-          "date": "2026-11-09"
-        },
-        {
-          "title": "Starfish Space loses contact with 1st 'Otter' servicing spacecraft, ending NASA tech-demo mission",
-          "summary": "Starfish Space's first Otter servicing spacecraft suffered a glitch in orbit recently, ending its technology-demonstrating mission for NASA.",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/starfish-space-loses-contact-with-1st-otter-servicing-spacecraft-ending-nasa-tech-demo-mission",
-          "source": "Space.com",
-          "date": "2026-11-09"
-        },
-        {
           "title": "NASA reveals bold new plan to return astronauts to the Moon in 2028",
           "summary": "NASA has revealed an accelerated plan to land astronauts on the Moon in 2028, with SpaceX and Blue Origin developing competing lunar landers and a crucial orbital test scheduled for 2027. Faster rocket preparations, new…",
           "url": "https://www.sciencedaily.com/releases/2026/11/261108233054.htm",
           "source": "Science Daily",
           "date": "2026-11-09"
+        },
+        {
+          "title": "SpaceX's Starship megarocket will launch to orbit on Nov. 13. Will you be able to spot it in the night sky?",
+          "summary": "\"It should be very bright, considerably brighter than the Starlink satellites due to its size.\"",
+          "url": "https://www.space.com/stargazing/spacexs-starship-megarocket-will-launch-to-orbit-on-nov-13-will-you-be-able-to-spot-it-in-the-night-sky",
+          "source": "Space.com",
+          "date": "2026-11-12"
         },
         {
           "title": "SpaceX moves Starship Flight 15 booster to launch pad for 'squeeze test' ahead of epic double-catch attempt (photos)",
@@ -85,11 +85,18 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "An ancient ocean full of giant predators reveals a surprising twist in evolution",
-          "summary": "A remarkable fossil discovery in Colombia is challenging how scientists understand major evolutionary changes in Earth's history. Researchers uncovered an incredibly diverse ancient marine ecosystem where giant…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261106174535.htm",
+          "title": "Scientists discover that necks didn't evolve for the reason we thought",
+          "summary": "Scientists have discovered that the first animals to venture onto land nearly 380 million years ago had surprisingly stiff necks, overturning a long-standing theory about evolution. Rather than evolving to help animals…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261108233101.htm",
           "source": "Science Daily",
-          "date": "2026-11-08"
+          "date": "2026-11-11"
+        },
+        {
+          "title": "Elephants found to be increasingly isolated, leading to fractured social networks",
+          "summary": "Humans and many other social animals thrive in well-established community networks. Asian elephants are one example of a species that flourishes in groups that work together to access food and care for their young…",
+          "url": "https://phys.org/news/2026-11-elephants-isolated-fractured-social-networks.html",
+          "source": "Phys.org",
+          "date": "2026-11-12"
         },
         {
           "title": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
@@ -106,18 +113,11 @@
           "date": "2026-11-11"
         },
         {
-          "title": "Frozen sperm enables embryo development in endangered Japanese bird for first time—but chick fails to hatch",
-          "summary": "The Okinawa rail (Hypotaenidia okinawae) is an endangered flightless bird endemic to the Yanbaru forest region of Okinawa Island in Japan. The bird has only recently begun recovering its numbers after introduced…",
-          "url": "https://phys.org/news/2026-11-frozen-sperm-enables-embryo-endangered.html",
+          "title": "Same fertilizer, different timing: Nutrient pulses give two invasive plants an edge",
+          "summary": "Fluctuating resource supplies can help some highly invasive plants outcompete native species. But research on how nutrient fluctuations affect plant invasion has largely relied on greenhouse or simplified experiments…",
+          "url": "https://phys.org/news/2026-11-fertilizer-nutrient-pulses-invasive-edge.html",
           "source": "Phys.org",
-          "date": "2026-11-11"
-        },
-        {
-          "title": "Why some dinosaurs get all the attention and others don't",
-          "summary": "If you ask anyone to name a dinosaur, there's a good chance they'll say Tyrannosaurus rex, that fearsome prehistoric predator with its enormous jaws and razor-sharp teeth. But what about a lesser-known dinosaur such as…",
-          "url": "https://phys.org/news/2026-11-dinosaurs-attention-dont.html",
-          "source": "Phys.org",
-          "date": "2026-11-11"
+          "date": "2026-11-12"
         }
       ]
     },
@@ -132,25 +132,32 @@
           "date": "2026-11-11"
         },
         {
-          "title": "Plants feel the heat: How a protein 'thermometer' helps plants adapt to climate",
-          "summary": "Plants continuously adapt to environmental changes, and temperature is a key signal for growth and flowering. How plant thermometers, or \"thermosensors,\" work at the molecular level is not well understood.",
-          "url": "https://phys.org/news/2026-11-protein-thermometer-climate.html",
+          "title": "How a warming ocean is changing the base of the marine food web",
+          "summary": "Climate change is causing warming in the oceans, which can have significant effects on marine food webs. Rising ocean temperatures can intensify seawater stratification, a process in which ocean water forms layers of…",
+          "url": "https://phys.org/news/2026-11-ocean-base-marine-food-web.html",
           "source": "Phys.org",
-          "date": "2026-11-11"
+          "date": "2026-11-12"
         },
         {
-          "title": "Water Surges Into Navajo Reservoir",
-          "summary": "Rounds of heavy rain in the U.S. Southwest flooded rivers and rapidly raised New Mexico’s second-largest reservoir.",
-          "url": "https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/",
-          "source": "NASA",
-          "date": "2026-11-11"
+          "title": "Two hot zones near Earth's core may fuel volcanoes beneath oceans",
+          "summary": "The ocean covers around 70% of the Earth's surface, but large parts of the seafloor remain largely unexplored.",
+          "url": "https://phys.org/news/2026-11-hot-zones-earth-core-fuel.html",
+          "source": "Phys.org",
+          "date": "2026-11-12"
         },
         {
-          "title": "Taurid meteors in 2026: All you need to know",
-          "summary": "You might see Taurid meteors from late October to early November. Expect up to 10 meteors per hour, and some of them might be fireballs. The post Taurid meteors in 2026: All you need to know first appeared on EarthSky .",
-          "url": "https://earthsky.org/astronomy-essentials/taurid-meteors-all-you-need-to-know/",
-          "source": "EarthSky",
-          "date": "2026-11-11"
+          "title": "High water, high rents: Poorest residents pay the most for climate adaptation",
+          "summary": "As cities worldwide adapt to extreme weather, climate adaptation must prevent people from wading through flooded streets in the future. But the costs are not equally shared. A study from the University of Copenhagen…",
+          "url": "https://phys.org/news/2026-11-high-rents-poorest-residents-pay.html",
+          "source": "Phys.org",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "Economics, not climate summits, will dictate the net-zero transition",
+          "summary": "World leaders at COP31 show little enthusiasm for phasing out fossil fuels, but the plummeting costs of renewable energy will be the key factor in how quickly we can rein in global warming",
+          "url": "https://www.newscientist.com/article/2598706-economics-not-climate-summits-will-dictate-the-net-zero-transition/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-11-12"
         }
       ]
     },
@@ -165,18 +172,32 @@
           "date": "2026-11-09"
         },
         {
-          "title": "Chip identifies cells by their electrical signature, then separates them with a precisely aimed sound wave",
-          "summary": "In biomedicine, sorting cells accurately without damaging them remains a persistent problem. Current methods, like fluorescence-activated cell sorting, rely on labeling the cells extrinsically, which can stress the…",
-          "url": "https://phys.org/news/2026-11-chip-cells-electrical-signature-precisely.html",
-          "source": "Phys.org",
-          "date": "2026-11-11"
+          "title": "Inside this quantum computer, memory vibrates like a guitar string",
+          "summary": "Researchers have created a quantum computer that stores information in microscopic vibrations, potentially making quantum machines smaller, more powerful, and better at preserving information. The breakthrough…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261109205416.htm",
+          "source": "Science Daily",
+          "date": "2026-11-12"
         },
         {
-          "title": "Cancer-fighting chewing gum slashes HPV levels by up to 93%",
-          "summary": "A surprising new weapon against microbes linked to head and neck cancer could be as simple as chewing gum. Scientists developed a bioengineered gum that reduced HPV levels by up to 93% in oral samples from cancer…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261108203832.htm",
-          "source": "Science Daily",
-          "date": "2026-11-11"
+          "title": "Sound without physical force creates a sense of resistance to hand movement",
+          "summary": "Virtual reality and augmented reality strongly rely on visual information; consequently, they are inaccessible to individuals with visual impairments. To create illusions of tactile feedback or force sensations without…",
+          "url": "https://phys.org/news/2026-11-physical-resistance-movement.html",
+          "source": "Phys.org",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "AI confirms a long-suspected limit on quantum computers’ advantages",
+          "summary": "AI-powered proof has rigorously proved that using quantum computers would not have huge advantages for a whole class of mathematical problems, confirming a vastly influential conjecture.",
+          "url": "https://www.newscientist.com/article/2598418-ai-confirms-a-long-suspected-limit-on-quantum-computers-advantages/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "How Nvidia became so crucial to the AI boom",
+          "summary": "An espionage scandal has hit the biggest company in the world, and the fallout has the potential to destabilise economies that rely on its AI chips. Columnist Jacob Aron explains how Nvidia became the lynchpin to the AI…",
+          "url": "https://www.newscientist.com/article/2598755-how-nvidia-became-so-crucial-to-the-ai-boom/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-11-12"
         }
       ]
     },
@@ -191,11 +212,32 @@
           "date": "2026-11-11"
         },
         {
+          "title": "Heart in the Sky at NASA Kennedy",
+          "summary": "The U.S. Air Force Thunderbirds create a heart-shaped smoke trail during a flight maneuver near NASA’s Vehicle Assembly Building during the agency’s MAX POWER expo and air show on Sunday, Nov. 8, 2026, at NASA’s Kennedy…",
+          "url": "https://www.nasa.gov/image-article/heart-in-the-sky-at-nasa-kennedy/",
+          "source": "NASA",
+          "date": "2026-11-12"
+        },
+        {
+          "title": "A new view of the gamma-ray gap: 14 years of Fermi data reveal around 450 sources in a largely unexplored energy range",
+          "summary": "The universe is filled with light at many different energies. Some of it is invisible to our eyes, including extremely energetic gamma rays, which can only be produced in the most extreme environments in our universe…",
+          "url": "https://phys.org/news/2026-11-view-gamma-ray-gap-years.html",
+          "source": "Phys.org",
+          "date": "2026-11-12"
+        },
+        {
           "title": "Why heart attacks can still happen even when bad cholesterol is low",
           "summary": "Even when bad cholesterol is brought down to healthy levels, some people remain at risk of heart attacks, and scientists may have discovered why. Researchers identified two types of fat-carrying particles that appear to…",
           "url": "https://www.sciencedaily.com/releases/2026/11/261109205415.htm",
           "source": "Science Daily",
           "date": "2026-11-10"
+        },
+        {
+          "title": "The diamond paradox: Scientists describe the path to the most stable structure",
+          "summary": "Researchers from Skoltech (part of the VEB.RF Group) and MISIS University have figured out why graphite turns into an unexpected form of diamond under high pressure. Instead of the familiar cubic diamond, the first…",
+          "url": "https://phys.org/news/2026-11-diamond-paradox-scientists-path-stable.html",
+          "source": "Phys.org",
+          "date": "2026-11-12"
         }
       ]
     }
