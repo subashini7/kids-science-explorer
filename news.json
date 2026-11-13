@@ -1,43 +1,43 @@
 {
-  "updated": "2026-11-12T20:39:38Z",
+  "updated": "2026-11-13T20:20:43Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "Nitrate pollution in rivers linked to dry climates, not just human activity",
-          "summary": "Nitrate, a chemical compound of oxygen and nitrogen often used in farm fertilizers, can rise to toxic levels in surrounding water under very dry conditions. This relationship has traditionally been attributed to…",
-          "url": "https://phys.org/news/2026-11-nitrate-pollution-rivers-linked-dry.html",
+          "title": "Fruit fly sleep protein yields peptides that inhibit drug-resistant bacteria in lab tests",
+          "summary": "Researchers at University of Tsukuba and collaborating institutions have identified short antimicrobial peptides derived from Nemuri, a sleep-inducing protein in the fruit fly Drosophila melanogaster. The research is…",
+          "url": "https://phys.org/news/2026-11-fruit-fly-protein-yields-peptides.html",
           "source": "Phys.org",
-          "date": "2026-11-12"
+          "date": "2026-11-13"
         },
         {
-          "title": "Imperfections reveal unexpected links between light and atomic vibrations in ultrathin boron nitride",
-          "summary": "First, one person stands up, followed by their neighbors, one after another, until a wave sweeps through the stadium. Atoms within a material move in a similar way: rather than remaining completely still in their…",
-          "url": "https://phys.org/news/2026-11-imperfections-reveal-unexpected-links-atomic.html",
-          "source": "Phys.org",
-          "date": "2026-11-12"
-        },
-        {
-          "title": "Alzheimer’s may have early warning signs outside the brain",
-          "summary": "A surprising discovery suggests that some early signs of Alzheimer’s disease may begin outside the brain. Using miniature laboratory systems made from human cells, scientists found that genetic mutations associated with…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261108233103.htm",
+          "title": "Tiny flaws in diamonds could unlock a quantum computing revolution",
+          "summary": "Scientists have discovered a faster way to identify diamond-based materials that could power quantum computers and sensors at room temperature. The breakthrough has already revealed promising new quantum building blocks…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261111005855.htm",
           "source": "Science Daily",
-          "date": "2026-11-10"
+          "date": "2026-11-13"
         },
         {
-          "title": "eDNA study reveals drivers of dramatic restructuring of marine food web",
-          "summary": "A new study from Plymouth Marine Laboratory (PML) has combined decades of microscope records with cutting-edge environmental DNA (eDNA) data to uncover the drivers of a major shift at the base of the marine food web in…",
-          "url": "https://phys.org/news/2026-11-edna-reveals-drivers-marine-food.html",
+          "title": "Evolution found another way to build a primate brain",
+          "summary": "What makes the human brain so much larger and more complex than the brains of many other mammals? Scientists have long sought clues in our DNA. Some discoveries show how genetic changes enable the developing brain to…",
+          "url": "https://phys.org/news/2026-11-evolution-primate-brain.html",
           "source": "Phys.org",
-          "date": "2026-11-12"
+          "date": "2026-11-13"
         },
         {
-          "title": "Sensors on buses and trams could make air quality measurements fairer",
-          "summary": "As cities invest increasingly in quality of life and tackling air pollution, accurate environmental monitoring is high on the agenda. To identify health risks posed by, for example, particulate matter and nitrogen…",
-          "url": "https://phys.org/news/2026-11-sensors-buses-trams-air-quality.html",
-          "source": "Phys.org",
-          "date": "2026-11-12"
+          "title": "Without this protein, damaged muscle fills with fat and scar tissue",
+          "summary": "Researchers have uncovered a surprising hidden function of a protein that may hold the key to repairing damaged muscles and treating muscular dystrophy. Known for protecting chromosomes, TRF2 also helps muscle stem…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261111221643.htm",
+          "source": "Science Daily",
+          "date": "2026-11-13"
+        },
+        {
+          "title": "Study of 750,000 pregnancies reveals a surprising twist about Ozempic and Wegovy",
+          "summary": "A study of more than 750,000 pregnancies found that early exposure to Ozempic, Wegovy, and similar drugs was not linked to increased pregnancy complications when used for weight loss, but was associated with a higher…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261111005911.htm",
+          "source": "Science Daily",
+          "date": "2026-11-13"
         }
       ]
     },
@@ -52,18 +52,18 @@
           "date": "2026-11-11"
         },
         {
-          "title": "What time will SpaceX launch Starship Flight 15, its 1st double landing test, on Nov. 13? (Full mission timeline)",
-          "summary": "SpaceX will attempt to reach orbit with its Starship megarocket and make its first-ever double catch on Nov. 13. Here's what time Starship Flight 15 will launch.",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-1st-booster-ship-double-catch-full-recovery-what-time",
+          "title": "Double-catch drama: Why Starship's Flight 15 is so important to SpaceX",
+          "summary": "SpaceX plans to launch its Starship megarocket on an unprecedented double-catch mission today (Nov. 13), and you can watch the action live.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/double-catch-drama-why-starships-flight-15-is-so-important-to-spacex",
           "source": "Space.com",
-          "date": "2026-11-11"
+          "date": "2026-11-13"
         },
         {
-          "title": "NASA reveals bold new plan to return astronauts to the Moon in 2028",
-          "summary": "NASA has revealed an accelerated plan to land astronauts on the Moon in 2028, with SpaceX and Blue Origin developing competing lunar landers and a crucial orbital test scheduled for 2027. Faster rocket preparations, new…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261108233054.htm",
-          "source": "Science Daily",
-          "date": "2026-11-09"
+          "title": "Watch SpaceX attempt a historic Starship launch and double-catch landing today (Nov. 13)",
+          "summary": "SpaceX plans to launch its Starship megarocket on an unprecedented double-catch mission today (Nov. 13), and you can watch the action live.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-historic-double-catch-starship-test-flight-today-watch-it-live",
+          "source": "Space.com",
+          "date": "2026-11-13"
         },
         {
           "title": "SpaceX's Starship megarocket will launch to orbit on Nov. 13. Will you be able to spot it in the night sky?",
@@ -73,11 +73,11 @@
           "date": "2026-11-12"
         },
         {
-          "title": "SpaceX moves Starship Flight 15 booster to launch pad for 'squeeze test' ahead of epic double-catch attempt (photos)",
-          "summary": "SpaceX has moved its Starship Super Heavy booster to the pad to prep for the next test flight of the megarocket, a historic mission scheduled to launch this Friday (Nov. 13).",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-moves-starship-flight-15-booster-to-launch-pad-for-squeeze-test-ahead-of-epic-double-catch-attempt-photos",
-          "source": "Space.com",
-          "date": "2026-11-10"
+          "title": "Sun news: How the sun stripped Mars of its air",
+          "summary": "Sun news November 13, 2026: A year ago, the ESCAPDE spacecraft launched toward Mars. And this mission will also be monitoring the sun. The post Sun news: How the sun stripped Mars of its air first appeared on EarthSky .",
+          "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+          "source": "EarthSky",
+          "date": "2026-11-13"
         }
       ]
     },
@@ -85,39 +85,39 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "Scientists discover that necks didn't evolve for the reason we thought",
-          "summary": "Scientists have discovered that the first animals to venture onto land nearly 380 million years ago had surprisingly stiff necks, overturning a long-standing theory about evolution. Rather than evolving to help animals…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261108233101.htm",
+          "title": "A new treasure map reveals where Earth's lost prehistoric life may be hiding",
+          "summary": "A sweeping analysis of 540 million years of marine fossils has revealed surprising gaps in our understanding of Earth's ancient life. Scientists discovered that some of the greatest opportunities for finding previously…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261112025529.htm",
           "source": "Science Daily",
-          "date": "2026-11-11"
-        },
-        {
-          "title": "Elephants found to be increasingly isolated, leading to fractured social networks",
-          "summary": "Humans and many other social animals thrive in well-established community networks. Asian elephants are one example of a species that flourishes in groups that work together to access food and care for their young…",
-          "url": "https://phys.org/news/2026-11-elephants-isolated-fractured-social-networks.html",
-          "source": "Phys.org",
           "date": "2026-11-12"
         },
         {
-          "title": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
-          "summary": "Scientists have uncovered fossils of a giant rodent that lived in Thailand 34 million years ago, revealing that enormous rodents evolved much earlier than previously thought. Named Yakamys sirindhornae, the ancient…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm",
-          "source": "Science Daily",
-          "date": "2026-11-11"
-        },
-        {
-          "title": "237-million-year-old fossils reveal a bizarre armored sea amphibian",
-          "summary": "A bizarre, heavily armored amphibian roamed the oceans 237 million years ago, despite the fact that modern amphibians cannot survive entirely in saltwater. Discovered in China, the giant salamander-sized creature may be…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261109205409.htm",
-          "source": "Science Daily",
-          "date": "2026-11-11"
-        },
-        {
-          "title": "Same fertilizer, different timing: Nutrient pulses give two invasive plants an edge",
-          "summary": "Fluctuating resource supplies can help some highly invasive plants outcompete native species. But research on how nutrient fluctuations affect plant invasion has largely relied on greenhouse or simplified experiments…",
-          "url": "https://phys.org/news/2026-11-fertilizer-nutrient-pulses-invasive-edge.html",
+          "title": "A newly discovered South African dinosaur was a heavyweight even as a youngster",
+          "summary": "It probably walked on two legs and weighed about 400 kilograms (880 pounds), despite still being a youngster. Meet Nyana rooiwalensis, a newly identified dinosaur species that lived more than 200 million years ago in…",
+          "url": "https://phys.org/news/2026-11-newly-south-african-dinosaur-heavyweight.html",
           "source": "Phys.org",
-          "date": "2026-11-12"
+          "date": "2026-11-13"
+        },
+        {
+          "title": "Ocean absorbs more fossil fuel carbon while land uptake stalls, 30 years of data show",
+          "summary": "The ocean has been absorbing carbon dioxide from fossil fuel emissions at an increasing rate since 1990, while the net uptake of carbon by forests, soils and other land ecosystems has not grown, according to a new study…",
+          "url": "https://phys.org/news/2026-11-ocean-absorbs-fossil-fuel-carbon.html",
+          "source": "Phys.org",
+          "date": "2026-11-13"
+        },
+        {
+          "title": "Colorful fish reveal how species stay distinct despite interbreeding",
+          "summary": "Vividly colored fish dwelling at the bottom of shallow Midwestern streams may help biologists understand the evolutionary mechanisms by which species remain distinct despite their similarities and overlapping ranges…",
+          "url": "https://phys.org/news/2026-11-fish-reveal-species-stay-distinct.html",
+          "source": "Phys.org",
+          "date": "2026-11-13"
+        },
+        {
+          "title": "Animal vs. plant protein reveals a surprising testosterone divide",
+          "summary": "A surprising new study suggests that where men get their protein may be linked to their testosterone levels. Researchers studying more than 2,500 men found that higher animal protein intake, particularly from dairy, was…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261111005845.htm",
+          "source": "Science Daily",
+          "date": "2026-11-13"
         }
       ]
     },
@@ -132,25 +132,18 @@
           "date": "2026-11-11"
         },
         {
-          "title": "How a warming ocean is changing the base of the marine food web",
-          "summary": "Climate change is causing warming in the oceans, which can have significant effects on marine food webs. Rising ocean temperatures can intensify seawater stratification, a process in which ocean water forms layers of…",
-          "url": "https://phys.org/news/2026-11-ocean-base-marine-food-web.html",
-          "source": "Phys.org",
-          "date": "2026-11-12"
+          "title": "The Sun unleashed a monster storm. Earth may have made it worse",
+          "summary": "The massive solar storm that illuminated skies worldwide in May 2024 has uncovered an unexpected twist: Earth's own atmosphere may have helped make the storm so powerful. Satellite measurements revealed that roughly 85%…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261111005905.htm",
+          "source": "Science Daily",
+          "date": "2026-11-13"
         },
         {
-          "title": "Two hot zones near Earth's core may fuel volcanoes beneath oceans",
-          "summary": "The ocean covers around 70% of the Earth's surface, but large parts of the seafloor remain largely unexplored.",
-          "url": "https://phys.org/news/2026-11-hot-zones-earth-core-fuel.html",
-          "source": "Phys.org",
-          "date": "2026-11-12"
-        },
-        {
-          "title": "High water, high rents: Poorest residents pay the most for climate adaptation",
-          "summary": "As cities worldwide adapt to extreme weather, climate adaptation must prevent people from wading through flooded streets in the future. But the costs are not equally shared. A study from the University of Copenhagen…",
-          "url": "https://phys.org/news/2026-11-high-rents-poorest-residents-pay.html",
-          "source": "Phys.org",
-          "date": "2026-11-12"
+          "title": "Noise pollution is reshaping the health and behaviour of animals everywhere",
+          "summary": "There is almost nowhere on Earth free from disruptive human noise – but it's one of the easiest environmental problems to solve",
+          "url": "https://www.newscientist.com/article/2598675-noise-pollution-is-reshaping-the-health-and-behaviour-of-animals-everywhere/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-11-13"
         },
         {
           "title": "Economics, not climate summits, will dictate the net-zero transition",
@@ -158,6 +151,13 @@
           "url": "https://www.newscientist.com/article/2598706-economics-not-climate-summits-will-dictate-the-net-zero-transition/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
           "date": "2026-11-12"
+        },
+        {
+          "title": "Superheated magma could fuel towering lava fountains",
+          "summary": "Why do some volcanoes erupt with spectacular lava fountains while others release lava more quietly? Scientists have discovered that a hidden effect of extreme heat inside magma may help explain the difference…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261111221811.htm",
+          "source": "Science Daily",
+          "date": "2026-11-13"
         }
       ]
     },
@@ -165,11 +165,18 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "Caltech robot makes history by building a structure in space",
-          "summary": "For the first time, a robot has autonomously built part of a structure in space, demonstrating a breakthrough that could fundamentally change space exploration. The technology could one day allow scientists to construct…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261108233043.htm",
+          "title": "A breakthrough in magnetism could make AI chips use dramatically less energy",
+          "summary": "Researchers at Brown University have overcome a major obstacle to creating ultra-low-power computer chips that could help slash the energy demands of AI. Their breakthrough eliminates a long-standing \"dead layer\"…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261111005853.htm",
           "source": "Science Daily",
-          "date": "2026-11-09"
+          "date": "2026-11-13"
+        },
+        {
+          "title": "Self-learning AI separates particle jets from background noise in simulated heavy-ion collisions",
+          "summary": "A team of physicists and computer scientists led by researchers at the U.S. Department of Energy's (DOE) Brookhaven National Laboratory developed a new artificial intelligence (AI) approach that learns on its own to…",
+          "url": "https://phys.org/news/2026-11-ai-particle-jets-background-noise.html",
+          "source": "Phys.org",
+          "date": "2026-11-13"
         },
         {
           "title": "Inside this quantum computer, memory vibrates like a guitar string",
@@ -179,23 +186,9 @@
           "date": "2026-11-12"
         },
         {
-          "title": "Sound without physical force creates a sense of resistance to hand movement",
-          "summary": "Virtual reality and augmented reality strongly rely on visual information; consequently, they are inaccessible to individuals with visual impairments. To create illusions of tactile feedback or force sensations without…",
-          "url": "https://phys.org/news/2026-11-physical-resistance-movement.html",
-          "source": "Phys.org",
-          "date": "2026-11-12"
-        },
-        {
           "title": "AI confirms a long-suspected limit on quantum computers’ advantages",
-          "summary": "AI-powered proof has rigorously proved that using quantum computers would not have huge advantages for a whole class of mathematical problems, confirming a vastly influential conjecture.",
+          "summary": "An AI-powered proof has rigorously shown that using quantum computers wouldn't have huge advantages for a whole class of mathematical problems, confirming a vastly influential conjecture",
           "url": "https://www.newscientist.com/article/2598418-ai-confirms-a-long-suspected-limit-on-quantum-computers-advantages/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-11-12"
-        },
-        {
-          "title": "How Nvidia became so crucial to the AI boom",
-          "summary": "An espionage scandal has hit the biggest company in the world, and the fallout has the potential to destabilise economies that rely on its AI chips. Columnist Jacob Aron explains how Nvidia became the lynchpin to the AI…",
-          "url": "https://www.newscientist.com/article/2598755-how-nvidia-became-so-crucial-to-the-ai-boom/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
           "date": "2026-11-12"
         }
@@ -205,11 +198,25 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "A radical theory says the universe is twice as old as we thought",
-          "summary": "A provocative new cosmological model suggests the Universe could be 26.7 billion years old and might not need dark matter or dark energy to explain its behavior. University of Ottawa researchers tested the theory…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261108233040.htm",
+          "title": "Dark energy may have flipped from negative to positive 9.5 billion years ago",
+          "summary": "A mysterious force driving the expansion of the Universe may have undergone a dramatic reversal billions of years ago. Scientists exploring an overlooked branch of an alternative gravity theory discovered that dark…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261111005901.htm",
           "source": "Science Daily",
-          "date": "2026-11-11"
+          "date": "2026-11-13"
+        },
+        {
+          "title": "Heat drives electron orbital currents, revealing first experimental evidence of orbital Nernst effect",
+          "summary": "Researchers at National Taiwan University (NTU) have reported the first experimental evidence of heat-current-driven transverse accumulation of electrons' orbital angular momentum, a phenomenon known as the orbital…",
+          "url": "https://phys.org/news/2026-11-electron-orbital-currents-revealing-experimental.html",
+          "source": "Phys.org",
+          "date": "2026-11-13"
+        },
+        {
+          "title": "Researchers build the first ever quantum clock that uses sunlight",
+          "summary": "Quantum clocks usually rely on advanced lasers and isolated atoms in the lab, but a new experiment showed that the same clock design can work with sunlight instead",
+          "url": "https://www.newscientist.com/article/2598583-researchers-built-the-first-ever-quantum-clock-that-uses-sunlight/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-11-13"
         },
         {
           "title": "Heart in the Sky at NASA Kennedy",
@@ -219,25 +226,11 @@
           "date": "2026-11-12"
         },
         {
-          "title": "A new view of the gamma-ray gap: 14 years of Fermi data reveal around 450 sources in a largely unexplored energy range",
-          "summary": "The universe is filled with light at many different energies. Some of it is invisible to our eyes, including extremely energetic gamma rays, which can only be produced in the most extreme environments in our universe…",
-          "url": "https://phys.org/news/2026-11-view-gamma-ray-gap-years.html",
-          "source": "Phys.org",
-          "date": "2026-11-12"
-        },
-        {
-          "title": "Why heart attacks can still happen even when bad cholesterol is low",
-          "summary": "Even when bad cholesterol is brought down to healthy levels, some people remain at risk of heart attacks, and scientists may have discovered why. Researchers identified two types of fat-carrying particles that appear to…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261109205415.htm",
-          "source": "Science Daily",
-          "date": "2026-11-10"
-        },
-        {
-          "title": "The diamond paradox: Scientists describe the path to the most stable structure",
-          "summary": "Researchers from Skoltech (part of the VEB.RF Group) and MISIS University have figured out why graphite turns into an unexpected form of diamond under high pressure. Instead of the familiar cubic diamond, the first…",
-          "url": "https://phys.org/news/2026-11-diamond-paradox-scientists-path-stable.html",
-          "source": "Phys.org",
-          "date": "2026-11-12"
+          "title": "Astronomers trace mystery radio signals back to cosmic odd couple of white dwarf and sun-like star",
+          "summary": "\"It’s amazing that by using radio wavelengths, we can detect the storms on a star over 5,000 light-years away.\"",
+          "url": "https://www.space.com/astronomy/stars/astronomers-trace-mystery-radio-signals-back-to-cosmic-odd-couple-of-white-dwarf-and-sun-like-star",
+          "source": "Space.com",
+          "date": "2026-11-13"
         }
       ]
     }
