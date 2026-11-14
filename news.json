@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T20:20:43Z",
+  "updated": "2026-11-14T18:39:18Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
@@ -19,24 +19,24 @@
           "date": "2026-11-13"
         },
         {
-          "title": "Evolution found another way to build a primate brain",
-          "summary": "What makes the human brain so much larger and more complex than the brains of many other mammals? Scientists have long sought clues in our DNA. Some discoveries show how genetic changes enable the developing brain to…",
-          "url": "https://phys.org/news/2026-11-evolution-primate-brain.html",
+          "title": "'Planimal' cells retain nearly entire algal genome after experimental cell fusion",
+          "summary": "Most DNA in an organism is inherited from its parent or parents. This form of genetic inheritance is referred to as vertical inheritance because genes are passed down from generation to generation.",
+          "url": "https://phys.org/news/2026-11-planimal-cells-retain-entire-algal.html",
           "source": "Phys.org",
           "date": "2026-11-13"
         },
         {
-          "title": "Without this protein, damaged muscle fills with fat and scar tissue",
-          "summary": "Researchers have uncovered a surprising hidden function of a protein that may hold the key to repairing damaged muscles and treating muscular dystrophy. Known for protecting chromosomes, TRF2 also helps muscle stem…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261111221643.htm",
-          "source": "Science Daily",
+          "title": "Modified $450 3D printer builds living materials with more than 100 layers",
+          "summary": "Living materials created with a 3D printer are like living tissues with one notable exception: You get to choose exactly which cells are in them, as well as their final 3D shape. Depending on the type of bacteria…",
+          "url": "https://phys.org/news/2026-11-3d-printer-materials-layers.html",
+          "source": "Phys.org",
           "date": "2026-11-13"
         },
         {
-          "title": "Study of 750,000 pregnancies reveals a surprising twist about Ozempic and Wegovy",
-          "summary": "A study of more than 750,000 pregnancies found that early exposure to Ozempic, Wegovy, and similar drugs was not linked to increased pregnancy complications when used for weight loss, but was associated with a higher…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261111005911.htm",
-          "source": "Science Daily",
+          "title": "Evolution found another way to build a primate brain",
+          "summary": "What makes the human brain so much larger and more complex than the brains of many other mammals? Scientists have long sought clues in our DNA. Some discoveries show how genetic changes enable the developing brain to…",
+          "url": "https://phys.org/news/2026-11-evolution-primate-brain.html",
+          "source": "Phys.org",
           "date": "2026-11-13"
         }
       ]
@@ -45,11 +45,25 @@
       "emoji": "🚀",
       "articles": [
         {
-          "title": "On this day in space! Nov. 11, 1966: NASA launches Gemini 12 mission with astronaut icons Buzz Aldrin and Jim Lovell aboard",
-          "summary": "On Nov. 11, 1966, the Gemini 12 mission launched an astronaut crew into orbit and set the stage for NASA's Apollo program. Here's why it mattered.",
-          "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-11-2026",
+          "title": "A cosmic magnifying glass could reveal the same supernova two more times in roughly 70 years",
+          "summary": "Thanks to the gravitational lensing caused by a massive galaxy cluster and high-resolution images from the James Webb Space Telescope (JWST), astronomers discovered an exploding star when the universe was 4.9 billion…",
+          "url": "https://phys.org/news/2026-11-cosmic-magnifying-glass-reveal-supernova.html",
+          "source": "Phys.org",
+          "date": "2026-11-14"
+        },
+        {
+          "title": "On this day in space! Nov. 14, 1969: NASA's Apollo 12 astronauts launch to the moon on a 'pinpoint landing' lunar mission",
+          "summary": "On Nov. 14, 1969, the Apollo 12 astronauts launched to the moon. Here's why it mattered.",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-14-2026",
           "source": "Space.com",
-          "date": "2026-11-11"
+          "date": "2026-11-14"
+        },
+        {
+          "title": "100 launches! Rocket Lab sends Earth-observing satellite to orbit on milestone mission (photos)",
+          "summary": "Rocket Lab launched its 100th space mission shortly after midnight on Saturday (Nov. 14), sending a private Japanese Earth-observing satellite to orbit.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-100th-launch-iqps-electron-sar-satellite",
+          "source": "Space.com",
+          "date": "2026-11-13"
         },
         {
           "title": "Double-catch drama: Why Starship's Flight 15 is so important to SpaceX",
@@ -63,20 +77,6 @@
           "summary": "SpaceX plans to launch its Starship megarocket on an unprecedented double-catch mission today (Nov. 13), and you can watch the action live.",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-historic-double-catch-starship-test-flight-today-watch-it-live",
           "source": "Space.com",
-          "date": "2026-11-13"
-        },
-        {
-          "title": "SpaceX's Starship megarocket will launch to orbit on Nov. 13. Will you be able to spot it in the night sky?",
-          "summary": "\"It should be very bright, considerably brighter than the Starlink satellites due to its size.\"",
-          "url": "https://www.space.com/stargazing/spacexs-starship-megarocket-will-launch-to-orbit-on-nov-13-will-you-be-able-to-spot-it-in-the-night-sky",
-          "source": "Space.com",
-          "date": "2026-11-12"
-        },
-        {
-          "title": "Sun news: How the sun stripped Mars of its air",
-          "summary": "Sun news November 13, 2026: A year ago, the ESCAPDE spacecraft launched toward Mars. And this mission will also be monitoring the sun. The post Sun news: How the sun stripped Mars of its air first appeared on EarthSky .",
-          "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
-          "source": "EarthSky",
           "date": "2026-11-13"
         }
       ]
@@ -99,24 +99,24 @@
           "date": "2026-11-13"
         },
         {
-          "title": "Ocean absorbs more fossil fuel carbon while land uptake stalls, 30 years of data show",
-          "summary": "The ocean has been absorbing carbon dioxide from fossil fuel emissions at an increasing rate since 1990, while the net uptake of carbon by forests, soils and other land ecosystems has not grown, according to a new study…",
-          "url": "https://phys.org/news/2026-11-ocean-absorbs-fossil-fuel-carbon.html",
-          "source": "Phys.org",
-          "date": "2026-11-13"
-        },
-        {
-          "title": "Colorful fish reveal how species stay distinct despite interbreeding",
-          "summary": "Vividly colored fish dwelling at the bottom of shallow Midwestern streams may help biologists understand the evolutionary mechanisms by which species remain distinct despite their similarities and overlapping ranges…",
-          "url": "https://phys.org/news/2026-11-fish-reveal-species-stay-distinct.html",
-          "source": "Phys.org",
-          "date": "2026-11-13"
-        },
-        {
           "title": "Animal vs. plant protein reveals a surprising testosterone divide",
           "summary": "A surprising new study suggests that where men get their protein may be linked to their testosterone levels. Researchers studying more than 2,500 men found that higher animal protein intake, particularly from dairy, was…",
           "url": "https://www.sciencedaily.com/releases/2026/11/261111005845.htm",
           "source": "Science Daily",
+          "date": "2026-11-13"
+        },
+        {
+          "title": "Fiji petrel eludes 10-day search as communities aim to protect bird's habitat",
+          "summary": "A new study details scientists' search for one of the planet's rarest birds in the waters off Fiji's Gau Island. Spanning 10 days, the expedition yielded no verified sightings of the critically endangered Fiji petrel…",
+          "url": "https://phys.org/news/2026-11-fiji-petrel-eludes-day-communities.html",
+          "source": "Phys.org",
+          "date": "2026-11-13"
+        },
+        {
+          "title": "Genomic analysis restores species status to 12 overlooked Great Barrier Reef corals",
+          "summary": "An international team of scientists working with Queensland Museum's CoralBank project has uncovered previously hidden coral diversity on Australia's east coast, revealing that 12 corals once considered variations of…",
+          "url": "https://phys.org/news/2026-11-genomic-analysis-species-status-overlooked.html",
+          "source": "Phys.org",
           "date": "2026-11-13"
         }
       ]
@@ -124,13 +124,6 @@
     "Earth & Climate": {
       "emoji": "🌍",
       "articles": [
-        {
-          "title": "NASA reveals Earth's ozone hole has grown to a size not seen in a decade",
-          "summary": "The Antarctic ozone hole expanded to its seventh-largest size on record in 2026, driven by unusual weather conditions that pushed it close to its historic maximum. Scientists say international restrictions on…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261110042546.htm",
-          "source": "Science Daily",
-          "date": "2026-11-11"
-        },
         {
           "title": "The Sun unleashed a monster storm. Earth may have made it worse",
           "summary": "The massive solar storm that illuminated skies worldwide in May 2024 has uncovered an unexpected twist: Earth's own atmosphere may have helped make the storm so powerful. Satellite measurements revealed that roughly 85%…",
@@ -144,6 +137,13 @@
           "url": "https://www.newscientist.com/article/2598675-noise-pollution-is-reshaping-the-health-and-behaviour-of-animals-everywhere/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
           "date": "2026-11-13"
+        },
+        {
+          "title": "California steels for storms that could trigger massive waves, flooding",
+          "summary": "California was bracing Friday for a storm series packing heavy rain and surf that could once again flood coastal communities and potentially send monster waves pounding shores.",
+          "url": "https://phys.org/news/2026-11-california-steels-storms-trigger-massive.html",
+          "source": "Phys.org",
+          "date": "2026-11-14"
         },
         {
           "title": "Economics, not climate summits, will dictate the net-zero transition",
@@ -172,20 +172,6 @@
           "date": "2026-11-13"
         },
         {
-          "title": "Self-learning AI separates particle jets from background noise in simulated heavy-ion collisions",
-          "summary": "A team of physicists and computer scientists led by researchers at the U.S. Department of Energy's (DOE) Brookhaven National Laboratory developed a new artificial intelligence (AI) approach that learns on its own to…",
-          "url": "https://phys.org/news/2026-11-ai-particle-jets-background-noise.html",
-          "source": "Phys.org",
-          "date": "2026-11-13"
-        },
-        {
-          "title": "Inside this quantum computer, memory vibrates like a guitar string",
-          "summary": "Researchers have created a quantum computer that stores information in microscopic vibrations, potentially making quantum machines smaller, more powerful, and better at preserving information. The breakthrough…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261109205416.htm",
-          "source": "Science Daily",
-          "date": "2026-11-12"
-        },
-        {
           "title": "AI confirms a long-suspected limit on quantum computers’ advantages",
           "summary": "An AI-powered proof has rigorously shown that using quantum computers wouldn't have huge advantages for a whole class of mathematical problems, confirming a vastly influential conjecture",
           "url": "https://www.newscientist.com/article/2598418-ai-confirms-a-long-suspected-limit-on-quantum-computers-advantages/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
@@ -198,6 +184,13 @@
       "emoji": "⚡",
       "articles": [
         {
+          "title": "Unstable plasma heats itself with waves it generates, experiments reveal",
+          "summary": "Fusion power is expected to be a sustainable energy source that emits no carbon dioxide during electricity generation. To achieve this, research is underway worldwide to confine high-temperature plasma using magnetic…",
+          "url": "https://phys.org/news/2026-11-unstable-plasma-generates-reveal.html",
+          "source": "Phys.org",
+          "date": "2026-11-13"
+        },
+        {
           "title": "Dark energy may have flipped from negative to positive 9.5 billion years ago",
           "summary": "A mysterious force driving the expansion of the Universe may have undergone a dramatic reversal billions of years ago. Scientists exploring an overlooked branch of an alternative gravity theory discovered that dark…",
           "url": "https://www.sciencedaily.com/releases/2026/11/261111005901.htm",
@@ -205,31 +198,24 @@
           "date": "2026-11-13"
         },
         {
-          "title": "Heat drives electron orbital currents, revealing first experimental evidence of orbital Nernst effect",
-          "summary": "Researchers at National Taiwan University (NTU) have reported the first experimental evidence of heat-current-driven transverse accumulation of electrons' orbital angular momentum, a phenomenon known as the orbital…",
-          "url": "https://phys.org/news/2026-11-electron-orbital-currents-revealing-experimental.html",
+          "title": "Scientists capture electrons making seemingly impossible quantum jumps",
+          "summary": "Scientists have captured electrons making seemingly impossible jumps across forbidden energy gaps in graphene, with some transitions occurring at a remarkable 100% probability. The breakthrough offers an unprecedented…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261112025523.htm",
+          "source": "Science Daily",
+          "date": "2026-11-14"
+        },
+        {
+          "title": "Heavier-than-expected electron behavior may explain slower electrical flow in alpha-gallium oxide",
+          "summary": "Power electronic devices help control the flow of electricity and convert it into forms needed by different machines, such as electric vehicles, renewable energy systems and industrial equipment. Some electrical energy…",
+          "url": "https://phys.org/news/2026-11-heavier-electron-behavior-slower-electrical.html",
           "source": "Phys.org",
-          "date": "2026-11-13"
+          "date": "2026-11-14"
         },
         {
           "title": "Researchers build the first ever quantum clock that uses sunlight",
           "summary": "Quantum clocks usually rely on advanced lasers and isolated atoms in the lab, but a new experiment showed that the same clock design can work with sunlight instead",
           "url": "https://www.newscientist.com/article/2598583-researchers-built-the-first-ever-quantum-clock-that-uses-sunlight/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
-          "date": "2026-11-13"
-        },
-        {
-          "title": "Heart in the Sky at NASA Kennedy",
-          "summary": "The U.S. Air Force Thunderbirds create a heart-shaped smoke trail during a flight maneuver near NASA’s Vehicle Assembly Building during the agency’s MAX POWER expo and air show on Sunday, Nov. 8, 2026, at NASA’s Kennedy…",
-          "url": "https://www.nasa.gov/image-article/heart-in-the-sky-at-nasa-kennedy/",
-          "source": "NASA",
-          "date": "2026-11-12"
-        },
-        {
-          "title": "Astronomers trace mystery radio signals back to cosmic odd couple of white dwarf and sun-like star",
-          "summary": "\"It’s amazing that by using radio wavelengths, we can detect the storms on a star over 5,000 light-years away.\"",
-          "url": "https://www.space.com/astronomy/stars/astronomers-trace-mystery-radio-signals-back-to-cosmic-odd-couple-of-white-dwarf-and-sun-like-star",
-          "source": "Space.com",
           "date": "2026-11-13"
         }
       ]
