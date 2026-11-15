@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-14T18:39:18Z",
+  "updated": "2026-11-15T19:15:13Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "Fruit fly sleep protein yields peptides that inhibit drug-resistant bacteria in lab tests",
-          "summary": "Researchers at University of Tsukuba and collaborating institutions have identified short antimicrobial peptides derived from Nemuri, a sleep-inducing protein in the fruit fly Drosophila melanogaster. The research is…",
-          "url": "https://phys.org/news/2026-11-fruit-fly-protein-yields-peptides.html",
-          "source": "Phys.org",
-          "date": "2026-11-13"
+          "title": "A common osteoporosis drug blocked spinal damage in a surprising new study",
+          "summary": "Scientists have uncovered a surprising genetic connection to spinal degeneration and found that an existing osteoporosis drug can prevent damaging mineral buildup in zebrafish spines. The discovery could pave the way…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261113232105.htm",
+          "source": "Science Daily",
+          "date": "2026-11-15"
         },
         {
-          "title": "Tiny flaws in diamonds could unlock a quantum computing revolution",
-          "summary": "Scientists have discovered a faster way to identify diamond-based materials that could power quantum computers and sensors at room temperature. The breakthrough has already revealed promising new quantum building blocks…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261111005855.htm",
+          "title": "Physicists use laser light to unlock a crystal's hidden electrical powers",
+          "summary": "Scientists have discovered how to use flashes of laser light to organize tiny electrical regions inside a crystal, solving a decades-old mystery about how the material behaves. The laser-induced alignment lasts just a…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261112230500.htm",
           "source": "Science Daily",
-          "date": "2026-11-13"
+          "date": "2026-11-15"
         },
         {
           "title": "'Planimal' cells retain nearly entire algal genome after experimental cell fusion",
@@ -26,18 +26,18 @@
           "date": "2026-11-13"
         },
         {
-          "title": "Modified $450 3D printer builds living materials with more than 100 layers",
-          "summary": "Living materials created with a 3D printer are like living tissues with one notable exception: You get to choose exactly which cells are in them, as well as their final 3D shape. Depending on the type of bacteria…",
-          "url": "https://phys.org/news/2026-11-3d-printer-materials-layers.html",
-          "source": "Phys.org",
-          "date": "2026-11-13"
+          "title": "A simple supplement could help your immune system fight cancer and viral infections",
+          "summary": "A surprising discovery from Rockefeller University suggests that a common amino acid could play a powerful role in protecting against cancer and viral infections. Scientists found that low arginine levels interfere with…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261113232000.htm",
+          "source": "Science Daily",
+          "date": "2026-11-15"
         },
         {
-          "title": "Evolution found another way to build a primate brain",
-          "summary": "What makes the human brain so much larger and more complex than the brains of many other mammals? Scientists have long sought clues in our DNA. Some discoveries show how genetic changes enable the developing brain to…",
-          "url": "https://phys.org/news/2026-11-evolution-primate-brain.html",
-          "source": "Phys.org",
-          "date": "2026-11-13"
+          "title": "Yale scientists reveal what really slows aging and what doesn't",
+          "summary": "Yale researchers have discovered that certain prescription drugs, healthy diets, and exercise can measurably slow biological aging, while popular anti-aging supplements appear largely ineffective. Their analysis of 51…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261112230452.htm",
+          "source": "Science Daily",
+          "date": "2026-11-14"
         }
       ]
     },
@@ -59,7 +59,7 @@
           "date": "2026-11-14"
         },
         {
-          "title": "100 launches! Rocket Lab sends Earth-observing satellite to orbit on milestone mission (photos)",
+          "title": "100 launches! Rocket Lab sends Earth-observing satellite to orbit on milestone mission (video, photos)",
           "summary": "Rocket Lab launched its 100th space mission shortly after midnight on Saturday (Nov. 14), sending a private Japanese Earth-observing satellite to orbit.",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-100th-launch-iqps-electron-sar-satellite",
           "source": "Space.com",
@@ -85,25 +85,18 @@
       "emoji": "🐾",
       "articles": [
         {
+          "title": "Dinosaurs may have been eating seaweed 100 million years ago",
+          "summary": "Dinosaurs may have been snacking on seaweed and other ocean foods more than 100 million years ago, according to surprising new evidence hidden in their fossilized teeth. Researchers discovered chemical signatures…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261112230502.htm",
+          "source": "Science Daily",
+          "date": "2026-11-15"
+        },
+        {
           "title": "A new treasure map reveals where Earth's lost prehistoric life may be hiding",
           "summary": "A sweeping analysis of 540 million years of marine fossils has revealed surprising gaps in our understanding of Earth's ancient life. Scientists discovered that some of the greatest opportunities for finding previously…",
           "url": "https://www.sciencedaily.com/releases/2026/11/261112025529.htm",
           "source": "Science Daily",
           "date": "2026-11-12"
-        },
-        {
-          "title": "A newly discovered South African dinosaur was a heavyweight even as a youngster",
-          "summary": "It probably walked on two legs and weighed about 400 kilograms (880 pounds), despite still being a youngster. Meet Nyana rooiwalensis, a newly identified dinosaur species that lived more than 200 million years ago in…",
-          "url": "https://phys.org/news/2026-11-newly-south-african-dinosaur-heavyweight.html",
-          "source": "Phys.org",
-          "date": "2026-11-13"
-        },
-        {
-          "title": "Animal vs. plant protein reveals a surprising testosterone divide",
-          "summary": "A surprising new study suggests that where men get their protein may be linked to their testosterone levels. Researchers studying more than 2,500 men found that higher animal protein intake, particularly from dairy, was…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261111005845.htm",
-          "source": "Science Daily",
-          "date": "2026-11-13"
         },
         {
           "title": "Fiji petrel eludes 10-day search as communities aim to protect bird's habitat",
@@ -113,10 +106,10 @@
           "date": "2026-11-13"
         },
         {
-          "title": "Genomic analysis restores species status to 12 overlooked Great Barrier Reef corals",
-          "summary": "An international team of scientists working with Queensland Museum's CoralBank project has uncovered previously hidden coral diversity on Australia's east coast, revealing that 12 corals once considered variations of…",
-          "url": "https://phys.org/news/2026-11-genomic-analysis-species-status-overlooked.html",
-          "source": "Phys.org",
+          "title": "A Global Rebound for Mangroves",
+          "summary": "After decades of decline, this ecologically significant type of forest is making a comeback.",
+          "url": "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/",
+          "source": "NASA",
           "date": "2026-11-13"
         }
       ]
@@ -125,18 +118,18 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "The Sun unleashed a monster storm. Earth may have made it worse",
-          "summary": "The massive solar storm that illuminated skies worldwide in May 2024 has uncovered an unexpected twist: Earth's own atmosphere may have helped make the storm so powerful. Satellite measurements revealed that roughly 85%…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261111005905.htm",
-          "source": "Science Daily",
-          "date": "2026-11-13"
-        },
-        {
           "title": "Noise pollution is reshaping the health and behaviour of animals everywhere",
           "summary": "There is almost nowhere on Earth free from disruptive human noise – but it's one of the easiest environmental problems to solve",
           "url": "https://www.newscientist.com/article/2598675-noise-pollution-is-reshaping-the-health-and-behaviour-of-animals-everywhere/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
           "date": "2026-11-13"
+        },
+        {
+          "title": "Taiwan Indigenous farmer revives climate-resilient millet",
+          "summary": "Indigenous farmer Banu Ismahasan walks through a golden field of tall stalks in southeastern Taiwan, harvesting by hand the grain heads of an ancient crop resistant to extreme weather.",
+          "url": "https://phys.org/news/2026-11-taiwan-indigenous-farmer-revives-climate.html",
+          "source": "Phys.org",
+          "date": "2026-11-15"
         },
         {
           "title": "California steels for storms that could trigger massive waves, flooding",
@@ -165,13 +158,6 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "A breakthrough in magnetism could make AI chips use dramatically less energy",
-          "summary": "Researchers at Brown University have overcome a major obstacle to creating ultra-low-power computer chips that could help slash the energy demands of AI. Their breakthrough eliminates a long-standing \"dead layer\"…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261111005853.htm",
-          "source": "Science Daily",
-          "date": "2026-11-13"
-        },
-        {
           "title": "AI confirms a long-suspected limit on quantum computers’ advantages",
           "summary": "An AI-powered proof has rigorously shown that using quantum computers wouldn't have huge advantages for a whole class of mathematical problems, confirming a vastly influential conjecture",
           "url": "https://www.newscientist.com/article/2598418-ai-confirms-a-long-suspected-limit-on-quantum-computers-advantages/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
@@ -188,13 +174,6 @@
           "summary": "Fusion power is expected to be a sustainable energy source that emits no carbon dioxide during electricity generation. To achieve this, research is underway worldwide to confine high-temperature plasma using magnetic…",
           "url": "https://phys.org/news/2026-11-unstable-plasma-generates-reveal.html",
           "source": "Phys.org",
-          "date": "2026-11-13"
-        },
-        {
-          "title": "Dark energy may have flipped from negative to positive 9.5 billion years ago",
-          "summary": "A mysterious force driving the expansion of the Universe may have undergone a dramatic reversal billions of years ago. Scientists exploring an overlooked branch of an alternative gravity theory discovered that dark…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261111005901.htm",
-          "source": "Science Daily",
           "date": "2026-11-13"
         },
         {
@@ -217,6 +196,13 @@
           "url": "https://www.newscientist.com/article/2598583-researchers-built-the-first-ever-quantum-clock-that-uses-sunlight/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
           "date": "2026-11-13"
+        },
+        {
+          "title": "Heart in the Sky at NASA Kennedy",
+          "summary": "The U.S. Air Force Thunderbirds create a heart-shaped smoke trail during a flight maneuver near NASA’s Vehicle Assembly Building during the agency’s MAX POWER expo and air show on Sunday, Nov. 8, 2026, at NASA’s Kennedy…",
+          "url": "https://www.nasa.gov/image-article/heart-in-the-sky-at-nasa-kennedy/",
+          "source": "NASA",
+          "date": "2026-11-12"
         }
       ]
     }
