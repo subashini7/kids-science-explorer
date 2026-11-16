@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T19:15:13Z",
+  "updated": "2026-11-16T22:44:53Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
@@ -19,38 +19,31 @@
           "date": "2026-11-15"
         },
         {
-          "title": "'Planimal' cells retain nearly entire algal genome after experimental cell fusion",
-          "summary": "Most DNA in an organism is inherited from its parent or parents. This form of genetic inheritance is referred to as vertical inheritance because genes are passed down from generation to generation.",
-          "url": "https://phys.org/news/2026-11-planimal-cells-retain-entire-algal.html",
+          "title": "Why marine climate refugia matter for safeguarding the world's oceans",
+          "summary": "The ocean is changing rapidly. Warming, acidification, oxygen loss, sea-level rise and the intensification of extreme events are transforming marine ecosystems, leading to species shifts and mass mortality events…",
+          "url": "https://phys.org/news/2026-11-marine-climate-refugia-safeguarding-world.html",
           "source": "Phys.org",
-          "date": "2026-11-13"
+          "date": "2026-11-16"
         },
         {
-          "title": "A simple supplement could help your immune system fight cancer and viral infections",
-          "summary": "A surprising discovery from Rockefeller University suggests that a common amino acid could play a powerful role in protecting against cancer and viral infections. Scientists found that low arginine levels interfere with…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261113232000.htm",
-          "source": "Science Daily",
-          "date": "2026-11-15"
+          "title": "Chiral electronics: Researchers discover a disruptive interlayer in a promising material system",
+          "summary": "Antiferromagnets are regarded as important materials for next-generation electronics. It is difficult, however, to accurately measure some of their properties. A new study by a team of researchers from Martin Luther…",
+          "url": "https://phys.org/news/2026-11-chiral-electronics-disruptive-interlayer-material.html",
+          "source": "Phys.org",
+          "date": "2026-11-16"
         },
         {
-          "title": "Yale scientists reveal what really slows aging and what doesn't",
-          "summary": "Yale researchers have discovered that certain prescription drugs, healthy diets, and exercise can measurably slow biological aging, while popular anti-aging supplements appear largely ineffective. Their analysis of 51…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261112230452.htm",
-          "source": "Science Daily",
-          "date": "2026-11-14"
+          "title": "Two transcription factors reproduce the beneficial side of a 'Jekyll and Hyde' viral protein",
+          "summary": "LMP1 is an Epstein-Barr virus protein that has a \"Mr. Hyde\" side that can promote cancer and a \"Dr. Jekyll\" side that can spur antitumor immune responses. Scientists at Hiroshima University have now traced key antitumor…",
+          "url": "https://phys.org/news/2026-11-transcription-factors-beneficial-side-jekyll.html",
+          "source": "Phys.org",
+          "date": "2026-11-16"
         }
       ]
     },
     "Space & Astronomy": {
       "emoji": "🚀",
       "articles": [
-        {
-          "title": "A cosmic magnifying glass could reveal the same supernova two more times in roughly 70 years",
-          "summary": "Thanks to the gravitational lensing caused by a massive galaxy cluster and high-resolution images from the James Webb Space Telescope (JWST), astronomers discovered an exploding star when the universe was 4.9 billion…",
-          "url": "https://phys.org/news/2026-11-cosmic-magnifying-glass-reveal-supernova.html",
-          "source": "Phys.org",
-          "date": "2026-11-14"
-        },
         {
           "title": "On this day in space! Nov. 14, 1969: NASA's Apollo 12 astronauts launch to the moon on a 'pinpoint landing' lunar mission",
           "summary": "On Nov. 14, 1969, the Apollo 12 astronauts launched to the moon. Here's why it mattered.",
@@ -66,18 +59,25 @@
           "date": "2026-11-13"
         },
         {
-          "title": "Double-catch drama: Why Starship's Flight 15 is so important to SpaceX",
-          "summary": "SpaceX plans to launch its Starship megarocket on an unprecedented double-catch mission today (Nov. 13), and you can watch the action live.",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/double-catch-drama-why-starships-flight-15-is-so-important-to-spacex",
-          "source": "Space.com",
-          "date": "2026-11-13"
+          "title": "NASA smashed into an asteroid. Now Hera has revealed a strange new world",
+          "summary": "A European spacecraft has revealed a mysterious, crater-covered side of the asteroid Didymos as it prepares to investigate the aftermath of NASA’s historic 2022 asteroid impact. The mission could uncover new clues about…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261116023351.htm",
+          "source": "Science Daily",
+          "date": "2026-11-16"
         },
         {
-          "title": "Watch SpaceX attempt a historic Starship launch and double-catch landing today (Nov. 13)",
-          "summary": "SpaceX plans to launch its Starship megarocket on an unprecedented double-catch mission today (Nov. 13), and you can watch the action live.",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-historic-double-catch-starship-test-flight-today-watch-it-live",
+          "title": "Euclid space telescope discovers its 1st comet | Space photo of the day for Nov. 16, 2026",
+          "summary": "The new observatory managed to catch this comet whirling between the orbits of Jupiter and Saturn.",
+          "url": "https://www.space.com/astronomy/comets/euclid-discovers-its-1st-comet-space-photo-of-the-day-for-nov-16-2026",
           "source": "Space.com",
-          "date": "2026-11-13"
+          "date": "2026-11-16"
+        },
+        {
+          "title": "APOD: 2026 November 16 – NGC 7129: Star Formation with Jets from Webb",
+          "summary": "APOD Science APOD APOD: 2026 November 16 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
+          "url": "https://science.nasa.gov/image-article/apod-2026-november-16-ngc-7129-star-formation-with-jets-from-webb/",
+          "source": "NASA",
+          "date": "2026-11-16"
         }
       ]
     },
@@ -92,25 +92,32 @@
           "date": "2026-11-15"
         },
         {
-          "title": "A new treasure map reveals where Earth's lost prehistoric life may be hiding",
-          "summary": "A sweeping analysis of 540 million years of marine fossils has revealed surprising gaps in our understanding of Earth's ancient life. Scientists discovered that some of the greatest opportunities for finding previously…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261112025529.htm",
-          "source": "Science Daily",
-          "date": "2026-11-12"
-        },
-        {
-          "title": "Fiji petrel eludes 10-day search as communities aim to protect bird's habitat",
-          "summary": "A new study details scientists' search for one of the planet's rarest birds in the waters off Fiji's Gau Island. Spanning 10 days, the expedition yielded no verified sightings of the critically endangered Fiji petrel…",
-          "url": "https://phys.org/news/2026-11-fiji-petrel-eludes-day-communities.html",
+          "title": "Rare North Atlantic right whale population drops, alarming scientists",
+          "summary": "The population of one of the world's rarest whales has fallen after trending upward in recent years, worrying scientists who fear the animal could still be at risk of extinction.",
+          "url": "https://phys.org/news/2026-11-rare-north-atlantic-whale-population.html",
           "source": "Phys.org",
-          "date": "2026-11-13"
+          "date": "2026-11-16"
         },
         {
-          "title": "A Global Rebound for Mangroves",
-          "summary": "After decades of decline, this ecologically significant type of forest is making a comeback.",
-          "url": "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/",
-          "source": "NASA",
-          "date": "2026-11-13"
+          "title": "Hidden ecosystem: Scientists discover 245 animals living inside a single deep-sea rock",
+          "summary": "Deep beneath the Pacific Ocean, scientists have discovered tiny hidden ecosystems inside metal-rich rocks that take millions of years to form. Researchers examined 244 nodules and found more than 4,100 animals living in…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261114202133.htm",
+          "source": "Science Daily",
+          "date": "2026-11-16"
+        },
+        {
+          "title": "New study reveals immune cells' ability to engulf and destroy amoebae",
+          "summary": "More than 100 million severe infections are believed to be caused worldwide each year by various species of amoebae, single-celled organisms typically found in freshwater and saltwater and moist environments. While…",
+          "url": "https://phys.org/news/2026-11-reveals-immune-cells-ability-engulf.html",
+          "source": "Phys.org",
+          "date": "2026-11-16"
+        },
+        {
+          "title": "How woodcocks evolved to be the weird cousins of their family",
+          "summary": "A woodcock is an odd little bird with a long, skinny bill and a plump, chunky body that's shaped like an American football. It mostly hangs out near the ground, but it does a mating display in which it makes a buzzy…",
+          "url": "https://phys.org/news/2026-11-woodcocks-evolved-weird-cousins-family.html",
+          "source": "Phys.org",
+          "date": "2026-11-16"
         }
       ]
     },
@@ -125,32 +132,32 @@
           "date": "2026-11-13"
         },
         {
-          "title": "Taiwan Indigenous farmer revives climate-resilient millet",
-          "summary": "Indigenous farmer Banu Ismahasan walks through a golden field of tall stalks in southeastern Taiwan, harvesting by hand the grain heads of an ancient crop resistant to extreme weather.",
-          "url": "https://phys.org/news/2026-11-taiwan-indigenous-farmer-revives-climate.html",
+          "title": "Super El Niño could leave South Africa short of grazing. Timing of livestock fodder crops is crucial",
+          "summary": "South Africa is entering a potentially difficult summer for farmers. El Niño is already established: the warming of the Pacific Ocean's surface that affects weather patterns globally and brings about severe weather…",
+          "url": "https://phys.org/news/2026-11-super-el-nio-south-africa.html",
           "source": "Phys.org",
-          "date": "2026-11-15"
+          "date": "2026-11-16"
         },
         {
-          "title": "California steels for storms that could trigger massive waves, flooding",
-          "summary": "California was bracing Friday for a storm series packing heavy rain and surf that could once again flood coastal communities and potentially send monster waves pounding shores.",
-          "url": "https://phys.org/news/2026-11-california-steels-storms-trigger-massive.html",
+          "title": "Combined pollutants from wildfire smoke exacerbate health risks across US",
+          "summary": "Two airborne pollutants are turning up together more often in the contiguous U.S. as wildfires grow larger, a shift that exacerbates health hazards, according to a research team in the Penn State College of Earth and…",
+          "url": "https://phys.org/news/2026-11-combined-pollutants-wildfire-exacerbate-health.html",
           "source": "Phys.org",
-          "date": "2026-11-14"
+          "date": "2026-11-16"
         },
         {
-          "title": "Economics, not climate summits, will dictate the net-zero transition",
-          "summary": "World leaders at COP31 show little enthusiasm for phasing out fossil fuels, but the plummeting costs of renewable energy will be the key factor in how quickly we can rein in global warming",
-          "url": "https://www.newscientist.com/article/2598706-economics-not-climate-summits-will-dictate-the-net-zero-transition/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-11-12"
+          "title": "The Last Ice on Puncak Jaya",
+          "summary": "Ice near the summit of the Indonesian mountain peak has shrunk to scattered patches too small to flow like glaciers.",
+          "url": "https://science.nasa.gov/earth/earth-observatory/the-last-ice-on-puncak-jaya/",
+          "source": "NASA",
+          "date": "2026-11-16"
         },
         {
-          "title": "Superheated magma could fuel towering lava fountains",
-          "summary": "Why do some volcanoes erupt with spectacular lava fountains while others release lava more quietly? Scientists have discovered that a hidden effect of extreme heat inside magma may help explain the difference…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261111221811.htm",
-          "source": "Science Daily",
-          "date": "2026-11-13"
+          "title": "COP 31: Who qualifies for loss and damage funding? Why country borders are a poor guide",
+          "summary": "Developing countries hardest hit by climate change were promised a new source of support when governments agreed at the annual global climate change conference in 2022 (COP27) to create a Loss and Damage fund. This fund…",
+          "url": "https://phys.org/news/2026-11-cop-loss-funding-country-borders.html",
+          "source": "Phys.org",
+          "date": "2026-11-16"
         }
       ]
     },
@@ -158,11 +165,18 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "AI confirms a long-suspected limit on quantum computers’ advantages",
-          "summary": "An AI-powered proof has rigorously shown that using quantum computers wouldn't have huge advantages for a whole class of mathematical problems, confirming a vastly influential conjecture",
-          "url": "https://www.newscientist.com/article/2598418-ai-confirms-a-long-suspected-limit-on-quantum-computers-advantages/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "title": "Can AI replace college advisers? Research says not yet",
+          "summary": "Colleges use AI tools for academic advising, analyzing data to predict which students need additional help. But research from Princeton Engineering suggests that helping students requires judgment and expertise that go…",
+          "url": "https://phys.org/news/2026-11-ai-college.html",
+          "source": "Phys.org",
+          "date": "2026-11-16"
+        },
+        {
+          "title": "Massive data centres collectively use as much electricity as an entire US state",
+          "summary": "The largest data centres in the US are responsible for about 2 per cent of the country's entire annual electricity use",
+          "url": "https://www.newscientist.com/article/2599078-massive-datacentres-use-as-much-electricity-as-an-entire-us-state/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
-          "date": "2026-11-12"
+          "date": "2026-11-16"
         }
       ]
     },
@@ -170,25 +184,25 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "Unstable plasma heats itself with waves it generates, experiments reveal",
-          "summary": "Fusion power is expected to be a sustainable energy source that emits no carbon dioxide during electricity generation. To achieve this, research is underway worldwide to confine high-temperature plasma using magnetic…",
-          "url": "https://phys.org/news/2026-11-unstable-plasma-generates-reveal.html",
+          "title": "Measurements reveal link between quantum spin and sound-carrying vibrations in an ultrathin semiconductor",
+          "summary": "Researchers at the UCLA Samueli School of Engineering and Auburn University have achieved a scientific first: They measured atomic vibrations that carry heat and sound waves, and connected them to a quantum property…",
+          "url": "https://phys.org/news/2026-11-reveal-link-quantum-vibrations-ultrathin.html",
           "source": "Phys.org",
-          "date": "2026-11-13"
+          "date": "2026-11-16"
         },
         {
-          "title": "Scientists capture electrons making seemingly impossible quantum jumps",
-          "summary": "Scientists have captured electrons making seemingly impossible jumps across forbidden energy gaps in graphene, with some transitions occurring at a remarkable 100% probability. The breakthrough offers an unprecedented…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261112025523.htm",
-          "source": "Science Daily",
-          "date": "2026-11-14"
+          "title": "Ultracold diamond microwave laser amplifies quantum signals 1,000-fold",
+          "summary": "Researchers from the Okinawa Institute of Science and Technology (OIST) have created a spin-based microwave amplifier that operates near absolute zero, boosting signals by more than 1,000-fold while adding noise close…",
+          "url": "https://phys.org/news/2026-11-ultracold-diamond-microwave-laser-amplifies.html",
+          "source": "Phys.org",
+          "date": "2026-11-16"
         },
         {
-          "title": "Heavier-than-expected electron behavior may explain slower electrical flow in alpha-gallium oxide",
-          "summary": "Power electronic devices help control the flow of electricity and convert it into forms needed by different machines, such as electric vehicles, renewable energy systems and industrial equipment. Some electrical energy…",
-          "url": "https://phys.org/news/2026-11-heavier-electron-behavior-slower-electrical.html",
+          "title": "Elusive optical effect paves the way for advanced lidar and nanophotonic technologies",
+          "summary": "An international research team, led by scientists from Skoltech, has experimentally demonstrated for the first time the photonic spin Hall shift for light scattered off an optically small particle. This work, published…",
+          "url": "https://phys.org/news/2026-11-elusive-optical-effect-paves-advanced.html",
           "source": "Phys.org",
-          "date": "2026-11-14"
+          "date": "2026-11-16"
         },
         {
           "title": "Researchers build the first ever quantum clock that uses sunlight",
@@ -198,11 +212,11 @@
           "date": "2026-11-13"
         },
         {
-          "title": "Heart in the Sky at NASA Kennedy",
-          "summary": "The U.S. Air Force Thunderbirds create a heart-shaped smoke trail during a flight maneuver near NASA’s Vehicle Assembly Building during the agency’s MAX POWER expo and air show on Sunday, Nov. 8, 2026, at NASA’s Kennedy…",
-          "url": "https://www.nasa.gov/image-article/heart-in-the-sky-at-nasa-kennedy/",
-          "source": "NASA",
-          "date": "2026-11-12"
+          "title": "MIT scientists discover a surprising way to boost the brain’s nighttime cleaning system",
+          "summary": "MIT scientists discovered that carefully timed bursts of gentle pink noise during sleep can strengthen the brain’s natural cleaning waves, which help flush away potentially harmful waste. The breakthrough could pave the…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261115085533.htm",
+          "source": "Science Daily",
+          "date": "2026-11-16"
         }
       ]
     }
