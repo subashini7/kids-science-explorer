@@ -1,15 +1,36 @@
 {
-  "updated": "2026-11-18T21:07:13Z",
+  "updated": "2026-11-19T21:11:43Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "How cells use alternative genetic instructions to produce 'shadowing proteins'",
-          "summary": "The human genome contains tens of thousands of genes that provide instructions for making the proteins responsible for carrying out essential functions throughout the body. But those instructions may be more versatile…",
-          "url": "https://phys.org/news/2026-11-cells-alternative-genetic-shadowing-proteins.html",
+          "title": "Pathogen P. aeruginosa uses protein to limit entry of last-resort antibiotic",
+          "summary": "Bacteria have many strategies for defending themselves against antibiotics. Some destroy the drug, others pump it out or alter its target. They can also, more simply, prevent it from getting in. A team at the University…",
+          "url": "https://phys.org/news/2026-11-pathogen-p-aeruginosa-protein-limit.html",
           "source": "Phys.org",
+          "date": "2026-11-19"
+        },
+        {
+          "title": "Chips smaller than rice grains wirelessly track heat during chemical reactions",
+          "summary": "A fleck-sized chip at the bottom of a test tube can provide researchers with data for every second of a chemical reaction while it is occurring.",
+          "url": "https://phys.org/news/2026-11-chips-smaller-rice-grains-wirelessly.html",
+          "source": "Phys.org",
+          "date": "2026-11-19"
+        },
+        {
+          "title": "Too much exercise could leave your brain stuck in overdrive",
+          "summary": "Exercising too much without adequate recovery may disrupt brain chemistry in surprising ways. Scientists found that mice subjected to prolonged, intense training had elevated dopamine levels in a brain region linked to…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261117033923.htm",
+          "source": "Science Daily",
           "date": "2026-11-18"
+        },
+        {
+          "title": "Scientists discover a hidden hereditary form of aggressive prostate cancer",
+          "summary": "Scientists have discovered a rare inherited mutation in the CDK12 gene linked to aggressive prostate cancer, with all five identified carriers developing metastatic disease between ages 44 and 62. The finding could lead…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261117033911.htm",
+          "source": "Science Daily",
+          "date": "2026-11-19"
         },
         {
           "title": "This remarkable new material could solve a major carbon capture problem",
@@ -17,33 +38,26 @@
           "url": "https://www.sciencedaily.com/releases/2026/11/261116023405.htm",
           "source": "Science Daily",
           "date": "2026-11-17"
-        },
-        {
-          "title": "Ozempic and Mounjaro may have a surprising effect on your brain",
-          "summary": "Blockbuster weight loss drugs like Ozempic and Mounjaro may do more than help people shed pounds, with growing evidence suggesting they could also influence brain health. Although studies have linked GLP-1 medications…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261116023401.htm",
-          "source": "Science Daily",
-          "date": "2026-11-17"
-        },
-        {
-          "title": "Tiny magnets deep inside the brain could transform Parkinson’s treatment",
-          "summary": "Scientists have developed a new technique that uses magnetic nanoparticles to stimulate deep brain regions, dramatically improving Parkinson’s-like movement problems in mice without permanently implanted electrodes. The…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261116023354.htm",
-          "source": "Science Daily",
-          "date": "2026-11-18"
-        },
-        {
-          "title": "New wearable ultrasound patch boosts REM sleep without drugs or surgery",
-          "summary": "A revolutionary new wearable patch could help people get more restorative sleep without medication or surgery. Developed by University of Texas researchers, the device uses gentle ultrasound to stimulate deep brain…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261116014842.htm",
-          "source": "Science Daily",
-          "date": "2026-11-16"
         }
       ]
     },
     "Space & Astronomy": {
       "emoji": "🚀",
       "articles": [
+        {
+          "title": "China rolls out rocket for launch of 1st international astronaut to Tiangong space station (video)",
+          "summary": "China has rolled to the launch pad the rocket and spacecraft for its Shenzhou-24 mission, which will fly the first international astronaut to the nation's Tiangong space station.",
+          "url": "https://www.space.com/space-exploration/human-spaceflight/china-rolls-out-rocket-for-launch-of-1st-international-astronaut-to-tiangong-space-station-video",
+          "source": "Space.com",
+          "date": "2026-11-19"
+        },
+        {
+          "title": "On this day in space! Nov. 18, 2013: NASA launches MAVEN spacecraft to Mars to find out how the Red Planet lost its water",
+          "summary": "On Nov. 18, 2013, NASA launched the MAVEN spacecraft to Mars to investigate the planet's missing water. Here's why it mattered.",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-18-2026",
+          "source": "Space.com",
+          "date": "2026-11-18"
+        },
         {
           "title": "NASA smashed into an asteroid. Now Hera has revealed a strange new world",
           "summary": "A European spacecraft has revealed a mysterious, crater-covered side of the asteroid Didymos as it prepares to investigate the aftermath of NASA’s historic 2022 asteroid impact. The mission could uncover new clues about…",
@@ -59,25 +73,11 @@
           "date": "2026-11-17"
         },
         {
-          "title": "Euclid space telescope discovers its 1st comet | Space photo of the day for Nov. 16, 2026",
-          "summary": "The new observatory managed to catch this comet whirling between the orbits of Jupiter and Saturn.",
-          "url": "https://www.space.com/astronomy/comets/euclid-discovers-its-1st-comet-space-photo-of-the-day-for-nov-16-2026",
+          "title": "No more asteroid landing: Engine trouble forces Japan's Hayabusa2 probe to change plans",
+          "summary": "Japan's space agency has decided to switch destinations and objectives for the final act of its Hayabusa2 asteroid mission, due to problems with the spacecraft's ion thrusters.",
+          "url": "https://www.space.com/space-exploration/asteroid-comet-missions/no-more-asteroid-landing-engine-trouble-forces-japans-hayabusa2-probe-to-change-plans",
           "source": "Space.com",
-          "date": "2026-11-16"
-        },
-        {
-          "title": "'A shotgun marriage': Why are NASA's SkyFall Mars helicopters riding on a nuclear rocket?",
-          "summary": "NASA's SkyFall helicopters are set to be transported to Mars on the agency's first nuclear rocket, but some experts are questioning why NASA is combining two such high-profile missions into one.",
-          "url": "https://www.space.com/astronomy/mars/a-shotgun-marriage-why-are-nasas-skyfall-mars-helicopters-riding-on-a-nuclear-rocket",
-          "source": "Space.com",
-          "date": "2026-11-18"
-        },
-        {
-          "title": "NASA's Voyager 1 launched second, so how did it beat Voyager 2 to a light-day by nearly a decade?",
-          "summary": "Voyager 1 just reached a light-day in space, but Voyager 2 won't do the same until 2035, due to speed choices made throughout their 50-year missions.",
-          "url": "https://www.space.com/space-exploration/voyager/nasas-voyager-1-launched-second-so-how-did-it-beat-voyager-2-to-a-light-day-by-nearly-a-decade",
-          "source": "Space.com",
-          "date": "2026-11-17"
+          "date": "2026-11-19"
         }
       ]
     },
@@ -85,39 +85,39 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "Insects on these sub‑Antarctic islands are bouncing back after invasive rats and mice were eradicated",
-          "summary": "Island species typically evolve in isolation—and often without many predators. As a result, islands are home to high numbers of unique species.",
-          "url": "https://phys.org/news/2026-11-insects-subantarctic-islands-invasive-rats.html",
+          "title": "Neutrons, death metal and a tiny prehistoric dragon: Scans reveal new horned reptile species from 156 million years ago",
+          "summary": "An unassuming fossil discovery in Wyoming caused quite a stir: Was it a baby dinosaur, a prehistoric snake or perhaps an entirely new species? Neutron imaging at the Paul Scherrer Institute PSI and the trained eye of a…",
+          "url": "https://phys.org/news/2026-11-neutrons-death-metal-tiny-prehistoric.html",
           "source": "Phys.org",
-          "date": "2026-11-18"
+          "date": "2026-11-19"
         },
         {
-          "title": "125,000 years ago, hippos roamed what is now the vast Arabian Desert",
-          "summary": "A remarkable 125,000-year-old discovery in Saudi Arabia reveals that early humans once thrived beside enormous lakes filled with wildlife in what is now a vast desert. Thousands of stone tools and ancient plant remains…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261115085537.htm",
+          "title": "Huge extinct orca may have eaten other whales",
+          "summary": "A nearly 8-metre-long species of orca lived in the North Sea over 2 million years ago. Its discovery suggests orcas evolved a diet of marine mammals earlier than scientists thought",
+          "url": "https://www.newscientist.com/article/2599960-huge-extinct-orca-may-have-eaten-other-whales/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-11-19"
+        },
+        {
+          "title": "This 6-million-year-old whale may have had the most crooked face in mammal history",
+          "summary": "A bizarre whale that lived roughly 6 million years ago had a face so dramatically crooked that scientists believe it may have been the most asymmetrical of any mammal. Discovered in Peru, the extinct pygmy sperm whale…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261118065528.htm",
           "source": "Science Daily",
-          "date": "2026-11-18"
+          "date": "2026-11-19"
         },
         {
-          "title": "Migrating moth uses Earth's magnetic field as a compass",
-          "summary": "Every year, the bogong moth sets off on long migrations through the night. To find its way, it uses the stars as a guide. Now, a new study from Lund University shows that, like migratory birds, the moth also has a…",
-          "url": "https://phys.org/news/2026-11-migrating-moth-earth-magnetic-field.html",
+          "title": "This year's humpback whale migration was missing something vital—the calves and their mothers",
+          "summary": "After centuries of whaling, humpback whales of the Southern Hemisphere were close to extinction. As few as 5,000 animals were left in the oceans. But after efforts to end whaling culminated in a 1985 moratorium, the…",
+          "url": "https://phys.org/news/2026-11-year-humpback-whale-migration-vital.html",
           "source": "Phys.org",
-          "date": "2026-11-18"
+          "date": "2026-11-19"
         },
         {
-          "title": "Are these the most spectacular and intriguing beetles in the world?",
-          "summary": "These stunning images, taken from Natural History Museum curator Maxwell Barclay’s new book Interesting Beetles, reveal the amazing variety of this insect group",
-          "url": "https://www.newscientist.com/article/2598425-are-these-the-most-spectacular-and-intriguing-beetles-in-the-world/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-11-18"
-        },
-        {
-          "title": "Homo erectus survived on mainland Asia 215,000 years longer than we thought",
-          "summary": "Fossil evidence had suggested Homo erectus, the first hominin species to leave Africa, had vanished from mainland Asia by about 400,000 years ago, but now we know it was still present in the area far more recently",
-          "url": "https://www.newscientist.com/article/2599635-homo-erectus-survived-on-mainland-asia-215000-years-longer-than-we-thought/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-11-18"
+          "title": "Duck-billed dinosaur discovered in Italy had a birdlike beak hidden among its bizarre 'spikes'",
+          "summary": "For more than 15 years, the Italian duck-billed dinosaur Tethyshadros insularis has been reconstructed with one of the most unusual mouth structures among hadrosauroids. The tip of its upper jaw featured three…",
+          "url": "https://phys.org/news/2026-11-duck-billed-dinosaur-italy-birdlike.html",
+          "source": "Phys.org",
+          "date": "2026-11-19"
         }
       ]
     },
@@ -125,32 +125,18 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Damaged rocks may help explain why small earthquakes outnumber large ones",
-          "summary": "University of Michigan researchers have developed a better way to understand why earthquakes occur and what size they might be. Currently, models that predict earthquakes only account for slipping that occurs along a…",
-          "url": "https://phys.org/news/2026-11-small-earthquakes-outnumber-large.html",
-          "source": "Phys.org",
-          "date": "2026-11-18"
+          "title": "Antarctica’s ice cliffs are collapsing faster than expected, but there’s a twist",
+          "summary": "A surprising new study suggests Antarctica's towering ice cliffs may be less vulnerable to catastrophic collapse than scientists once feared. After tracking more than 15,000 ice cliffs, researchers discovered that even…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261117033925.htm",
+          "source": "Science Daily",
+          "date": "2026-11-19"
         },
         {
-          "title": "Record ocean warming hundreds of meters below B.C. coast linked to El Niño",
-          "summary": "Scientists are observing record ocean temperatures off the British Columbia coast, with temperatures spiking as much as 2.5 degrees Celsius above the long-term averages recorded at Ocean Networks Canada (ONC) seafloor…",
-          "url": "https://phys.org/news/2026-11-ocean-hundreds-meters-bc-coast.html",
-          "source": "Phys.org",
-          "date": "2026-11-18"
-        },
-        {
-          "title": "Sierra Snow Season Spins Up",
-          "summary": "A widespread, early-season snowstorm blanketed California’s mountains in white in mid-November 2026.",
-          "url": "https://science.nasa.gov/earth/earth-observatory/sierra-snow-season-spins-up/",
-          "source": "NASA",
-          "date": "2026-11-18"
-        },
-        {
-          "title": "In Antarctica's ice‑free areas, even footprints can damage rare microscopic ecosystems",
-          "summary": "The usual advice for people visiting wilderness areas is to leave nothing but footprints. But as our new study shows, even footprints may disturb rare ecosystems in Antarctica and cause irreversible changes.",
-          "url": "https://phys.org/news/2026-11-antarctica-icefree-areas-footprints-rare.html",
-          "source": "Phys.org",
-          "date": "2026-11-18"
+          "title": "Venus brightest before dawn on November 29",
+          "summary": "See Venus brightest in the morning sky this week, with greatest brilliancy coming around November 29, 2026. Look east before sunrise. The post Venus brightest before dawn on November 29 first appeared on EarthSky .",
+          "url": "https://earthsky.org/astronomy-essentials/venus-brightest-greatest-brilliancy-greatest-illuminated-extent-2/",
+          "source": "EarthSky",
+          "date": "2026-11-17"
         }
       ]
     },
@@ -163,13 +149,6 @@
           "url": "https://www.sciencedaily.com/releases/2026/11/261117033909.htm",
           "source": "Science Daily",
           "date": "2026-11-18"
-        },
-        {
-          "title": "Quantum computers are getting too powerful to check. Scientists have a solution",
-          "summary": "Scientists have developed a new way to determine whether quantum simulations can be trusted, solving a growing problem as quantum computers become too powerful for conventional machines to check. Demonstrated on a…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261115085557.htm",
-          "source": "Science Daily",
-          "date": "2026-11-17"
         }
       ]
     },
@@ -184,6 +163,13 @@
           "date": "2026-11-17"
         },
         {
+          "title": "New metal-organic material combines metallic conductivity with promise for light-sensing electronics",
+          "summary": "In modern electronics and computing, finding advanced materials that can efficiently move electrical charges without losing energy remains a critical scientific challenge. While traditional metals conduct electricity…",
+          "url": "https://phys.org/news/2026-11-metal-material-combines-metallic-electronics.html",
+          "source": "Phys.org",
+          "date": "2026-11-19"
+        },
+        {
           "title": "New discovery reveals what may be holding back room-temperature superconductors",
           "summary": "A major breakthrough in superconductivity research has revealed that one of the essential ingredients for electricity to flow without resistance can exist at room temperature. Scientists discovered that electrons can…",
           "url": "https://www.sciencedaily.com/releases/2026/11/261116023358.htm",
@@ -191,18 +177,11 @@
           "date": "2026-11-18"
         },
         {
-          "title": "MIT scientists discover a surprising way to boost the brain’s nighttime cleaning system",
-          "summary": "MIT scientists discovered that carefully timed bursts of gentle pink noise during sleep can strengthen the brain’s natural cleaning waves, which help flush away potentially harmful waste. The breakthrough could pave the…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261115085533.htm",
-          "source": "Science Daily",
-          "date": "2026-11-16"
-        },
-        {
-          "title": "Physicists send an unblockable message using gravity",
-          "summary": "University of Queensland researchers have used gravity to transmit a message through a brick wall using an elevator and a sensitive gravimeter. The unusual experiment took place in UQ's Parnell Building, where the team…",
-          "url": "https://phys.org/news/2026-11-physicists-unblockable-message-gravity.html",
+          "title": "Unusual magnetism revealed in a simple metal's electron spins",
+          "summary": "Magnets are usually associated with a familiar property: they produce a magnetic field because the magnetic moments of their electrons align. But nature allows much more unusual forms of magnetic order. An international…",
+          "url": "https://phys.org/news/2026-11-unusual-magnetism-revealed-simple-metal.html",
           "source": "Phys.org",
-          "date": "2026-11-18"
+          "date": "2026-11-19"
         },
         {
           "title": "'Project Hail Mary' is heading back to theaters this December",
