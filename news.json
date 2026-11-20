@@ -1,22 +1,36 @@
 {
-  "updated": "2026-11-19T21:11:43Z",
+  "updated": "2026-11-20T20:56:09Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "Pathogen P. aeruginosa uses protein to limit entry of last-resort antibiotic",
-          "summary": "Bacteria have many strategies for defending themselves against antibiotics. Some destroy the drug, others pump it out or alter its target. They can also, more simply, prevent it from getting in. A team at the University…",
-          "url": "https://phys.org/news/2026-11-pathogen-p-aeruginosa-protein-limit.html",
+          "title": "A million tiny crystals reveal how semiconductors form distinct cores and shells",
+          "summary": "Perovskites and related materials called perovskitoids are promising semiconductor materials for solar cells, LEDs and light detectors. Their ingredients and internal crystal structures determine how they absorb and…",
+          "url": "https://phys.org/news/2026-11-million-tiny-crystals-reveal-semiconductors.html",
           "source": "Phys.org",
-          "date": "2026-11-19"
+          "date": "2026-11-20"
         },
         {
-          "title": "Chips smaller than rice grains wirelessly track heat during chemical reactions",
-          "summary": "A fleck-sized chip at the bottom of a test tube can provide researchers with data for every second of a chemical reaction while it is occurring.",
-          "url": "https://phys.org/news/2026-11-chips-smaller-rice-grains-wirelessly.html",
+          "title": "A new way to extract oxygen from lunar soil could support bases on the moon",
+          "summary": "Computer chip manufacturing and lunar exploration seem like completely different worlds. Yet our latest research suggests the two may be more closely connected than expected.",
+          "url": "https://phys.org/news/2026-11-oxygen-lunar-soil-bases-moon.html",
           "source": "Phys.org",
-          "date": "2026-11-19"
+          "date": "2026-11-20"
+        },
+        {
+          "title": "Scientists turn Moon dust into LEGO-like bricks for future lunar bases",
+          "summary": "Scientists have found a way to 3D-print Moon dust into LEGO-like bricks, raising the possibility of building lunar bases using materials already on the Moon. The experimental blocks still need to be strengthened, but…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261119194525.htm",
+          "source": "Science Daily",
+          "date": "2026-11-20"
+        },
+        {
+          "title": "Powerful new weight-loss drug helps patients cut knee pain in half",
+          "summary": "A powerful experimental weight-loss drug helped people with knee osteoarthritis lose about 25% of their body weight at the highest dose, while roughly two-thirds experienced at least a 50% reduction in knee pain. The…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261118065534.htm",
+          "source": "Science Daily",
+          "date": "2026-11-20"
         },
         {
           "title": "Too much exercise could leave your brain stuck in overdrive",
@@ -24,20 +38,6 @@
           "url": "https://www.sciencedaily.com/releases/2026/11/261117033923.htm",
           "source": "Science Daily",
           "date": "2026-11-18"
-        },
-        {
-          "title": "Scientists discover a hidden hereditary form of aggressive prostate cancer",
-          "summary": "Scientists have discovered a rare inherited mutation in the CDK12 gene linked to aggressive prostate cancer, with all five identified carriers developing metastatic disease between ages 44 and 62. The finding could lead…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261117033911.htm",
-          "source": "Science Daily",
-          "date": "2026-11-19"
-        },
-        {
-          "title": "This remarkable new material could solve a major carbon capture problem",
-          "summary": "Scientists have developed a new carbon capture material that turns moisture from an obstacle into an advantage, potentially solving a major problem with removing CO2 from industrial emissions. The material works even in…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261116023405.htm",
-          "source": "Science Daily",
-          "date": "2026-11-17"
         }
       ]
     },
@@ -59,18 +59,11 @@
           "date": "2026-11-18"
         },
         {
-          "title": "NASA smashed into an asteroid. Now Hera has revealed a strange new world",
-          "summary": "A European spacecraft has revealed a mysterious, crater-covered side of the asteroid Didymos as it prepares to investigate the aftermath of NASA’s historic 2022 asteroid impact. The mission could uncover new clues about…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261116023351.htm",
-          "source": "Science Daily",
-          "date": "2026-11-16"
-        },
-        {
-          "title": "On this day in space! Nov. 17, 1967: NASA's Surveyor 6 moon probe makes 1st-ever successful launch and hop from the lunar surface",
-          "summary": "On Nov. 17, 1967, NASA's Surveyor 6 spacecraft made the first liftoff from the lunar surface. Here's how it helped Apollo astronauts.",
-          "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-17-2026",
-          "source": "Space.com",
-          "date": "2026-11-17"
+          "title": "The BepiColombo spacecraft is finally entering orbit around Mercury",
+          "summary": "After an eight-year voyage towards the sun, the BepiColombo spacecraft can finally begin its mission to unpick the many mysteries of our solar system's smallest planet",
+          "url": "https://www.newscientist.com/article/2599799-the-bepicolombo-spacecraft-is-finally-entering-orbit-around-mercury/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-11-20"
         },
         {
           "title": "No more asteroid landing: Engine trouble forces Japan's Hayabusa2 probe to change plans",
@@ -78,6 +71,13 @@
           "url": "https://www.space.com/space-exploration/asteroid-comet-missions/no-more-asteroid-landing-engine-trouble-forces-japans-hayabusa2-probe-to-change-plans",
           "source": "Space.com",
           "date": "2026-11-19"
+        },
+        {
+          "title": "'A shotgun marriage': Why are NASA's SkyFall Mars helicopters riding on a nuclear rocket?",
+          "summary": "NASA's SkyFall helicopters are set to be transported to Mars on the agency's first nuclear rocket, but some experts are questioning why NASA is combining two such high-profile missions into one.",
+          "url": "https://www.space.com/astronomy/mars/a-shotgun-marriage-why-are-nasas-skyfall-mars-helicopters-riding-on-a-nuclear-rocket",
+          "source": "Space.com",
+          "date": "2026-11-18"
         }
       ]
     },
@@ -85,18 +85,18 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "Neutrons, death metal and a tiny prehistoric dragon: Scans reveal new horned reptile species from 156 million years ago",
-          "summary": "An unassuming fossil discovery in Wyoming caused quite a stir: Was it a baby dinosaur, a prehistoric snake or perhaps an entirely new species? Neutron imaging at the Paul Scherrer Institute PSI and the trained eye of a…",
-          "url": "https://phys.org/news/2026-11-neutrons-death-metal-tiny-prehistoric.html",
-          "source": "Phys.org",
-          "date": "2026-11-19"
-        },
-        {
           "title": "Huge extinct orca may have eaten other whales",
           "summary": "A nearly 8-metre-long species of orca lived in the North Sea over 2 million years ago. Its discovery suggests orcas evolved a diet of marine mammals earlier than scientists thought",
           "url": "https://www.newscientist.com/article/2599960-huge-extinct-orca-may-have-eaten-other-whales/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
           "date": "2026-11-19"
+        },
+        {
+          "title": "A 3-million-year-old child just made human evolution far more complicated",
+          "summary": "A groundbreaking study of the 3-million-year-old Taung Child fossil suggests that several ancient human ancestors once thought to belong to the same species may actually represent different branches of our evolutionary…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261118065531.htm",
+          "source": "Science Daily",
+          "date": "2026-11-20"
         },
         {
           "title": "This 6-million-year-old whale may have had the most crooked face in mammal history",
@@ -106,18 +106,18 @@
           "date": "2026-11-19"
         },
         {
-          "title": "This year's humpback whale migration was missing something vital—the calves and their mothers",
-          "summary": "After centuries of whaling, humpback whales of the Southern Hemisphere were close to extinction. As few as 5,000 animals were left in the oceans. But after efforts to end whaling culminated in a 1985 moratorium, the…",
-          "url": "https://phys.org/news/2026-11-year-humpback-whale-migration-vital.html",
+          "title": "Bumblebees challenge long-held beliefs about brain size and intelligence",
+          "summary": "Bigger brains mean greater intelligence, or so conventional wisdom goes. After all, humans have much larger brains than most other animals and are generally considered the planet's most intelligent species.",
+          "url": "https://phys.org/news/2026-11-bumblebees-held-beliefs-brain-size.html",
           "source": "Phys.org",
-          "date": "2026-11-19"
+          "date": "2026-11-20"
         },
         {
-          "title": "Duck-billed dinosaur discovered in Italy had a birdlike beak hidden among its bizarre 'spikes'",
-          "summary": "For more than 15 years, the Italian duck-billed dinosaur Tethyshadros insularis has been reconstructed with one of the most unusual mouth structures among hadrosauroids. The tip of its upper jaw featured three…",
-          "url": "https://phys.org/news/2026-11-duck-billed-dinosaur-italy-birdlike.html",
+          "title": "Spiders, beetles and one garage alligator: Largest study to date reveals wildlife sharing our indoor spaces",
+          "summary": "An international team of researchers is revealing the largest study to date detailing the wide range of insects, arachnids and other organisms that live in homes and other indoor environments across the United States…",
+          "url": "https://phys.org/news/2026-11-spiders-beetles-garage-alligator-largest.html",
           "source": "Phys.org",
-          "date": "2026-11-19"
+          "date": "2026-11-20"
         }
       ]
     },
@@ -125,18 +125,39 @@
       "emoji": "🌍",
       "articles": [
         {
+          "title": "Clean energy choices shape environmental impacts beyond greenhouse gas emissions",
+          "summary": "The burning of fossil fuels such as coal, gas and oil is the primary driver of climate change, but clean energy strategies to achieve net-zero greenhouse gas emissions do not systematically alleviate other environmental…",
+          "url": "https://phys.org/news/2026-11-energy-choices-environmental-impacts-greenhouse.html",
+          "source": "Phys.org",
+          "date": "2026-11-20"
+        },
+        {
+          "title": "Venus-like conditions reveal how minerals could preserve traces of ancient water",
+          "summary": "Venus is one of the most inhospitable environments in our solar system, with surface temperatures hot enough to melt lead and atmospheric pressure nearly 100 times greater than Earth's. Yet its surface may preserve…",
+          "url": "https://phys.org/news/2026-11-venus-conditions-reveal-minerals-ancient.html",
+          "source": "Phys.org",
+          "date": "2026-11-20"
+        },
+        {
+          "title": "Hazardous glacial lakes need reservoir-style safety oversight, says researcher",
+          "summary": "As the climate warms, thousands of glacial lakes are growing behind potentially unstable natural dams. Despite the potential risk of flooding to communities downstream, these lakes remain outside formal safety…",
+          "url": "https://phys.org/news/2026-11-hazardous-glacial-lakes-reservoir-style.html",
+          "source": "Phys.org",
+          "date": "2026-11-20"
+        },
+        {
+          "title": "US bill aiming to boost clean energy could backfire",
+          "summary": "The Bipartisan American Affordability and Jobs Act is a gamble that speeding up permits for energy projects would help renewables more than fossil fuels – but many environmentalists have doubts",
+          "url": "https://www.newscientist.com/article/2600126-us-bill-aiming-to-boost-clean-energy-could-backfire/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-11-20"
+        },
+        {
           "title": "Antarctica’s ice cliffs are collapsing faster than expected, but there’s a twist",
           "summary": "A surprising new study suggests Antarctica's towering ice cliffs may be less vulnerable to catastrophic collapse than scientists once feared. After tracking more than 15,000 ice cliffs, researchers discovered that even…",
           "url": "https://www.sciencedaily.com/releases/2026/11/261117033925.htm",
           "source": "Science Daily",
           "date": "2026-11-19"
-        },
-        {
-          "title": "Venus brightest before dawn on November 29",
-          "summary": "See Venus brightest in the morning sky this week, with greatest brilliancy coming around November 29, 2026. Look east before sunrise. The post Venus brightest before dawn on November 29 first appeared on EarthSky .",
-          "url": "https://earthsky.org/astronomy-essentials/venus-brightest-greatest-brilliancy-greatest-illuminated-extent-2/",
-          "source": "EarthSky",
-          "date": "2026-11-17"
         }
       ]
     },
@@ -149,6 +170,27 @@
           "url": "https://www.sciencedaily.com/releases/2026/11/261117033909.htm",
           "source": "Science Daily",
           "date": "2026-11-18"
+        },
+        {
+          "title": "Digital imaging workshop aims to reveal secrets in medieval manuscripts",
+          "summary": "Researchers recently used multispectral imaging technology to try to uncover hidden information from medieval manuscripts at the Rare Book and Manuscript Library at the University of Illinois Urbana-Champaign. The…",
+          "url": "https://phys.org/news/2026-11-digital-imaging-workshop-aims-reveal.html",
+          "source": "Phys.org",
+          "date": "2026-11-20"
+        },
+        {
+          "title": "Tested on mushrooms, an AI model shows potential for detecting crop stress with far fewer computations",
+          "summary": "A new artificial intelligence (AI) model can detect stress in agricultural crops using a nondestructive imaging technique, allowing changes in crop health to be monitored over time. Developed by a team of researchers at…",
+          "url": "https://phys.org/news/2026-11-mushrooms-ai-potential-crop-stress.html",
+          "source": "Phys.org",
+          "date": "2026-11-20"
+        },
+        {
+          "title": "Anthropic researcher says he and Claude proved the Riemann hypothesis, first posed in 1859",
+          "summary": "A researcher at AI company Anthropic said Friday that he had used the firm's Claude chatbot to prove the Riemann hypothesis, a problem that has eluded mathematicians for more than 160 years.",
+          "url": "https://phys.org/news/2026-11-anthropic-claude-math-greatest-riddle.html",
+          "source": "Phys.org",
+          "date": "2026-11-20"
         }
       ]
     },
@@ -156,32 +198,32 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "A mysterious twist in the universe’s oldest light could reveal new physics",
-          "summary": "Scientists have spotted hints of a mysterious rotation in the universe’s oldest light that could reveal new physics and shed light on dark matter and dark energy. A new technique developed at UC San Diego could help…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261116023348.htm",
-          "source": "Science Daily",
-          "date": "2026-11-17"
-        },
-        {
-          "title": "New metal-organic material combines metallic conductivity with promise for light-sensing electronics",
-          "summary": "In modern electronics and computing, finding advanced materials that can efficiently move electrical charges without losing energy remains a critical scientific challenge. While traditional metals conduct electricity…",
-          "url": "https://phys.org/news/2026-11-metal-material-combines-metallic-electronics.html",
+          "title": "Theory explains how fusion plasmas enter a state of improved energy confinement, solving a 40-year puzzle",
+          "summary": "Nuclear fusion promises a source of energy by combining light atomic nuclei, the same process that powers the sun. To achieve fusion on Earth, scientists must heat a gas to extreme temperatures, creating a charged state…",
+          "url": "https://phys.org/news/2026-11-theory-fusion-plasmas-state-energy.html",
           "source": "Phys.org",
-          "date": "2026-11-19"
+          "date": "2026-11-20"
         },
         {
-          "title": "New discovery reveals what may be holding back room-temperature superconductors",
-          "summary": "A major breakthrough in superconductivity research has revealed that one of the essential ingredients for electricity to flow without resistance can exist at room temperature. Scientists discovered that electrons can…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261116023358.htm",
-          "source": "Science Daily",
-          "date": "2026-11-18"
-        },
-        {
-          "title": "Unusual magnetism revealed in a simple metal's electron spins",
-          "summary": "Magnets are usually associated with a familiar property: they produce a magnetic field because the magnetic moments of their electrons align. But nature allows much more unusual forms of magnetic order. An international…",
-          "url": "https://phys.org/news/2026-11-unusual-magnetism-revealed-simple-metal.html",
+          "title": "Excitons mimic light in atom-thin material, confirming decade-old quantum prediction",
+          "summary": "Combining their skills in theory and experiment, Yale researchers have observed for the first time a type of energy-carrying composite particle move in a highly unexpected way. It's a finding that could lead to advances…",
+          "url": "https://phys.org/news/2026-11-excitons-mimic-atom-thin-material.html",
           "source": "Phys.org",
-          "date": "2026-11-19"
+          "date": "2026-11-20"
+        },
+        {
+          "title": "Mystery space object moves in strange ways",
+          "summary": "1998 KY26 is a mystery space object that accelerates in ways that gravity alone can't explain. A new study suggests light photons from the sun are the cause. The post Mystery space object moves in strange ways first…",
+          "url": "https://earthsky.org/space/mystery-space-object-1998-ky26-asteroid/",
+          "source": "EarthSky",
+          "date": "2026-11-20"
+        },
+        {
+          "title": "This simple habit is linked to a 33% lower risk of Alzheimer's",
+          "summary": "Reading for pleasure may have surprisingly powerful benefits for the brain, with studies linking it to better memory, reduced stress, improved mental health, and a lower risk of dementia. Researchers highlight findings…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261118065536.htm",
+          "source": "Science Daily",
+          "date": "2026-11-20"
         },
         {
           "title": "'Project Hail Mary' is heading back to theaters this December",
