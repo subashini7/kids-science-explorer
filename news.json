@@ -1,9 +1,23 @@
 {
-  "updated": "2026-11-20T20:56:09Z",
+  "updated": "2026-11-21T19:57:07Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
+        {
+          "title": "A 50-year-old theory about evolution may have been wrong all along",
+          "summary": "A decades-old theory suggesting that evolution protects its most important genes from mutations has been dealt a major blow. An extensive new analysis of mutations in bacteria and yeast found no evidence that essential…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261119194538.htm",
+          "source": "Science Daily",
+          "date": "2026-11-21"
+        },
+        {
+          "title": "Quantum software matches classical benchmark for a molecular interaction",
+          "summary": "Predicting how molecules interact is central to drug discovery: it offers important information about how a new drug might work in the human body, the side effects it can cause and more. Computationally modeling these…",
+          "url": "https://phys.org/news/2026-11-quantum-software-classical-benchmark-molecular.html",
+          "source": "Phys.org",
+          "date": "2026-11-21"
+        },
         {
           "title": "A million tiny crystals reveal how semiconductors form distinct cores and shells",
           "summary": "Perovskites and related materials called perovskitoids are promising semiconductor materials for solar cells, LEDs and light detectors. Their ingredients and internal crystal structures determine how they absorb and…",
@@ -12,32 +26,18 @@
           "date": "2026-11-20"
         },
         {
-          "title": "A new way to extract oxygen from lunar soil could support bases on the moon",
-          "summary": "Computer chip manufacturing and lunar exploration seem like completely different worlds. Yet our latest research suggests the two may be more closely connected than expected.",
-          "url": "https://phys.org/news/2026-11-oxygen-lunar-soil-bases-moon.html",
-          "source": "Phys.org",
-          "date": "2026-11-20"
+          "title": "Microplastics may be more dangerous than we thought. Scientists just discovered why",
+          "summary": "Microplastics may be doing something far more dangerous than simply accumulating in our bodies. Scientists have discovered that tiny plastic particles can interact with water to generate highly reactive molecules…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261120075549.htm",
+          "source": "Science Daily",
+          "date": "2026-11-21"
         },
         {
-          "title": "Scientists turn Moon dust into LEGO-like bricks for future lunar bases",
-          "summary": "Scientists have found a way to 3D-print Moon dust into LEGO-like bricks, raising the possibility of building lunar bases using materials already on the Moon. The experimental blocks still need to be strengthened, but…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261119194525.htm",
+          "title": "A decades-old mystery about light could hold the key to faster internet",
+          "summary": "A promising material for ultra-fast optical communications has held a secret for decades, but scientists may have finally cracked it. Researchers at KAIST and Caltech have precisely measured how barium titanate controls…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261119194544.htm",
           "source": "Science Daily",
-          "date": "2026-11-20"
-        },
-        {
-          "title": "Powerful new weight-loss drug helps patients cut knee pain in half",
-          "summary": "A powerful experimental weight-loss drug helped people with knee osteoarthritis lose about 25% of their body weight at the highest dose, while roughly two-thirds experienced at least a 50% reduction in knee pain. The…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261118065534.htm",
-          "source": "Science Daily",
-          "date": "2026-11-20"
-        },
-        {
-          "title": "Too much exercise could leave your brain stuck in overdrive",
-          "summary": "Exercising too much without adequate recovery may disrupt brain chemistry in surprising ways. Scientists found that mice subjected to prolonged, intense training had elevated dopamine levels in a brain region linked to…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261117033923.htm",
-          "source": "Science Daily",
-          "date": "2026-11-18"
+          "date": "2026-11-21"
         }
       ]
     },
@@ -52,13 +52,6 @@
           "date": "2026-11-19"
         },
         {
-          "title": "On this day in space! Nov. 18, 2013: NASA launches MAVEN spacecraft to Mars to find out how the Red Planet lost its water",
-          "summary": "On Nov. 18, 2013, NASA launched the MAVEN spacecraft to Mars to investigate the planet's missing water. Here's why it mattered.",
-          "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-18-2026",
-          "source": "Space.com",
-          "date": "2026-11-18"
-        },
-        {
           "title": "The BepiColombo spacecraft is finally entering orbit around Mercury",
           "summary": "After an eight-year voyage towards the sun, the BepiColombo spacecraft can finally begin its mission to unpick the many mysteries of our solar system's smallest planet",
           "url": "https://www.newscientist.com/article/2599799-the-bepicolombo-spacecraft-is-finally-entering-orbit-around-mercury/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
@@ -66,31 +59,31 @@
           "date": "2026-11-20"
         },
         {
-          "title": "No more asteroid landing: Engine trouble forces Japan's Hayabusa2 probe to change plans",
-          "summary": "Japan's space agency has decided to switch destinations and objectives for the final act of its Hayabusa2 asteroid mission, due to problems with the spacecraft's ion thrusters.",
-          "url": "https://www.space.com/space-exploration/asteroid-comet-missions/no-more-asteroid-landing-engine-trouble-forces-japans-hayabusa2-probe-to-change-plans",
-          "source": "Space.com",
-          "date": "2026-11-19"
+          "title": "A giant star swallowed another star. James Webb reveals the aftermath",
+          "summary": "Astronomers have witnessed a spectacular cosmic collision in the Andromeda galaxy, where a small star spiraled into a giant star 18,000 times brighter than the Sun, triggering a violent eruption. NASA’s James Webb Space…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm",
+          "source": "Science Daily",
+          "date": "2026-11-21"
         },
         {
-          "title": "'A shotgun marriage': Why are NASA's SkyFall Mars helicopters riding on a nuclear rocket?",
-          "summary": "NASA's SkyFall helicopters are set to be transported to Mars on the agency's first nuclear rocket, but some experts are questioning why NASA is combining two such high-profile missions into one.",
-          "url": "https://www.space.com/astronomy/mars/a-shotgun-marriage-why-are-nasas-skyfall-mars-helicopters-riding-on-a-nuclear-rocket",
+          "title": "NASA's powerful Moon rocket engine roars through a dramatic 200-second test",
+          "summary": "NASA has successfully tested a powerful RS-25 rocket engine, firing it for 200 seconds to gather data that could make future Moon missions safer and more reliable. The test supports preparations for the 2028 Artemis IV…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261120075551.htm",
+          "source": "Science Daily",
+          "date": "2026-11-20"
+        },
+        {
+          "title": "SpaceX launches classified mission for US Space Force from California (video)",
+          "summary": "SpaceX launched a classified mission for the U.S. Space Force tonight (Nov. 20), sending a mystery payload to orbit from California's central coast.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-classified-space-force-launch-ussf-317",
           "source": "Space.com",
-          "date": "2026-11-18"
+          "date": "2026-11-21"
         }
       ]
     },
     "Animals & Nature": {
       "emoji": "🐾",
       "articles": [
-        {
-          "title": "Huge extinct orca may have eaten other whales",
-          "summary": "A nearly 8-metre-long species of orca lived in the North Sea over 2 million years ago. Its discovery suggests orcas evolved a diet of marine mammals earlier than scientists thought",
-          "url": "https://www.newscientist.com/article/2599960-huge-extinct-orca-may-have-eaten-other-whales/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-11-19"
-        },
         {
           "title": "A 3-million-year-old child just made human evolution far more complicated",
           "summary": "A groundbreaking study of the 3-million-year-old Taung Child fossil suggests that several ancient human ancestors once thought to belong to the same species may actually represent different branches of our evolutionary…",
@@ -106,16 +99,23 @@
           "date": "2026-11-19"
         },
         {
-          "title": "Bumblebees challenge long-held beliefs about brain size and intelligence",
-          "summary": "Bigger brains mean greater intelligence, or so conventional wisdom goes. After all, humans have much larger brains than most other animals and are generally considered the planet's most intelligent species.",
-          "url": "https://phys.org/news/2026-11-bumblebees-held-beliefs-brain-size.html",
+          "title": "The call of the seamount: Two new armored tardigrades described in the Atlantic",
+          "summary": "An international team led by researchers from Senckenberg am Meer in Wilhelmshaven has described two new species of marine tardigrades. The tiny marine organisms were discovered in the sediment of the Senghor Seamount…",
+          "url": "https://phys.org/news/2026-11-seamount-armored-tardigrades-atlantic.html",
+          "source": "Phys.org",
+          "date": "2026-11-21"
+        },
+        {
+          "title": "A fish as old as Montana—the blue sucker discovered to live well over 100 years",
+          "summary": "Using bomb radiocarbon dating on microscopic otoliths (earstones), researchers have found that a native species of fish in the Upper Missouri River in Montana is living up to 130 years—more than triple the previous…",
+          "url": "https://phys.org/news/2026-11-fish-montana-blue-sucker-years.html",
           "source": "Phys.org",
           "date": "2026-11-20"
         },
         {
-          "title": "Spiders, beetles and one garage alligator: Largest study to date reveals wildlife sharing our indoor spaces",
-          "summary": "An international team of researchers is revealing the largest study to date detailing the wide range of insects, arachnids and other organisms that live in homes and other indoor environments across the United States…",
-          "url": "https://phys.org/news/2026-11-spiders-beetles-garage-alligator-largest.html",
+          "title": "Caribbean corals are in crisis. Fossil reefs can help point to where corals may persist",
+          "summary": "The fossilized remains of ancient coral reefs often sit just meters from living corals in the Caribbean, where reefs have declined sharply over the past 70 years. Those fossils could help show where corals might survive…",
+          "url": "https://phys.org/news/2026-11-caribbean-corals-crisis-fossil-reefs.html",
           "source": "Phys.org",
           "date": "2026-11-20"
         }
@@ -125,18 +125,11 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Clean energy choices shape environmental impacts beyond greenhouse gas emissions",
-          "summary": "The burning of fossil fuels such as coal, gas and oil is the primary driver of climate change, but clean energy strategies to achieve net-zero greenhouse gas emissions do not systematically alleviate other environmental…",
-          "url": "https://phys.org/news/2026-11-energy-choices-environmental-impacts-greenhouse.html",
+          "title": "An ancient failed rift is reawakening inside one of Africa's oldest landmasses",
+          "summary": "In April 2017, a magnitude 6.5 earthquake shook southern Africa from an unlikely place: the middle of the Kalahari Craton in eastern Botswana. Cratons are the ancient cores of continents, and this one is built from…",
+          "url": "https://phys.org/news/2026-11-ancient-rift-reawakening-africa-oldest.html",
           "source": "Phys.org",
-          "date": "2026-11-20"
-        },
-        {
-          "title": "Venus-like conditions reveal how minerals could preserve traces of ancient water",
-          "summary": "Venus is one of the most inhospitable environments in our solar system, with surface temperatures hot enough to melt lead and atmospheric pressure nearly 100 times greater than Earth's. Yet its surface may preserve…",
-          "url": "https://phys.org/news/2026-11-venus-conditions-reveal-minerals-ancient.html",
-          "source": "Phys.org",
-          "date": "2026-11-20"
+          "date": "2026-11-21"
         },
         {
           "title": "Hazardous glacial lakes need reservoir-style safety oversight, says researcher",
@@ -146,6 +139,13 @@
           "date": "2026-11-20"
         },
         {
+          "title": "Sun news: What’s a CME glancing blow?",
+          "summary": "un news November 21, 2026: What happens when a solar storm only grazes Earth? Meet the glancing blow, and a faint CME that may brush us November 23! The post Sun news: What’s a CME glancing blow? first appeared on…",
+          "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+          "source": "EarthSky",
+          "date": "2026-11-21"
+        },
+        {
           "title": "US bill aiming to boost clean energy could backfire",
           "summary": "The Bipartisan American Affordability and Jobs Act is a gamble that speeding up permits for energy projects would help renewables more than fossil fuels – but many environmentalists have doubts",
           "url": "https://www.newscientist.com/article/2600126-us-bill-aiming-to-boost-clean-energy-could-backfire/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
@@ -153,11 +153,11 @@
           "date": "2026-11-20"
         },
         {
-          "title": "Antarctica’s ice cliffs are collapsing faster than expected, but there’s a twist",
-          "summary": "A surprising new study suggests Antarctica's towering ice cliffs may be less vulnerable to catastrophic collapse than scientists once feared. After tracking more than 15,000 ice cliffs, researchers discovered that even…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261117033925.htm",
-          "source": "Science Daily",
-          "date": "2026-11-19"
+          "title": "People wade through floodwater because they underestimate danger—how to avoid risk",
+          "summary": "A footpath home disappears beneath brown water. The other side is only a few meters away and someone has already crossed. Turning back means a long detour and you will be late. Would you wade through? This is the kind…",
+          "url": "https://phys.org/news/2026-11-people-wade-floodwater-underestimate-danger.html",
+          "source": "Phys.org",
+          "date": "2026-11-20"
         }
       ]
     },
@@ -165,11 +165,11 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "Scientists create a remarkable new rechargeable battery using vitamin B12",
-          "summary": "Scientists have found a surprising new use for vitamin B12, developing a rechargeable battery that uses the essential nutrient to help generate and store electricity. The prototype survived up to 250 charging cycles and…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261117033909.htm",
+          "title": "AI may not work like the human brain after all, scientists discover",
+          "summary": "AI may not think like the human brain after all, according to a striking new discovery that challenges how scientists understand artificial intelligence. Researchers found that even AI models that closely predict brain…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261120075701.htm",
           "source": "Science Daily",
-          "date": "2026-11-18"
+          "date": "2026-11-21"
         },
         {
           "title": "Digital imaging workshop aims to reveal secrets in medieval manuscripts",
@@ -186,11 +186,11 @@
           "date": "2026-11-20"
         },
         {
-          "title": "Anthropic researcher says he and Claude proved the Riemann hypothesis, first posed in 1859",
-          "summary": "A researcher at AI company Anthropic said Friday that he had used the firm's Claude chatbot to prove the Riemann hypothesis, a problem that has eluded mathematicians for more than 160 years.",
-          "url": "https://phys.org/news/2026-11-anthropic-claude-math-greatest-riddle.html",
+          "title": "Device that measures strawberry skin's strength will aid breeders",
+          "summary": "Resilient strawberry varieties will be more easily identifiable thanks to a tool developed by University of Queensland engineering students. The prototype measures the strength of strawberry skin, a key breeding…",
+          "url": "https://phys.org/news/2026-11-device-strawberry-skin-strength-aid.html",
           "source": "Phys.org",
-          "date": "2026-11-20"
+          "date": "2026-11-21"
         }
       ]
     },
@@ -198,17 +198,24 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "Theory explains how fusion plasmas enter a state of improved energy confinement, solving a 40-year puzzle",
-          "summary": "Nuclear fusion promises a source of energy by combining light atomic nuclei, the same process that powers the sun. To achieve fusion on Earth, scientists must heat a gas to extreme temperatures, creating a charged state…",
-          "url": "https://phys.org/news/2026-11-theory-fusion-plasmas-state-energy.html",
+          "title": "Record-setting X-ray laser reliably generates flashes with wavelengths shorter than distances between atoms",
+          "summary": "Researchers from DESY and European XFEL have demonstrated reliable production and transport of X-ray laser flashes with a wavelength of about 0.04 nanometers (or a photon energy of 30,000 electronvolts) at European…",
+          "url": "https://phys.org/news/2026-11-ray-laser-reliably-generates-wavelengths.html",
           "source": "Phys.org",
           "date": "2026-11-20"
         },
         {
-          "title": "Excitons mimic light in atom-thin material, confirming decade-old quantum prediction",
-          "summary": "Combining their skills in theory and experiment, Yale researchers have observed for the first time a type of energy-carrying composite particle move in a highly unexpected way. It's a finding that could lead to advances…",
-          "url": "https://phys.org/news/2026-11-excitons-mimic-atom-thin-material.html",
+          "title": "Fermi's 14-year all-sky map bridges astronomy's elusive 'MeV gap'",
+          "summary": "Gamma rays, the most high-energy type of electromagnetic radiation in the universe, have always had a blind spot. We've always had trouble measuring them in the \"megaelectronvolt\" (MeV) energy range, which astronomers…",
+          "url": "https://phys.org/news/2026-11-fermi-year-sky-bridges-astronomy.html",
           "source": "Phys.org",
+          "date": "2026-11-21"
+        },
+        {
+          "title": "Quantum effect could reverse gravity and violate Einstein’s theory of relativity",
+          "summary": "Two mathematical investigations devised a way to possibly make gravity produce repulsion between objects, breaking away from a long-standing understanding of this force",
+          "url": "https://www.newscientist.com/article/2599897-quantum-effect-could-reverse-gravity-and-violate-einsteins-theory-of-relativity/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
           "date": "2026-11-20"
         },
         {
@@ -219,18 +226,11 @@
           "date": "2026-11-20"
         },
         {
-          "title": "This simple habit is linked to a 33% lower risk of Alzheimer's",
-          "summary": "Reading for pleasure may have surprisingly powerful benefits for the brain, with studies linking it to better memory, reduced stress, improved mental health, and a lower risk of dementia. Researchers highlight findings…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261118065536.htm",
-          "source": "Science Daily",
+          "title": "Scientists discover twist-tunable interlayer excitons in atomically thin anisotropic semiconductors",
+          "summary": "When light shines on a semiconductor, negatively charged electrons and positively charged holes—empty states left behind when electrons move away—pair up and bind together. This bound state is called an exciton. When…",
+          "url": "https://phys.org/news/2026-11-scientists-tunable-interlayer-excitons-atomically.html",
+          "source": "Phys.org",
           "date": "2026-11-20"
-        },
-        {
-          "title": "'Project Hail Mary' is heading back to theaters this December",
-          "summary": "Fist my bump, everyone, because box office smash hit \"Project Hail Mary\" is heading back to theaters.",
-          "url": "https://www.space.com/entertainment/space-movies-shows/project-hail-mary-is-heading-back-to-theaters-this-december",
-          "source": "Space.com",
-          "date": "2026-11-18"
         }
       ]
     }
