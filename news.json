@@ -1,15 +1,29 @@
 {
-  "updated": "2026-11-21T19:57:07Z",
+  "updated": "2026-11-22T20:09:41Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
+        {
+          "title": "Repeated bending strengthens sugar-based hydrogel instead of wearing it down",
+          "summary": "Most materials get weaker with use. But a team led by Chenfeng Ke, a professor of chemistry in Arts & Sciences at Washington University in St. Louis, has created a polymer that defies the usual laws of wear and tear.",
+          "url": "https://phys.org/news/2026-11-sugar-based-hydrogel.html",
+          "source": "Phys.org",
+          "date": "2026-11-21"
+        },
         {
           "title": "A 50-year-old theory about evolution may have been wrong all along",
           "summary": "A decades-old theory suggesting that evolution protects its most important genes from mutations has been dealt a major blow. An extensive new analysis of mutations in bacteria and yeast found no evidence that essential…",
           "url": "https://www.sciencedaily.com/releases/2026/11/261119194538.htm",
           "source": "Science Daily",
           "date": "2026-11-21"
+        },
+        {
+          "title": "Silver briefly forms a rare crystal structure seen in radioactive polonium",
+          "summary": "How atoms are arranged in a material shapes many of its properties. The same carbon atoms, for example, can form diamond and graphite depending on how they are arranged, giving rise to materials with vastly different…",
+          "url": "https://phys.org/news/2026-11-silver-briefly-rare-crystal-radioactive.html",
+          "source": "Phys.org",
+          "date": "2026-11-22"
         },
         {
           "title": "Quantum software matches classical benchmark for a molecular interaction",
@@ -19,23 +33,9 @@
           "date": "2026-11-21"
         },
         {
-          "title": "A million tiny crystals reveal how semiconductors form distinct cores and shells",
-          "summary": "Perovskites and related materials called perovskitoids are promising semiconductor materials for solar cells, LEDs and light detectors. Their ingredients and internal crystal structures determine how they absorb and…",
-          "url": "https://phys.org/news/2026-11-million-tiny-crystals-reveal-semiconductors.html",
-          "source": "Phys.org",
-          "date": "2026-11-20"
-        },
-        {
           "title": "Microplastics may be more dangerous than we thought. Scientists just discovered why",
           "summary": "Microplastics may be doing something far more dangerous than simply accumulating in our bodies. Scientists have discovered that tiny plastic particles can interact with water to generate highly reactive molecules…",
           "url": "https://www.sciencedaily.com/releases/2026/11/261120075549.htm",
-          "source": "Science Daily",
-          "date": "2026-11-21"
-        },
-        {
-          "title": "A decades-old mystery about light could hold the key to faster internet",
-          "summary": "A promising material for ultra-fast optical communications has held a secret for decades, but scientists may have finally cracked it. Researchers at KAIST and Caltech have precisely measured how barium titanate controls…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261119194544.htm",
           "source": "Science Daily",
           "date": "2026-11-21"
         }
@@ -59,6 +59,13 @@
           "date": "2026-11-20"
         },
         {
+          "title": "European-Japanese BepiColombo mission becomes 2nd ever to arrive in orbit around Mercury",
+          "summary": "The BepiColombo spacecraft finally arrived in orbit around Mercury on Saturday (Nov. 21), more than eight years after leaving its home planet.",
+          "url": "https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival",
+          "source": "Space.com",
+          "date": "2026-11-21"
+        },
+        {
           "title": "A giant star swallowed another star. James Webb reveals the aftermath",
           "summary": "Astronomers have witnessed a spectacular cosmic collision in the Andromeda galaxy, where a small star spiraled into a giant star 18,000 times brighter than the Sun, triggering a violent eruption. NASA’s James Webb Space…",
           "url": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm",
@@ -71,13 +78,6 @@
           "url": "https://www.sciencedaily.com/releases/2026/11/261120075551.htm",
           "source": "Science Daily",
           "date": "2026-11-20"
-        },
-        {
-          "title": "SpaceX launches classified mission for US Space Force from California (video)",
-          "summary": "SpaceX launched a classified mission for the U.S. Space Force tonight (Nov. 20), sending a mystery payload to orbit from California's central coast.",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-classified-space-force-launch-ussf-317",
-          "source": "Space.com",
-          "date": "2026-11-21"
         }
       ]
     },
@@ -99,25 +99,25 @@
           "date": "2026-11-19"
         },
         {
+          "title": "Parasite makes mice more attractive to blood-feeding bugs, which may aid its spread",
+          "summary": "Some parasites, such as Trypanosoma rangeli and Trypanosoma cruzi, can be passed between mammals and blood-feeding insects called triatomine bugs. Bugs can acquire these parasites when feeding on infected mammals, while…",
+          "url": "https://phys.org/news/2026-11-parasite-mice-blood-bugs-aid.html",
+          "source": "Phys.org",
+          "date": "2026-11-22"
+        },
+        {
+          "title": "The avian champions of long-distance migration keep surprising scientists",
+          "summary": "\"The whole story began with an extinct bird from Hispaniola,\" said Min Zhao, a former postdoctoral associate at the Florida Museum of Natural History (now a postdoctoral researcher at Uppsala University).",
+          "url": "https://phys.org/news/2026-11-avian-champions-distance-migration-scientists.html",
+          "source": "Phys.org",
+          "date": "2026-11-21"
+        },
+        {
           "title": "The call of the seamount: Two new armored tardigrades described in the Atlantic",
           "summary": "An international team led by researchers from Senckenberg am Meer in Wilhelmshaven has described two new species of marine tardigrades. The tiny marine organisms were discovered in the sediment of the Senghor Seamount…",
           "url": "https://phys.org/news/2026-11-seamount-armored-tardigrades-atlantic.html",
           "source": "Phys.org",
           "date": "2026-11-21"
-        },
-        {
-          "title": "A fish as old as Montana—the blue sucker discovered to live well over 100 years",
-          "summary": "Using bomb radiocarbon dating on microscopic otoliths (earstones), researchers have found that a native species of fish in the Upper Missouri River in Montana is living up to 130 years—more than triple the previous…",
-          "url": "https://phys.org/news/2026-11-fish-montana-blue-sucker-years.html",
-          "source": "Phys.org",
-          "date": "2026-11-20"
-        },
-        {
-          "title": "Caribbean corals are in crisis. Fossil reefs can help point to where corals may persist",
-          "summary": "The fossilized remains of ancient coral reefs often sit just meters from living corals in the Caribbean, where reefs have declined sharply over the past 70 years. Those fossils could help show where corals might survive…",
-          "url": "https://phys.org/news/2026-11-caribbean-corals-crisis-fossil-reefs.html",
-          "source": "Phys.org",
-          "date": "2026-11-20"
         }
       ]
     },
@@ -132,20 +132,6 @@
           "date": "2026-11-21"
         },
         {
-          "title": "Hazardous glacial lakes need reservoir-style safety oversight, says researcher",
-          "summary": "As the climate warms, thousands of glacial lakes are growing behind potentially unstable natural dams. Despite the potential risk of flooding to communities downstream, these lakes remain outside formal safety…",
-          "url": "https://phys.org/news/2026-11-hazardous-glacial-lakes-reservoir-style.html",
-          "source": "Phys.org",
-          "date": "2026-11-20"
-        },
-        {
-          "title": "Sun news: What’s a CME glancing blow?",
-          "summary": "un news November 21, 2026: What happens when a solar storm only grazes Earth? Meet the glancing blow, and a faint CME that may brush us November 23! The post Sun news: What’s a CME glancing blow? first appeared on…",
-          "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
-          "source": "EarthSky",
-          "date": "2026-11-21"
-        },
-        {
           "title": "US bill aiming to boost clean energy could backfire",
           "summary": "The Bipartisan American Affordability and Jobs Act is a gamble that speeding up permits for energy projects would help renewables more than fossil fuels – but many environmentalists have doubts",
           "url": "https://www.newscientist.com/article/2600126-us-bill-aiming-to-boost-clean-energy-could-backfire/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
@@ -153,10 +139,10 @@
           "date": "2026-11-20"
         },
         {
-          "title": "People wade through floodwater because they underestimate danger—how to avoid risk",
-          "summary": "A footpath home disappears beneath brown water. The other side is only a few meters away and someone has already crossed. Turning back means a long detour and you will be late. Would you wade through? This is the kind…",
-          "url": "https://phys.org/news/2026-11-people-wade-floodwater-underestimate-danger.html",
-          "source": "Phys.org",
+          "title": "Dark Eden author Chris Beckett on how sci-fi needs ‘surface plausibility’",
+          "summary": "Chris Beckett, author of Dark Eden, November's read for the New Scientist Book Club, talks to Alison Flood about how he wrote his Arthur C Clarke award-winning novel",
+          "url": "https://www.newscientist.com/article/2599932-dark-eden-author-chris-beckett-on-how-sci-fi-needs-surface-plausibility/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
           "date": "2026-11-20"
         }
       ]
@@ -175,13 +161,6 @@
           "title": "Digital imaging workshop aims to reveal secrets in medieval manuscripts",
           "summary": "Researchers recently used multispectral imaging technology to try to uncover hidden information from medieval manuscripts at the Rare Book and Manuscript Library at the University of Illinois Urbana-Champaign. The…",
           "url": "https://phys.org/news/2026-11-digital-imaging-workshop-aims-reveal.html",
-          "source": "Phys.org",
-          "date": "2026-11-20"
-        },
-        {
-          "title": "Tested on mushrooms, an AI model shows potential for detecting crop stress with far fewer computations",
-          "summary": "A new artificial intelligence (AI) model can detect stress in agricultural crops using a nondestructive imaging technique, allowing changes in crop health to be monitored over time. Developed by a team of researchers at…",
-          "url": "https://phys.org/news/2026-11-mushrooms-ai-potential-crop-stress.html",
           "source": "Phys.org",
           "date": "2026-11-20"
         },
