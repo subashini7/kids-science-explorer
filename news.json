@@ -1,43 +1,43 @@
 {
-  "updated": "2026-11-22T20:09:41Z",
+  "updated": "2026-11-24T00:36:24Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "Repeated bending strengthens sugar-based hydrogel instead of wearing it down",
-          "summary": "Most materials get weaker with use. But a team led by Chenfeng Ke, a professor of chemistry in Arts & Sciences at Washington University in St. Louis, has created a polymer that defies the usual laws of wear and tear.",
-          "url": "https://phys.org/news/2026-11-sugar-based-hydrogel.html",
+          "title": "How DNA's surroundings shape gene regulation",
+          "summary": "Turning genes on and off requires transcription factors—proteins that bind specific stretches of DNA and help control gene activity. But DNA is not laid out bare inside the nucleus. It is wrapped around proteins and…",
+          "url": "https://phys.org/news/2026-11-dna-gene.html",
           "source": "Phys.org",
-          "date": "2026-11-21"
+          "date": "2026-11-23"
         },
         {
-          "title": "A 50-year-old theory about evolution may have been wrong all along",
-          "summary": "A decades-old theory suggesting that evolution protects its most important genes from mutations has been dealt a major blow. An extensive new analysis of mutations in bacteria and yeast found no evidence that essential…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261119194538.htm",
+          "title": "Nanoparticles repair mitochondria to boost bone regeneration in diabetic rats",
+          "summary": "A complication of diabetes is that damaged bones don't heal well, but a group of researchers is helping solve the problem with a novel mechanism to help bone regeneration.",
+          "url": "https://phys.org/news/2026-11-nanoparticles-mitochondria-boost-bone-regeneration.html",
+          "source": "Phys.org",
+          "date": "2026-11-23"
+        },
+        {
+          "title": "NASA Awards Contract for NOAA’s Near Earth Orbit Network Program",
+          "summary": "NASA, on behalf of the National Oceanic and Atmospheric Administration (NOAA), has awarded a contract to Northrop Grumman Systems Corporation for the Sounder for Microwave-Based Applications (SMBA) instruments on NOAA’s…",
+          "url": "https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-near-earth-orbit-network-program/",
+          "source": "NASA",
+          "date": "2026-11-23"
+        },
+        {
+          "title": "New gum disease treatment kills bad bacteria while sparing the good",
+          "summary": "Researchers in Japan have developed an innovative gum disease treatment that uses egg yolk antibodies and near-infrared light to destroy harmful bacteria without harming beneficial microbes. Unlike conventional…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261123005356.htm",
           "source": "Science Daily",
-          "date": "2026-11-21"
+          "date": "2026-11-23"
         },
         {
-          "title": "Silver briefly forms a rare crystal structure seen in radioactive polonium",
-          "summary": "How atoms are arranged in a material shapes many of its properties. The same carbon atoms, for example, can form diamond and graphite depending on how they are arranged, giving rise to materials with vastly different…",
-          "url": "https://phys.org/news/2026-11-silver-briefly-rare-crystal-radioactive.html",
-          "source": "Phys.org",
-          "date": "2026-11-22"
-        },
-        {
-          "title": "Quantum software matches classical benchmark for a molecular interaction",
-          "summary": "Predicting how molecules interact is central to drug discovery: it offers important information about how a new drug might work in the human body, the side effects it can cause and more. Computationally modeling these…",
-          "url": "https://phys.org/news/2026-11-quantum-software-classical-benchmark-molecular.html",
-          "source": "Phys.org",
-          "date": "2026-11-21"
-        },
-        {
-          "title": "Microplastics may be more dangerous than we thought. Scientists just discovered why",
-          "summary": "Microplastics may be doing something far more dangerous than simply accumulating in our bodies. Scientists have discovered that tiny plastic particles can interact with water to generate highly reactive molecules…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261120075549.htm",
+          "title": "Mysterious new viruses reveal a missing link in evolution",
+          "summary": "Scientists have discovered previously unknown viruses that could help explain how some of life’s earliest biological structures evolved. The surprising findings challenge a longstanding evolutionary theory and suggest…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261122060334.htm",
           "source": "Science Daily",
-          "date": "2026-11-21"
+          "date": "2026-11-23"
         }
       ]
     },
@@ -45,18 +45,18 @@
       "emoji": "🚀",
       "articles": [
         {
-          "title": "China rolls out rocket for launch of 1st international astronaut to Tiangong space station (video)",
-          "summary": "China has rolled to the launch pad the rocket and spacecraft for its Shenzhou-24 mission, which will fly the first international astronaut to the nation's Tiangong space station.",
-          "url": "https://www.space.com/space-exploration/human-spaceflight/china-rolls-out-rocket-for-launch-of-1st-international-astronaut-to-tiangong-space-station-video",
-          "source": "Space.com",
-          "date": "2026-11-19"
+          "title": "NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution",
+          "summary": "NASA’s James Webb Space Telescope has painted a vibrant tapestry of the legendary supernova remnant Cassiopeia A (Cas A). Remnants like these are the clouds of gas and dust that remain following the explosion of a…",
+          "url": "https://science.nasa.gov/missions/webb/nasas-webb-shows-how-supernova-dust-chronicles-star-evolution/",
+          "source": "NASA",
+          "date": "2026-11-23"
         },
         {
-          "title": "The BepiColombo spacecraft is finally entering orbit around Mercury",
-          "summary": "After an eight-year voyage towards the sun, the BepiColombo spacecraft can finally begin its mission to unpick the many mysteries of our solar system's smallest planet",
-          "url": "https://www.newscientist.com/article/2599799-the-bepicolombo-spacecraft-is-finally-entering-orbit-around-mercury/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-11-20"
+          "title": "Webb finds evidence star's layers may have merged just hours before Cas A supernova",
+          "summary": "NASA's James Webb Space Telescope has painted a vibrant tapestry of the legendary supernova remnant Cassiopeia A (Cas A). Remnants like these are the clouds of gas and dust that remain following the explosion of a…",
+          "url": "https://phys.org/news/2026-11-webb-evidence-star-layers-merged.html",
+          "source": "Phys.org",
+          "date": "2026-11-23"
         },
         {
           "title": "European-Japanese BepiColombo mission becomes 2nd ever to arrive in orbit around Mercury",
@@ -73,11 +73,11 @@
           "date": "2026-11-21"
         },
         {
-          "title": "NASA's powerful Moon rocket engine roars through a dramatic 200-second test",
-          "summary": "NASA has successfully tested a powerful RS-25 rocket engine, firing it for 200 seconds to gather data that could make future Moon missions safer and more reliable. The test supports preparations for the 2028 Artemis IV…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261120075551.htm",
-          "source": "Science Daily",
-          "date": "2026-11-20"
+          "title": "Hera surveys asteroids with superhuman vision",
+          "summary": "The European Space Agency's Hera mission for planetary defense surveys its target asteroids with a combination of instruments, peering beyond the limits of the human eye. The larger Didymos asteroid—dominated by its…",
+          "url": "https://phys.org/news/2026-11-hera-surveys-asteroids-superhuman-vision.html",
+          "source": "Phys.org",
+          "date": "2026-11-23"
         }
       ]
     },
@@ -85,39 +85,39 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "A 3-million-year-old child just made human evolution far more complicated",
-          "summary": "A groundbreaking study of the 3-million-year-old Taung Child fossil suggests that several ancient human ancestors once thought to belong to the same species may actually represent different branches of our evolutionary…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261118065531.htm",
-          "source": "Science Daily",
-          "date": "2026-11-20"
-        },
-        {
-          "title": "This 6-million-year-old whale may have had the most crooked face in mammal history",
-          "summary": "A bizarre whale that lived roughly 6 million years ago had a face so dramatically crooked that scientists believe it may have been the most asymmetrical of any mammal. Discovered in Peru, the extinct pygmy sperm whale…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261118065528.htm",
-          "source": "Science Daily",
-          "date": "2026-11-19"
-        },
-        {
-          "title": "Parasite makes mice more attractive to blood-feeding bugs, which may aid its spread",
-          "summary": "Some parasites, such as Trypanosoma rangeli and Trypanosoma cruzi, can be passed between mammals and blood-feeding insects called triatomine bugs. Bugs can acquire these parasites when feeding on infected mammals, while…",
-          "url": "https://phys.org/news/2026-11-parasite-mice-blood-bugs-aid.html",
+          "title": "A nearly 100-million-year-old hairy snail pays tribute to the Prodigy's lead singer",
+          "summary": "Myanmar amber (more commonly known as \"burmite\") is one of the most important sources of information about biodiversity during the Mesozoic Era. This amber dates back to the age of the dinosaurs and is approximately 99…",
+          "url": "https://phys.org/news/2026-11-million-year-hairy-snail-pays.html",
           "source": "Phys.org",
-          "date": "2026-11-22"
+          "date": "2026-11-23"
         },
         {
-          "title": "The avian champions of long-distance migration keep surprising scientists",
-          "summary": "\"The whole story began with an extinct bird from Hispaniola,\" said Min Zhao, a former postdoctoral associate at the Florida Museum of Natural History (now a postdoctoral researcher at Uppsala University).",
-          "url": "https://phys.org/news/2026-11-avian-champions-distance-migration-scientists.html",
+          "title": "310 million-year-old fossil reveals scorpion that looked much like modern relatives",
+          "summary": "As the month of Scorpio rolls over, Flinders University researchers have been taking a close look at a rare prehistoric scorpion.",
+          "url": "https://phys.org/news/2026-11-million-year-fossil-reveals-scorpion.html",
           "source": "Phys.org",
-          "date": "2026-11-21"
+          "date": "2026-11-23"
         },
         {
-          "title": "The call of the seamount: Two new armored tardigrades described in the Atlantic",
-          "summary": "An international team led by researchers from Senckenberg am Meer in Wilhelmshaven has described two new species of marine tardigrades. The tiny marine organisms were discovered in the sediment of the Senghor Seamount…",
-          "url": "https://phys.org/news/2026-11-seamount-armored-tardigrades-atlantic.html",
+          "title": "Recipe for one of the world's most important cancer drugs uncovered: Tobacco plants could produce the medicine",
+          "summary": "More people around the world will receive a cancer diagnosis at some point in their lives. As this trend is expected to continue, researchers have been working to crack the code of how the widely used cancer drug Taxol…",
+          "url": "https://phys.org/news/2026-11-recipe-world-important-cancer-drugs.html",
           "source": "Phys.org",
-          "date": "2026-11-21"
+          "date": "2026-11-24"
+        },
+        {
+          "title": "New study reveals how modern humans may have driven Neanderthals to extinction",
+          "summary": "The last of the Neanderthals died out in Europe around the same time that our own species, Homo sapiens, was spreading across the continent. Were these two events connected, or was it just a coincidence?",
+          "url": "https://phys.org/news/2026-11-reveals-modern-humans-driven-neanderthals.html",
+          "source": "Phys.org",
+          "date": "2026-11-23"
+        },
+        {
+          "title": "Discovery of curse ritual in trash dump surprises Egyptologist: 'It must have been widespread in ancient Egypt'",
+          "summary": "The discovery of 40 charred papyrus fragments at a temple in the ancient city of Thebes is changing researchers' understanding of one of ancient Egypt's most famous curse rituals. The fragments show that the ritual was…",
+          "url": "https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html",
+          "source": "Phys.org",
+          "date": "2026-11-23"
         }
       ]
     },
@@ -125,23 +125,23 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "An ancient failed rift is reawakening inside one of Africa's oldest landmasses",
-          "summary": "In April 2017, a magnitude 6.5 earthquake shook southern Africa from an unlikely place: the middle of the Kalahari Craton in eastern Botswana. Cratons are the ancient cores of continents, and this one is built from…",
-          "url": "https://phys.org/news/2026-11-ancient-rift-reawakening-africa-oldest.html",
+          "title": "A cactus that changes gears: How the prickly pear makes the most of desert rain",
+          "summary": "In the desert, water doesn't arrive steadily. It comes in short pulses: a winter storm, a few rainy days, then months of drought. A desert plant needs two skills to live there. It has to survive the long dry spells, and…",
+          "url": "https://phys.org/news/2026-11-cactus-gears-pear.html",
           "source": "Phys.org",
-          "date": "2026-11-21"
+          "date": "2026-11-23"
+        },
+        {
+          "title": "Super El Niño will add to Africa's heat crisis—how governments can protect people before it peaks",
+          "summary": "The super El Niño developing in the Pacific is expected to strengthen toward the end of 2026 and persist into early 2027. It's set to intensify dangerous heat and cause severe drought across parts of Africa. This is…",
+          "url": "https://phys.org/news/2026-11-super-el-nio-africa-crisis.html",
+          "source": "Phys.org",
+          "date": "2026-11-23"
         },
         {
           "title": "US bill aiming to boost clean energy could backfire",
           "summary": "The Bipartisan American Affordability and Jobs Act is a gamble that speeding up permits for energy projects would help renewables more than fossil fuels – but many environmentalists have doubts",
           "url": "https://www.newscientist.com/article/2600126-us-bill-aiming-to-boost-clean-energy-could-backfire/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-11-20"
-        },
-        {
-          "title": "Dark Eden author Chris Beckett on how sci-fi needs ‘surface plausibility’",
-          "summary": "Chris Beckett, author of Dark Eden, November's read for the New Scientist Book Club, talks to Alison Flood about how he wrote his Arthur C Clarke award-winning novel",
-          "url": "https://www.newscientist.com/article/2599932-dark-eden-author-chris-beckett-on-how-sci-fi-needs-surface-plausibility/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "source": "New Scientist",
           "date": "2026-11-20"
         }
@@ -158,18 +158,18 @@
           "date": "2026-11-21"
         },
         {
-          "title": "Digital imaging workshop aims to reveal secrets in medieval manuscripts",
-          "summary": "Researchers recently used multispectral imaging technology to try to uncover hidden information from medieval manuscripts at the Rare Book and Manuscript Library at the University of Illinois Urbana-Champaign. The…",
-          "url": "https://phys.org/news/2026-11-digital-imaging-workshop-aims-reveal.html",
+          "title": "Data center policy review reveals 'chaotic' patchwork of rules across all 50 states",
+          "summary": "The artificial intelligence boom has brought with it debates about where the data centers that run the technology will be located, how big they will be and how to ensure communities benefit from them. Underlying these…",
+          "url": "https://phys.org/news/2026-11-center-policy-reveals-chaotic-patchwork.html",
           "source": "Phys.org",
-          "date": "2026-11-20"
+          "date": "2026-11-23"
         },
         {
-          "title": "Device that measures strawberry skin's strength will aid breeders",
-          "summary": "Resilient strawberry varieties will be more easily identifiable thanks to a tool developed by University of Queensland engineering students. The prototype measures the strength of strawberry skin, a key breeding…",
-          "url": "https://phys.org/news/2026-11-device-strawberry-skin-strength-aid.html",
-          "source": "Phys.org",
-          "date": "2026-11-21"
+          "title": "AI uncovers hidden bladder cancer warning signs years before diagnosis",
+          "summary": "Scientists have developed an AI tool that can uncover hidden warning signs of bladder cancer up to five years before diagnosis, identifying 85% of cases in a major study involving nearly 70,000 patients. By revealing…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261120075604.htm",
+          "source": "Science Daily",
+          "date": "2026-11-22"
         }
       ]
     },
@@ -177,18 +177,11 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "Record-setting X-ray laser reliably generates flashes with wavelengths shorter than distances between atoms",
-          "summary": "Researchers from DESY and European XFEL have demonstrated reliable production and transport of X-ray laser flashes with a wavelength of about 0.04 nanometers (or a photon energy of 30,000 electronvolts) at European…",
-          "url": "https://phys.org/news/2026-11-ray-laser-reliably-generates-wavelengths.html",
+          "title": "Physics-guided AI reconstructs fluid flow from sparse, noisy data",
+          "summary": "Medical imaging technologies have transformed how scientists and physicians visualize blood flowing through the human heart, but even the most advanced imaging techniques cannot capture every detail of fluid motion…",
+          "url": "https://phys.org/news/2026-11-physics-ai-reconstructs-fluid-sparse.html",
           "source": "Phys.org",
-          "date": "2026-11-20"
-        },
-        {
-          "title": "Fermi's 14-year all-sky map bridges astronomy's elusive 'MeV gap'",
-          "summary": "Gamma rays, the most high-energy type of electromagnetic radiation in the universe, have always had a blind spot. We've always had trouble measuring them in the \"megaelectronvolt\" (MeV) energy range, which astronomers…",
-          "url": "https://phys.org/news/2026-11-fermi-year-sky-bridges-astronomy.html",
-          "source": "Phys.org",
-          "date": "2026-11-21"
+          "date": "2026-11-23"
         },
         {
           "title": "Quantum effect could reverse gravity and violate Einstein’s theory of relativity",
@@ -198,17 +191,17 @@
           "date": "2026-11-20"
         },
         {
+          "title": "Overlooked symmetry group offers new geometric blueprint for the Standard Model and topologically protected vacuums",
+          "summary": "For more than half a century, physicists searching for a grand unified theory have followed one unspoken rule: go bigger. If you want to weave nature's fundamental forces into a single mathematical framework, the…",
+          "url": "https://phys.org/news/2026-11-overlooked-symmetry-group-geometric-blueprint.html",
+          "source": "Phys.org",
+          "date": "2026-11-23"
+        },
+        {
           "title": "Mystery space object moves in strange ways",
           "summary": "1998 KY26 is a mystery space object that accelerates in ways that gravity alone can't explain. A new study suggests light photons from the sun are the cause. The post Mystery space object moves in strange ways first…",
           "url": "https://earthsky.org/space/mystery-space-object-1998-ky26-asteroid/",
           "source": "EarthSky",
-          "date": "2026-11-20"
-        },
-        {
-          "title": "Scientists discover twist-tunable interlayer excitons in atomically thin anisotropic semiconductors",
-          "summary": "When light shines on a semiconductor, negatively charged electrons and positively charged holes—empty states left behind when electrons move away—pair up and bind together. This bound state is called an exciton. When…",
-          "url": "https://phys.org/news/2026-11-scientists-tunable-interlayer-excitons-atomically.html",
-          "source": "Phys.org",
           "date": "2026-11-20"
         }
       ]
