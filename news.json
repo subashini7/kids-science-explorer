@@ -1,29 +1,22 @@
 {
-  "updated": "2026-11-24T00:36:24Z",
+  "updated": "2026-11-24T22:55:20Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
         {
-          "title": "How DNA's surroundings shape gene regulation",
-          "summary": "Turning genes on and off requires transcription factors—proteins that bind specific stretches of DNA and help control gene activity. But DNA is not laid out bare inside the nucleus. It is wrapped around proteins and…",
-          "url": "https://phys.org/news/2026-11-dna-gene.html",
+          "title": "Visible light powers new catalyst to turn carbon dioxide into industrial raw material",
+          "summary": "Rice University researchers have demonstrated a way to split carbon dioxide using visible light without external heating, overcoming a major energy obstacle in sustainable chemical manufacturing.",
+          "url": "https://phys.org/news/2026-11-visible-powers-catalyst-carbon-dioxide.html",
           "source": "Phys.org",
-          "date": "2026-11-23"
+          "date": "2026-11-24"
         },
         {
-          "title": "Nanoparticles repair mitochondria to boost bone regeneration in diabetic rats",
-          "summary": "A complication of diabetes is that damaged bones don't heal well, but a group of researchers is helping solve the problem with a novel mechanism to help bone regeneration.",
-          "url": "https://phys.org/news/2026-11-nanoparticles-mitochondria-boost-bone-regeneration.html",
-          "source": "Phys.org",
-          "date": "2026-11-23"
-        },
-        {
-          "title": "NASA Awards Contract for NOAA’s Near Earth Orbit Network Program",
-          "summary": "NASA, on behalf of the National Oceanic and Atmospheric Administration (NOAA), has awarded a contract to Northrop Grumman Systems Corporation for the Sounder for Microwave-Based Applications (SMBA) instruments on NOAA’s…",
-          "url": "https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-near-earth-orbit-network-program/",
-          "source": "NASA",
-          "date": "2026-11-23"
+          "title": "Strange new materials can crawl, walk, and dig like living creatures",
+          "summary": "Scientists have developed remarkable materials that can crawl, walk, and dig using their own internal energy, potentially paving the way for a new generation of autonomous soft robots. They also discovered that making…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261121221137.htm",
+          "source": "Science Daily",
+          "date": "2026-11-24"
         },
         {
           "title": "New gum disease treatment kills bad bacteria while sparing the good",
@@ -38,6 +31,13 @@
           "url": "https://www.sciencedaily.com/releases/2026/11/261122060334.htm",
           "source": "Science Daily",
           "date": "2026-11-23"
+        },
+        {
+          "title": "Depression may be an early warning sign of Alzheimer's disease",
+          "summary": "Depression in older adults may be more than a mental health concern. Scientists discovered that accumulating tau protein, a hallmark of Alzheimer's disease, was linked to worsening depressive symptoms in people who…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261121221134.htm",
+          "source": "Science Daily",
+          "date": "2026-11-24"
         }
       ]
     },
@@ -45,39 +45,39 @@
       "emoji": "🚀",
       "articles": [
         {
-          "title": "NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution",
-          "summary": "NASA’s James Webb Space Telescope has painted a vibrant tapestry of the legendary supernova remnant Cassiopeia A (Cas A). Remnants like these are the clouds of gas and dust that remain following the explosion of a…",
-          "url": "https://science.nasa.gov/missions/webb/nasas-webb-shows-how-supernova-dust-chronicles-star-evolution/",
+          "title": "Teams Lock in Mission Architecture for NASA’s SR-1 Freedom",
+          "summary": "NASA completed a major review for Space Reactor-1 (SR-1) Freedom and locked in key elements of the spacecraft, which is targeted to launch in 2028 and demonstrate nuclear electric propulsion in deep space for the first…",
+          "url": "https://www.nasa.gov/general/nasa-locks-in-sr1-freedom-mission-architecture/",
           "source": "NASA",
-          "date": "2026-11-23"
+          "date": "2026-11-24"
         },
         {
-          "title": "Webb finds evidence star's layers may have merged just hours before Cas A supernova",
-          "summary": "NASA's James Webb Space Telescope has painted a vibrant tapestry of the legendary supernova remnant Cassiopeia A (Cas A). Remnants like these are the clouds of gas and dust that remain following the explosion of a…",
-          "url": "https://phys.org/news/2026-11-webb-evidence-star-layers-merged.html",
+          "title": "Webb Reveals New Details in Supernova Remnant",
+          "summary": "NASA’s James Webb Space Telescope reveals the hot dust that makes up Cassiopeia A (Cas A) in this high-resolution, mid-infrared image released on Nov. 23, 2026. Remnants like these are the clouds of gas and dust that…",
+          "url": "https://www.nasa.gov/image-article/webb-reveals-new-details-in-supernova-remnant/",
+          "source": "NASA",
+          "date": "2026-11-24"
+        },
+        {
+          "title": "NASA Hubble’s New View of NGC 4394 Raises the Bar",
+          "summary": "The brilliant galaxy NGC 4394 with its distinct galactic bar takes center stage in this Hubble Space Telescope image",
+          "url": "https://science.nasa.gov/missions/hubble/nasa-hubbles-new-view-of-ngc-4394-raises-the-bar/",
+          "source": "NASA",
+          "date": "2026-11-24"
+        },
+        {
+          "title": "NASA Hubble's new view of NGC 4394 raises the bar",
+          "summary": "A brilliant galaxy with a distinct galactic bar takes center stage in this NASA/ESA Hubble Space Telescope image. The galaxy, called NGC 4394, is in the constellation Coma Berenices (Berenice's Hair). At about 55…",
+          "url": "https://phys.org/news/2026-11-nasa-hubble-view-ngc-bar.html",
           "source": "Phys.org",
-          "date": "2026-11-23"
+          "date": "2026-11-24"
         },
         {
-          "title": "European-Japanese BepiColombo mission becomes 2nd ever to arrive in orbit around Mercury",
-          "summary": "The BepiColombo spacecraft finally arrived in orbit around Mercury on Saturday (Nov. 21), more than eight years after leaving its home planet.",
-          "url": "https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival",
+          "title": "SpaceX launches secretive spy satellites from California for US Space Force (video)",
+          "summary": "SpaceX launched its fifth classified mission for U.S. national security this month today (Nov. 24), from Vandenberg Space Force Base in California.",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-secretive-spy-satellites-from-california-for-us-space-force-video",
           "source": "Space.com",
-          "date": "2026-11-21"
-        },
-        {
-          "title": "A giant star swallowed another star. James Webb reveals the aftermath",
-          "summary": "Astronomers have witnessed a spectacular cosmic collision in the Andromeda galaxy, where a small star spiraled into a giant star 18,000 times brighter than the Sun, triggering a violent eruption. NASA’s James Webb Space…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm",
-          "source": "Science Daily",
-          "date": "2026-11-21"
-        },
-        {
-          "title": "Hera surveys asteroids with superhuman vision",
-          "summary": "The European Space Agency's Hera mission for planetary defense surveys its target asteroids with a combination of instruments, peering beyond the limits of the human eye. The larger Didymos asteroid—dominated by its…",
-          "url": "https://phys.org/news/2026-11-hera-surveys-asteroids-superhuman-vision.html",
-          "source": "Phys.org",
-          "date": "2026-11-23"
+          "date": "2026-11-24"
         }
       ]
     },
@@ -85,39 +85,32 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "A nearly 100-million-year-old hairy snail pays tribute to the Prodigy's lead singer",
-          "summary": "Myanmar amber (more commonly known as \"burmite\") is one of the most important sources of information about biodiversity during the Mesozoic Era. This amber dates back to the age of the dinosaurs and is approximately 99…",
-          "url": "https://phys.org/news/2026-11-million-year-hairy-snail-pays.html",
-          "source": "Phys.org",
-          "date": "2026-11-23"
-        },
-        {
-          "title": "310 million-year-old fossil reveals scorpion that looked much like modern relatives",
-          "summary": "As the month of Scorpio rolls over, Flinders University researchers have been taking a close look at a rare prehistoric scorpion.",
-          "url": "https://phys.org/news/2026-11-million-year-fossil-reveals-scorpion.html",
-          "source": "Phys.org",
-          "date": "2026-11-23"
-        },
-        {
-          "title": "Recipe for one of the world's most important cancer drugs uncovered: Tobacco plants could produce the medicine",
-          "summary": "More people around the world will receive a cancer diagnosis at some point in their lives. As this trend is expected to continue, researchers have been working to crack the code of how the widely used cancer drug Taxol…",
-          "url": "https://phys.org/news/2026-11-recipe-world-important-cancer-drugs.html",
+          "title": "Evolution keeps returning to simple leaves",
+          "summary": "A study led by researchers from the University of Oxford has explained a long-standing riddle: why do most plants have leaves with a very simple shape? In a new study published Nov. 24, they explain why complex leaves…",
+          "url": "https://phys.org/news/2026-11-evolution-simple.html",
           "source": "Phys.org",
           "date": "2026-11-24"
         },
         {
-          "title": "New study reveals how modern humans may have driven Neanderthals to extinction",
-          "summary": "The last of the Neanderthals died out in Europe around the same time that our own species, Homo sapiens, was spreading across the continent. Were these two events connected, or was it just a coincidence?",
-          "url": "https://phys.org/news/2026-11-reveals-modern-humans-driven-neanderthals.html",
-          "source": "Phys.org",
-          "date": "2026-11-23"
+          "title": "2,200-year-old Roman shipwreck reveals an ingenious waterproofing trick",
+          "summary": "A 2,200-year-old Roman shipwreck has revealed sophisticated waterproofing techniques involving pine tar and beeswax. Microscopic pollen grains trapped in the ancient coatings are now helping scientists reconstruct where…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261123232342.htm",
+          "source": "Science Daily",
+          "date": "2026-11-24"
         },
         {
-          "title": "Discovery of curse ritual in trash dump surprises Egyptologist: 'It must have been widespread in ancient Egypt'",
-          "summary": "The discovery of 40 charred papyrus fragments at a temple in the ancient city of Thebes is changing researchers' understanding of one of ancient Egypt's most famous curse rituals. The fragments show that the ritual was…",
-          "url": "https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html",
+          "title": "Earth's next ice age may have already begun. Global warming stopped it",
+          "summary": "Scientists have uncovered surprising evidence that Earth’s next ice age may have already begun, only to be stopped by global warming. By studying ancient plants preserved beneath the Barnes Ice Cap in the Canadian…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261123005350.htm",
+          "source": "Science Daily",
+          "date": "2026-11-24"
+        },
+        {
+          "title": "Named 'Maria,' a new species of amphibian pays tribute to the world's most popular name",
+          "summary": "Maria, the most popular female name in Brazil and around the world, was chosen for a new species of caecilian, a type of amphibian commonly known as a \"blind snake,\" found in this South American country. The researchers…",
+          "url": "https://phys.org/news/2026-11-maria-species-amphibian-pays-tribute.html",
           "source": "Phys.org",
-          "date": "2026-11-23"
+          "date": "2026-11-24"
         }
       ]
     },
@@ -125,31 +118,31 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "A cactus that changes gears: How the prickly pear makes the most of desert rain",
-          "summary": "In the desert, water doesn't arrive steadily. It comes in short pulses: a winter storm, a few rainy days, then months of drought. A desert plant needs two skills to live there. It has to survive the long dry spells, and…",
-          "url": "https://phys.org/news/2026-11-cactus-gears-pear.html",
-          "source": "Phys.org",
+          "title": "Earth's core may be leaking a 4.5-billion-year-old secret",
+          "summary": "Scientists have discovered an unusual carbon signature in Hawaiian volcanic rocks that suggests some of Earth's carbon originated in ancient meteorites and later escaped from deep within the planet's core. The discovery…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261123005336.htm",
+          "source": "Science Daily",
           "date": "2026-11-23"
         },
         {
-          "title": "Super El Niño will add to Africa's heat crisis—how governments can protect people before it peaks",
-          "summary": "The super El Niño developing in the Pacific is expected to strengthen toward the end of 2026 and persist into early 2027. It's set to intensify dangerous heat and cause severe drought across parts of Africa. This is…",
-          "url": "https://phys.org/news/2026-11-super-el-nio-africa-crisis.html",
-          "source": "Phys.org",
-          "date": "2026-11-23"
-        },
-        {
-          "title": "US bill aiming to boost clean energy could backfire",
-          "summary": "The Bipartisan American Affordability and Jobs Act is a gamble that speeding up permits for energy projects would help renewables more than fossil fuels – but many environmentalists have doubts",
-          "url": "https://www.newscientist.com/article/2600126-us-bill-aiming-to-boost-clean-energy-could-backfire/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-11-20"
+          "title": "Sun news: The first people to see Venus cross the sun",
+          "summary": "Sun news November 24, 2026: On this day in 1639, 2 young Englishmen became the 1st to ever see Venus cross the face of the sun. The post Sun news: The first people to see Venus cross the sun first appeared on EarthSky .",
+          "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+          "source": "EarthSky",
+          "date": "2026-11-24"
         }
       ]
     },
     "Technology & Inventions": {
       "emoji": "🤖",
       "articles": [
+        {
+          "title": "IBM quantum computer solves problem classical computers can’t in just 15 minutes",
+          "summary": "IBM and University of Chicago researchers have demonstrated that a quantum computer can complete an extraordinarily complex calculation in just 15 minutes, beyond the practical reach of leading classical computing…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261123231244.htm",
+          "source": "Science Daily",
+          "date": "2026-11-24"
+        },
         {
           "title": "AI may not work like the human brain after all, scientists discover",
           "summary": "AI may not think like the human brain after all, according to a striking new discovery that challenges how scientists understand artificial intelligence. Researchers found that even AI models that closely predict brain…",
@@ -158,18 +151,25 @@
           "date": "2026-11-21"
         },
         {
-          "title": "Data center policy review reveals 'chaotic' patchwork of rules across all 50 states",
-          "summary": "The artificial intelligence boom has brought with it debates about where the data centers that run the technology will be located, how big they will be and how to ensure communities benefit from them. Underlying these…",
-          "url": "https://phys.org/news/2026-11-center-policy-reveals-chaotic-patchwork.html",
+          "title": "Quantum blueprint maps a practical path to testing unusual entanglement",
+          "summary": "Adrian Del Maestro knows how to engineer a quantum fingerprint. Rick Mukherjee has a gift for tuning atoms. Their combined expertise has taken a theory sketched out on paper and created a pathway for real experiments…",
+          "url": "https://phys.org/news/2026-11-quantum-blueprint-path-unusual-entanglement.html",
           "source": "Phys.org",
-          "date": "2026-11-23"
+          "date": "2026-11-24"
         },
         {
-          "title": "AI uncovers hidden bladder cancer warning signs years before diagnosis",
-          "summary": "Scientists have developed an AI tool that can uncover hidden warning signs of bladder cancer up to five years before diagnosis, identifying 85% of cases in a major study involving nearly 70,000 patients. By revealing…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261120075604.htm",
-          "source": "Science Daily",
-          "date": "2026-11-22"
+          "title": "Copper aluminum oxide could make light-controlling components for smart glasses 120 times thinner",
+          "summary": "Could augmented reality (AR) glasses become as thin and lightweight as everyday eyeglasses? Researchers at the Korea Advanced Institute of Science and Technology (KAIST) and their collaborators have identified a…",
+          "url": "https://phys.org/news/2026-11-copper-aluminum-oxide-components-smart.html",
+          "source": "Phys.org",
+          "date": "2026-11-24"
+        },
+        {
+          "title": "The technology that could make government internet blackouts impossible",
+          "summary": "Direct-to-cell technology could one day provide a lifeline for getting around authoritarian regimes’ internet shutdowns, but international law and technical limitations are holding the technology back for now",
+          "url": "https://www.newscientist.com/article/2600040-the-technology-that-could-make-government-internet-blackouts-impossible/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-11-24"
         }
       ]
     },
@@ -177,32 +177,18 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "Physics-guided AI reconstructs fluid flow from sparse, noisy data",
-          "summary": "Medical imaging technologies have transformed how scientists and physicians visualize blood flowing through the human heart, but even the most advanced imaging techniques cannot capture every detail of fluid motion…",
-          "url": "https://phys.org/news/2026-11-physics-ai-reconstructs-fluid-sparse.html",
+          "title": "A simple metal is hiding a strange new form of magnetism",
+          "summary": "Scientists have discovered a strange form of magnetism in an ordinary-looking metal that has no overall magnetization yet profoundly changes how electrons behave. The breakthrough offers a promising new path toward…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261123005341.htm",
+          "source": "Science Daily",
+          "date": "2026-11-24"
+        },
+        {
+          "title": "What is resilience? It may be less about bouncing back than we think",
+          "summary": "Resilience can sound empowering. Yet it can also become a responsibility, a socially imposed burden that people are expected to demonstrate when they are ill, aging or struggling.",
+          "url": "https://phys.org/news/2026-11-resilience.html",
           "source": "Phys.org",
-          "date": "2026-11-23"
-        },
-        {
-          "title": "Quantum effect could reverse gravity and violate Einstein’s theory of relativity",
-          "summary": "Two mathematical investigations devised a way to possibly make gravity produce repulsion between objects, breaking away from a long-standing understanding of this force",
-          "url": "https://www.newscientist.com/article/2599897-quantum-effect-could-reverse-gravity-and-violate-einsteins-theory-of-relativity/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-11-20"
-        },
-        {
-          "title": "Overlooked symmetry group offers new geometric blueprint for the Standard Model and topologically protected vacuums",
-          "summary": "For more than half a century, physicists searching for a grand unified theory have followed one unspoken rule: go bigger. If you want to weave nature's fundamental forces into a single mathematical framework, the…",
-          "url": "https://phys.org/news/2026-11-overlooked-symmetry-group-geometric-blueprint.html",
-          "source": "Phys.org",
-          "date": "2026-11-23"
-        },
-        {
-          "title": "Mystery space object moves in strange ways",
-          "summary": "1998 KY26 is a mystery space object that accelerates in ways that gravity alone can't explain. A new study suggests light photons from the sun are the cause. The post Mystery space object moves in strange ways first…",
-          "url": "https://earthsky.org/space/mystery-space-object-1998-ky26-asteroid/",
-          "source": "EarthSky",
-          "date": "2026-11-20"
+          "date": "2026-11-24"
         }
       ]
     }
