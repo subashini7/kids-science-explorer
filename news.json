@@ -1,16 +1,9 @@
 {
-  "updated": "2026-11-24T22:55:20Z",
+  "updated": "2026-11-25T22:09:07Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
-        {
-          "title": "Visible light powers new catalyst to turn carbon dioxide into industrial raw material",
-          "summary": "Rice University researchers have demonstrated a way to split carbon dioxide using visible light without external heating, overcoming a major energy obstacle in sustainable chemical manufacturing.",
-          "url": "https://phys.org/news/2026-11-visible-powers-catalyst-carbon-dioxide.html",
-          "source": "Phys.org",
-          "date": "2026-11-24"
-        },
         {
           "title": "Strange new materials can crawl, walk, and dig like living creatures",
           "summary": "Scientists have developed remarkable materials that can crawl, walk, and dig using their own internal energy, potentially paving the way for a new generation of autonomous soft robots. They also discovered that making…",
@@ -19,31 +12,52 @@
           "date": "2026-11-24"
         },
         {
-          "title": "New gum disease treatment kills bad bacteria while sparing the good",
-          "summary": "Researchers in Japan have developed an innovative gum disease treatment that uses egg yolk antibodies and near-infrared light to destroy harmful bacteria without harming beneficial microbes. Unlike conventional…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261123005356.htm",
-          "source": "Science Daily",
-          "date": "2026-11-23"
+          "title": "Stabilizing atomically thin metals with sandwich structures: Machine learning expands the search",
+          "summary": "Atomically thin metals, metallenes, are promising materials for catalysis, electronics and energy conversion, but their synthesis has been challenging. Researchers from the University of Jyväskylä have now identified…",
+          "url": "https://phys.org/news/2026-11-stabilizing-atomically-thin-metals-sandwich.html",
+          "source": "Phys.org",
+          "date": "2026-11-25"
         },
         {
-          "title": "Mysterious new viruses reveal a missing link in evolution",
-          "summary": "Scientists have discovered previously unknown viruses that could help explain how some of life’s earliest biological structures evolved. The surprising findings challenge a longstanding evolutionary theory and suggest…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261122060334.htm",
-          "source": "Science Daily",
-          "date": "2026-11-23"
+          "title": "New inhibitor restores antibiotic activity against drug-resistant bacteria",
+          "summary": "Researchers from Imperial College London and collaborators have identified a potent small-molecule inhibitor that can restore the activity of the antibiotic ciprofloxacin against methicillin-resistant Staphylococcus…",
+          "url": "https://phys.org/news/2026-11-inhibitor-antibiotic-drug-resistant-bacteria.html",
+          "source": "Phys.org",
+          "date": "2026-11-25"
         },
         {
-          "title": "Depression may be an early warning sign of Alzheimer's disease",
-          "summary": "Depression in older adults may be more than a mental health concern. Scientists discovered that accumulating tau protein, a hallmark of Alzheimer's disease, was linked to worsening depressive symptoms in people who…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261121221134.htm",
-          "source": "Science Daily",
-          "date": "2026-11-24"
+          "title": "Structural agility of 2D crystals enables digital doping of graphene superlattices",
+          "summary": "A study published in Nature has demonstrated that applying an electric field can switch the atomic arrangement in a stack of two-dimensional (2D) crystals, accompanied by an unusual charge behavior. This provides a new…",
+          "url": "https://phys.org/news/2026-11-agility-2d-crystals-enables-digital.html",
+          "source": "Phys.org",
+          "date": "2026-11-25"
+        },
+        {
+          "title": "Alien life in sulfuric acid? A surprising possible alternative to water",
+          "summary": "Alien life in sulfuric acid? Recent studies show how some kinds of organic molecules and even DNA can survive in the highly corrosive acid. The post Alien life in sulfuric acid? A surprising possible alternative to…",
+          "url": "https://earthsky.org/space/alien-life-in-sulfuric-acid-astrobiology/",
+          "source": "EarthSky",
+          "date": "2026-11-25"
         }
       ]
     },
     "Space & Astronomy": {
       "emoji": "🚀",
       "articles": [
+        {
+          "title": "NASA’s Hubble Views Ocean of Stars in Groundwork for Roman",
+          "summary": "These Hubble observations are part of a survey that will help researchers better interpret upcoming Nancy Grace Roman Space Telescope observations as they seek to characterize the stars and search for exoplanets in this…",
+          "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman/",
+          "source": "NASA",
+          "date": "2026-11-25"
+        },
+        {
+          "title": "NASA Eyes Crop Candidates for Future Menus",
+          "summary": "As NASA prepares for future missions to the Moon and Mars, researchers are studying crops that could provide astronauts with fresh food, nutrition, and variety far from Earth. Such crop variety can help with menus in…",
+          "url": "https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus/",
+          "source": "NASA",
+          "date": "2026-11-25"
+        },
         {
           "title": "Teams Lock in Mission Architecture for NASA’s SR-1 Freedom",
           "summary": "NASA completed a major review for Space Reactor-1 (SR-1) Freedom and locked in key elements of the spacecraft, which is targeted to launch in 2028 and demonstrate nuclear electric propulsion in deep space for the first…",
@@ -52,32 +66,18 @@
           "date": "2026-11-24"
         },
         {
-          "title": "Webb Reveals New Details in Supernova Remnant",
-          "summary": "NASA’s James Webb Space Telescope reveals the hot dust that makes up Cassiopeia A (Cas A) in this high-resolution, mid-infrared image released on Nov. 23, 2026. Remnants like these are the clouds of gas and dust that…",
-          "url": "https://www.nasa.gov/image-article/webb-reveals-new-details-in-supernova-remnant/",
-          "source": "NASA",
-          "date": "2026-11-24"
-        },
-        {
-          "title": "NASA Hubble’s New View of NGC 4394 Raises the Bar",
-          "summary": "The brilliant galaxy NGC 4394 with its distinct galactic bar takes center stage in this Hubble Space Telescope image",
-          "url": "https://science.nasa.gov/missions/hubble/nasa-hubbles-new-view-of-ngc-4394-raises-the-bar/",
-          "source": "NASA",
-          "date": "2026-11-24"
-        },
-        {
-          "title": "NASA Hubble's new view of NGC 4394 raises the bar",
-          "summary": "A brilliant galaxy with a distinct galactic bar takes center stage in this NASA/ESA Hubble Space Telescope image. The galaxy, called NGC 4394, is in the constellation Coma Berenices (Berenice's Hair). At about 55…",
-          "url": "https://phys.org/news/2026-11-nasa-hubble-view-ngc-bar.html",
-          "source": "Phys.org",
-          "date": "2026-11-24"
-        },
-        {
-          "title": "SpaceX launches secretive spy satellites from California for US Space Force (video)",
-          "summary": "SpaceX launched its fifth classified mission for U.S. national security this month today (Nov. 24), from Vandenberg Space Force Base in California.",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-secretive-spy-satellites-from-california-for-us-space-force-video",
+          "title": "Hera spacecraft gets 1st up-close look at stadium-sized hole punched in asteroid by NASA DART mission",
+          "summary": "NASA's DART Earth-defence mission punched a stadium-sized hole in a distant asteroid, and we have seen it for the first time thanks to the Hera spacecraft.",
+          "url": "https://www.space.com/astronomy/asteroids/hera-spacecraft-gets-1st-up-close-look-at-stadium-sized-hole-punched-in-asteroid-by-nasa-dart-mission",
           "source": "Space.com",
-          "date": "2026-11-24"
+          "date": "2026-11-25"
+        },
+        {
+          "title": "NASA's Hubble views ocean of stars in groundwork for Roman",
+          "summary": "An expanse of stars gleams in a rainbow of colors in these NASA Hubble Space Telescope images of the Milky Way. The images focus on an area of sky toward the galactic bulge, a densely packed, spherical region of stars…",
+          "url": "https://phys.org/news/2026-11-nasa-hubble-views-ocean-stars.html",
+          "source": "Phys.org",
+          "date": "2026-11-25"
         }
       ]
     },
@@ -85,31 +85,38 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "Evolution keeps returning to simple leaves",
-          "summary": "A study led by researchers from the University of Oxford has explained a long-standing riddle: why do most plants have leaves with a very simple shape? In a new study published Nov. 24, they explain why complex leaves…",
-          "url": "https://phys.org/news/2026-11-evolution-simple.html",
+          "title": "Smartphone app uses AI to identify illegal wildlife products",
+          "summary": "Illegal and unsustainable wildlife trade is a major driver of biodiversity loss. Thousands of animal species are traded, along with products made from them, ranging from ivory to scales and powders.",
+          "url": "https://phys.org/news/2026-11-smartphone-app-ai-illegal-wildlife.html",
           "source": "Phys.org",
-          "date": "2026-11-24"
+          "date": "2026-11-25"
+        },
+        {
+          "title": "The birds are listening: Seabirds reveal hidden fishing activity at sea",
+          "summary": "Researchers from the University of Oxford fitted miniature audio recorders and GPS trackers to seabirds to better understand the impacts of fishing boats on wildlife. This revealed that seabirds may be interacting with…",
+          "url": "https://phys.org/news/2026-11-birds-seabirds-reveal-hidden-fishing.html",
+          "source": "Phys.org",
+          "date": "2026-11-25"
+        },
+        {
+          "title": "Only one in five of Kazakhstan's endemic plants has data for initial range screening",
+          "summary": "Kazakhstan has hundreds of plant species found nowhere else in the world. Many have been known to botanists for decades, described in floristic publications and held in herbarium collections. Yet knowing that a plant…",
+          "url": "https://phys.org/news/2026-11-kazakhstan-endemic-range-screening.html",
+          "source": "Phys.org",
+          "date": "2026-11-25"
+        },
+        {
+          "title": "Seabird ‘spies’ could help spot ships that aren’t broadcasting their location",
+          "summary": "Researchers have found that seabirds equipped with audio recorders and GPS trackers can detect ships, offering a way to monitor fishing vessels that are operating illegally",
+          "url": "https://www.newscientist.com/article/2600830-seabird-spies-could-help-spot-ships-that-arent-broadcasting-their-location/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-11-25"
         },
         {
           "title": "2,200-year-old Roman shipwreck reveals an ingenious waterproofing trick",
           "summary": "A 2,200-year-old Roman shipwreck has revealed sophisticated waterproofing techniques involving pine tar and beeswax. Microscopic pollen grains trapped in the ancient coatings are now helping scientists reconstruct where…",
           "url": "https://www.sciencedaily.com/releases/2026/11/261123232342.htm",
           "source": "Science Daily",
-          "date": "2026-11-24"
-        },
-        {
-          "title": "Earth's next ice age may have already begun. Global warming stopped it",
-          "summary": "Scientists have uncovered surprising evidence that Earth’s next ice age may have already begun, only to be stopped by global warming. By studying ancient plants preserved beneath the Barnes Ice Cap in the Canadian…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261123005350.htm",
-          "source": "Science Daily",
-          "date": "2026-11-24"
-        },
-        {
-          "title": "Named 'Maria,' a new species of amphibian pays tribute to the world's most popular name",
-          "summary": "Maria, the most popular female name in Brazil and around the world, was chosen for a new species of caecilian, a type of amphibian commonly known as a \"blind snake,\" found in this South American country. The researchers…",
-          "url": "https://phys.org/news/2026-11-maria-species-amphibian-pays-tribute.html",
-          "source": "Phys.org",
           "date": "2026-11-24"
         }
       ]
@@ -118,18 +125,39 @@
       "emoji": "🌍",
       "articles": [
         {
+          "title": "Global ocean iodine won't offset future air pollution, study warns",
+          "summary": "The world's oceans will not play the role of scrubbing harmful ozone pollution from the atmosphere as the planet warms in the way that was expected, new research suggests.",
+          "url": "https://phys.org/news/2026-11-global-ocean-iodine-wont-offset.html",
+          "source": "Phys.org",
+          "date": "2026-11-25"
+        },
+        {
+          "title": "Ancient Cahokia transformed amid droughts and flooding—climate change is reshaping modern communities in similar ways",
+          "summary": "More than 800 years ago, a combination of environmental and societal challenges led some Mississippian people to leave Cahokia, a massive archaeological site that was once home to 20,000 people near modern-day St…",
+          "url": "https://phys.org/news/2026-11-ancient-cahokia-droughts-climate-reshaping.html",
+          "source": "Phys.org",
+          "date": "2026-11-25"
+        },
+        {
+          "title": "Without marine life, atmospheric CO₂ would shoot up by up to 65% by the end of the century",
+          "summary": "Without marine organisms transporting carbon into the deep ocean, the accumulation of carbon dioxide in the atmosphere would be drastically higher in the year 2100, reaching levels between 35% and 65% higher than…",
+          "url": "https://phys.org/news/2026-11-marine-life-atmospheric-century.html",
+          "source": "Phys.org",
+          "date": "2026-11-25"
+        },
+        {
+          "title": "New England's summer thunderstorms grow shorter and heavier, raising flash flood risk",
+          "summary": "A growing share of New England's summer rain is falling in the form of heavy, heat-related showers and thunderstorms, raising the risk of flash flooding events across the region as the climate continues to warm. That's…",
+          "url": "https://phys.org/news/2026-11-england-summer-thunderstorms-shorter-heavier.html",
+          "source": "Phys.org",
+          "date": "2026-11-25"
+        },
+        {
           "title": "Earth's core may be leaking a 4.5-billion-year-old secret",
           "summary": "Scientists have discovered an unusual carbon signature in Hawaiian volcanic rocks that suggests some of Earth's carbon originated in ancient meteorites and later escaped from deep within the planet's core. The discovery…",
           "url": "https://www.sciencedaily.com/releases/2026/11/261123005336.htm",
           "source": "Science Daily",
           "date": "2026-11-23"
-        },
-        {
-          "title": "Sun news: The first people to see Venus cross the sun",
-          "summary": "Sun news November 24, 2026: On this day in 1639, 2 young Englishmen became the 1st to ever see Venus cross the face of the sun. The post Sun news: The first people to see Venus cross the sun first appeared on EarthSky .",
-          "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
-          "source": "EarthSky",
-          "date": "2026-11-24"
         }
       ]
     },
@@ -142,40 +170,19 @@
           "url": "https://www.sciencedaily.com/releases/2026/11/261123231244.htm",
           "source": "Science Daily",
           "date": "2026-11-24"
-        },
-        {
-          "title": "AI may not work like the human brain after all, scientists discover",
-          "summary": "AI may not think like the human brain after all, according to a striking new discovery that challenges how scientists understand artificial intelligence. Researchers found that even AI models that closely predict brain…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261120075701.htm",
-          "source": "Science Daily",
-          "date": "2026-11-21"
-        },
-        {
-          "title": "Quantum blueprint maps a practical path to testing unusual entanglement",
-          "summary": "Adrian Del Maestro knows how to engineer a quantum fingerprint. Rick Mukherjee has a gift for tuning atoms. Their combined expertise has taken a theory sketched out on paper and created a pathway for real experiments…",
-          "url": "https://phys.org/news/2026-11-quantum-blueprint-path-unusual-entanglement.html",
-          "source": "Phys.org",
-          "date": "2026-11-24"
-        },
-        {
-          "title": "Copper aluminum oxide could make light-controlling components for smart glasses 120 times thinner",
-          "summary": "Could augmented reality (AR) glasses become as thin and lightweight as everyday eyeglasses? Researchers at the Korea Advanced Institute of Science and Technology (KAIST) and their collaborators have identified a…",
-          "url": "https://phys.org/news/2026-11-copper-aluminum-oxide-components-smart.html",
-          "source": "Phys.org",
-          "date": "2026-11-24"
-        },
-        {
-          "title": "The technology that could make government internet blackouts impossible",
-          "summary": "Direct-to-cell technology could one day provide a lifeline for getting around authoritarian regimes’ internet shutdowns, but international law and technical limitations are holding the technology back for now",
-          "url": "https://www.newscientist.com/article/2600040-the-technology-that-could-make-government-internet-blackouts-impossible/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "source": "New Scientist",
-          "date": "2026-11-24"
         }
       ]
     },
     "Physics": {
       "emoji": "⚡",
       "articles": [
+        {
+          "title": "Sun news: How Einstein rewrote the rules of gravity",
+          "summary": "Sun news November 25, 2026: On this date in 1915, Einstein finished his theory of general relativity. The sun's pull on Mercury and starlight proved him right! The post Sun news: How Einstein rewrote the rules of…",
+          "url": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+          "source": "EarthSky",
+          "date": "2026-11-25"
+        },
         {
           "title": "A simple metal is hiding a strange new form of magnetism",
           "summary": "Scientists have discovered a strange form of magnetism in an ordinary-looking metal that has no overall magnetization yet profoundly changes how electrons behave. The breakthrough offers a promising new path toward…",
@@ -184,11 +191,18 @@
           "date": "2026-11-24"
         },
         {
-          "title": "What is resilience? It may be less about bouncing back than we think",
-          "summary": "Resilience can sound empowering. Yet it can also become a responsibility, a socially imposed burden that people are expected to demonstrate when they are ill, aging or struggling.",
-          "url": "https://phys.org/news/2026-11-resilience.html",
+          "title": "Carbon nanotube measurements reveal quantum model better explains collective electron behavior",
+          "summary": "An international team of scientists from Lithuania, Finland and Israel has conducted both theoretical and experimental research into carbon nanotubes, becoming the first to demonstrate which physical model governs the…",
+          "url": "https://phys.org/news/2026-11-carbon-nanotube-reveal-quantum-electron.html",
           "source": "Phys.org",
-          "date": "2026-11-24"
+          "date": "2026-11-25"
+        },
+        {
+          "title": "Peppermint oil significantly lowers blood pressure in just 20 days",
+          "summary": "Peppermint oil may have a surprisingly powerful effect on blood pressure. In a randomized study of 40 adults, researchers found that taking small doses twice daily for 20 days lowered systolic blood pressure by an…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261123231553.htm",
+          "source": "Science Daily",
+          "date": "2026-11-25"
         }
       ]
     }
