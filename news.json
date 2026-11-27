@@ -1,30 +1,9 @@
 {
-  "updated": "2026-11-26T22:08:04Z",
+  "updated": "2026-11-27T21:49:25Z",
   "topics": {
     "Chemistry": {
       "emoji": "🧪",
       "articles": [
-        {
-          "title": "DESTINY model tracks molecular chemistry on uneven, ice-covered grains in interstellar space",
-          "summary": "Interstellar space is the scene of active chemical processes: molecules form there in the gas, but also on the surface of tiny dust grains covered in ice. To better represent what happens on these surfaces…",
-          "url": "https://phys.org/news/2026-11-destiny-tracks-molecular-chemistry-uneven.html",
-          "source": "Phys.org",
-          "date": "2026-11-26"
-        },
-        {
-          "title": "Protein redesign boosts DNA insertion activity and reveals how molecular machinery selects targets",
-          "summary": "Genome engineering is exciting, given its vast potential to treat and even cure diseases, but it is still a largely uncharted biomedical innovation. Scientists at St. Jude Children's Research Hospital recently uncovered…",
-          "url": "https://phys.org/news/2026-11-protein-redesign-boosts-dna-insertion.html",
-          "source": "Phys.org",
-          "date": "2026-11-26"
-        },
-        {
-          "title": "Some miniature Cas12m proteins can cut DNA after all",
-          "summary": "An international research group led by graduate student Hayato Morinaga, Assistant Professor Satoshi N. Omura and Professor Osamu Nureki from the University of Tokyo has demonstrated for the first time that some Cas12m…",
-          "url": "https://phys.org/news/2026-11-miniature-cas12m-proteins-dna.html",
-          "source": "Phys.org",
-          "date": "2026-11-26"
-        },
         {
           "title": "Alien life in sulfuric acid? A surprising possible alternative to water",
           "summary": "Alien life in sulfuric acid? Recent studies show how some kinds of organic molecules and even DNA can survive in the highly corrosive acid. The post Alien life in sulfuric acid? A surprising possible alternative to…",
@@ -38,6 +17,27 @@
           "url": "https://www.sciencedaily.com/releases/2026/11/261124055854.htm",
           "source": "Science Daily",
           "date": "2026-11-25"
+        },
+        {
+          "title": "What is a thought made of? Why human consciousness may be beyond AI’s reach",
+          "summary": "A new theory suggests that the brain may chemically encode and retrieve memories rather than relying solely on electrical signals. Researchers propose that interactions between brain cells and their molecular…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261124055712.htm",
+          "source": "Science Daily",
+          "date": "2026-11-25"
+        },
+        {
+          "title": "Ozone hole one of the largest in decades",
+          "summary": "In contrast to the 2025 seasonal ozone hole above Antarctica, which was the fifth smallest since 1992, this year's ozone hole ranks as one of the largest in 48 years, based on long-term atmospheric observations…",
+          "url": "https://phys.org/news/2026-11-ozone-hole-largest-decades.html",
+          "source": "Phys.org",
+          "date": "2026-11-27"
+        },
+        {
+          "title": "Ultracold atoms could help unravel a major flaw in quantum theory",
+          "summary": "Standard quantum theory struggles to predict how long a particle will take to get from one place to another, but an experiment with ultracold atoms could help rule out some interpretations",
+          "url": "https://www.newscientist.com/article/2600718-ultracold-atoms-could-help-unravel-a-major-flaw-in-quantum-theory/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-11-26"
         }
       ]
     },
@@ -45,11 +45,11 @@
       "emoji": "🚀",
       "articles": [
         {
-          "title": "NASA’s Hubble Views Ocean of Stars in Groundwork for Roman",
-          "summary": "These Hubble observations are part of a survey that will help researchers better interpret upcoming Nancy Grace Roman Space Telescope observations as they seek to characterize the stars and search for exoplanets in this…",
-          "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman/",
-          "source": "NASA",
-          "date": "2026-11-25"
+          "title": "Hera reveals stadium-sized asteroid crater from spacecraft impact",
+          "summary": "Arriving at the site of humankind's first planetary defense experiment, the European Space Agency's Hera mission has found a miniature world of surprises. Dimorphos—the small asteroid whose orbit around a second, larger…",
+          "url": "https://phys.org/news/2026-11-hera-reveals-stadium-sized-asteroid.html",
+          "source": "Phys.org",
+          "date": "2026-11-27"
         },
         {
           "title": "NASA Eyes Crop Candidates for Future Menus",
@@ -59,25 +59,25 @@
           "date": "2026-11-25"
         },
         {
-          "title": "Rocket Lab sending Japanese satellite to orbit on Thanksgiving Day launch: Watch it live",
-          "summary": "The Thanksgiving Day launch will be Rocket Lab's 14th mission for Tokyo-based Synspective, its largest customer.",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-sending-japanese-satellite-to-orbit-on-thanksgiving-day-launch-watch-it-live",
-          "source": "Space.com",
-          "date": "2026-11-26"
+          "title": "Strawberries, cucumbers and lemon basil show promise for future moon and Mars menus",
+          "summary": "As NASA prepares for future missions to the moon and Mars, researchers are studying crops that could provide astronauts with fresh food, nutrition and variety far from Earth. Such crop variety can help with menus in…",
+          "url": "https://phys.org/news/2026-11-strawberries-cucumbers-lemon-basil-future.html",
+          "source": "Phys.org",
+          "date": "2026-11-27"
         },
         {
-          "title": "Hera spacecraft gets 1st up-close look at stadium-sized hole punched in asteroid by NASA DART mission",
-          "summary": "NASA's DART Earth-defence mission punched a stadium-sized hole in a distant asteroid, and we have seen it for the first time thanks to the Hera spacecraft.",
-          "url": "https://www.space.com/astronomy/asteroids/hera-spacecraft-gets-1st-up-close-look-at-stadium-sized-hole-punched-in-asteroid-by-nasa-dart-mission",
-          "source": "Space.com",
-          "date": "2026-11-25"
+          "title": "Artemis III Astronaut Andre Douglas Visits VAB",
+          "summary": "NASA astronaut Andre Douglas, Artemis III mission specialist, stands inside an RS-25 engine test article during a visit to the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida on Tuesday, Nov. 17…",
+          "url": "https://www.nasa.gov/image-article/artemis-iii-astronaut-andre-douglas-visits-vab/",
+          "source": "NASA",
+          "date": "2026-11-27"
         },
         {
-          "title": "Watch live: Europe unveils 1st close-up views of asteroid Dimorphos after NASA's DART impact",
-          "summary": "ESA will share the Hera probe's first images of asteroid Dimorphos today following NASA's historic DART mission that impacted the space rock two years ago.",
-          "url": "https://www.space.com/space-exploration/asteroid-comet-missions/watch-live-europe-unveils-1st-close-up-views-of-asteroid-dimorphos-after-nasas-dart-impact",
-          "source": "Space.com",
-          "date": "2026-11-25"
+          "title": "NASA’s NG-25 Mission to Launch Pioneering Space Crops Research",
+          "summary": "NASA experiments, including a first-of-its-kind space crop production system, will travel to the International Space Station aboard Northrop Grumman’s 25th Commercial Resupply Services mission for the agency…",
+          "url": "https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/",
+          "source": "NASA",
+          "date": "2026-11-27"
         }
       ]
     },
@@ -85,38 +85,38 @@
       "emoji": "🐾",
       "articles": [
         {
-          "title": "Sensory deterrents aren't a 'one-size-fits-all' solution for sharks and rays",
-          "summary": "A study on how select species of rays and sharks respond to sensory deterrents has reinforced why there isn't a one-size-fits-all solution to prevent fisheries bycatch.",
-          "url": "https://phys.org/news/2026-11-sensory-deterrents-size-solution-sharks.html",
+          "title": "These bizarre prehistoric mammals may have been misunderstood for 150 years",
+          "summary": "Giant horned mammals that emerged shortly after the extinction of the dinosaurs may have had far fewer physical differences between males and females than scientists once believed. The discovery challenges a classic…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261125045310.htm",
+          "source": "Science Daily",
+          "date": "2026-11-27"
+        },
+        {
+          "title": "Scientists discover signs of a hidden extinction crisis deep beneath the ocean",
+          "summary": "The deep sea has long been considered a safe haven for marine life, but new genetic research suggests a hidden biodiversity crisis may be unfolding far beneath the waves. Scientists analyzing more than a decade of…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261125045249.htm",
+          "source": "Science Daily",
+          "date": "2026-11-27"
+        },
+        {
+          "title": "Study shows path to more resilient future for Canada's forests",
+          "summary": "Mountain pine beetles have killed millions of lodgepole pines across western North America since the 1990s, but some trees have proved more resilient than others. New research suggests part of the difference is genetic…",
+          "url": "https://phys.org/news/2026-11-path-resilient-future-canada-forests.html",
           "source": "Phys.org",
-          "date": "2026-11-26"
+          "date": "2026-11-27"
+        },
+        {
+          "title": "How mammals zigzagged their way to modern posture",
+          "summary": "This is the story of how mammals came to dominate the Earth—and the crooked evolutionary path they trod en route. Early mammals and their ancestors left behind fossilized bones, footprints and lots of questions about…",
+          "url": "https://phys.org/news/2026-11-mammals-zigzagged-modern-posture.html",
+          "source": "Phys.org",
+          "date": "2026-11-27"
         },
         {
           "title": "Seeking Refuge on Resolution Island",
           "summary": "New Zealanders have long envisioned the island as a predator-free zone for native birds, but swimming stoats have shown a resolve of their own.",
           "url": "https://science.nasa.gov/earth/earth-observatory/seeking-refuge-on-resolution-island/",
           "source": "NASA",
-          "date": "2026-11-26"
-        },
-        {
-          "title": "This 345-million-year-old fossil had scientists fooled for decades",
-          "summary": "A famous 345-million-year-old fossil has turned out to be something entirely different from what scientists believed for decades. Advanced X-ray imaging revealed hidden gills and thousands of tiny teeth, exposing a…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261125045307.htm",
-          "source": "Science Daily",
-          "date": "2026-11-26"
-        },
-        {
-          "title": "Wave-like displays in animal groups may have evolved to deceive predators",
-          "summary": "Some of the most striking patterns in collective behavior emerge in the face of danger. When a predator approaches, some animal groups morph into a vision of pulsing waves. These patterns might be more than a side…",
-          "url": "https://phys.org/news/2026-11-displays-animal-groups-evolved-predators.html",
-          "source": "Phys.org",
-          "date": "2026-11-26"
-        },
-        {
-          "title": "Thailand tests find high lead, arsenic in river shellfish",
-          "summary": "Thai authorities have found dangerous levels of arsenic and lead in shellfish and other species in rivers contaminated by suspected mining pollution from neighboring Myanmar, an official said Thursday.",
-          "url": "https://phys.org/news/2026-11-thailand-high-arsenic-river-shellfish.html",
-          "source": "Phys.org",
           "date": "2026-11-26"
         }
       ]
@@ -125,24 +125,38 @@
       "emoji": "🌍",
       "articles": [
         {
+          "title": "The world is experiencing a string of abnormally hot days—and records are being shattered",
+          "summary": "We're becoming used to seeing records being broken whenever we look at data telling us about Earth's climate. Whether it's the amount of carbon dioxide in the atmosphere, heat in the ocean or shrinking sea ice around…",
+          "url": "https://phys.org/news/2026-11-world-experiencing-abnormally-hot-days.html",
+          "source": "Phys.org",
+          "date": "2026-11-27"
+        },
+        {
+          "title": "Melting Barents Sea ice gives Eastern Europe's farmers a spring boost",
+          "summary": "For decades, sea ice in the Barents Sea, a part of the Arctic Ocean north of Norway and Russia, has been shrinking as the Arctic warms. The loss of so much ice can alter weather patterns well beyond the polar region…",
+          "url": "https://phys.org/news/2026-11-barents-sea-ice-eastern-europe.html",
+          "source": "Phys.org",
+          "date": "2026-11-27"
+        },
+        {
+          "title": "Carbon storage wells linked to earthquakes near Canadian city",
+          "summary": "People across Edmonton, Canada, felt the ground shake on April 1 and again on May 9, 2026. After the May quake, the Alberta Energy Regulator said it had received no reports of damage or injuries. Researchers have now…",
+          "url": "https://phys.org/news/2026-11-carbon-storage-wells-linked-earthquakes.html",
+          "source": "Phys.org",
+          "date": "2026-11-27"
+        },
+        {
+          "title": "Fine particle pollution may weaken spring greening by clogging leaf pores",
+          "summary": "Each spring, warmer temperatures can bring earlier leaf-out, while rising atmospheric carbon dioxide can stimulate plant growth, allowing land ecosystems to absorb more carbon. Yet a study published in Nature Plants on…",
+          "url": "https://phys.org/news/2026-11-fine-particle-pollution-weaken-greening.html",
+          "source": "Phys.org",
+          "date": "2026-11-27"
+        },
+        {
           "title": "Scientists discover mysterious lakes more than a mile beneath the Red Sea",
           "summary": "More than a mile beneath the surface of the Red Sea, scientists have discovered rare underwater lakes that could reveal secrets about Earth's ancient oceans and the possibility of alien life. Known as brine pools, these…",
           "url": "https://www.sciencedaily.com/releases/2026/11/261125045259.htm",
           "source": "Science Daily",
-          "date": "2026-11-26"
-        },
-        {
-          "title": "Earth's core may be leaking a 4.5-billion-year-old secret",
-          "summary": "Scientists have discovered an unusual carbon signature in Hawaiian volcanic rocks that suggests some of Earth's carbon originated in ancient meteorites and later escaped from deep within the planet's core. The discovery…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261123005336.htm",
-          "source": "Science Daily",
-          "date": "2026-11-23"
-        },
-        {
-          "title": "World's fastest animal could nearly double its livable territory by 2080 in the UK due to climate change",
-          "summary": "Global warming and climate change could have the unexpected bounty of making Great Britain a more welcoming home for the fastest animal on Earth. The area suitable for peregrine falcons within the UK could grow by 74%…",
-          "url": "https://phys.org/news/2026-11-world-fastest-animal-livable-territory.html",
-          "source": "Phys.org",
           "date": "2026-11-26"
         }
       ]
@@ -151,11 +165,18 @@
       "emoji": "🤖",
       "articles": [
         {
-          "title": "Disliking AI doesn't deter its influence",
-          "summary": "An aversion to artificial intelligence (AI) does not lessen the influence of the technology on people and their decision-making, according to new research from City St George's, University of London.",
-          "url": "https://phys.org/news/2026-11-ai-doesnt-deter.html",
-          "source": "Phys.org",
-          "date": "2026-11-26"
+          "title": "Harvard’s tiny UV light chip could help shrink quantum computers",
+          "summary": "Harvard-led researchers have developed a microscopic device that generates 120 times more ultraviolet light than previous comparable approaches by efficiently converting red light into UV. The breakthrough could unlock…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261126063333.htm",
+          "source": "Science Daily",
+          "date": "2026-11-27"
+        },
+        {
+          "title": "The narwhal’s legendary “unicorn horn” holds a remarkable engineering secret",
+          "summary": "The narwhal’s iconic spiral tusk, once prized in Europe as the horn of a mythical unicorn, conceals an extraordinary feat of natural engineering. Using advanced X-ray technology, an international team of scientists…",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261126063316.htm",
+          "source": "Science Daily",
+          "date": "2026-11-27"
         },
         {
           "title": "World’s largest trial of robotic knee replacement reveals surprising results",
@@ -170,6 +191,13 @@
           "url": "https://www.sciencedaily.com/releases/2026/11/261123231244.htm",
           "source": "Science Daily",
           "date": "2026-11-24"
+        },
+        {
+          "title": "Is AI‑assisted thinking devaluing business degrees?",
+          "summary": "As AI models improve, high-quality knowledge is becoming easier to access. A degree therefore has to certify something more durable than the ability to retrieve knowledge or produce a plausible answer. It must show that…",
+          "url": "https://phys.org/news/2026-11-aiassisted-devaluing-business-degrees.html",
+          "source": "Phys.org",
+          "date": "2026-11-27"
         }
       ]
     },
@@ -177,11 +205,11 @@
       "emoji": "⚡",
       "articles": [
         {
-          "title": "A simple metal is hiding a strange new form of magnetism",
-          "summary": "Scientists have discovered a strange form of magnetism in an ordinary-looking metal that has no overall magnetization yet profoundly changes how electrons behave. The breakthrough offers a promising new path toward…",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261123005341.htm",
-          "source": "Science Daily",
-          "date": "2026-11-24"
+          "title": "Particles not seen before have been observed in a quantum simulator",
+          "summary": "Physicists long held that all particles fall under categories of bosons or fermions, but a new experiment offers evidence that a third and long-debated class is possible after all",
+          "url": "https://www.newscientist.com/article/2600979-particles-not-seen-before-have-been-observed-in-a-quantum-simulator/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "source": "New Scientist",
+          "date": "2026-11-27"
         },
         {
           "title": "Peppermint oil significantly lowers blood pressure in just 20 days",
@@ -189,6 +217,20 @@
           "url": "https://www.sciencedaily.com/releases/2026/11/261123231553.htm",
           "source": "Science Daily",
           "date": "2026-11-25"
+        },
+        {
+          "title": "European oil and gas firms likely downplayed energy crisis profits, study finds",
+          "summary": "Following the Russian attack on Ukraine in February 2022, energy costs rose sharply and many households and businesses felt the financial burden immediately. Oil and gas companies, however, were making extraordinary…",
+          "url": "https://phys.org/news/2026-11-european-oil-gas-firms-downplayed.html",
+          "source": "Phys.org",
+          "date": "2026-11-27"
+        },
+        {
+          "title": "The lowest price ever on the Canon EOS R6 II tops some of the best Black Friday camera deals we've seen today",
+          "summary": "We have rounded up the best camera deals this Black Friday, including the lowest-ever price on one of our favorite low-light cameras, the Canon EOS R6 II.",
+          "url": "https://www.space.com/stargazing/astrophotography/the-lowest-price-ever-on-the-canon-eos-r6-ii-tops-some-of-the-best-black-friday-camera-deals-weve-seen-today",
+          "source": "Space.com",
+          "date": "2026-11-27"
         }
       ]
     }
